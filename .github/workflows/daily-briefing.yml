@@ -27,7 +27,7 @@ jobs:
         with:
           claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
           prompt: "scripts/summarize-prompt.md 파일을 읽고 그 지시문을 정확히 따르세요."
-          claude_args: "--model claude-sonnet-5 --max-turns 15 --allowedTools Read,Write,Glob"
+          claude_args: "--model claude-sonnet-5 --max-turns 15 --allowedTools Read,Write,Edit,Glob"
 
       - name: 웹페이지 생성
         run: python scripts/build.py
