@@ -1,0 +1,42 @@
+name: daily-briefing
+
+on:
+  schedule:
+    - cron: "0 22 * * *" # 22:00 UTC = 한국시간 아침 7시
+  workflow_dispatch: # Actions 탭에서 수동 실행 버튼
+
+permissions:
+  contents: write
+  id-token: write
+
+jobs:
+  briefing:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: 뉴스 수집 (구글 뉴스 RSS)
+        run: python scripts/fetch.py
+
+      - name: AI 요약 (Claude)
+        uses: anthropics/claude-code-action@v1
+        with:
+          claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          prompt: "scripts/summarize-prompt.md 파일을 읽고 그 지시문을 정확히 따르세요."
+          claude_args: "--model claude-sonnet-5 --max-turns 15 --allowedTools Read,Write,Glob"
+
+      - name: 웹페이지 생성
+        run: python scripts/build.py
+
+      - name: 커밋 및 배포 (GitHub Pages)
+        run: |
+          git config user.name "news-briefing-bot"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data docs
+          git diff --cached --quiet && echo "변경 없음" && exit 0
+          git commit -m "briefing: $(TZ=Asia/Seoul date +%F)"
+          git push
