@@ -2,8 +2,8 @@ name: daily-briefing
 
 on:
   schedule:
-    - cron: "0 22 * * *" # 22:00 UTC = 한국시간 아침 7시
-  workflow_dispatch: # Actions 탭에서 수동 실행 버튼
+    - cron: "0 23 * * *" # 23:00 UTC = 한국시간 아침 8시 — 백업용 (본 실행은 cron-job.org가 7시에 트리거)
+  workflow_dispatch: # 외부 스케줄러(cron-job.org)와 수동 실행 버튼이 사용
 
 permissions:
   contents: write
@@ -15,14 +15,30 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      # 백업 예약(schedule)으로 실행됐는데 오늘 브리핑이 이미 있으면 이후 단계를 건너뛴다.
+      # 수동 실행이나 외부 트리거(workflow_dispatch)는 항상 새로 생성한다.
+      - name: 오늘 브리핑 존재 여부 확인
+        id: check
+        run: |
+          TODAY=$(TZ=Asia/Seoul date +%F)
+          if [ "${{ github.event_name }}" = "schedule" ] && [ -f "data/briefings/$TODAY.json" ]; then
+            echo "skip=true" >> "$GITHUB_OUTPUT"
+            echo "오늘($TODAY) 브리핑이 이미 있어 백업 실행을 건너뜁니다."
+          else
+            echo "skip=false" >> "$GITHUB_OUTPUT"
+          fi
+
       - uses: actions/setup-python@v5
+        if: steps.check.outputs.skip != 'true'
         with:
           python-version: "3.12"
 
       - name: 뉴스 수집 (구글 뉴스 RSS)
+        if: steps.check.outputs.skip != 'true'
         run: python scripts/fetch.py
 
       - name: AI 요약 (Claude)
+        if: steps.check.outputs.skip != 'true'
         uses: anthropics/claude-code-action@v1
         with:
           claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
@@ -30,9 +46,11 @@ jobs:
           claude_args: "--model claude-sonnet-5 --max-turns 15 --allowedTools Read,Write,Edit,Glob"
 
       - name: 웹페이지 생성
+        if: steps.check.outputs.skip != 'true'
         run: python scripts/build.py
 
       - name: 커밋 및 배포 (GitHub Pages)
+        if: steps.check.outputs.skip != 'true'
         run: |
           git config user.name "news-briefing-bot"
           git config user.email "github-actions[bot]@users.noreply.github.com"
