@@ -1,0 +1,132 @@
+{
+  "date": "2026-08-19",
+  "topics": [
+    {
+      "title": "美 30년물 국채금리 19년래 최고…국내 금융시장 긴장",
+      "summary": "미국 30년물 국채금리가 5%를 넘어서며 19년 만에 최고치를 기록했다. 연준의 9월 기준금리 동결 전망에도 장기금리가 급등하면서 국내 국고채 30·50년물 금리도 역대 최고 수준으로 뛰었고, 미국 30년 모기지 금리는 6.75%까지 올라 가계 부담이 커졌다. 전문가들은 이번 금리 상승이 소비 둔화와 반도체 등 성장주 조정 압력으로 이어질 수 있다고 경고했다.",
+      "importance": "상",
+      "articles": [
+        {"title": "美 장기금리 상승에 가계 '비명'…30년 모기지 6.75%", "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQV3hNSDYwX1drdEZJTnNCLUtVak9SUTRnTWtZd3dGMVFmODNYZG1KRWhybHFsWEs0RjJZR21UbS1EaEdYSGJZZEVKazJ1WWNXN2tFWUd0TXA1TzRQdEk5dHppSHN2RTM2cWtQNnlISkNVWDVjWXQzdmhnYmVpSUIwRw?oc=5", "source": "edaily.co.kr"},
+        {"title": "미 30년물 국채 금리, 19년 만에 최고…국내 금융시장 긴장", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFByc21wNi1xWEtqeUhQOFBVZXlSQTBtekd1QWZ2N1NuUUNNNFRhNWNST2gwSlZrTGt2Mm1VdEpYMTlkcWllNUhyMkVkU0Z5Y09hYjE0WG1vZjAwQdIBX0FVX3lxTE9ldlE5ZDlCano1Yzd5QnU1Y01Jc24zS20wQTB6Q2dTZXZ3bVlSSlZRX1cyZjVvc1E4UUtZczZjbHZpTm5RQVN6cjFURnBVR2E1UFlhRHhrcTNkM1B4OV9v?oc=5", "source": "경향신문"},
+        {"title": "국고채 금리 일제히 상승…30년·50년물은 역대 최고치(종합)", "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9YTENOWDAwcm83c2NOeFhtZlYwNGNIWVowNkdkZXdiX1U4ZDZnaXVqUmM1MkJraVRhWnNxc2NPSXhwbEludkZzZ2loT0VTREtZbk1qOW9vcVRRUk0?oc=5", "source": "연합뉴스"},
+        {"title": "美 30년물 금리 5%대 쇼크… 기업 자금조달 비상", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE90Z0FIWmFMTEJGNlhlZW9PM0NVbWRWVktWdnJqR1dEN09VcUlzQnpaTEx1VXhxWmljLUpzb20wY0lnMDNVUWxMZkVBWDNlbHg4M1lFdy0wQ0tZdw?oc=5", "source": "파이낸셜뉴스"},
+        {"title": "\"금리 안 올린다며?\"…美 30년물 국채 금리 19년 만에 최고", "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONThIQTlfUE9wZ0VLcjlDZVB1ZF9SN294aWtKTXZVXzg1S2pnN3ZtWjhRVUZ1eVlTaTdMajJnbWg0OXRmQ05iSWlBeGdDNnpsNmhzTGlhUDBNc2EyWldFZENZYjNjN2JsZnFjdVEtX2RwbWcwcTlFSlNSeHk3U1dGemxtOERETnRObzVz?oc=5", "source": "조선일보"},
+        {"title": "금리 동결 전망에도, 미 국채 장기금리 19년 만에 최고치…AI 랠리 복병", "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1FQW1FamxiSGtoVExVNGtmckNVYmFKZzhyNVRoTlBrVEhUVWRWeWROV2h0UVBOc1NKbW9OOEt1cXBmT3lhRmpWTldpbE8tZ1l6TGlPMHlVWW15SGp2RHViakU3TmhHbDQ?oc=5", "source": "한겨레"},
+        {"title": "국채금리 뛰자 소비 둔화…실물경제 압박 커진다", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA3M1RLS3dKckF1clQ2WXlNM0NsN0dja0JMQ2x3SDJGcGsxUlkydWRZdk51TzhZZW1pQUdyMWZJYXFzU3UtUW4teVZqYmFOQnZfMGVqcVBxRjlFQQ?oc=5", "source": "한국경제"},
+        {"title": "\"한국이 글로벌 금리인상 주도\"…세계 덮친 '채권 쇼크' [이슈+]", "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBkb055ZC12LWxWNDNkTERqTjFfMWRjd2NCYVAteUhmS1lDcnMxT2JtamFUM0UzWGhmQm92NnMyOWI3TDczdXg1eXE0NEVwbXNaaW5iNm5pRnVSQ2M?oc=5", "source": "에너지경제신문"},
+        {"title": "대대적인 글로벌 '긴축 전환', '가계빚 2천조' 한국 금리 인상 압력도 높인다", "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBxRlhUdzYxVnVGMU5QMlVDQ29JcXkwLXpiUmxjQWE5Y09BM2hYVGhlRjFDU0NZWTlua3ZaV3RxaklEQ1Zoc3NVWkdWel9FMXRZNU1Udmx5amFUZWNteGhTZEFDYWw3dzhjeGtzVWZ4REZtdXZqc3pmSW0xOA?oc=5", "source": "프레시안"}
+      ]
+    },
+    {
+      "title": "코스피, 장중 7200 돌파 후 6800선 급락",
+      "summary": "코스피가 연휴 후 반도체 강세에 힘입어 5거래일 연속 상승, 장중 7200선을 돌파했으나 미 국채 장기금리 급등과 중동 정세 불안이 겹치며 기관의 대규모 매도(약 1조2000억원)에 6800선대로 급반락했다. 코스닥도 3%대 급락했다. 반등세가 이어졌음에도 거래대금·거래량은 연중 최저 수준에 머물러 투자심리 위축이 확인됐고, SK하이닉스 시총 역전을 두고 과열 경고도 나왔다.",
+      "importance": "상",
+      "articles": [
+        {"title": "코스피, 6거래일만에 하락…매크로 이슈 부각에 '전강후약'(종합)", "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5IOGxSWElvNF9vQk9ORV8ybDAzQ0ZTSWxvRGFsVjJGZDhhaU51SDh2LTVhLXBTeUdLSFc0b2dfRWRyM0VGaDdHM2I1VWtDWjA2Z0E?oc=5", "source": "매일경제 마켓"},
+        {"title": "최근 코스피 반등세에도…거래대금·거래량 연중 최저수준(종합)", "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9iMWdRVHh6aXNqUE5xTERzeDBSOElJbXAxZkxDVFVYN01keDZrRk9URUhCcTFUNE1WR3J2ZjQzc29Xdl9laDJzdHB4eG82VnpQaUhaUk5TOWJoeTTSAWBBVV95cUxPclRjODRCNVoxWTF0Tmt1dWtfaTJIN000bnNkbVphOWphR1U0cTBqMmtBU09zWWtPV1BIWjEtdTdGeGhEOFI4X1E1MHBLM0h0YzlXOFBUNVhUTFpYaGg1cGk?oc=5", "source": "연합뉴스"},
+        {"title": "'19년 만의 최고' 美 30년물 금리 부담에 코스피 6800선 흔들", "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5oclphZjcxQ3BHS2pLN2tYMFdzaUhhTmV6OXVLdVBMN0tsbXk1WkVWSVM2WlY4dnRwSUVEc0lJaWI0Yk1EamlWQzdYWXZyV3RiLTBORzdIeDRRMm9p?oc=5", "source": "뉴스핌"},
+        {"title": "[마감시황] 코스피, 기관 1.2조 매도에 7200선→6800선 후퇴", "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE54RmU0TkpBdDg0SG92cTdrUlNDSHdwY1ZoUVc0V2RzUzdCaTNna0x0LWszMlk0bDZicWo4TU1LQUlSM2E1R1JJYXd1YVlPdTRPRV9lWjFZWWRyYTdU?oc=5", "source": "뉴스핌"},
+        {"title": "7200 뚫었던 코스피, 하루 만에 6800선…기관 7800억 '매도 폭탄'", "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBKcTJValp6OUtVd1dNQUZKMHZvMm9PTFlQOXZYam1tVGx2cnRvR0t6VHNmY0VzX3JtZE1TSGxjdEVSTFRzY0ROZW5mdGtLT0x0OXc?oc=5", "source": "매일경제 마켓"},
+        {"title": "코스피, 장중 7200선 찍고 6860선 마감... 기관 매도세", "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE41TVV6d3JDRTBNU2ZEY0pZOHdTZlBWVHo4ak50Ui16U0RFU1N6akQ1OXlORTlsM1NUZ2pmcjdfdGNjUVBMbkd6TEFray1jdEZyalFJcm9Ua3pTcWtlcUdUMmQ5Yi13bEtXRXNqWTBmd2hEQlVRX0E?oc=5", "source": "인포스탁데일리"},
+        {"title": "'전강후약' 코스피…장 초반 7200 뚫더니 다시 6800선", "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5wZXBkWUhJY3pDN2RHLTIwSl9WRloxUFVCT3Z5ZG9CSlF6d3p6VzJlVFl0bDgyblVZS1VxM0ZBa2ttWnc5emV6TmowamcwMlRnX0pWRFVRRE41ZVU2aTI3btIBeEFVX3lxTE9nbkV0Q0xVU1R4WGJ0aGZpZGJMSTNEaWNvc3M3SF9Fc3ZKM3hFaHVITHU5ejBScExVU3pLUFJVTGNuS1FickNCVUR2MWhZc2hCYmdQeW9DV2lBZHpQSmFZX3NlODdiQWQ5LVIxTEVzUWIySmsxTGw0Rg?oc=5", "source": "뉴시스"},
+        {"title": "\"SK하이닉스 시총 역전이 과열 신호…코스피 회복엔 시간 필요\"", "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE13dWVhc0J2VTFfRFNINnNPRVI1MVh3LWt1eEtXVlByYWJrRTF5M3VuVE5wYzBMYnNiQ2xGcHZhRWh4RUZaX21HclJpYmkxNmUyWUhKaktDQ1JBR2JNNXUtS9IBeEFVX3lxTE45VkNqMG9sVzhXVjloeUh6VUxqYTcxN0Y0eTJoWnplRjh2b3RrUmIyMnZkUHFIQVR2Q2JmYk5rZG50b2xNTTh6TzhjdjVUc0xuRFhXQ201MDJZVHhLQTVqdFY5VHY3TkhwVmhlZ2dMUFFzNzVYczQwRg?oc=5", "source": "뉴시스"}
+      ]
+    },
+    {
+      "title": "코픽스 4개월 연속 상승…주담대 변동금리 또 오른다",
+      "summary": "7월 신규 코픽스가 3.18%로 1년7개월 만에 최고치를 기록하며 4개월 연속 상승했다. 이에 따라 주요 은행 주택담보대출 변동금리가 다시 오르고, 은행권 가산금리도 역대 최고 수준(3.27%)까지 치솟아 최고 금리는 8%대 진입 가능성까지 거론된다. 정부가 대출총량을 7.5조원 늘렸음에도 금리 자체가 계속 상승세라 대출자 이자 부담 완화 효과는 제한적이라는 지적이 나온다.",
+      "importance": "상",
+      "articles": [
+        {"title": "7월 신규 코픽스 3.18%…금리 인상 가시화에 대출자 비상", "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5DRjZoblJYTlhpYXVXdW9vMlJjdDVaaHNpeXFFUFFlUl81cGZMQ1lXREhiMmFrSmFIX0NibFpXb2Q0Q1J4bjduSGNXRXlxQWVjOWh5akg4cE52T0ZTNDlPUg?oc=5", "source": "프라임경제"},
+        {"title": "주담대 변동금리 또 오른다", "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8zVUt4b2tvYUpmc0RnS2wwcFRLaGh0Yk1jaVhueFlwNnBkbHpVa1NTRENrQ3RENGdJZ1FfR3dMcFdYZzhaQTBLSVI2LXJxMEZvc2Zn?oc=5", "source": "네이트"},
+        {"title": "코픽스 3.18%로 상승…주담대 변동금리 다시 '들썩'", "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE11Vng5S2hxY1dYODRzZUNObHN1bWowN2prY2UxbnlSVGtiVS1mWGlrNXR4djlic1ZaVkt5TWU0R2lGUnFZWVV3YnZzSmNvMzJBUnF0SlBsV0pWbWRIa19fWXNhaGpHYkVrUmZ6SlRaeVDSAXRBVV95cUxQdlg3TXJrd1dLVTRKazFkX3hiVmUzLU9aUk16bGF1VU5YMkU1OTFHR0ZHel8yNExiZzM0MHZ3bWtGS0FwWGxwRFFvUG9NZy1YNVJFS0JVQjRZd3RqLXlmckE2Nmt3aVdqYnV3aTFZRmRoVnlyLQ?oc=5", "source": "산경투데이"},
+        {"title": "은행권 주담대 가산금리 역대 최고수준···금리 상단 8%대 진입 가능성도", "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1JSHRPSU8ySjRfU0g0Y2pGeHM1bm9zMUpVYjFhNUVLRlVRM1JreUJEZHlCMlVEMGItLTJlWkx5U25Mb3M0R2Z1bFNEN201OVgyQnZR?oc=5", "source": "네이트"},
+        {"title": "가산금리 낮추려 은행법까지 고쳤는데…5대은행 주택담보대출 가산금리 7년 만에 최고", "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVkZ2eVNCNmxLa0oxSHR0NnAwNzl2YVIycnluLWNaR0NKY2RjbWtSRzlMQ1AtLUlHRWJJc1NBakVNWTRDLTRoeERnQlRqNURHelM5WTlocG81Z19uOHgwdGdLS1BXbDZRRWFrRjdvanRHVUNSRHRHN2hRUkdsRU55VW9PSkFvZTNiWU1kMkNR?oc=5", "source": "조선일보"},
+        {"title": "은행 대출총량 7.5조 늘린다지만...주담대 금리는 더 뛴다", "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQWZOUVBNQnZXcm9JT2pSQlRoZUFUTGprSHBQWG1iRzkxV1dPWGNNYjhkTElfLWJoYUYzX05PTTBWWHRGX1h3RDM2NFlIT3I4aGFHZ09aa1paaHBicU9HNGtnaWJvNHRHX3d6S1IzakZjQXNWRk5lQU1BZjV0VHZERg?oc=5", "source": "edaily.co.kr"},
+        {"title": "주담대 가산금리 3.27% 역대 최고…은행권 '대출 조이기' 영향", "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE00RFMxemtnU2hOT1ZNNFVlcVZXTU1rR1hJczZKTGUxZmUyemtaZVhDMXp1SURRb3VMOVpVZ3JKdEJ6c3J4LU5yNUZyUTlUdTB0QVdXUGJfeDdfeHhBNFdZVVFrekdpTzhBaUJpcXB6SdIBc0FVX3lxTFBTTzg1MmJSeFFrSE1pRkI2X24zcmppUWhTQlZtSmJ1cFgzX0staHJFWDYtN2hqMlpYaGNObm85dE52UlQzb19kNWJ4NmJOT0N1ZWRJX18xWmlXRTI3R3hsZ3pRZGNTTkgwR2EyS1c0bDN1cG8?oc=5", "source": "시사저널"},
+        {"title": "주담대 금리 또 오른다···최저 신한 4.23%·최고 농협 7.01% (종합)", "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBqZmpSaV8wdFFoT3QwblAwcnByazJPeFBLU1k2S1JROUtEa1c5X3hQaV9SV0lVcF96Zmc0Q09WLVRHV2lNb1NfZFZydmI0X0FGVnljampaX0RBWjluel9QRnNCTlVWZVk5V1E?oc=5", "source": "seoulfn.com"}
+      ]
+    },
+    {
+      "title": "원·달러 환율, 10개월래 최저인 1411원대로 하락",
+      "summary": "미국 경기 둔화로 연준의 추가 금리 인상 기대가 후퇴하면서 원·달러 환율이 1411.8원까지 떨어져 10개월 만에 최저치를 기록했다. 외국인의 국내 증시 순매수와 수출업체 네고 물량도 원화 강세를 뒷받침했다. 다만 미·이란 협상 시한 종료에 따른 중동 정세 불안은 여전히 환율 상승 압력 요인으로 지목된다.",
+      "importance": "상",
+      "articles": [
+        {"title": "美 경기 둔화에 금리 인상 기대감 후퇴...원·달러 환율, 10개월 만에 '최저치'", "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE90Q2JQNkh3aEY2NjNpeUdkVnVSTzZXR0MwYWNDdm9wNEVRMm93V1BxdTRTQUNtUnpOSVQ0VGs5b3N1amxrMUEzRVVsVU54LUkwTm1jcUxTTXhrb0hIdXVfck1oTEc?oc=5", "source": "베타뉴스"},
+        {"title": "美 금리 동결 기대에 원·달러 환율 1410원대...10개월 만에 최저", "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAxZDNSZmtKekxKSmhxOGg2NjVUaG5VYlJpaTU0NDFHMkpPaHh6VkUxY2E4Yjhlek05aVBxeTBqQ3YxUnlLc21yM1BFTGtnQnhETktaNk9JaFhpVXJ2QVlFRldUcy1qVUI5Zzdz0gFvQVVfeXFMTlVUSDdZcGlhU2szQmdoaEhWRF8yXzIwWlZIUnRTOXhkNzhsNXhpemNzcks2cmFxTkZmOEw3MktKTG5JT2FUaF9zQ21kdUVmRmlkeVVDVDRHOTFnMHV3YXl5RHMxcy1waTZGR2NBVWtR?oc=5", "source": "더퍼블릭"},
+        {"title": "美 경기 둔화에 금리 인상 기대 후퇴…달러-원 환율 1411.8원(종합)", "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBsODZHbzJfbjhpT0I4QkRhTHFTRF9ZLTVXSnQzMGxDTlpLTjlyOTA5dUxPQUFUcTVwbFJFYnpGRjZrUWhWUkZxMEh0WUh3M1pCellsSm5mNTRLVVnSAWBBVV95cUxQNXBZcXo4M0RoeGtiZGpnVVhadEdTaUZvckROWHhIcV9EMTJ1Z2FVZldWc2dIUW9VYU40T0tJcWRDOW5nWEJ6QXZOc0tNU2hKdjN0aWp0TG1YZ200VHdiVE4?oc=5", "source": "뉴스1"},
+        {"title": "[속보]원·달러 환율, 1.2원 내린 1411.8원 마감", "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA2UTJGenJSUWJqZVFsYnlpWmpvUld3a1pycGx2NXJVREo0Qy1xR1F6WENUWExKdzJOaDJ1SW1ScjFJdGM4enlmZm9GTkI2Y2dOLUM5OTlBTjhxQ1p0ZUIwbNIBeEFVX3lxTE0xV1Q1aWdNQVVEM3pmdTFORWhvLWxESkhzVEpfWXJIVFpTeG9YdjBGRWZ4blQwVkV5d0RwTTF1eDVsU3NFcVRzTGlqbklXT3lWeXhoMGNhaVlBZEtia0dvR254RFhYNTRZNG1ILXFseEhuZGlzWlE0Wg?oc=5", "source": "뉴시스"},
+        {"title": "美·이란 협상 시한 종료에 중동 긴장…환율 상승 압력↑", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8xbHczQl9sY080ejdPb0RtSWZvNWQ0elNYRGF6bUFpZkQyU3RjSHN1T0tSU1FILXU2VV9lXzNpZEo4S1ZkTnZBSjlVRk9LVW9SbW5QSF9VV0NNZ9IBWEFVX3lxTE9mTzlhWURZNWdSQzBNNVVfanFadHdTMWlDUmFaQWFtcVRvQnZEZGNqSmw2Mmc5VC1oS2tiaVpfZHBUQ3RndmFWbkNYbDNrNU9PVHRjZFJiRi0?oc=5", "source": "ajunews.com"},
+        {"title": "美-이란 협상시한 종료에 경계감 ↑⋯\"1410원 후반서 등락\" [환율전망]", "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE91M0tuWVBaVENCclhOcDFfMl9iVmx6Wm9FTmJ4REF4TG1CeEJ3TG1pWnp5dHd4YXRFS0t3V1RUSUl4MkxLSlNEWW8wYnBma01CY3VVRQ?oc=5", "source": "이투데이"},
+        {"title": "[환율마감] 원·달러 '10개월만 최저', 커스터디 매도+외인 코스피 매수", "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5UQ1dzS2M2bjU4cnRLcFVOOVlmaXpid0lVNUQ0MERvR093aFQ3YktYa2p3TnY5OEZpNGhPaXJfWUFjQzJRenk4Y2g5Rkd4bU96d3VpNw?oc=5", "source": "이투데이"}
+      ]
+    },
+    {
+      "title": "서울 아파트값·매수심리 급등, 올해 최고 상승폭",
+      "summary": "서울 아파트값이 한 주 새 1.27% 오르며 올해 최고 상승폭을 기록했고, 서울 주택 매수심리지수도 4개월 연속 상승해 7월 139.9로 연중 최고치를 찍었다. \"전세 살 바엔 집 사자\"는 심리가 확산되며 강남·광명 등 재건축 단지에서는 호가가 2~5억원씩 급등하는 사례도 나왔다. 반면 경북·대구 등 지방은 오히려 낙폭을 키우며 수도권과의 양극화가 심화되고 있다.",
+      "importance": "상",
+      "articles": [
+        {"title": "서울 아파트값 1.27% '껑충'…올해 최고 상승폭 기록", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAydF95Wlp2ZmZhT2FyS1dnUWlQV3cwX09pa1VQTG1UVTVxMGllX1Z1SzdfeFM0ajNmQWNkbHdjbVduXzNaajhTZ25NcmpiV2xzWlFwcnFUaFRNdw?oc=5", "source": "한국경제"},
+        {"title": "서울 주택 매수심리 넉달째 상승…7월 139.9로 최고치", "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5CdGJhbThMTjFmUG9qQWpUWmQyc0JHWGtLOW8xd0tQM1IwSU1DSkE2YVpGaE9Kd3lHUW43SG9kZU5DMzg5N2RXWlA2QTVWaDNGR3YzY19fYjlJTnRRQXc4bmI4TE1qbG5Odkk1Vw?oc=5", "source": "스페셜경제"},
+        {"title": "\"전세 살 바엔 집 사자\"…서울 집값 기대심리 1년 새 최고", "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBLMlR3TzlUc24yWm50NjRDNWNzQXgzQ09HSk9HRG9GWWV4T25OV3ZZUEZTNGJvQV8wYmpDcllNU09BUmpHZk9DMEFMcEw5b0t6eFdLMG9n?oc=5", "source": "biz.heraldcorp.com"},
+        {"title": "'구축 빌라라도 사둘걸 그랬나'…서울, 아파트·연립 싹 다 연중 최고 상승 [부동산360]", "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5NQ1E4em8xeFNMTklRY2Q3VFN5cE44bUV6XzNmVTBYdWF1TXJ4ZTNXbU1VVy0tMzUzX1EyT3NxcmRHTVdacHpaUFZzV3R5VENZV2JlZUFB?oc=5", "source": "biz.heraldcorp.com"},
+        {"title": "\"부르는 게 값\" 광명 하안주공 재건축 2억~3억 급등", "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9HTnduUl9CMHJvdGNqZGF3M1h5dlhqbGVVYkMyX1JRbGVXRkJYT2o2ZHBkNThQbFFIdXNxOWFnLXFPZEZlUzBERFI3MC1ncnRZZEE?oc=5", "source": "서울경제"},
+        {"title": "\"이사 안 가고 5억 번다\"…강남서 뜨는 '아파트 맞교환' [시장톡]", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE83T1liLUNSNjE3MnpqeDE4QWdxcFBpaFdNX0doUXFpQTJqX0FyZ2IybVRia1VDRDR2RFBIUWlVanhONS1UVU8zZlB1S0VNbFpHMHZsaHMxaEdQQQ?oc=5", "source": "한국경제"},
+        {"title": "경북 주택 6.8p↓ 대구 토지 7.8p↓ `최대 낙폭`", "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBHMUxWcEh1MUNBUU53OGlkWS0zRkIxQ0FlQnE3QTlpZTg2amlJcHItTDZfa1FfZEJEVUZvMS1OQnV6eDY4NFFKZjdtdDRUWWdreXVFNU43MjcyNGNsaTFiRlhn?oc=5", "source": "매일신문"},
+        {"title": "7월 전국 주택 매매소비심리 상승…전월대비 0.7p 올라", "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE40RHBlRVJ5U2pYVzZzeU1hckdlQlJKbk9SMGJRc0NDSVhfR3QyLTJXSl9IYVRiQVM1eGh4bVRIM3lQd05vdUE5OGhCbw?oc=5", "source": "아이뉴스24"}
+      ]
+    },
+    {
+      "title": "8·13 부동산 대책 두고 정부·여야·시민단체 갈등",
+      "summary": "이재명 대통령이 오세훈 서울시장의 '부동산 규제 완화' 제안에 \"집값 폭등 가능성을 높여선 안 된다\"며 제동을 걸었다. 경실련은 8·13 부동산 대책과 세제개편안이 오히려 시장 과열을 유도하는 '알맹이 빠진' 대책이라며 전면 재검토를 촉구했다. 용산공원 개발을 둘러싸고도 여당과 국민의힘이 '아파트 건립' 여부를 놓고 충돌하고 있다.",
+      "importance": "중",
+      "articles": [
+        {"title": "이재명 대통령, 오세훈 '부동산 규제 완화' 제안에 제동…\"집값 폭등 안 돼\"", "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9EY2ttLVNtNE9hV2lKZ3pNZWpHRjNIcXM2ZXdkTFlBUHZqUE5hc000dUd6Q3R4bnAxMFpUOXpIUjlxNnI0aFVLaXNZLTRLUmg3Ym5GRlRR?oc=5", "source": "뉴스21 통신"},
+        {"title": "경실련 \"8·13 부동산 대책, 시장 과열만 유도...토지임대부 공급 확대해야\"", "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5YcVpIRkRvQ1J3M04yMmF3Ylp3MUVIalNscm5VWkxCajdwY2s4QlFuUnFrNWc5bEJDMFJMTWtwSDBfVXllOC1keUlDazAtWTN4LXQ5MlBNSkd0Vk9XVlQtNWtDOW9RVTdxRVRseExYbw?oc=5", "source": "YTN"},
+        {"title": "경실련 \"알맹이 빠진 세제·부동산 대책…전면 재검토 해야\"", "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBTOURlTnRMSzVfOEFNX1A0SjVhaFdiWnk4V2hVb2dEb1ZSM1dUVFlUenVFdzZvWncyRkx0OW9lVmprZ25Icklpel9QUlZyUl9IZHYzSl930gFQQVVfeXFMUGhzYmw4TXNrT1dFZHcyazc1ZVVMWW9rZWhoYmJNTUNGTzJadkp4NEI5Y0ZLaTByVjlQaEltX3hSbFZEZ05FZTg2TWxjOFlBRWo?oc=5", "source": "더팩트"},
+        {"title": "용산공원 두고 '이재명 vs 오세훈' 정면충돌...오세훈 \"용산공원 아파트 반대\"", "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9seGhILThwTVpYSlZ1NFpMZkZzbnliYW5HQ0NacGpVcC1pLTBRQW1pQ01NenZNbWxFaFNKcFlpaXQ4Unl0SFdvS1lfenUwd1hEaUtmWEtqeXNDa2JmOVpqYWJnTldjSE5nTGQzdA?oc=5", "source": "프리진경제"},
+        {"title": "與 '용산 닥공' 시동…국힘 \"공원에 아파트 때려넣나\"", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ZcU9acFotTWVQYzc2dG10MXE5T1JpNFM0LUtibVBrQTFmS3dnZDhJZ1lJVUZZclBheFpBSmczZ0FFd1dpX0taUXItYVFfRmh3SmVwY2pET0I2Zw?oc=5", "source": "한국경제"},
+        {"title": "8·13 주택 공급대책 \"애썼다. 그런데 서울에 고작 1천 세대라니…\"", "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5YNDFGdEc5WGRWTzF0ZzNwSklTUlZ6bFB6T3IzbzU2N0ZMY1lLSy11OHZZVnVKc1h3SVpBU0JWWDRxWmtSSXNOMmk0WWJKdk9hQjNESG5IR2c3QWVXOTBiVm0xZmJLRjdhSGdpS2tUa9IBc0FVX3lxTE1vWWlmeGVJb2FqZDNfN2M4N1hoRmhHMHZPWEY1TVJCaTJGMzU3UmRiY21qZzhxWGE4SENONlNRLUNfWktNUFl3aWRJRjRvS0E5UFJvQVExZFQ0bGdpUW1jSVN2eHlXODI1VW5IMndrOUVJck0?oc=5", "source": "뉴스퀘스트"}
+      ]
+    },
+    {
+      "title": "조희대 대법원장, 정부와 협의 없이 대법관 2명 서면 제청",
+      "summary": "조희대 대법원장이 '대통령과의 사전 협의' 관례를 깨고 손봉기·김성수 부장판사를 이재명 정부 첫 대법관 후보로 서면 제청했다. 정치권 안팎에서는 사법부와 정부 간 신경전으로 해석하는 시각이 나온다.",
+      "importance": "중",
+      "articles": [
+        {"title": "조희대, '대통령 협의' 관례 깨고 대법관 2명 서면 제청", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBLRmRpcl9UdklhbnVaT2tNWmtjT1hfQXRHeC1saVhUVkJNcXNfUVhockFENGMtZ0p2RTE4UGZPUU5jYjQ2R3Y5TVB2YzhsUG1JTGxQRkZKT3BKdw?oc=5", "source": "한국경제"},
+        {"title": "李정부 첫 대법관 후보에 손봉기·김성수", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE11X2N1SE1xcmxCNzlaOVpFQW1ldWg3RnMtd3ZuSDRrdzdvVzh0MmU2YjJfRXlTaHlXNnJiZ09GMzBlYnR6ZUJIc1lxc1RFTXlwclZ4dzhGZ1d0Zw?oc=5", "source": "한국경제"},
+        {"title": "[속보] 대법원장, 새 대법관에 손봉기·김성수 부장판사 임명 제청", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4zQ3VpeHROa1ZHWlFzdGVpUksyVGZqejRHRnR6TU1NRERKRFZZaVp3dmxQSk9FX2s1MTh6UmJvU1g4UVd1RGxYSG1mb3dMS2Y5STJJQmt2S0Jqdw?oc=5", "source": "한국경제"}
+      ]
+    },
+    {
+      "title": "이재명 대통령, 선관위 특검에 이태한 임명",
+      "summary": "이재명 대통령이 중앙선거관리위원회 부정선거 의혹을 수사할 특별검사로 이태한 변호사를 임명했다. 이태한 특검은 \"정치적 고려나 선입견 없이 진실을 규명하겠다\"고 밝혔으며, 국민의힘 장동혁 대표는 선거 부정 의혹 제기 여론을 잊지 말아야 한다고 압박했다.",
+      "importance": "중",
+      "articles": [
+        {"title": "[속보] 李대통령, 선관위특검 특별검사에 이태한 임명", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBUQllrZ2lrTDh3cjBZSmNxblA1S2ZCVFdkRXhhY2x6dGpxLUFiU0ZLSWtBNE1hbzY5TEdKVFJHVjF6QkxadmxJekxJTWFQSUFCTDZGMjJFaElEZw?oc=5", "source": "한국경제"},
+        {"title": "[속보] '선관위 특검' 이태한 \"정치적 고려·선입견 없이 진실 규명\"", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5VNWZsaWpOYVgxU3oyeUJNZ3JOczdsUWNNVlEwdVQ1QUxhbXJ5ek1jb2FIekZNdi1YazZGX2RXcW5xd2l1VW1iRm1seTNkbWJKVWlvb2twRVQzUQ?oc=5", "source": "한국경제"},
+        {"title": "장동혁, 이태한 선관위 특검에 \"올공 함성 잊어선 안돼\"", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1rOFNvRGNlTEtxeDVfN201eDJpNGJxRFNSVnpUV29ZdHg3cmVoVTFsZ05TT0hEckpjMUdHY3JuTFRVbGNSaVk0NGZmdU9keDRISlA2Y0hfcHl1Zw?oc=5", "source": "한국경제"}
+      ]
+    },
+    {
+      "title": "정성호 법무부 장관, 결국 사직서 제출…개각 폭 확대 전망",
+      "summary": "정성호 법무부 장관이 사직서를 제출하면서 이재명 정부의 개각 폭이 더 커질 전망이다. 정 장관은 사퇴 전 \"형사사법제도는 국회와 정부의 소유가 아니다\"라는 입장을 밝혔다.",
+      "importance": "중",
+      "articles": [
+        {"title": "정성호 결국 사직서 제출…개각 폭 커진다", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE42WUZjdk9XNlhJNU8wT2pROHM3TmZyOUlIeDlQeEdFdE1kQUp0Uy1Fb2M3TEZiYTJzV2dNdmpzS1Vha05GcjFZUlNWalFLdmRWWTBhSWN4d01iUQ?oc=5", "source": "한국경제"},
+        {"title": "정성호 \"형사사법제도는 국회와 정부 소유 아니다\"", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5KNGNFd2VJMF9SLXNfYzMtVjRJR3FuRUpXSk91a3NObjdwTHd6WkE2OWVNOTdwTEJFUG1QdGRLUXJOVlpOc0F5cnUtYk51MFRucGxnX3ZTN3VnQQ?oc=5", "source": "한국경제"}
+      ]
+    },
+    {
+      "title": "한미동맹 균열 신호…트럼프 \"훈련 축소\" 지시에 미군사령관 국방부 방문",
+      "summary": "트럼프 대통령이 한미 연합훈련 축소를 지시한 것으로 알려지면서 주한미군사령관이 국방부를 방문했다. 국민의힘 장동혁 대표는 \"한미동맹이 역대 최악 수준이며 양국이 서로 믿지 못하고 있다\"고 비판했다. 미국 언론은 이란과의 갈등이 풀리지 않자 한국이 미국의 '뜻밖의 희생양'이 되고 있다고 보도했다.",
+      "importance": "중",
+      "articles": [
+        {"title": "이란전 안 풀리자 동맹에 화풀이?…美언론 \"한국, 뜻밖의 희생양\"", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBhVUt5VmpCc0EyZnNEUW9SQ1BnZ2NYX0hlZlBONUJISGNpQ2ZweTFKVnVpMFNzUnE5S3RobFk0aWdQbk1nMGlKYjhYbU1RdDMxSWhjM05tRXUzdw?oc=5", "source": "한국경제"},
+        {"title": "트럼프 \"훈련 축소\" 지시에…주한미군사령관 국방부 찾았다", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE83cDRHUmJWMEUwbGR2UlFhM1Faa05PQXNHMHV0Y2lYOW9MTEdhM3czamlNQ0o2X0VSaU5wSG9xTGkyc1lGNTBzVk0xYnlPSUdsNUtIalVXalN0Zw?oc=5", "source": "한국경제"},
+        {"title": "장동혁 \"한미동맹 역대 최악…양국 서로 믿지 못해\"", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1pNlA4SThLdXRKWEh1cXhSMmxxLVFOQnQ5enNDR2ZoU3VUQUU3TUNZU2NSUUxCRzdmNl95U0did2ptMHhaSTJ6OHB4MmV3c3FxdmdIV2s3YXJCUQ?oc=5", "source": "한국경제"}
+      ]
+    }
+  ]
+}
