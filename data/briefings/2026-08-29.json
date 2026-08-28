@@ -1,0 +1,139 @@
+{
+  "date": "2026-08-29",
+  "topics": [
+    {
+      "title": "한국은행, 기준금리 3%로 인상…대출이자 부담 확산",
+      "summary": "한국은행이 기준금리를 두 달 연속 인상해 3% 시대에 진입했다. 이에 따라 주택담보대출 등 대출금리 상승으로 가계의 이자 부담이 커질 전망이며, 특히 변동금리 차주와 '영끌·빚투'로 대출을 낸 이들의 상환 부담이 우려된다. 여당은 금융취약계층 보호를, 야당은 정책 엇박자를 지적하며 엇갈린 반응을 보였다. 반면 은행과 보험업계는 이자이익 개선 등 반사이익을 기대하는 분위기다.",
+      "importance": "상",
+      "articles": [
+        {"title": "[머니브리핑] 기준금리 3% 시대⋯내 대출이자 얼마나 더 오를까 - v.daum.net", "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBQSXFDSE1BU1ZtNUlpT05EanNSbXFSbVFySU9ybXdMdmtEMDl5YURGRmJmRXo1VVA4Z0VhUzBSeTRIMjBvVnJiU3FadTQzMTg?oc=5", "source": "v.daum.net"},
+        {"title": "기준금리 인상에 주담대 오르나...이자 부담도 커져 - YTN", "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5CVUpfSDVBc3V5TmFISHBNMkxFY0ltS2xmT0o5dWJpMDVDOEcwZTNiLWsxQ1BKRWRFZVNZR3JuMlh0UXRWcUdid1FyTnpZUlNrWmowalJhLU5FZEFjUlE?oc=5", "source": "YTN"},
+        {"title": "한은 기준금리 인상에 與 “금융취약계층 주시”, 野 “정책 엇박자” - 굿모닝경제", "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9MZFBSaF9Rc1JHWkp1TkhzRlg1TmFoQ3Nxd1NHeXVQXy10dWVjNHJDbkd2dUtpaDZZSVZuOG5sYTloZEQ2Njl2bFhYZDVrb2hFdEVzT0RnVUtVdnlnV0NPQnRBeGVrT3dqblZiOQ?oc=5", "source": "굿모닝경제"},
+        {"title": "[이슈체크] ‘기준금리 3% 시대’ 열렸다…주담대 금리 '8% 시대' 오나? 영끌·빚투 ‘곡소리’ - v.daum.net", "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9xb0pqMERNR1RIRkNqLWw2ODBoaUdDeVk3emJGVEVTQzJyZlNFUnA1T0x2VXQ1WW9VNGpRQ0RYVW9TQUgtcW5QYWg3bElpQWs?oc=5", "source": "v.daum.net"},
+        {"title": "대출 받기도 힘든데 기준금리도 올라… 변동금리 차주 ‘이자폭탄’ - IT조선", "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBsSG1iQVB1WFNRXzF0MVlSZjk4MWpzSkkxc0dzVy13Z1JGU2t3WU9qV2xqejFaZGZuZVFOa0I1VlpRUXhVTDdfcnFOekJ4Y2laclhmWlcwVHRtTFpTd1FuZ1JBRHRXcmFXVWY1dm5TbW3SAXRBVV95cUxOZml3YmR5ZS1ZVERzU25hNE90X1ZreUdpQ0NCT2s2N0ljTk9hMmREM09WTjZhbFVobjJta2w3T0t2MUNXR1dhNmNubUQ5UGE1ZFlZQkNjUUJ6YmlKQ0ItVHU5eFZIRWRBMWlzT3hVVnhzUm54OQ?oc=5", "source": "IT조선"},
+        {"title": "\"지금도 9%대인데 더 오른다\"…기준금리 3% 시대, 빚투 개미 비명 - 뉴시스", "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE93YWdJaVJvbjRKLVo4emdRS2NPR3ZpdllfTHZtMDBNV0w4a1VVU0k0aWxUOTB2Zjdab2tjZHo3TmJyUEMzX2hjUW9xeEJqZ3dhN2FVdHJ4NWhabTVJRU8wTdIBeEFVX3lxTFB1QXp0NXNoVjFYUE9uVXkxRTh6TGxqVjRWQloybEVXT3BjTVVNOE5rTEpmZnVDajRxTXRvSmdkZ0FTRmZ1ckhxUURKSkxDejhJYUtxaWVRSU9uX3lIVUhMejg1RUhBMFVXV3RuRnZ6aU9QYlVsbXZqNw?oc=5", "source": "뉴시스"},
+        {"title": "“금리 오를 땐 짧게 끊어 가는게 정답”…6개월 미만 예금 증가, 3년7개월만에 최대 - 매일경제", "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE95d3lfMDd4aFFpeEtROWhaQnVfZUo1MUp1Ny1sbi1OTTZ4ZllyTURGb1NGaENWNldqem1kZjh6a3BUUHdXUXVpcDY4NlcyOWVmQWRrdw?oc=5", "source": "매일경제"},
+        {"title": "‘호미’ 든 한은, 기준금리 3% 벽 세웠다…최종은 3.50%? - 조세일보", "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE43VENGRWVSZ19rSHhveTl2YzkzMGdZS3JKbmc3bkhmTWx4SkNxbnJiUHVjSHNNZlV1Z3dlZE85anBrc3N4RHVBSGM3ZkI4WFdBZ1FNTzRjZHpTVUxzcVIw?oc=5", "source": "조세일보"},
+        {"title": "가계빚 2000조인데 기준금리 3.5%도 열렸다 … '영끌·빚투' 상환 한계 내몰리나 - 뉴데일리", "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAtMVNpdkF5YTJLSlFBVFRWQWZoYl9ERzAyd3lZYl8waUZKMHhianZFQ01RaDRacnQxZmNrMFZBcENSamRhWE4yUEtrdFU1Sm9IYnVlSkgyQnlvOUdHT2FSZG52VkNLNzdTaTRGNHRfN2ZJOEZXeHhOYjNDZ9IBgAFBVV95cUxPdHNqUkRzZmR0NE1nX3I2TlpvbGkycFAxQkkyMF9fZGhGLUFnZEV4dkphckcxRXljdTh1RVNfZXFwTllkZmdEelBsTXIxSzMxcFllYkplQ3NZcV9UZGxqMElKMGdQZDlCY05FTGJmTnhsb1NvQndjQXRWblJJZUhtSA?oc=5", "source": "뉴데일리"},
+        {"title": "두 번 오른 기준금리…보험주엔 호재일까 - 톱데일리", "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5CUGQ3NGlUbS0yYndicXZuNlhEaWJURVFHamNTQ3Vkclh0UVVZOVBBejFiNE1HM3gzdms5T3QzWkY3ZVA0QW9QRFlKbkNncGhW?oc=5", "source": "톱데일리"},
+        {"title": "한은 기준금리 인상…은행 이자이익 청신호·건전성은 부담 - 톱데일리", "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBuSkNjelg5MWxScVJtdmdfZHBxTVFIUGhTZW1rNHd6Q2Q4X1M3dl9vazh0WE5XaGZ2YV9vWURZWGFrazljM1BYRS1LUjF3LWxh?oc=5", "source": "톱데일리"},
+        {"title": "기준금리 2회 연속 인상…고물가·가계부채에 고삐 - KBS 뉴스", "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBLbmIyUVpLc1lJaS1MNHd1U1ZDX2p5bVd3Q2czSkFZRUNVVUtTaUxxX2dCbXhrc2duS0p2dE1kYVpUX3lJa0UzVU5VZko1eDYwU2kySFBTYzVrc2c?oc=5", "source": "KBS 뉴스"}
+      ]
+    },
+    {
+      "title": "원·달러 환율 13개월 만에 최저…외화예금 사상 최대",
+      "summary": "원·달러 환율이 한미 금리차 축소와 수출업체의 월말 달러 매도 등의 영향으로 1370원대까지 떨어져 13개월 만에 최저치를 기록했다. 환율 하락(원화 강세)이 이어지자 국내 기업과 개인은 저가 매수 기회로 보고 달러를 사들여 거주자 외화예금이 사상 처음 1200억달러를 넘어섰다. 다만 원화 강세는 해외 매출 비중이 큰 게임사·조선업계 등 수출기업에는 실적 부담(환율 역풍)으로 작용하고 있다.",
+      "importance": "상",
+      "articles": [
+        {"title": "[경제 포커스] 두 달 만에 12% 내린 환율...이젠 삼전닉스 원화 매출 타격 우려 - 조선비즈 - Chosunbiz", "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVW5Ic0duNHZneG1pd0stSjU0eXpKby1SVUhjWllWWlNvMmNUNGVUWlVTZXhHbkRJZGRmVmlBdUpEZTZ4Z29oVW5RWWxpWGR5U1FqcVNNSm9rTXlSQXppNnl4UU55b1lvMjc5M0hMc2xXT0FwVU9QemRuY2I3Wk1kZkJ1eW55Z9IBmgFBVV95cUxOUGZQVHA4VXd2eHd0clQ3MHBqeE9WNnlncDNHcUFqeW5hV0JTYm1aZmJ1R0t3MlhVaWhSTGZhWUdWNUdUVDFHeVRwbkhRNGlITFRiMzRVbnBuaU5vd2pXUFphZlFjZTVHYnJFQkN1QzY0TFRVejRFdFZIR0FKMzJwclc0RFNCSGo3d3hIaFRsYWhTUGw1QndJbmZ3?oc=5", "source": "Chosunbiz"},
+        {"title": "달러-원, 뉴욕장서 1,370원 중반대 거래 - 연합인포맥스", "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1fSEJUYjFwWXZ0UW1FRDZnRkxUd2ttZUlfVXBHT2dtbk9sVWw3azk4dUp3QU1OLWNJa3g5VGtSWXpXc1lxYUN5cEJWZkw2anZ5Z1lmdGhGT0tEUGRJSElSdTUxLVdtS1VhTWhWdFNJX0U?oc=5", "source": "연합인포맥스"},
+        {"title": "원달러 환율 1,372원‥작년 7월 이후 13개월 만에 최저치 - MBC 뉴스", "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5kdUM5dTRBb01MVHRQSTlSTlV5aVVvalJWN2lDQ3Y1bFc1NFNtbzZOd1VkXzRaN3V4TEk4MzlWN1J4ejg0MHhuRTdLbTJacXhVR3EwRDVabzV6NFN4X2NnR2VaTFdUY0NZT3dZcUtodkRVZ0810gF0QVVfeXFMT0hVc1RqQlo4NHYzZkdVN2NIN1pjRHdCQUZWNGVid1pFMS1CdWJwdVJCenVZWE5PVmh3RTNCLXdMa1JYQUlaOWxJSkNid0sxNkNKeHhJdVR3S2JQTUxESGowSUFXWldXS0h5OVFpdnZhSnZQMGQ?oc=5", "source": "MBC 뉴스"},
+        {"title": "[외환-마감] 수출업체 달러 매도에 13개월 만에 최저…1,370원대 초반 - 연합인포맥스", "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1jNTFkY2pqbWhtcTdoR0hlZER3ZW1mQnV6cndoTjl4YmlJQ3RKYmxyckU2bDM1QkdSeDU2OGR1REttUE1HY0Z6T05FNE5LbWhEb0pYejI1VklodklqVTNjbjBFTjhHNXlJaGFtVXBqNEw?oc=5", "source": "연합인포맥스"},
+        {"title": "환율, 13개월만에 최저…한미 금리차 축소 영향은 - edaily.co.kr", "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSGZPSTVySk5sN2VlemJ0UTRPY1Zmc3JPcmREdDVjVlpSUVpGcUpfUFUwTG9WbzRDY3p5UUhncFRVaXY2aUptOGpSUHdJMFJhUENhMGhyNXF2VnJJRk83MmlLb2o0NnRqeUVHbGR2NmpVMURJcXZ1QmVWeHZFOWJxaQ?oc=5", "source": "edaily.co.kr"},
+        {"title": "해외서 벌고 외화 쌓은 게임사들… 원화 강세에 ‘환율 역풍’ - 조선비즈 - Chosunbiz", "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSmNHcnJadlByQ1czUVZnQ3JSd2gtZmc5N3A1enZzWXBVUWtiUHJUQ0NTWHVod1lfYTFjalZKNWMxYnZ4ektFYWZITHNacllXRVc3NGRQWGNydGlabXZ1d1J5Z1ZZQ3dpa3JmQzFHcktSdUZYbENaTnFCVWg2blc1cXJR0gGWAUFVX3lxTFBUUU5zalRSOXVEOXlFcnEwdDFIakFseE5LaW5TRy1haGd2OVdVNTJMeTViQkZrTlR6azVjYjJZRWduRTl1dlVjMkpzYlNvc3pKSm1vNUNqRWpCaDR2a25GZ0xIWU1rUm1fQmpNME9YSzVFSWQ0YTJySWlwa3I4UC0tbEgzUy00UTI1QXRMUmJramZCZENOQQ?oc=5", "source": "Chosunbiz"},
+        {"title": "환율 하락·노사 갈등 악재까지…조선업계, 3분기 실적 '먹구름' - 녹색경제신문", "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5XTU5pY3NGUy1mb3JXeGtUV2JiNm1hcTJQSFJtbV9KazZUVVBsamJsaEh4Q2VwQ1J2azlDZGVtNGZnM0dFX1BRcHFtTGI4c3RVR01RbFhPV1UwNDFCTVJsTGZJeGxHVzdo?oc=5", "source": "녹색경제신문"},
+        {"title": "환율 꺾이자 달러 싹쓸이…외화예금 첫 ‘1200억弗’ - 쿠키뉴스", "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1QbXdmeG80UEZLWXRuZXh4d3hBMEw4X29YZHFXZ1ZJMTdibUdCYXVmOFgyMjZuZGUwLU51LWVFQ2puTF8zcmZnT0oxMG9MSTVXaGtiUkxOdzg0Z0dWQnpXQmQzbw?oc=5", "source": "쿠키뉴스"},
+        {"title": "'환율 떨어지자 달러 사두자'… 달러예금 첫 1,000억 달러 뚫었다 - 파이낸스투데이", "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA5ajhhdXN0YXl3eFpZTUZ6a0ttdm5aSWhDYzVvWFNXR1paUVZEU2JOWTYyZDdvTHhLdG5scXl0eXdiS2Jmdzh1ZF9QMVYyWW1UQnN2SGhTblBzZVF0X3k2MmpYUjRkSi1aS1RxbQ?oc=5", "source": "파이낸스투데이"},
+        {"title": "환율 급락하자 달러 사재기… 외화예금 사상 첫 1200억 달러 돌파 - 한국일보", "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE55N2JjYUFpSGQ0aXF6VUdZNzI2STA1UllqQ0R0NW1zcklIOWMxR0RoeWlfUmNXSlFkY1M1NXRidktWY3QxVEhZSi1ucFkyU3I2a2ctMlRqa2hQa04tYWdfNWQ1TURqVmRWMEZVSXZB0gFzQVVfeXFMTWJ3T2FFZDdPYUo2eDNWSVdnS2xFcU5pZ0hIb085ZUdyZ09tYXhzTTBodFdKbUVrR0JQMjBaSW9hM1FYckM2eDEyN3lpeDJWNXBZRHoyQXJTZUREVEJ1T0cxd1hvVUpJRGw5NVRvLUszVkdGQQ?oc=5", "source": "한국일보"}
+      ]
+    },
+    {
+      "title": "코스피 급락…반도체 투톱 부진에 美 반도체 관세 우려 부각",
+      "summary": "코스피가 삼성전자와 SK하이닉스 등 반도체 대형주 급락에 1.79% 하락하며 6780~6800선까지 밀렸다. 엔비디아의 전날 8.7% 급등에도 미국의 반도체 관세 확대 우려가 부각되며 훈풍이 하루 만에 꺾였고, 외국인은 하루 만에 1.7조~2조원어치를 순매도했다. 코스피 7000선 재돌파 기대는 다음 기회로 미뤄졌다.",
+      "importance": "상",
+      "articles": [
+        {"title": "[오늘증시] 외국인 매도에 코스피 6780선 후퇴…반도체주 약세로 낙폭 확대 - Queen 이코노미퀸", "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1zRHNoelpoUDRiLUN0a1MtOEZDZUxXWXRudUVPcTJMQ3MxYkxlR3JFRDlMTVpDX2pBcFJkWTZwLW9xa0d4enVSdjljaTdQd0N0UFV0cXd1eFhrY25nNXJLX2RuY3pobHNWMXc?oc=5", "source": "Queen 이코노미퀸"},
+        {"title": "삼전닉스 급락에 코스피 1.8% 하락… 다시 6700선 - IT조선", "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB5Z1N4ai0tWXpVNDROUGlmdElkTE1OSmkzQ094QmdsbThyMHZhamRsZ2syamlad1JkOGF6cEtmcklmMnFNYUphOXc5NXFUbHJFSFM3NWZ5V09OU25qbWFrVnVmVk9IVWdjMHY3OU54dk3SAXRBVV95cUxOYzZ2RU1zajJ5eUVPNEU0dUE4QlVnQXNXX09nLWNlamN3RjA1c3lmYXUzWDFnR3VUd1l6MHNwNWQwT3lvTjE5MjBBalZfVld4NV8yNmJLVEtoaFJEeklHZEpMT0JPc2RLT0NrenpvcFBXd19LZQ?oc=5", "source": "IT조선"},
+        {"title": "美 반도체 관세 확대 우려에 코스피 1.79% 하락 마감 - 매일경제 마켓", "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE96dm1ZN1lUNG5kNFc3T3BPTjJmYVhnV0NfMFd0WllQUGdHcVpDMEpRcjNFWWpDNTZPWlRQR3lYTHJHd0ZPbW5zeUlMZE9ZS0NhNlE?oc=5", "source": "매일경제 마켓"},
+        {"title": "[마켓뷰] 美, 반도체 관세 ‘복병’… 코스피 2% 가까이 하락 - 조선비즈 - Chosunbiz", "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNG9JZUw4clNHWEFsS3gwS3lGS0dCenlmSVlsY3NXcm9pOVZoRi1HYnlBRVd5bVBkemhONkFOVTRNNWlWVDA4SFB4VmRLRnlFakJZOWRaQi1jSllfWW1HYld5QW10UGVKVElpRFEyRmdjdlpyNXprT29KeU5MbFduWkFXR2pUU3FB0gGcAUFVX3lxTE5oM2dYc0Z0VGZrZUc4cnZ5OVpFYjRaajVQbmpQQXdhMVdSQ1ZGNmMyaklrU1pqcmxpR05TdXZDeHlORjFtNjJUTkpFNFBJRDVtS1dWSW5TS1kwSXJEUEVJckZ1cEtwRVEzMW5oWE9Bd19RdVE1cTFuYWdsY24yZ2xuU1p1Nk9LcTZQLTBqMzQ0V3FjdV9xQ3BSQ1l1cg?oc=5", "source": "Chosunbiz"},
+        {"title": "또 멀어진 ‘칠천피’…외인·기관 ‘2조 팔자’에 코스피 1.79%↓[투자360] - 헤럴드경제", "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5YTThDLUxjM1lySWFrNUl4TkREanVwS2NueVU2RmNPcHUtNWhMSmZWWUw5VnFxMnVxRU81dTBreXFwVkZ6MDRZWWlfX2NDSkd2X0l1S1ln?oc=5", "source": "헤럴드경제"},
+        {"title": "[증시-마감] 삼전닉스에 발목 잡힌 코스피…1.8% 내린 6,700 마감 - KB Think", "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE14c214c1dael9wMjZIaVBIcmxwdm5GWUhIT25WMzNFS3FVaGRyY3FpNnpaUWx4NDBOZDdRZ2xNMDkxbUpDT2ltRHI0bG93c0dDUDJqTUxoVDd6NEk2ai10eGp6WkRSNHJreUdFTFB0OFgxUQ?oc=5", "source": "KB Think"},
+        {"title": "“엔비디아 호재에도 맥못췄다”…코스피, 반도체주 약세에 6800선 하회 - 매일경제 마켓", "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5SaU9DdkNta2s2NEpMendRSTRZelB6dlFWNHBZeHZQaWtHRGpUbEtTMHNWbGl2M2xxeEFFdS03eUlqMk5DTXpWanp6aGdoejJsWFE?oc=5", "source": "매일경제 마켓"},
+        {"title": "[오늘증시] 코스피, 엔비디아 훈풍에도 6800선 후퇴…'7000P 도전' 다음 기회에 - 오늘경제", "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5YZURKcklSTW5xTElrZ2VYTnpTQVFxUXVnNldRcFNpbkVpWmdFcUNQVjZpdUUzaE5XU3BaVGs5a0lyakN1d1B5NzkwLVdGd2xDYmlRcFE2VzR6WF9UR1pxNGh5M18xY21QN3NSVG1UV3loOXc?oc=5", "source": "오늘경제"},
+        {"title": "\"엔비디아 호재는 어제 선반영\"…코스피, 엔비디아 8.7% 폭등에도 약세 출발 - 조선일보", "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTENRQUdZeXlnb2ZWLThXaUhhQVgzTHhrYzREUGs4Zkg3ZDNhVUVaYV9zQUtNeXNuX3VjUlNhY2l0bm5TNUl6QUJkcTZQXy0yR2w3NWVFMVhLQm5PcURUeUxsNm5uTGlScnk2Vk9wMk56a0hBejdZMC1LUEJmQUtYdg?oc=5", "source": "조선일보"},
+        {"title": "코스피 하락 출발… 美 반도체 관세 부과 논의 ‘부담’ - 조선비즈 - Chosunbiz", "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdm9pU2g1UE5vcmF5ekxUOG9ZWHlobUhLMVg1MVRnRHNzMld6dGRQdVAtbENQMktEdlBxVVViY3JrYUtfbzlXQ2swYVJiak1qcFk3YXU2eTB2ZnRYS05tbGQyX1Yza2FrYlI3MzJmRDhra0tON2hKUURYRTlfb29nZS0xZ2JXQ2l30gGcAUFVX3lxTFBGekNnOXdTRUJtemREMmJTYkZuMGVJbWl3eWFHOHQ2bDlPdmNhV0VQdmVMOC1sQi0xVDY2VUJYQmNialJBZ1dEREVlQVdFR0VrR1M3Znp4SGNZai1OZ2I3Q0Q0aWg1NGdiWHdGZGkzcGRGYlVabU9DZEJ1cU5BWDdlVTVPczlPdnlQcnhqbTl4YW91TUhRaUZTYlFocA?oc=5", "source": "Chosunbiz"},
+        {"title": "엔비디아 8.7% 급등…기술주 랠리에 나스닥 1.57%↑ [뉴욕증시 브리핑] - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1uSGw1N2xIU1B5UkI1S2NEbjEtZ3QtdWYtek1YdS1xWVRyM3dlSktyWW1VZ0FHUjVhVjFUVE14X29KYXhPUDl5T2M1ZW9Rbm5SekxZcV81b3h4Zw?oc=5", "source": "한국경제"}
+      ]
+    },
+    {
+      "title": "부동산 시장 혼선…세제개편 논란 속 정부-오세훈 갈등",
+      "summary": "정부의 오락가락한 부동산 세제개편과 잇단 기준금리 인상 여파로 부동산 시장에 혼선이 커지고 있다. 오세훈 서울시장은 정부 부동산 정책이 사실상 '오세훈 힘 빼기'를 겨냥한 것 아니냐고 반발했고, 경실련은 이재명 정부의 갈지자 행보를 비판하며 근본 대책을 촉구했다. 서울은 중저가 아파트 위주로 상승세가 이어지는 반면 9월 아파트 입주 예정 물량은 올해 최저치를 기록하고 지방은 미분양 우려가 커지는 등 지역별 온도차도 뚜렷하다.",
+      "importance": "중",
+      "articles": [
+        {"title": "“부동산 정책, 배고픈 자 아닌 배아픈 자 위한 것” - 중앙일보", "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1KWlBLVDBGRFBzSVRjWmtDWTU3M3hzTEJ0LW1PNnZ4SU42V0VLUzRlMkFyaTBvNWxsR3RFN0RtMk1KbVdCS1dNSzlST2xaRlVrbklMWFZB?oc=5", "source": "중앙일보"},
+        {"title": "금융위·국토부 \"이달 중 11개 과제 이행…부동산 금융 지원 강화\" - CBC뉴스", "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9RT1BQR1NnRlQ0d1NRLUE5UUM1cTY1eXRiSXlTVmczbVliZmtSR0RoRlB3b3M3cGNyeXBhWElINjJSZS1qTlRMc1ZyMVJNaUdmaDZGN0RKRGRfYmxuQ05CYlpxRmVWXzR1?oc=5", "source": "CBC뉴스"},
+        {"title": "금융위·국토부, 다음달 부동산PF·건설사 금융애로 해소센터 가동 - SBS Biz", "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1yYnpXbXNPUjAyX0ZlenZYRWljSi02aXRmVW0tZUdqT0R5cDdEQklOX0doUVY2OWNpbU9PaVlIejd3YnYyWkJSTk94YVRtS3lGQzdz0gFYQVVfeXFMTzNpYndod2x1V3l4bTRQNVEtUlBtZmJUdW9ITTZ3UlRXOUxhVTh4YUZsZmtKT1UtNFg2UW5pdmtOZlVzRmhFWVVENDUwSVZBT3pwYjUyZFZVQw?oc=5", "source": "SBS Biz"},
+        {"title": "오락가락 세제 개편에 부동산시장 혼선 가중 - v.daum.net", "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9wNUswT1NlVVI1cEdXTk9GN3p0c0h1OWZzWlcwR2EtTGNrM0w5eDc5cnFXQnNmcF95TEVXN3poSmxDNTJSX2c?oc=5", "source": "v.daum.net"},
+        {"title": "9월 아파트 입주 예정물량 올해 월간 최저치 - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FMnRKMVpXcTlfY2xfQ0RSUEtuMExrWW1IeU5nNEhtVHFhc3cwYVRDdEVRSk03N19CQnMzOWZia3JoMlVNb2t2elVvN3V1cjlGQlZDa2lBRGFDZw?oc=5", "source": "한국경제"},
+        {"title": "[주간부동산시황] “비싼 한 채보다 덜 비싼 한 채”…서울 중저가 아파트 상승 두드러져 - 데일리안", "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9wMW9aZzVDV1Q0ZzIwdF8ybDFCOWR1QzA3aGVINlJTNjVQbDVtR21vR2RaMzU4WkhEajAxQTFFbkR0bWVsNTdOc0RtUmt4RFpxMm00?oc=5", "source": "데일리안"},
+        {"title": "오세훈 시장 “정부 부동산 정책 목적이 ‘오세훈 힘 빼기’인가” - 서울신문", "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1pd29BNW1Ydjg3UFpHSXBZbEJRUlBiczRnZ2NHMDBYTUZHd29lNEQ5TlJlWE5wbXpUYTRBNWdpMDRFVVF2MTVVODJsRXF5TUpaWWZ3c2JqYXdlQzZ2eEdXNmFPY3BVcmFJdm8yWS1oRQ?oc=5", "source": "서울신문"},
+        {"title": "오세훈 시장 \"정부 부동산 정책 목적이 '오세훈 힘빼기'인가\" - 연합뉴스", "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4wNVVKTDRFOEZGbG9mM3prSlVSSXNEOS1VYzN4TFVJLXR2cnFkRTN1WXlnM29LODZ2S1o0eUZrZjNqSkwyWUFTQVBTV3hFRDhscUZOTnR6U0NvV1XSAWBBVV95cUxNOGoxcTZMVUhqLXU0OWktLTFELWFIU2c4V3VsZVpzUTdqdXlDRjNQYXdCbzBDbkQwNjB2Tm9ZcFpIX0dUcnYtdGRpMldXaWxFUFlfYklCSmpfaGJYYndPZVE?oc=5", "source": "연합뉴스"},
+        {"title": "“집값 잡겠다더니 왜 다시 풀어주나”…경실련, 이재명 정부 '갈지자' 부동산정책 ‘비판 - 한국NGO신문", "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBXTTJKUG9NLXJQYUNwM2NkTGVlNnhyZENFclNoZmpERWtWcU81UGxrczlkcXF3SWhHUHRhM3poSV9pWFdzRlh2Vm83TF9PUzJfV1dxRTlnazBOQjR4VENmdWRzNkNOZi14?oc=5", "source": "한국NGO신문"},
+        {"title": "지방 부동산에 또 '금리 대못' … 악성 미분양 폭탄 떨어진다 - 뉴데일리", "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1DMnA0UHVJUTdUNG14SjY2eDlPUnRqNmJzUmJBQkR0R2cwZUVYOHN1blpFN3RJbWZJb1BTUHpWLWhBMHVwcVZYTklUTFUweV9EQ1NGSUFDTjljMjJGRWJNNnZ4QXFkcFU5cTdWQ1FoRXowQjFtYUJqb0NhY9IBgAFBVV95cUxNUk5CaF83MXJlV09lZ2FiVDdDSzVod0tpVWt4cmVDZGFkM2Jpemw3bVNJWVdOcDNYYkRzVUp3QXRfU1VfdXBPdDdBbUlVZlByY19MR1UxX3IxV3hXeGZ4SW8yVmRjVGt5b2NISmxwcnNxTTc1VDlhc3VJTTRVVkIzWg?oc=5", "source": "뉴데일리"},
+        {"title": "[성명] 원칙없이 우왕좌왕하는 이재명 정부, 부동산시장 안정화를 위한 근본대책 실시하라! - 경제정의실천시민연합", "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9fTjBHNTA4SFJfV3VEZW1wYndLSW02SnBmb3FoMzc0R2F4ZWVqTHNxRWVIekJ2N2I0RV9WQW1UTWRLWTJ5T1ZN?oc=5", "source": "경제정의실천시민연합"},
+        {"title": "\"같은 아파트라도 대형사가 낫지\"…청약통장 72% 몰렸다 - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5maTRVME1adFpadVgtSE5UNGhBdkRodktPWTNjQXU2RDlJRXMwVWxVSFJuRHcwRnl0MThUdElUdlZNT001UjlZcjZTZlNmMnJiaTdlcllWa1JSZw?oc=5", "source": "한국경제"}
+      ]
+    },
+    {
+      "title": "잭슨홀서 워시 연준의장 매파 발언…추가 금리인상 시사",
+      "summary": "제롬 워시 미국 연방준비제도(Fed) 의장이 잭슨홀 회의에서 미국의 물가상승률이 여전히 우려스럽다며 매파적 태도를 재확인하고 추가 금리인상 가능성을 시사했다. 트럼프 행정부의 압박 속에서도 정면 돌파를 택한 그의 발언에 시장은 대체로 합격점을 준 것으로 평가된다. 이는 한미 금리차 축소를 통해 최근 원화 강세(환율 하락) 흐름에도 영향을 미치고 있다.",
+      "importance": "중",
+      "articles": [
+        {"title": "'매파 본색' 워시 \"美 인플레 여전히 우려\" - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE93aVVscnB5ZW4tTWt6WHQ3cHpSa2pkamNkclg4b3pGRTR6a01oQTlGZjNOY1lIZkY5TTdnMnhWUjBNUWw2V0VUVVRHcFdWdW5fMmZKTkFmYldOZw?oc=5", "source": "한국경제"},
+        {"title": "'정면 돌파' 택한 워시, 트럼프도 뚫을 수 있나…시장에선 '합격점'[Fed 워치] - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAtejVXcHpXZS1iQW9Eemkyd1JwTTY1ZGU1S0YtX2tMQWxrLTBVUkFHYlFmajUwSm1QRzRrT0RKaEpkbmRwSFFsZHJlaFkzSENqWWZiZVlTeUZ6UQ?oc=5", "source": "한국경제"},
+        {"title": "금리인상 시사한 워시 \"인플레 유의미하게 개선 안돼\"[잭슨홀] - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE12d3RyV29qV3Z2LVhXSGRXYlppQ0hkNVV5TDhmaUgxMWJPWG1neV9qOFpIZUhIdWczazZva3dreDc0THBCWlY2MnEwM19IRTd5Z2Rlcng3ampiZw?oc=5", "source": "한국경제"},
+        {"title": "워시 연준 의장, 美 높은 물가상승률에 \"우려스럽다\" - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9mMlJuSVhYRllzY2YtWlZSUlp1cjZfbVNGUXhTb2ozMElkZmZxZ1Z3V29JYlFSclJKM3NkM0d3Ql96cFdmWmZnYTFqUkpNd1BNd1pqWGVmdW8wUQ?oc=5", "source": "한국경제"},
+        {"title": "46조 법인세 약발 끝나는 9월 … 1300원대 환율, 첫 방향타는 '워시 잭슨홀' - 뉴데일리", "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1kcVBnVXdGWFhFNFkxRVJHOW5jMXZwQWJFLWt0Q1JwNnBGbHI4ZFpNcFZmWFl6ajl3TGdNX3ZBTEFtYV9IeVVfdURPeXh1dW5MOVFfcmxVU2wyUWRLRmpWdE9OcTB1aFBfVjJkRi1qejFnR0d6SUdUa0MzZw?oc=5", "source": "뉴데일리"},
+        {"title": "워시 잭슨홀 연설 대기…환율 1380원 중심 공방 - 마켓인", "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9IMGRHSC1rR2xsTnh4dzA4SnAxSF8tVnRuci1RdTBjdTZlM0VKZ1RKWGlGNWZfOWpRemNueVZ2LTgwYWMxQUo1RFZyRGNmbnh5TXlfVGREVWZuLU9nTlVERnFBRVpSQ0w0cVhQTGgtdG9DR28?oc=5", "source": "마켓인"}
+      ]
+    },
+    {
+      "title": "네팔·티베트 대홍수 참사 확산…사망 543명·실종 1535명",
+      "summary": "네팔과 중국(티베트) 국경 지역 대홍수로 인한 사망자가 543명, 실종자는 1535명으로 집계됐다. 티베트에서는 추가 댐 붕괴로 구조 대원들이 대피했고, 네팔·티베트 국경 검문소는 흔적도 없이 사라질 만큼 피해가 컸다. 현지에 있던 방송인 기안84는 스태프의 무사 소식을 알리며 희생자를 추모했으나, 일부 희생자 시신에서 금품을 훔친 이들이 체포되는 등 부작용도 이어지고 있다.",
+      "importance": "중",
+      "articles": [
+        {"title": "'네팔·중국 대홍수' 사망자 543명…실종자 1535명 [종합] - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1aMHAzWDhNUllwRjRyb19iOU5paXZ3ck84a2s5bFMtUEZtTUNvRmU0al8zaXRQbHdSeVBVaWdONWRzY0lBM25yM1ZfT2N4V0E2Q0I3TWViZnVGQQ?oc=5", "source": "한국경제"},
+        {"title": "[속보] 네팔 경찰 \"티베트서 또 댐 붕괴…구조 대원 대피\" - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBVOEx1V3I5TW90aVRoR2lWUUY3VklNRFdfT185SGUwcmoxOFQtcEs4NFpnNE4wdmx5Tnk3ck8xZVVmLXA0Y09Edm55Q0lBbzJ5NENGWDE1Nkd6UQ?oc=5", "source": "한국경제"},
+        {"title": "[포토] 흔적없이 사라진 네팔·티베트 국경 검문소 - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5yc1l3d0E0RDlKR2ExNFlYMU9MSHAzdjVBVldPb2o1Y3ltcWY3RzFNdHVFajdwTUNEdjAtZG55VnF4VkZfSGwyZURWZkpxbzNSWGhja0V4aDlYdw?oc=5", "source": "한국경제"},
+        {"title": "기안84 \"라이·타망 무사\"…네팔 대홍수 희생자 추모 - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE55VVpzaXN5cmdyVXotc0ZEbXRQaWtHNWdrMDNURVlDWHFjNlZWc1NRbWItSVZWT2huaFZtRjRTWk9XQnVoajZZSE9fZGtha212cjZsNWdMTUtBQQ?oc=5", "source": "한국경제"},
+        {"title": "네팔 대홍수 희생자 시신서 금귀걸이 훔쳐…두 남성 체포 - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5lazJocXN0LWd0dlgwcWMwZVdMUXdsRkRoTmc0OVdVMzJfbVFldHg1Sm05RjdWZTdQaHc1aHBXaXFfTHQyaUt1M2F6OW0xaFJBY3hOcjEyMGpydw?oc=5", "source": "한국경제"}
+      ]
+    },
+    {
+      "title": "중국 부동산 완커, 헝다 이어 디폴트 우려 확산",
+      "summary": "중국 대형 부동산 개발업체 완커(Vanke)의 상반기 적자가 3조원 규모로 더 커지며 유동성 압박이 지속되고 있다. 앞서 파산한 헝다에 이어 완커까지 디폴트 우려가 제기되면서 중국 부동산 경기 침체가 장기화하는 모습이다.",
+      "importance": "중",
+      "articles": [
+        {"title": "中 부동산 끝나지 않는 터널…완커 상반기에만 적자 3조원 - 네이트", "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5lWEFSTDE5VmZiWW4zQ3piR1hQZzhhVzBuUGdSNXZCUnZQSG9GTVpqVVFadUZaazFQS01PblVZUzBCRmpwYnZwVWwySU5WU204UmZZ?oc=5", "source": "네이트"},
+        {"title": "中 부동산, 헝다 이어 완커 '디폴트' 우려 - v.daum.net", "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9yalM1OWEwVU94dHpIQWJzNkg2ekJKQ09jV2ZWM0Y1eU03NGZFTjNidElPNThLZGI0X1JRSmdqZ09rQ3ZvZGExNWdONi1WV28?oc=5", "source": "v.daum.net"},
+        {"title": "‘경영난’ 중국 부동산업체 완커, 상반기 적자 더 커졌다…유동성 압박 지속 - KBS 뉴스", "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TMUEzTzhyNzkteGdULVJ6Z2JCSlVteTFQY25KNnpZNlNJcW1KQ2ZneUloNGJjTm0wSDVsZ1BEYllNUHN5dkk4anRjSk9ZeU96UHEwZDQ5TnJQdDg?oc=5", "source": "KBS 뉴스"}
+      ]
+    },
+    {
+      "title": "美, 대미투자협상서 투자금 25% 증액 요구…막판 진통",
+      "summary": "트럼프 행정부가 한국에 대미 투자금을 기존 합의보다 25% 늘릴 것을 돌연 요구하면서 협상이 막판 진통을 겪고 있는 것으로 알려졌다. 최종 타결을 앞두고 미국 측의 추가 요구가 불거지며 협상 결과에 관심이 쏠린다.",
+      "importance": "중",
+      "articles": [
+        {"title": "[단독] 美 돌연 \"투자금 25% 늘려라\"… 막판 진통 겪는 대미투자 협상 - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1IOUdZTjBVY0M4ZHl5Z254UWVHOEdSN2lpVEJFdG1WTzFUdk1tWS0tNGM4N1lPWFVKdVVvSDkwWjJBR25FOUtJVHdGTVFiLW1SdjBRMUlKTWdsQQ?oc=5", "source": "한국경제"}
+      ]
+    },
+    {
+      "title": "광주 군공항 이전 후보지, 무안 망운면으로 확정",
+      "summary": "광주 군 공항 이전 후보지가 전남 무안군 망운면 일대로 최종 확정됐다. 오랜 기간 표류하던 이전 사업이 후보지 확정 단계로 진전되면서 향후 절차에 관심이 쏠린다.",
+      "importance": "하",
+      "articles": [
+        {"title": "광주 軍공항 이전 후보지 무안으로 확정 - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Kdzlwa01ncWNaU0tyQWFNU3NqVzJpN0RwcHBjSXVmc2tFVVRiWHV2MjM5dldYNFdhR19mekNMSGNkNTlIbm9LWWVEQlgtNlAyeHJELUFldEY1Zw?oc=5", "source": "한국경제"},
+        {"title": "광주 군공항 이전, 후보지로 무안군 망운면 일대 확정 - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9pV0M2Y1h4cjZyY002X0FMaUc0Rkhhemo1cGFFZjRHQ0pHUV9vVXZKa0lOOVhOX09XX1V3cUJKcFppU3Y1NDBaeUFfRzR3bDd6WnZzcVdKTjZRZw?oc=5", "source": "한국경제"}
+      ]
+    },
+    {
+      "title": "노웅래 '불법 정치자금·뇌물수수' 무죄 최종 확정",
+      "summary": "불법 정치자금 수수 혐의로 기소됐던 노웅래 전 의원에 대해 검찰이 2심 무죄 판결에 상고를 포기하면서 무죄가 최종 확정됐다.",
+      "importance": "하",
+      "articles": [
+        {"title": "검찰, '불법 정치자금 수수' 노웅래 상고 포기…무죄 확정 [종합] - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5YUExFZUhNXzUxTFNYWlpGODItWndzV1pvdEg2M1dYT0gtb2xzaTlhLWtTVDJNRm4tcVZweE9zT3BjemFBS2NaTmtCalJVSzlxdi1SYUJ3RDkxQQ?oc=5", "source": "한국경제"},
+        {"title": "[속보] 검찰, 노웅래 '뇌물수수' 2심 무죄에 상고 포기 - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBaQldyb1F1NVhlX0JwTkFwZzJjeUlPNTFHT0F2N0JOUmtSR2lMM1FmSG1veUZYcmRFcmJ5eVZsdDFTcVU0MU94SzNqSEhlMUo2Zy1vX2FDZWZwUQ?oc=5", "source": "한국경제"}
+      ]
+    }
+  ]
+}
