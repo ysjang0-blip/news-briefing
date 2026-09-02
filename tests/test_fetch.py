@@ -6,7 +6,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent / "scripts"))
 
-from fetch import parse_rss, filter_recent, dedupe, serialize_raw
+from fetch import parse_rss, filter_recent, dedupe, serialize_raw, rss_url, keyword_plan
 
 SAMPLE_RSS = """<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
@@ -77,6 +77,37 @@ class TestDedupe(unittest.TestCase):
         b = {"title": "같은 제목", "link": "https://x/2", "source": "s1"}
         c = {"title": "같은 제목", "link": "https://x/3", "source": "s2"}
         self.assertEqual(dedupe([a, b, c]), [a, c])
+
+
+class TestRssUrl(unittest.TestCase):
+    def test_korean_edition_is_default(self):
+        url = rss_url("환율")
+        self.assertIn("hl=ko", url)
+        self.assertIn("gl=KR", url)
+        self.assertIn("ceid=KR%3Ako", url.replace("KR:ko", "KR%3Ako"))  # 인코딩 여부 무관
+
+    def test_us_edition(self):
+        url = rss_url("Hims & Hers", region="us")
+        self.assertIn("hl=en-US", url)
+        self.assertIn("gl=US", url)
+
+    def test_keyword_is_url_encoded(self):
+        url = rss_url("Hims & Hers", region="us")
+        self.assertNotIn(" & ", url)
+        self.assertIn("Hims%20%26%20Hers", url)
+
+
+class TestKeywordPlan(unittest.TestCase):
+    def test_combines_korean_and_us_keywords(self):
+        config = {"keywords": ["환율"], "keywords_us": ["Hims & Hers"]}
+        self.assertEqual(
+            keyword_plan(config),
+            [("환율", "kr"), ("Hims & Hers", "us")],
+        )
+
+    def test_missing_us_list_is_ok(self):
+        config = {"keywords": ["환율"]}
+        self.assertEqual(keyword_plan(config), [("환율", "kr")])
 
 
 class TestSerializeRaw(unittest.TestCase):

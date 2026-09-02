@@ -16,7 +16,24 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 
-RSS_SEARCH_URL = "https://news.google.com/rss/search?q={query}&hl=ko&gl=KR&ceid=KR:ko"
+# 나라별 구글 뉴스 판: kr = 한국판(한국어), us = 미국판(영문)
+_EDITIONS = {
+    "kr": "hl=ko&gl=KR&ceid=KR:ko",
+    "us": "hl=en-US&gl=US&ceid=US:en",
+}
+
+
+def rss_url(keyword, region="kr"):
+    """키워드와 나라(kr/us)에 맞는 구글 뉴스 RSS 검색 주소를 만든다."""
+    edition = _EDITIONS.get(region, _EDITIONS["kr"])
+    return f"https://news.google.com/rss/search?q={urllib.parse.quote(keyword)}&{edition}"
+
+
+def keyword_plan(config):
+    """config 의 keywords(한국)와 keywords_us(미국)를 (키워드, 나라) 목록으로 합친다."""
+    plan = [(kw, "kr") for kw in config.get("keywords", [])]
+    plan += [(kw, "us") for kw in config.get("keywords_us", [])]
+    return plan
 
 _TAG_RE = re.compile(r"<[^>]+>")
 
@@ -92,9 +109,9 @@ def serialize_raw(date, collected_at, articles):
     )
 
 
-def fetch_keyword(keyword):
+def fetch_keyword(keyword, region="kr"):
     """키워드 하나에 대한 구글 뉴스 RSS를 받아 기사 목록으로 반환한다. (네트워크 사용)"""
-    url = RSS_SEARCH_URL.format(query=urllib.parse.quote(keyword))
+    url = rss_url(keyword, region)
     request = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0 (news-briefing-bot)"})
     with urllib.request.urlopen(request, timeout=30) as response:
         xml_text = response.read().decode("utf-8")
@@ -108,14 +125,14 @@ def main():
     config = json.loads((ROOT / "config.json").read_text(encoding="utf-8"))
     now = datetime.now(timezone.utc)
     all_articles = []
-    for keyword in config["keywords"]:
+    for keyword, region in keyword_plan(config):
         try:
-            articles = fetch_keyword(keyword)
+            articles = fetch_keyword(keyword, region)
         except Exception as e:  # 키워드 하나가 실패해도 나머지는 계속
             print(f"[warn] '{keyword}' 수집 실패: {e}", file=sys.stderr)
             continue
         recent = filter_recent(articles, now=now, hours=config.get("hours", 24))
-        print(f"[info] '{keyword}': {len(recent)}건 (최근 {config.get('hours', 24)}시간)")
+        print(f"[info] '{keyword}'({region}): {len(recent)}건 (최근 {config.get('hours', 24)}시간)")
         all_articles.extend(recent)
 
     all_articles = dedupe(all_articles)
