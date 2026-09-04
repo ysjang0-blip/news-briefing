@@ -112,26 +112,36 @@ def render_page(briefing, archive_dates, base=""):
 </html>"""
 
 
-def main():
-    briefing_dir = ROOT / "data" / "briefings"
-    briefing_files = sorted(briefing_dir.glob("*.json"))
-    if not briefing_files:
-        raise SystemExit("data/briefings/ 에 브리핑 JSON이 없습니다. 요약 단계를 먼저 실행하세요.")
+def load_briefings(briefing_dir):
+    """폴더의 브리핑 JSON을 날짜순으로 읽는다. 깨진 파일은 경고만 남기고 건너뛴다."""
+    import sys
+    briefings = []
+    for f in sorted(briefing_dir.glob("*.json")):
+        try:
+            briefings.append(json.loads(f.read_text(encoding="utf-8")))
+        except json.JSONDecodeError as e:
+            print(f"[warn] {f.name} 이 올바른 JSON이 아니라 건너뜁니다: {e}", file=sys.stderr)
+    return briefings
 
-    dates = [f.stem for f in briefing_files]
+
+def main():
+    briefings = load_briefings(ROOT / "data" / "briefings")
+    if not briefings:
+        raise SystemExit("data/briefings/ 에 읽을 수 있는 브리핑 JSON이 없습니다. 요약 단계를 먼저 실행하세요.")
+
+    dates = [b.get("date", "") for b in briefings]
     docs = ROOT / "docs"
     (docs / "archive").mkdir(parents=True, exist_ok=True)
 
-    for f in briefing_files:
-        briefing = json.loads(f.read_text(encoding="utf-8"))
+    for briefing in briefings:
         page = render_page(briefing, archive_dates=dates, base="../")
         # archive 페이지의 archive/ 링크는 같은 폴더 안이므로 접두어를 정리한다
         page = page.replace('href="../archive/', 'href="')
-        (docs / "archive" / f"{f.stem}.html").write_text(page, encoding="utf-8")
+        (docs / "archive" / f"{briefing.get('date', '')}.html").write_text(page, encoding="utf-8")
 
-    latest = json.loads(briefing_files[-1].read_text(encoding="utf-8"))
+    latest = briefings[-1]
     (docs / "index.html").write_text(render_page(latest, archive_dates=dates), encoding="utf-8")
-    print(f"[info] index.html (최신: {briefing_files[-1].stem}) + 아카이브 {len(dates)}개 생성 완료")
+    print(f"[info] index.html (최신: {latest.get('date', '')}) + 아카이브 {len(dates)}개 생성 완료")
 
 
 if __name__ == "__main__":

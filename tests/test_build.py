@@ -5,7 +5,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent / "scripts"))
 
-from build import render_page, sort_topics
+from build import render_page, sort_topics, load_briefings
 
 BRIEFING = {
     "date": "2026-08-15",
@@ -73,6 +73,20 @@ class TestRenderPage(unittest.TestCase):
     def test_archive_links_to_other_dates(self):
         html = render_page(BRIEFING, archive_dates=["2026-08-15", "2026-08-14"])
         self.assertIn('archive/2026-08-14.html', html)
+
+
+class TestLoadBriefings(unittest.TestCase):
+    def test_skips_invalid_json_and_keeps_valid(self):
+        import json
+        import tempfile
+        with tempfile.TemporaryDirectory() as tmp:
+            good = Path(tmp) / "2026-09-02.json"
+            good.write_text(json.dumps(BRIEFING, ensure_ascii=False), encoding="utf-8")
+            bad = Path(tmp) / "2026-09-03.json"
+            bad.write_text('{"date": "2026-09-03", "topics": [{"title": "잘못된 "따옴표""}]}', encoding="utf-8")
+            briefings = load_briefings(Path(tmp))
+        # 깨진 파일은 건너뛰고, 정상 파일만 (날짜순으로) 남아야 한다
+        self.assertEqual([b["date"] for b in briefings], ["2026-08-15"])
 
 
 if __name__ == "__main__":
