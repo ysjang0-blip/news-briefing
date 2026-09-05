@@ -1,0 +1,135 @@
+{
+  "date": "2026-09-06",
+  "topics": [
+    {
+      "title": "美 고용 서프라이즈로 9월 금리인상 우려 확산…트럼프, 연준에 인하 압박하며 무역중단 위협",
+      "summary": "미국의 8월 고용지표가 예상보다 강하게 나오면서 9월 연방준비제도의 기준금리 인상 가능성이 58%까지 오르는 등 시장 긴장감이 커졌다. 이 여파로 뉴욕 3대 지수가 하락하고 비트코인이 8만달러 밑으로 떨어졌으며, 국채 10년물 금리가 5%를 넘으면 증시가 급락할 수 있다는 경고도 나왔다(다만 일부에서는 금리 동결 기대로 가상자산이 오히려 반등하거나 보험주가 약세로 돌아서는 등 엇갈린 반응도 있었다). 반면 트럼프 대통령은 연준에 기준금리를 0.5%까지 낮추라고 압박하며, 응하지 않으면 무역적자국과의 교역을 중단하겠다고 경고했다. 엔화도 미국의 금리 인상론과 일본은행의 인상 기대가 겹치며 강세를 보였다.",
+      "importance": "상",
+      "articles": [
+        {"title": "[크립토 이슈] 금리 동결 기대에 가상자산 반등∙∙∙통화정책 변수", "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8tbVFzQjNOTGJqdlVBVG9kdzRFZVU5SUJLTnRNQm1PbUlrcFdJdHhSNDdJaTV4RW1jUjRqR05OS3VJb1hFejdqbjJCaDNfdGxrblFmaQ?oc=5", "source": "etoday.co.kr"},
+        {"title": "“주담대·AI 투자 모두 타격”...미국이 ‘바이백’ 나선 이유 [뉴스 쉽게보기]", "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9zT1FORjRISGtqZjFQUzc2MExvNEhNMkpRR0xPN1k0MlZOY2Z4MnMtbTA2MEItNG1iSUFtWFpMdUJuUTF3eHhPbFljVE1zYVR5MW9LRA?oc=5", "source": "매일경제"},
+        {"title": "\"美 국채 10년물 금리 5% 넘어가면 주가 급락 우려\"[주末머니]", "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9MTVFXVE1XVFJjNmZYY0piTmMyT21sWWJPM2stZ05YNjY0M1hIOXduS3gxNmJqV0ZGVGlSUHlLSzNrdG5wYmVKRWhKaHRHOEE?oc=5", "source": "v.daum.net"},
+        {"title": "美 8월 고용 '깜짝 호조'…9월 금리 인상 가능성↑", "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE94N01kOFBOSUNuMnJZbFc0R3R2bnV0cVRmQy1WNnNMSkZVc0JJUV9UbG5Vd2RzdXVYbjlPZHg4ZE5QajNXemtoeXgwRnpIS0xXZjZaeWwyR3dJOXU5cHk3X2JTalFzR0FaaU1tdnpRVUJIaGJtMVA4?oc=5", "source": "thecommoditiesnews.com"},
+        {"title": "고용 호조에 9월 美금리 인상 가능성 58%…3대지수 하락 [뉴욕증시 브리핑]", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBPQ1gxVjlwRG05XzJSX0tLeWtoSDhwcDN6bkVaZ1lRYW1ENXpNMVgtRjRhR214cm1SOWs5NmR4X01aQjJOTU1nRkVkcWF4Y0pjUkJXeGlYVVJXdw?oc=5", "source": "한국경제"},
+        {"title": "'굿 뉴스는 나쁜 뉴스' 뜨거운 고용, 냉각된 증시…CPI가 9월 운명 결정? [김현석의 월스트리트나우]", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9PN0hRMXdKNzI0alRzaldPd0RQR3VXREl6dXJBUDJIVk9iejFBc0pnaG4wX0JfcVUtalg1aEpYWkdSc2lrcHJ3RjJmd1gyazlCdXZwdWpCVWZKQQ?oc=5", "source": "한국경제"},
+        {"title": "고금리 우려에…서학개미, 단기채 ETF에 1256억 '뭉칫돈'", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Pd2t3MUs2UWQtM2hZbW1aaHJiQ2RMU3FhRU02cDlvc2NYdVhkYkVmVjcycDBrTnhjV3ctdnI2ZU40eS12OVpVUkM4b0JVUEI2dk9Kdy1VRkRpUQ?oc=5", "source": "한국경제"},
+        {"title": "美 금리 인상 우려 완화되자…보험주, 맥 못추고 ‘와르르’ [이런국장 저런주식]", "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE93b0loNmZKVWJwRlZVUXVHbW9xOTR1cUNrSjU2Y1Fib3lZeGZIOTZ2WDF0ZnJaeDJMNmYtVkZnaWhhOTFUcU5iWk8teGJzWXoySEHSAVNBVV95cUxQZ3lqbjRaU1RvcFNzbzhSY1ZNSzZDdEt1eldvcWFxSWR0SU5YV3ZJWkVmLVlkMmJZd0VQZFhDaFp1UWZsd2tBQXFrLW5IekpZNTZKQQ?oc=5", "source": "sedaily.com"},
+        {"title": "비트코인 8만 달러 붕괴…美 금리인상 우려 '직격탄'", "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBUS0twSHBPWGtsR18tRU5wQk91bkRBZnFfUUIwTG83RnptZ2p0Y2l5bGJYaUVQamNoUFpKZHBqMVJrbTV2VFpaanMzRTNUaUVGZmRMdlB3?oc=5", "source": "지디넷코리아"},
+        {"title": "[김이코의 시장분석]금리·유가·고용 3각 파도…글로벌 금융시장 ‘숨죽인 주말’", "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5sS3dtNWV3S0JoRjNxdEg2YUhVOWRqMHR2MDVFY29HOVcyUkFvb2tjbVcyZmdHZGM4d2lIWHczM0tINk8xLXNpUDk3UW1yd2lWSzV6WQ?oc=5", "source": "mediapen.com"},
+        {"title": "글로벌 금융시장은 ’출렁’… 美 금리는 어디로?", "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBLRWxUUngta2RiMXZmRUFQcFFIdUVqd2tjS0F6T0lsaUZmMmh5cnNFdUptbGhNMV9KT3lkaWp6cjdMMWVtTml3SDZJWEhsYlI4THRsaFJGMWowRzBSUk84d2hTMFBMQW8?oc=5", "source": "연합뉴스TV"},
+        {"title": "'교역 중단' 경고 트럼프… 美 금리는 어디로?", "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9HaW8wOFpiZzFKY20yVmZ0RDFTSzA2TVZlUTdfcklwMUFOZ0RKeHVialB2VUhPVXZNQTEteHhxSG5RZ25nTkY5ZXROa0did3BvUHhXTTVGcHkxY2PSAWBBVV95cUxQS3NNTVFyMUIyY2ptMDdJZG5wdnExTmdfeWFtRGZNWXg5LU5Zd1RVRUtZRUc5SnE4azJBUk9BeWdWZUE5UF9iRzNrcjVqNVo1UTFFdmZsbzhpdHkwcElQTlg?oc=5", "source": "연합뉴스"},
+        {"title": "“금리 안 내리면 적자국과 무역 중단”…트럼프, 또 황당 카드", "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ja1NNNWxkSWdtZVAwUW94SEE0ZnNFVG1GMlBYOHQ3eDkycnhwTXJHbGJWQXQ1Y1NGWWRVRDE3eEJtTDJKZ3VMSS1ONUhneVVMdVFleldkOTdCYkduNUNxdXdRWU0?oc=5", "source": "포쓰저널"},
+        {"title": "“연준, 금리인하 안하면 적자국과 무역 중단”", "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9XV2tUZENNRkl1cnFOX1hVS3hSbEVoUGVYRW5GOEJQa1oyNFFGS09iRUFQUTJLRE5YUEdfaF9qV2tHQWlORjA2cDFBdVlXRU5QTWIwZG9HY2hiNndvWG1Z?oc=5", "source": "미주한국일보"},
+        {"title": "\"0.5%로 낮춰라\"…트럼프, 연준 금리 인상 움직임에 '무역 중단' 맞불", "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1PR1U3YlJrODNIeC1VYVAzVmhYeWJiU05aRXJST0xLZVZBSHJ4ZDRmeWRlOHcyODNwbEJsYzVjT1BFRUZzYzVET2liTlNWOTBfVzYzOFBLelhSM2lUNEx3?oc=5", "source": "조세일보"},
+        {"title": "트럼프 \"무역 중단\" 거론하며 Fed에 기준금리 인하 압박", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1XY1FIdW5reDJVOFhhc3ozck9yNlBhYW5sRWl3Z2xtelo2SW1fUEpfOXBzdkpNalFsQjhNZmtQbV9iNFFsT09wRzdfLWlLbVBFYW16dEhlcm9zQQ?oc=5", "source": "한국경제"},
+        {"title": "연준보다 백악관을 보라…美 증시 흔드는 ‘40조 달러 빚’ [김학균의 시장읽기]", "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBCQmlPMjNHZ3p5Y3RXdnhGd3pqX2pqUEpfcHplODREMUhoN2hKT0puTGJzTTJMZWpOeHVsT3IwTVJSNXhYNEtxNkpHcEprRjFuaVpLVzAzdnRLUDZtV1hPeS1GNkVnNUtaSnBpQ3NYY9IBc0FVX3lxTFBTaTVKbDZlSm53bUFKVVBXU19YbTQ2RE0tcy1JeXM0THlENHhRX2V3X1RoX1JBc2xLTzkxUDNwRzdhcVFCaGJaYnBUeE13ekNBS1l1bUl0eGFiMFFrQzAyZWxPQjV3SXozQkdybXB0SjZzQk0?oc=5", "source": "시사저널"},
+        {"title": "미국 고용 좋다는데…왜 내 대출금리까지 흔들까요", "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5vbVBrV2dsQklLYWtOMUVzVXhIYUo2QWdtajh4eHVITzk4a3RiVS1SMjFGVWNMWktJTEpIQzJiUzFsaFlGMVhQSmFvMDlKYVFDOC1zUHZxVVN6V19qenBvb3djZXZDNHdHNW4wWFlR?oc=5", "source": "더스쿠프"},
+        {"title": "뉴욕 엔달러 환율 156.15~25엔, 미국 금리 인상론 영향", "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE56WkNxWkVTLWxEUEQ0Z3Q4enE2ZHZJMTBPdTk4RXVuMmdlOE93Ym5sdDlkSEpUeDFySFhUc296TnZhRDlJcDNfRVF3bDNXZG9IREVOZDhiVzRVN0YzYm9wWGVyOUxGQWI4LUhEckROMWg3UEF0RVQ4?oc=5", "source": "thecommoditiesnews.com"},
+        {"title": "日 금리 인상·연기금 매수설에 뛴 엔화…155엔 깨지면 더 오른다", "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0yRnJ3Mnd3a2dDekFoNFpiVFNCWkhfajBfWEtiOEhZeVlvUDY1YUxvXzZXTTcxTU4zU1pSYzRIYVI5Q01leEk5b0dzaWNvdGJ3anfSAVNBVV95cUxQODE1WlNXcXdhTVk2UWNTRUVIT2IxRWpKTVowY3h1V09ma0JtWlU2ckgwWWFPZy1RSW45ZUQtWnJvUU5Bc0k3dlJyaF80QV85VVltYw?oc=5", "source": "sedaily.com"}
+      ]
+    },
+    {
+      "title": "원/달러 환율 23개월 만에 최저…기업 달러예금 급증·업종별 희비",
+      "summary": "원/달러 환율이 23개월 만에 최저 수준으로 떨어지면서 기업들의 달러예금이 역대 최대치를 기록하고, 엔화 대비 원화 강세 속에 환차익을 실현하려는 자금 이동도 늘고 있다. 환율 하락으로 항공·철강 업종은 반사이익을 보는 반면 자동차 업종은 수출 채산성 악화로 타격을 받는 등 업종별 희비가 엇갈렸다. 기업발 달러 공급이 이어지면서 원/달러 추가 하락에 무게가 실리는 가운데, 미국 고용지표 서프라이즈에도 환율은 1,350원선을 유지했다.",
+      "importance": "상",
+      "articles": [
+        {"title": "환율 하락에 업종별 희비…항공·철강 웃고 자동차는 울상", "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1JdXlTZnhTZzJOemJFRF9OdWl2X1ZXRWJKMmRMbnNZUG00WVdkdElkU2swN2d6THNRUHJwTTVsb01wMldZcm5RcHpTZlVnc2FSaEZMOURFZnlwV0nSAWBBVV95cUxNeTJaZXFBRm1kNWJXWkJCS1Q5SFM1Q25tM2k5OHJPbUFRTVlzZFVtNW04T1FreF9QOG4tTFZEUkZKdVNxMTFqdmhzSkpTRGRzZUtBVG9JdjNvWVNBdHdGSVM?oc=5", "source": "연합뉴스"},
+        {"title": "800원대 엔화에 은행 예금 '쑥'…환차익 실현 전환 관측도", "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4xdmFhSnN0M1dZbTIxUHR3RUR3ZnFWX2V4V0FIWjJ6SEw1WVM5SXdKTGx1MXJvS09kcmRHRHhDeTN1dEt4THhNeFB0dC15SWh6M0FEVkozZElhTUxlTXROcdIBeEFVX3lxTE1LZWl0YjR6enZuTDgyOVMtUmRES1BMZDJlQ3ZKYjZMUEVVOThWaGRFNDNQVHJXdkdXWnZ3MTBmUlJ4Y1o3a3B4U2pVQVBNMUJ3RDh2elFjY3Mxelo1TmEtN1pBWTJyaHdoRmtHTTBaZjB4dVNSb1pRLQ?oc=5", "source": "뉴시스"},
+        {"title": "23개월 만에 최저 환율에…기업 달러예금 역대 최대", "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBhYTBtTXNjeHBmalVHNXZvUVVUajFxc3NIRDVWbmREeEpfQTBpTzdMYWdPQWo1amZURmRWYWxNOExwUnM3Nm42cGF2ODdiWWFUdk1F?oc=5", "source": "네이트"},
+        {"title": "박스권 갇힌 코스피...개미, 환율 급락 타고 미장行", "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBZVjZwZExwQjNDSi1mZlpYVnBMMFBvZENfWmNMZlVHUGVxeVA5Slpob3RKblpxRndhV09Iam9nRzB2WTR4TmZyaWo3TFdDZlE?oc=5", "source": "v.daum.net"},
+        {"title": "박스권 갇힌 코스피...개미, 환율 급락 타고 미장行", "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5HLTI1UXVNN2NiZ2JUQ1JtNEZ6WVN2MS16Y0NtVnJkajV2YkxwRVJjcDhQbFNtZWVIMm95OE9zOFFxa0RRTTBoQlJrSjgyQQ?oc=5", "source": "dt.co.kr"},
+        {"title": "환율 끌어내린 기업발 달러 공급…원·달러 추가 하락에 무게", "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE40UHZ1QzNtMV8zd2dnMWNCNEdxU0Z1S2tGTmxjWklPbWxtd1dPR0k3NkNTLTU3N3dEcVp3WWt1eTYwRkR5dWg1TkNscFZkWjNJWE9leGVUZkt0akU?oc=5", "source": "에너지경제신문"},
+        {"title": "'마이너스 MAR' 뭐길래…1,340원대로 급락한 환율 이면에 '+15전→-15전'", "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1BMXRmRDdvemljMjc4VDNrdm9Vd1ZzNHJ0QnRYdUVseGVZb25FejQ4U3pBTGtWTDkwb0l1UU1Lci10V1VCZFY0b1g0UmlvaFhXZFBzLWpJWllaQnZyZkwxYWhqNU8yN0pLT0dDZzczX1M?oc=5", "source": "연합인포맥스"},
+        {"title": "[외환] 美 고용 서프라이즈에도 1,350원선 유지", "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBxTi02bExqVnB5M2lINUZzOGREU2tqNWNBUC1UdzVXQ1ZRUGdIdWo4d3o1SVdzcE51OFRTYUxHMWxyWkpnUHo5SVRXM29jcnd3N0p2WHN3RGxRcGxlamcwQ3pjd0ZwSkhUVzNSczVoelJmZw?oc=5", "source": "KB Think"}
+      ]
+    },
+    {
+      "title": "한국은행 기준금리 3%로 인상…추가 인상 우려에 이자부담 가중",
+      "summary": "한국은행이 1년 9개월 만에 기준금리를 3%로 올리면서 추가 인상 가능성이 거론되고 있다. 성장률 전망치는 3.3%로 상향했음에도 금리를 인상해 엇갈린 경제 신호라는 평가가 나온다. 금리 상승으로 서민들의 이자 부담이 커지는 사례(500만원 대출에 이자 95만원)가 소개됐고, PF 보증 규모를 86조원까지 늘려도 고금리 탓에 주택 공급이 위축되고 있다는 우려도 제기됐다.",
+      "importance": "상",
+      "articles": [
+        {"title": "[프리즘] 1년 9개월 만 기준금리 3% 시대…추가 인상 시계 '째깍'", "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAyeEp0X2NfS2JicWN6MmJtWDhQaHlfdjBWN2ZPbDAzV3NSbGk3U2FwdGxNVlFiQy1WNUdvaGxEZVZHMjRmQ3F1ZkNkZEdId2FLQ1Rr?oc=5", "source": "네이트"},
+        {"title": "[프리즘] 1년 9개월 만 기준금리 3% 시대…추가 인상 시계 ’째깍’", "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9pb3VVM1dQYXpjb24tWDNja0VKQm1Nc3pyYk9zMVp2QWM5ajdHZ3YwZi01RGdPeTM4eXh6WFdmdU9VOUxDUDhmbVh4TVJOVFdzSmhQZHFkdG1VWlg5cVNiNWZBRW02LWM?oc=5", "source": "연합뉴스TV"},
+        {"title": "[탐사보도 뉴스프리즘] 좀 줄었나 싶더니 다시 커진 이자 부담…'더 오를 것' 전망도", "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1xaTFmc2lHWFlCWjcxQ1ZkUVRla1JheGI4R2hJY004UlJSc3RUSUFxWHlqVGs1UlZWdWYwZ291cXZ0YW9Hd3ZxYTZWVW1aTGF0bWFj?oc=5", "source": "네이트"},
+        {"title": "[탐사보도 뉴스프리즘] 좀 줄었나 싶더니 다시 커진 이자 부담…’더 오를 것’ 전망도", "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1RbnczQkRreUpFMmhCSHd0UWFQMVdRX01xMVF3ODNXMldrbWl6a1RoQ2EtbjUzZXRDNzdwWmpsa2MtTEdDVzZsVElFeGMwMk9GcjBRck9UUGdhb3F5NUl0dEMwTnNHSWc?oc=5", "source": "연합뉴스TV"},
+        {"title": "기준금리 3% 시대…한은이 금리를 올린 핵심 배경 : 금융", "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1lQ3MyMW5uLWpVUUlMWmdSWl9HcVdPQmNlZGJnWGhjal9WWlg4SXU3NkMxbkwzdmNKNnZJZVpQdllmaHFBS0wyMEt3?oc=5", "source": "재경일보"},
+        {"title": "성장률 전망 3.3%로 상향했는데 기준금리는 3%…엇갈린 경제 신호 : 금융", "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE8wTFhMbGJ6eFNlcmRkRGJwS3hfckpGRG5iN3VIUjY3b3RlRUtaWk1UT2ppUTJvOE9zUjJLdzdZb3RfTUE4LUtXLXN3?oc=5", "source": "재경일보"},
+        {"title": "\"급해서 500만원 빌렸는데 이자 95만원\"…서민들 날벼락", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5MQkFtUWhrRmNsOW1uVWNHQ3VEUEc2N2gwTVlwdl9oNmNLc2Y3SzlXdGJmQ0xyX3U1TENwak96Vmg5NHo2OHl3RmdVNTRRd3VweGZPN1VZejZLZw?oc=5", "source": "한국경제"},
+        {"title": "PF 보증 86조원까지 늘린다지만…고금리에 막힌 '주택공급'", "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1lZjdLcERJb1ZnNG1sc2UydkdkQmVGbEJYM19yRHNIbzJvVVlQa0dfTU5YYS1EdTEwTkZ3NjlkaUR3cC1PSUN4OExUUnFuMk5jZFlvQtIBWEFVX3lxTE4xaFRPMEpQc3dQaHh0U0tRcjZZdC1ZbXNaX1hTTzQ5SnBXelRKWlBIQ0huSlRFcnVPNzF0d2toS3VVRkdDdHFxa1JRbWhTbWhYRlY2bEtYekc?oc=5", "source": "mediapen.com"}
+      ]
+    },
+    {
+      "title": "종부세 12억 기준 유지·15억 초과 대출 2억 축소…‘똘똘한 한 채’ 쏠림 심화",
+      "summary": "종합부동산세 부과 기준이 12억원으로 유지되면서 급매물은 줄고 호가가 오르는 등 고가 1주택('똘똘한 한 채') 선호 현상이 강해지고 있다. 동시에 주택가격이 15억원을 넘으면 대출 한도가 2억원 줄어드는 규제 경계선이 존재해, 가격대별로 대출 여력이 크게 갈리는 상황이다.",
+      "importance": "상",
+      "articles": [
+        {"title": "“급매물 떠나고 호가 오르나”…종부세 12억 유지에 ‘똘똘한 한 채’ 선호↑", "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9sbHJqaXVDMjA2S3RCY3NNeXJzV0tuM3FuYXF0QVA1ci1QQ0llTmN6eWdYcm9nNkQtUWJQaWktWlRuYkN2UHF6cmhUTkgyQUk?oc=5", "source": "v.daum.net"},
+        {"title": "15억 넘으면 대출 2억 '뚝'…눈에 보이지 않는 경계선 생겨", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5rdjVZaXlJbUNoS2hPNm1aRDNOT1p0MDRPZG1JSnR6LVVJaVFUXzlyejJaWHNqODU4ZFNESU41ZlF0Nm1tUTc2Ynh6UTM4VUxIa0ZNZmFONm41QQ?oc=5", "source": "한국경제"}
+      ]
+    },
+    {
+      "title": "이란발 중동 긴장 고조에 국제유가 급등…국내 기름값은 16주째 하락",
+      "summary": "이란이 한국의 호르무즈 해협 파병 시 전쟁 참여로 간주하겠다고 공개 경고한 가운데, 이란의 최대 원유 수출 거점인 하르그섬 인근에서 폭발음이 감지돼 긴장이 고조됐다(정확한 원인은 아직 확인되지 않았다). 세계 원유의 20%가 통과하는 호르무즈 해협을 둘러싼 이란의 압박 카드가 반년 만에 다시 흔들리는 모습이다. 미군의 탄약 부족 폭로에 트럼프 대통령이 격노해 거짓말탐지기까지 동원했다는 보도도 나오는 등 군사적 긴장도 이어지고 있다. 이런 국제유가 급등에도 국내 주유소 기름값은 16주 연속 하락세를 보여 대조를 이뤘다.",
+      "importance": "상",
+      "articles": [
+        {"title": "\"韓, 호르무즈 파병시 전쟁 참여로 간주\"…이란, 공개 경고", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1tUUtKbmJ4ckZCV2ZKR1JYUGEwc09NQk1iUGlxckV1eENiMkhUY0wzcW1BbVg1YkhuNVpGdnlhaDhPMlE0OFptNU9lM2dFeVNybGdQeFFCMVVnQQ?oc=5", "source": "한국경제"},
+        {"title": "세계 원유 20% 막은 이란…반년 만에 흔들리는 '호르무즈 카드'", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAyVGl6NXBnaEtaWHJMT2tveU9lejI0WWNzSXhVclRlTE0wdkFzNHlIWGhvOGJlekxlLXRUQ3BOdUt4d19JTXdMRFhlV2ludFU5Vmc4UGZZTU5OZw?oc=5", "source": "한국경제"},
+        {"title": "[속보]이란, 최대 원유 수출 거점 하르그섬서 폭발음", "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE05WDNGNXp3Q3ctay1nek1veEdxbjVLVFZtbmpfek1NcmpDaEdCTTNyX0oyY1JsMXFKR3hrQ2dtRjBXeHBlS3J5U0tNYU14bS1HR0dmV0t4MllaNHNJQ2U3T1FpWThrYzJXYjA3Nw?oc=5", "source": "한경매거진&북"},
+        {"title": "[속보] 이란 매체 \"하르그섬 인근서 폭발음…원인 아직 미확인\"", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4wOW9RT292SjhnR0xnMXVSZ0NsRml0eG14X1U4aGhWYTJTdHpXYzVGN2lTZ3JKaDhkckpXZ09SeHk4RjRKbjRVdFd2UGg4N29WTW1ZWXpVOHZVdw?oc=5", "source": "한국경제"},
+        {"title": "탄약 거덜난 미국, 출구 전략 찾지만…\"전쟁으로 이란 자신감 고조\"", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBNTFloRUVDYjIwQm84dWRsMTFVUk9SNGd5TW93cGVGZ0FlRk4yUWhQQkItWk1JZjU2b1p3eDlZS2FvUFh5Mm9KamFnRUJScVVid1RaX2lqZXlFdw?oc=5", "source": "한국경제"},
+        {"title": "\"미군 탄약 거덜\" 폭로에 격노한 트럼프…거짓말탐지기 꺼냈다", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1fbXk5Y3BSckRPQ2FPYVN6aWVpUk9lclliaC0zODN3cEdTM1lTX0M3Ty04NzFkejNfdmVnTlZ3ZFNPYkxEVVFhZWYyaWMtcFhZZ1Z1dVp3VVhpUQ?oc=5", "source": "한국경제"},
+        {"title": "전국 주유소 기름값 16주째 하락…국제유가는 급등", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBFQk1oMXFtVUNucWoycGF4LTlxQzU1em1XbWZGR3hYWDNhaDZGZFhRcHBLVmFscUVQb2w2ejYtQWRSbTRxb3phSkxHV1JDRjVFYV9RYndZWlg4UQ?oc=5", "source": "한국경제"}
+      ]
+    },
+    {
+      "title": "코스피 박스권 등락 지속…다음 주 선물·옵션 만기 앞두고 변동성 확대 전망",
+      "summary": "코스피가 저평가 매력에 상승 여력이 있다는 평가와 함께 하반기 박스권 상단 돌파 가능성에 무게를 두는 전문가 전망이 나왔다. 코스피 대비 낙폭이 컸던 코스닥은 지수 갭을 메우려는 기술적 반등을 시도하고 있다. 다음 주 선물·옵션 동시 만기와 미국 물가·금리 지표 발표를 앞두고 변동성이 커질 수 있다는 관측과 함께, 지정학적 리스크로 코스피가 6200~7300선에서 약세를 보일 수 있다는 전망도 제기됐다.",
+      "importance": "중",
+      "articles": [
+        {"title": "코스피, 밸류 낮아 상승 '여력'…\"다음주 美 물가·금리 지켜봐야\"", "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9fSERWSHA4RUFjYVJtcS1VWTRpWTRFYU81TlVxd1Vla0pPc2V1VEgyZ2pQMEpsMlpoVl96TndhQURmTkFCZlpoVUZsYlpxLVJGdzBJ?oc=5", "source": "네이트"},
+        {"title": "[더페어 돋보기] \"박스권 상단 뚫을까\"…증시 전문가들, 하반기 코스피 상방 가능성에 무게", "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4wTTk5VWhUWVR3RklNZGc2dWJWdWFwT25nS2s4VXg5c0k1SXZudV9FZWtveTluY3RzRDgtVktuTnFsUW5ZQUc0clZPeWx2LWUzOHgtOHo5X3FJbzBWUW9ROWFQeFlxUG9PQnppQTNlb0U?oc=5", "source": "thefairnews.co.kr"},
+        {"title": "[심층분석] 코스피 대비 낙폭 커진 코스닥…지수 갭 메우기 기술적 반등 시도", "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5mLU5wRVk5UThDc2VUTnAwcXJTaUVEaWRSanFlNnhjaHdKS2wyMGQzdHQtV2RKaFJDbHpxWk52MldYclNuOW5ybFhOOUJnZFRtY1Bqcks3Q055LWdUV2RaZEg1SElndkJsbXFrLVNoUE_SAXRBVV95cUxOemcydk1jMC1rbFRTRS0zd1JsZ3Q0WEhMblltX1pyVjFIUm1GbS1BcDlYTGNrTU05UEV2cmQwSjl4bkFuXzBmX3VOZGd2OFg2RTh0Wkw0bDNrWXdDRm9ZWUUzd0F6aDZmNnFSekowandjMVpDcg?oc=5", "source": "thefairnews.co.kr"},
+        {"title": "증시, 다음 주 선물·옵션 동시 만기...변동성 커질 가능성", "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9rOHcyd0dYTDhvNXNaZzl2dnZJZ2ptVlFUWEZOZDBCaUNsdnZOUjJWendsY2Y4Tm5xXzlpM2pxZXd1SG1UbWU0UERYd1lXejNFTWNJeEwwdW1PYjlkSExYRGZLYlF5YjRUeWFIVmFja9IBc0FVX3lxTE1YT0g3Q0U4NWh6dlpjaFBVZzR4aGJ2Z05vWFNlOC1EQVRkNVZWU29ybVRVYUlYaEpsMHJmSGFVLVZsS180Tlk5aXNuaVRzdXRSVXVRcEZKMVpnUDZYSkRuT2xmWkNfU0xGb0N2WHFZTmNvbms?oc=5", "source": "데일리한국"},
+        {"title": "[주간증시전망] 코스피 6200~7300선 전망…지정학 리스크에 약세", "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5WX2hzeENUUjZiT3VkQkw4MzZXTnNzMjFyUDJCellTM3k2S29LanZ0U3pDRmo5c2hzOFIxZ3NIVGhwUU1yWTAyaENjUV95NWtra21rOQ?oc=5", "source": "etoday.co.kr"}
+      ]
+    },
+    {
+      "title": "잠실주공5단지 3930가구 이주 앞두고 전세시장 출렁이나",
+      "summary": "잠실주공5단지 재건축에 따라 3930가구가 한꺼번에 이주할 예정이어서 인근 전세시장이 출렁일 수 있다는 우려가 나온다.",
+      "importance": "중",
+      "articles": [
+        {"title": "‘한꺼번에 3930가구 대이동’…잠실주공5 이주에 전세 시장 출렁이나 [부동산360]", "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE85YlEwT3ZxbjlPOEpEdVoxT3FNWjZMMEpHVUJiemtOOU42RFBJZGxaN3BaT0VSRUExYjd3OWhSUy02eXVpSWN4UGNDUnBiNHg5QWVad3dR?oc=5", "source": "헤럴드경제"}
+      ]
+    },
+    {
+      "title": "K배터리, 전기차 캐즘 속 ESS로 새 성장축…삼성SDI 지분매각·성과급 논란",
+      "summary": "전기차 수요 둔화 속에 에너지저장장치(ESS)가 K배터리 3사의 새로운 성장축으로 부상하며 미국 시장에서 존재감을 키우고 있고, 재생에너지 계통 불안정 해소 수단으로 ESS 수요가 늘며 삼성SDI가 중장기 수혜를 볼 것이라는 전망도 나온다. 삼성SDI는 삼성디스플레이 지분 5%를 매각해 4조4500억원을 확보했으며 잔여 지분 10.76%도 지분법 적용이 전망된다. 다만 실적 개선과 맞물려 성과급을 50%로 제한하기로 하면서 사내 논란이 일고 있고, 2027년 전고체 배터리 양산을 목표로 한 경쟁도 이어지고 있다.",
+      "importance": "중",
+      "articles": [
+        {"title": "전기차 빈자리 ESS가 채운다…K배터리 3사, 美서 새 성장축 확보", "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5NQ1VrdFg0T01zUFh1ck51cm43Z3FIajFSem9TUnR1Y19fQ1ZVT1c1cm1UOVpCQXoxcHJUZWFRT2FuQ1J4QkI2aEdBSQ?oc=5", "source": "아이뉴스24"},
+        {"title": "삼성SDI, 삼성D 5% 팔아 4.45조 확보...잔여 10.76%도 지분법 적용 전망", "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9xRldMX0pMTy1CeXAwdHV5UWtRZkE2REgtZGlpb2xfUy1LcXBLZ0Z4VmtIcGZOdmhXU015T29KTmk2RTNkS28tSUlZNU9DZw?oc=5", "source": "insight.co.kr"},
+        {"title": "재생에너지 계통 불안정 해소 수단으로 떠오른 ESS, 삼성SDI 중장기 수혜 전망", "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9JaC1UamczOTJiQVRVSzRFM1d2NWNFaDlaNjgxeFh1XzJsZHBsTUxTWVZDNVRrUngwdWJjbFMtSVI5QVNrNDUxV3plNVZmWkE?oc=5", "source": "뉴스N연합"},
+        {"title": "삼성SDI 돈 벌자마자 성과급 50% 캡 논란 [많이 본 경제기사]", "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9xTExmQ1RfWjgzSjZ1dEdjRzRmd2ZPNmh4dVdvZDZnbUxnN2JVd0pydlJCdW1fOTdJdnZEUEw5UFZnMHFQaDJVbHd1YUdLdms?oc=5", "source": "v.daum.net"},
+        {"title": "[더딥] 기다렸다, 꿈의 배터리…‘2027년 전고체 양산’ 돈 버는 곳은?", "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE02S3FncmlHQkYwU01OamFjN2pJQWlJUjVEWnFQUktsbmYyOThHeVN4cFJ5MzFmZGs5aFBwVFM3LXFRdFQ5QUtieTR2alRZdll2ZDV5QVB5UmVzcERwQ2UyTDVQSQ?oc=5", "source": "더구루"}
+      ]
+    },
+    {
+      "title": "러시아-우크라이나 평화협상 재시동 움직임",
+      "summary": "트럼프 대통령의 사위가 푸틴 러시아 대통령을 만나기로 하면서 키이우 공습이 사흘간 멈출 것으로 알려졌다. 트럼프 특사도 러시아와 우크라이나를 연쇄 방문하며 평화협상 재개를 시도하고 있다.",
+      "importance": "중",
+      "articles": [
+        {"title": "트럼프 사위 만나는 푸틴…키이우 공습 사흘 멈춘다", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5NbzA3SnlQUmNXak5BS3dBdDVBckRpYjh3SVhBdzhxa1RXOWhYYWRSc3JLaE1ISjMxWVRZQWdaY3lHVFUyYWUzZXR5NkQ4ZXRuOW9nRFRLdlZDdw?oc=5", "source": "한국경제"},
+        {"title": "트럼프 특사, 러·우 연쇄 방문…평화협상 재시동", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1kN3hkMW5iMURYc3FOdElOZThWV2VSOVBUZXZUcDlhTThjUTY3SFNFVk5wbkZmN3p6ZXpjQWpnd1JrMGJEZ1B6dUoxd1NtZHZwYXRtVFlwdnk4UQ?oc=5", "source": "한국경제"}
+      ]
+    },
+    {
+      "title": "Hims & Hers, FDA GLP-1 경고에 이어 FTC 소송까지 겹쳐 주가 하락",
+      "summary": "미국 원격의료 업체 Hims & Hers Health가 미국 식품의약국(FDA)의 GLP-1 비만치료제 관련 경고로 9월 첫 거래일 주가가 하락했다. 여기에 미 연방거래위원회(FTC) 조사와 주주 집단소송까지 겹치면서 저평가 여부를 둘러싼 논란이 이어지고 있다.",
+      "importance": "하",
+      "articles": [
+        {"title": "HIMS Stock Kicks Off September In The Red: FDA’s GLP-1 Alert Steals The Spotlight From Australia Expansion", "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUnNxSjZKejFwV21fZFY1NmNzNllMcDMtV1Jma3YyOTVMaUxocVBkSFhvd2ZVXzBVMWJ2NzN2YUZ1YU51VkI4Uk1WVmNiVWk4czZXUEExQjhaNWJ2ZXBzX3hvdTBVWE5HTUtKUGJFT2w5N0lqU3NmT3NhcG15QUo4eXZlSGF5YzlUOThUNlgtcnZhWngtdE5KSGs1MFNjTVdDZmZyOFNURWpTMWgtWjBQME5uam4xemFzSG9rSg?oc=5", "source": "Stocktwits"},
+        {"title": "Hims & Hers Health (HIMS) Faces FTC And Class Action Lawsuits, Is The Stock Still Undervalued?", "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTC1PZVNSd1ZjUUxnU2hDT1F2N09UMTdta1dPTlVFNTZOdWRZZjlBQ1hIMW5JTkdQTTR5TC1PbnVnbi0zNjdGQ21laE93c2dXdWpVeExhWXNiX0hQSnJiMWUtSXhzdWRaWHhjNUFRRUdIVTNoNC12Ti0zVUZvV1RBNGN2THhZTThvWDZKZlZqbGdCX0gxZ3lfU0lxZ09UejJELU52YTI4LWJ5Q01RbDhyTFJrR0RxWnJKZExWWUtseDhTNldJNzhkbm1VUzlnbnRu0gHWAUFVX3lxTE80NDhiQTFiRDNmUTF0V3FfN0lXZncwTUJTa3pJb3h6ZjNvUDZXUzBHS255YnhMbDhtaU5fUVJZdk9PaGttVHVORF94Y01CdmFkb0lidGQ3X1JDeFRjODJnQl96UjR1Ny1kNkNLUURVU21Mc05SMll1VDdEUnAtRGlpY2Yya0VRSUdGWUQwOFJhSE9mQUE1Nl8zOGd6NDFkcFRPMEF1TlN6bENfUG03cHNSMzZPWWk0ZWZFa3BfMDhmTmFiTUIySFFaTGtWdGlNZEFncVRYOWc?oc=5", "source": "simplywall.st"}
+      ]
+    }
+  ]
+}
