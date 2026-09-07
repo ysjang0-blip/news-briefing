@@ -2,7 +2,7 @@ name: daily-briefing
 
 on:
   schedule:
-    - cron: "0 23 * * *" # 23:00 UTC = 한국시간 아침 8시 — 백업용 (본 실행은 cron-job.org가 7시에 트리거)
+    - cron: "0 0 * * *" # 00:00 UTC = 한국시간 아침 9시 — 백업용 (본 실행은 cron-job.org가 7시에 트리거)
   workflow_dispatch: # 외부 스케줄러(cron-job.org)와 수동 실행 버튼이 사용
 
 permissions:
