@@ -1,0 +1,124 @@
+{
+  "date": "2026-09-14",
+  "topics": [
+    {
+      "title": "美 연준, 물가·유가 급등에 '금리 인상' 가능성 급부상",
+      "summary": "미국의 소비자물가(CPI)와 국제유가가 급등하면서 이번 주 9월 FOMC에서 연준이 오히려 기준금리를 '인상'할 것이라는 전망이 시장에서 확산되고 있다. 이런 흐름에도 트럼프 대통령은 \"미국이 세계에서 가장 낮은 금리를 적용받아야 한다\"며 연준에 인하를 압박했고, 연준 인사와의 갈등도 깊어지는 모습이다. 유럽중앙은행은 이미 기준금리를 0.25%포인트 인상했으며, 여러 중앙은행이 잇달아 금리를 올리는 '도미노 인상' 조짐이 나타나고 있다. 다만 한 매체는 \"연준이 실제로는 월가의 이해관계 때문에 금리를 올리는 것\"이라는 비판적 시각도 함께 전했다.",
+      "importance": "상",
+      "articles": [
+        {"title": "\"연준, 월가 때문에 금리 인상하는 것\" - 블루밍비트", "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE11VmVTbElXM09ieGVoT3IzUUE5VmZUcFlmcWVFREFTOGM1ZHpSVWh5cENBV0tWTzNyRUxidFF4ZFFja1lDQUxFTTlpbUxOaThj?oc=5", "source": "블루밍비트"},
+        {"title": "트럼프 “美, 세계 최저금리 적용받아야”…연준에 또 인하 압박 [1일1트] - 헤럴드경제", "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4zT3BidlpGUkswYlRlcFZJVzkzTUtRUUM1eDczN3p4NUcwdlBOeHAzTGFSTjZ0TnZGVTZNYWZjbGh0S3hyall3NnhmY0IwVnZmZzRHY1BB?oc=5", "source": "헤럴드경제"},
+        {"title": "트럼프 “美 금리 세계에서 가장 낮아야”…CPI 급등에도 연준에 인하 압박 - 블록미디어", "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE05ZGl5bWtCUWJFanBaSzlFUjY5aC1GSUFVOGtwcG9fNlNTcExBcjZFb2E2YThGaHI4cFhOYmNhTVg0RmdSbDJFOUs3YV9mNV8yc0JPRmlCaTk?oc=5", "source": "블록미디어"},
+        {"title": "“금리 내릴 분위기는 아예 아닌거죠?”…중앙은행들 ‘도미노 인상’ 조짐 - 매일경제", "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONVVwSVktUWx4UVo3N3ZBdVc1N3NJakNnSzhfOTFxZkdnSkotenZUNkIwdGFBY0xzRm90cnk3UWZKSlNSQVZJM2ZlaEJKLThjM2NGa0pqMDdvN05OQWIyOE9PcmItN0x1c3Zlak5uSU52QUhnTUg4OFRFdDQ3TXY2UmhFa2JycEw5?oc=5", "source": "매일경제"},
+        {"title": "[뉴욕증시 주간전망] 9월 FOMC 기준금리 인상 가능성에 불안감 확산 - 글로벌이코노믹", "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaTJsaTYwdnVSTGdtVW0yN2xBdlh5UWU0V2pCLUdBZHFUVUZsdHFNV1NMTDNFWnRQNV9icnBZWVU5RjltaUVCR3pCR2RXbHRsOHlBdm5xUjloQkpqdkVPbU9TWTdPZXg3bFRmUktHTkdleHFHbDhsazdxbWNtcTF3ZDZlQ185YTJ3?oc=5", "source": "글로벌이코노믹"},
+        {"title": "유럽중앙은행, 기준금리 25bp 인상 단행… 인플레이션 목표 상회 지속 전망 - 2news.co.kr", "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE91Q2NFWkNMZ2s4UEMtbThqVVZ4ay1LaVVjbk42WDQ4M3RHVDl5SE9ZQ3ZYTnNScXFtT183OE5Iajg0Zk12MTkzWXJSTjhoenllbzB3NUxkbDM3Mml3TUlJWG1xeUNmbmst?oc=5", "source": "2news.co.kr"},
+        {"title": "기준금리 인상으로 기우는 추…미 국채 ‘10년물 금리’ 5% 넘나 - 경향신문", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE95N3A1T3lTQnlYdzlpam1WdU03M1N4S0JaeEZKVzBvTGt4V1lNbkdKWlVvVGpwbVNTeDIwLWh3RnFBdHd2U2xCcW5neHhYczBPRHItNXNyWEpkd9IBX0FVX3lxTE14WUVHVWhwRjVhZTJ4VEczZVAyME1QQXFfb1U0c29XNUxocFRCZEhsa2xqc0JYSkN0ZS1OLUVYVFBvX21XQ1FrcTY5UU1XRm5iREYwRUkzMzFiZHFIYURn?oc=5", "source": "경향신문"},
+        {"title": "[사설]두 달 새 200원 출렁인 환율, 변동성 관리 철저히 - 파이낸셜뉴스", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ES3lTSlMyWWRiNHh6ekpqWnJuMFViaGNJcWFwamlicTk2dzg3NTVGT2k4MV9vT0YwdTNVdW5WRTNBNk80SnBHdE9vS3JxSWVPM2d6ZXNUdUhNdw?oc=5", "source": "파이낸셜뉴스"},
+        {"title": "트럼프 vs 워시 갈등 골 깊어지나…FOMC에 쏠린 눈 [한상춘의 국제경제 읽기] - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAyUHJ3VWRDTlg2NDBkVTRNaloweWFvZHlEQ0RkSDhTTGl0Qll6TGpFUkQ3MWZRdU1qTnF1WjhiSUV5UW5jUldZMlY1RTBnR2pLdkF1NmJGbEk0Zw?oc=5", "source": "한국경제"},
+        {"title": "유가·금리·환율 '트리플 악재' 부상…증시 변동성 확대 우려 - v.daum.net", "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE04aThIWFB2eUV2a01KMkFwdUFTMjNULXA3b0JKYXhvOGhCQnJ0Q1dRLVZaYS1KRXIxVkNtRW43bmprZ09ST1dyMXY4NHBvRUE?oc=5", "source": "v.daum.net"}
+      ]
+    },
+    {
+      "title": "원/달러 환율 두 달 새 200원 급락…반도체 이익 전망 21조원 감소",
+      "summary": "원/달러 환율이 최근 두 달 사이 1550원대에서 1330~1340원대로 약 200원 급락하면서 삼성전자와 SK하이닉스의 3분기 영업이익 전망치가 합계 약 21조원 낮아졌다. 반도체·자동차·식품 등 수출 비중이 큰 업종이 타격을 받고 있으며, KB스타리츠 등 환헤지 상품을 운용하는 곳들은 조기 롤오버를 검토하는 등 대응에 나섰다. 다만 일각에서는 미국의 긴축 재개 가능성을 이유로 환율이 다시 반등할 수 있다는 전망도 함께 나온다.",
+      "importance": "상",
+      "articles": [
+        {"title": "[26년 9월 14일(월)] 환율 급락에 삼전닉스 영업익 전망 21조 증발 - 비티의 오늘 주요 뉴스 요약 - 네이버 프리미엄콘텐츠", "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUW1fMXdMT3BlWTQwOUwtNzRjc2VPeXdsOWdXOXhiRHNfSm1ra1Nmclc0QkpaQWtwNUE5T00wRGdQSUVnbk5rWFdNdkZoYTNmZV81c1BnOElQTzVnMUdBRklYY3lxTnA5TDVnNm9ha1hxTm1WVTlOLTBSeENNQ182SA?oc=5", "source": "네이버 프리미엄콘텐츠"},
+        {"title": "[단독]환율 내렸다…KB스타리츠, 영국 삼성전자 유럽본사 환헤지 조기 롤오버 추진 - 대한경제", "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE44WXAtSGZIQ2kwZ19CMGpnZlZWQVowZXNudjE2V3RwV2s5QjRRWkZUakV4UG5lQUZmRTlqR1FJWVFiVzdTVVYxX3JmQTJOT19lSlFUdE9ibERxYWlwVk9acGFwV3RDSGxwMUZWd1ZyVHpHVWFI?oc=5", "source": "대한경제"},
+        {"title": "두달간 200원 넘게 떨어진 환율…美 긴축에 다시 반등할까 - edaily.co.kr", "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcFFUVjIwNUJNTzZxQ1hMakpESVdjNmg3YVJ6M0t3RHBET1J2cElzbk83WUxfX3Y5Sy1NVTU1ZHd6bXVWNzFOR3VGU0k2VjUwblNqVmlaV05mRVB1MG5yRE1BSmtRTHl3ajdZQjR2eTZ5SFI1OFdfcG1LZmctekdvdQ?oc=5", "source": "edaily.co.kr"},
+        {"title": "환율·채권, 주춤한 원·달러 환율 다시 오르나 - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9EMEs5QnhYaWFIc1NFTWl2OVRHUUtXRFVDSE5UbTNKS0wxUnlzOTRGWC03WnRqQkhzX2p3eHVfSVlaaUNpLUxxbDFveWUxaThaQjFqU3ltTXlsQQ?oc=5", "source": "한국경제"},
+        {"title": "[기획] 원·달러 1200원대 ‘아른’… 수출첨병 반도체·車, 한치앞 ‘캄캄’ - v.daum.net", "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBzbmtzMmJZeklPTXJ3bnRxSGlFOVlYbVYyTWgyRnhCNndKQ2twUVd3Y2Y3T0VXM2UtcUpjVUxSZHptQjR6M2oyYnhwaHhCeE0?oc=5", "source": "v.daum.net"},
+        {"title": "환율 1550원→1340원 '뚝'…전문가 \"4분기 코스피 조정 가능성\" - 뉴시스", "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ZMGh3Zk5XMlc0RXF0WUpNN3dPMjdpZnBBdjNHc290TjQ4MlU0eWk1SVJqX2RBSU14bXdBNlpxZGhJa2pCVjEyeWQ2ZmNJSXJ4Y2ZlX2FkOXdfalA0U2VDLdIBeEFVX3lxTE1kSnRoRU1ucEVhRGdVNjVlZU5FNlRzWGRTZl9pZHYwQ1B4TEhRNDBaTFljTFotay13OXl5RUh2ZVZlOFpJVWdiOG5DLWZuOVd3b0xKR3paQ1BDQ21JM19nZEZTOWpDd0FQN0RBQkw3ekpyTTR2dFJudg?oc=5", "source": "뉴시스"},
+        {"title": "수출 비중 높은 식품株, 환율 내리자 '쓴맛' - 파이낸셜뉴스", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9UXzdBMjZqRVJBdnlpS3VCUUk3YndvVUdjSHpVX3U4NmVqY1hLUHJ6M2ZIVTdDOWhYdllFYjZyRS1PLWNBM1NzU3JKSmgzamt0dGF2dG84c0c1UQ?oc=5", "source": "파이낸셜뉴스"}
+      ]
+    },
+    {
+      "title": "국내 기준금리 인상 여파로 예금·대출금리 동반 상승",
+      "summary": "금융지주들의 3분기 실적 눈높이가 오르는 가운데, 한국은행 금융통화위원회의 2연속 기준금리 인상 여파로 국내 예금금리가 3%대로 오르는 등 글로벌 고금리 기조가 국내로 확산되고 있다. 다만 일부 저축은행은 기준금리 인상에도 오히려 예금금리를 낮춰 시중은행보다 낮아지는 역전 현상이 나타났다. 국채 장기물 금리도 연 4%대로 치솟으면서 정부와 기업의 자금조달 구조에도 부담이 커지고 있다.",
+      "importance": "상",
+      "articles": [
+        {"title": "[N2 포커스] 금리 오르고 환율 내리고…금융지주 3분기 실적 눈높이↑ - 뉴스투데이", "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE41QVB1cnc3NEgwWVlwcXplcWJIWGVadnVYNlF2akZ3NGlYOFBHZDIyMzR2bHJBYk5hMVh3YkE5NTNxUC1md082QjN2YVZBV1RaQWFzcjNId3FEVmFCMkE?oc=5", "source": "뉴스투데이"},
+        {"title": "기준금리 올라도 거꾸로 내린 저축銀 예금금리…일부 은행보다 낮네 - v.daum.net", "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9TMkV6aWFJRFNHQk9XSDhvNnpKd0FfMHpuVEpHbEJIeDNicTg1aVBSSEVLdUZLZzRmWjhaUEJoSXZ6M010dzAzR2RFeE8tMzg?oc=5", "source": "v.daum.net"},
+        {"title": "장기채 年 4%대로 치솟자…정부·기업 자금조달 공식이 흔들린다 - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1INTAyN2I1OV94eVl4UmFQc0t6R3pOc18wd2Q0U2dDdjJCZllhU2JtSy1GTFF6MWZ3WHpxd19PcUlJRFJJZjcxNk1mcW14bnd6cHI1SERnWXdQZw?oc=5", "source": "한국경제"},
+        {"title": "금통위 의사록 공개…2연속 금리인상 속내는 - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1xeUZmeWkzWHdYTld3bGljalVoMzFBMlBYQmIxWkNGcDV0b0ZnTnh0SXZvVHRiMVZ4bFNwaTVzV0R2a21MR1BnQlduLXlCRUNlRTVVcTJSYlNEUQ?oc=5", "source": "한국경제"},
+        {"title": "글로벌 고금리… 한국도 3%대 예금시대 - v.daum.net", "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9tWDkyaERobUFzOXYweEdQSFpKcFV2RUJCUHVEMS0weUFJVTFxNEE0dldJbzFRaHZHVnN1aWFjQkFndlI5UlRoTFhpQUpzelE?oc=5", "source": "v.daum.net"}
+      ]
+    },
+    {
+      "title": "서울 아파트값 83주 연속 상승…역대 최장 기록 눈앞",
+      "summary": "서울 아파트값이 83주 연속 상승하며 역대 최장 상승 기록 경신을 눈앞에 두고 있다(CBC뉴스는 85주로 보도해 매체 간 집계 차이가 있다). 정부 측 이형일 경제부총리 후보자는 \"공급 부족이 상승의 원인\"이라며 과천 아파트값 상승은 투기로 단정하기 어렵다고 밝혔지만, 여권 성향 부동산 전문가들조차 서울 집값 추가 상승을 우려하는 등 정책 실효성 논란이 이어지고 있다. 강남 3구는 상승폭이 다소 둔화된 반면 강원 동해, 지방 공공기관 이전지 등은 오히려 상승률이 두드러지는 등 지역별 온도차도 나타났다.",
+      "importance": "상",
+      "articles": [
+        {"title": "\"금리 올려도 안 꺾인다?\"… 서울 아파트값, 85주 역대 최장 신기록 세우나 - CBC뉴스", "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBHYk9iTzRtTXNYYnZtM3RrQVRQV204Sy1YaXFCU1lKU0xqRmNIdUdMUC1DbWRSWGN1bGVGWGY5bWZVc3daWmdZaXZ4LVlBOU1rM0NVbHZNNGhLRzBEbVlZRWptQXNuRmpr?oc=5", "source": "CBC뉴스"},
+        {"title": "지방 집값 벌써 ‘공공기관 이전 나비효과’ - 대한경제", "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ydlNxZi03M0Q4Z3RPTTV5NGVlU3QzMXZJS04zUlJqeFIzUUVqVnRiYjFpZ3AzN2stcnhrTVFjd1hTcnVrOFZCQUpwZEZEdG5QVnd5T0RPcF96TzdZMW9FRTRLYnotdUJJNU93NV81dFFIZ3la?oc=5", "source": "대한경제"},
+        {"title": "강남 3구 집값 꺾였다지만…친여 부동산 전문가들도 서울 집값 상승 우려 - 아시아투데이", "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5CZHZCSlVnSExZVDZaSk9uemJIYTNKcXZnaHZBWlpDekdpRWlRekdUYkI2SllFVlNUeG94NnoxVENLTHlMWTF5UnkzSkRMdWpSMm9MQUJRc1dwSnRzR3RSaUtXbzRGU3BMbVpscENn?oc=5", "source": "아시아투데이"},
+        {"title": "이형일 \"공급 부족이 부동산 상승 원인\"…과천아파트엔 \"투기 단정 어려워\"(종합) - v.daum.net", "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB0LWhlOExKaGdYeXgyRTZXRE9RT2Y3TjdIdFhsNzdzMDlPd0pLS0dQZjlYWVJJU2VRLVpvLXRmVkUtTHdlLUthMDhNRGpISU0?oc=5", "source": "v.daum.net"},
+        {"title": "이형일 \"공급 부족이 부동산 상승 원인\"…과천아파트엔 \"투기 단정 어려워\"(종합) - 뉴스1", "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9jb3pCU3NtOWVIZDA4a3I5WXhnbS1HTFNiVWxFXzNnbzI3bnZJU1lRMU5mV3ZVX2hRekRWdEF6QzhuSWpqSWtXLWdxcTB5VUEyQW16Z9IBWkFVX3lxTFBzMlM2QkFFcVhtNTkxMUN1a3VaVVpfaVlpS0VJZTgyY0VMaE1XTDFZbEpLeVpjOWw5QUFEYTl2dXBMMEYxTzQteGhtODBfRkY1SHpNeE94MmF5UQ?oc=5", "source": "뉴스1"},
+        {"title": "'동해선 고속화' 효과…강원 동해 집값 상승률 1위 - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9RaHlxclVVVnZ2OVhoWHhPYktCQmk0Zkp0QnQzNVRWclk5LTZGTEFRSERKZ1p1YzBsQXkyNXo1VHlvS0djZjhsek1EYlpFYlM4dEFKT002c2F3Zw?oc=5", "source": "한국경제"}
+      ]
+    },
+    {
+      "title": "환율 하락에도 서학개미는 美주식 매도, 외국인은 반도체 대신 금융·바이오株",
+      "summary": "환율 급락(원화 강세) 국면에서도 국내 개인투자자('서학개미')들이 미국 주식을 순매도하는 등 예상과 다른 자금 흐름이 나타났고, 전문가들은 \"환율 강세라고 무조건 미국 주식에 투자하면 손실을 볼 수 있다\"고 경고했다. 외국인 투자자의 원화채 매수세는 꺾일 조짐을 보이는 한편, 국내 증시에서는 반도체 대신 바이오·지주·금융주를 사들이는 것으로 나타났으며 에쓰오일·KB금융·삼성전자우 등이 외국인 지분율 상위 종목에 올랐다.",
+      "importance": "중",
+      "articles": [
+        {"title": "[이슈/외국인 원화채 매수세 꺾이나] 환율·시장금리 변동성 확대 가능성 - 코리아포스트 한글판", "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9IdlVDSGpJVnk1dUY3ZldTMGRwaEhGMkFuVUlBbDB6c3VxTXZXSFlpbFU0aHNMS3dUUzhoUDhncjN4N3ZaNkZiNEZLZ3pwZjJjNm5RRGlnd0hmYkRocGxxd0cxeWp5NUdYX0F2cXdn?oc=5", "source": "코리아포스트 한글판"},
+        {"title": "\"환율 강세라고 무조건 미국 주식? 그러다 큰코다친다\"…증시 전문가 경고 - 뉴시스", "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBZUFc2Wkd3QWNQYkVWaFNhUzhTc2VCZGViTDN2Y1IxS1pyMFZkdkpxNnB6bi1YTkpIdW9mTlNVczVuOGNiWWRKZWdhRzllZEdTeGd5RVJjaE5Uc1FqY0FWatIBeEFVX3lxTE9yMFdiVlJRN3M3R3ZiR1I2M2UxVHhlX2ZNWVJzNGZKT1ZCM1Ewc2tfSlNTcnY1Z05QTnYxZVVTbFZuSU1CLUVBUDlNMTM2Q2NVb1BGeXdTNjNWNmF5eXV1dFdkZzhlaVgxOUgxeWR1VVl0elo5WHhjVg?oc=5", "source": "뉴시스"},
+        {"title": "입맛 달라진 외국인…반도체 대신 바이오·지주·금융주 샀다 - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9UWVRqQUxYaFBIM2kzelJfS28xc3dadk9XOEZGWjA2Z3QzN1BNTnI2bmdRU3N2U2FncHpXNFdHRWRhRGlhSGFYY0FHb01uUUExWWliZXJ0ekdHUQ?oc=5", "source": "한국경제"},
+        {"title": "에쓰오일·KB금융·삼전우…외국인 지분율 가장 높아 - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1tM05uQnI4VGhITTJUSHYxNm0ydmsxT2NIN0YtUl9TQnVPc0VwSTBXMFRKU1VpMS0zSF84VTJlU1E5SDh6NnRjcTlVQWFJWGs3ZWVvOXV1SU9Wdw?oc=5", "source": "한국경제"}
+      ]
+    },
+    {
+      "title": "종부세·보유세 계산법 개편…공동명의는 유리, 비거주 1주택자는 부담 늘어",
+      "summary": "부부 공동명의 1주택자는 개편된 종합부동산세 체계에서 유리한 것으로 사전 안내되는 반면, 공시가 30억원 비거주 1주택자는 2027년 종부세가 429만원 더 늘어날 것으로 추산됐다. 보유세 계산 방식 자체가 크게 바뀌면서 납세자별 절세 전략에 대한 관심이 커지고 있다.",
+      "importance": "중",
+      "articles": [
+        {"title": "\"부부공동 1주택 '유리한 종부세' 사전 안내\" - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBKTmh3VWNvaVdrUGppRC16TjZ4cl9CZDZfSG9Yejc3ZDB2Wk5jeVVoNTB1ZjNCQ2N2bVdOUVhDSXJHWGpaOGJpZC1ybzdPQXlwTy1tOGZxVnhVUQ?oc=5", "source": "한국경제"},
+        {"title": "다 바뀐 보유세 계산법 한 방 정리 [한경 프리미엄9 TODAY] - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5yVDZGSzJrYklqSjFLQzFWanlNeVR2Vjd1bXhjS1FJcVpmcWVTWXFJRmhXUUJ1MHFTUjYzaFVqNmpaZzR4ZEE4U3BXTHAwZnpYbkk1MWdjUzFSQQ?oc=5", "source": "한국경제"},
+        {"title": "공시가 30억 비거주 1주택자, 2027년 종부세 429만원 더 낸다 - v.daum.net", "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5vd1NnVzltZ25qbjZxUjNNMVVKNUllOXM2YldyTkFwTlhOVWpkTUdpMFBuV2xsZFYzOU5janJVeUFoUUlCS0k3dlp3SGhCdWc?oc=5", "source": "v.daum.net"}
+      ]
+    },
+    {
+      "title": "코스피, 7000선 안착 실패…이번주 美 FOMC가 최대 변수",
+      "summary": "코스피가 7000선에 다시 안착하는 데 실패하며 등락을 거듭하고 있으며, 시장은 이번 주 미국 FOMC의 금리 결정을 최대 변수로 보고 있다. 반도체 대형주가 급락한 국면에서 저가 매수로 15% 수익을 낸 사례가 소개되는 한편, 코스피 강세장의 수혜주로 삼성증권(배당수익률 8% 기대)이 거론되는 등 투자 대응 전략에 대한 관심도 커지고 있다.",
+      "importance": "중",
+      "articles": [
+        {"title": "7000선 다시 내준 코스피…이번주 ‘美 금리’에 쏠린 눈[주간 증시 전망] - 서울경제", "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9VVEZIMktBeEl5ZzZzUlE2U2JHYm1QV2VSSFlCRGFZMm5BeENhNGpYcDJ1cGdTZE5HNjgxTFlCcTFnZTFpN3Zvbmo5bS1xZm5pZmfSAVNBVV95cUxNeW9yVmtiam94RDdqbzd3UXlSOE5hRjJ3d2NCZjQxQzN4NG44cUFHZmNUMUVTVEc2QmJXZlZOb1Q5OXg0U1BWS1RJMTRsVlpheGQ4dw?oc=5", "source": "서울경제"},
+        {"title": "코스피 7,000 재돌파할까? 이번 주 국장 대응 시나리오 - 네이버 프리미엄콘텐츠", "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQkhGS3RyZHl5cWEybC1yMHZRQlhia3ExemtQdFhhenh0Z0licWItcWNxU0E5Rk9uQ0lCTHFGZUZMV2FkRkZNUWJKMFNySEZ0cTNSTWZiVEtyekFFN0x1cXFtVmE4eEZGQ00zQVQ5a3pIZ29OX0Y2UWtiZE5wbTFneHdYcHE5X3V5WDIw?oc=5", "source": "네이버 프리미엄콘텐츠"},
+        {"title": "반도체 급락할 때 '이 주식' 담았더니…\"15%나 올랐다\" 환호 [한경우의 케이스스터디] - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9xc053bHZGbWFraGFId2k5bGRrU2llZ2ktdHZjcE1aR2p6UDRBVkdQWHVNVnVXN1M4SlJQaEx0SXpQQ0tWd1NGQkJaWEVjS0g0aWF6YVhHMFpQdw?oc=5", "source": "한국경제"},
+        {"title": "[증권言言] 유안타증권 \"삼성증권, 코스피 장세 수혜주…배당수익률 8% 기대\" - 마일드경제", "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9mQkgxN1RvWFpRdGs4NW1SMWl0dUZRbkRKbEN5bEdEWHZlRFRqQ2NKbjJUZ2RfT0RkQTNON2E4a2c2RjJwR29HRGhwUzBTaXFELXQtZUZvMlhDbUx6ODRBYlVmNHAtdjVNS3B3?oc=5", "source": "마일드경제"}
+      ]
+    },
+    {
+      "title": "美 시장까지 파고든 中 전기차…한국 완성차 '초비상'",
+      "summary": "중국 전기차가 미국 시장까지 본격 진출할 조짐을 보이면서, 주력 차종이 겹치는 한국 완성차 업계에 비상이 걸렸다. 트럼프 대통령의 관련 발언 이후 국내 업계는 대응 전략 마련에 분주한 것으로 전해졌다.",
+      "importance": "중",
+      "articles": [
+        {"title": "美마저 中에 뚫리면 주력 차종 겹치는 韓 '직격탄' - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9uLUhubnhBcXFpX2hPNUx5ektGSDh3T0tkeHFLZmdqNzlnRHZsbURyTnI5OVM2dmQyN1doOWNWNkJtdXFqUkVQNFZTMUs0THE4WW1ERXVtTnNCUQ?oc=5", "source": "한국경제"},
+        {"title": "\"미국마저 뚫리게 생겼다\"…트럼프 한마디에 한국 '초비상' - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5VckVuUWVzbTNXeE9JbFBJLVlxaTUtYWVyX0gtZEJBanlkXzRlN1J4VWhCWVBIU3BVam9QNVRtQVlDTHlndG03TnRLUGxGTHZITnFWT1E5SnNHUQ?oc=5", "source": "한국경제"}
+      ]
+    },
+    {
+      "title": "삼성SDI·LG에너지솔루션, 전고체·ESS 배터리 경쟁력 강화",
+      "summary": "삼성SDI가 전고체 배터리 상용화 경쟁에서 CATL과 함께 앞서나가는 가운데 파나소닉이 뒤를 추격하고 있다. LG에너지솔루션은 북미에 5대 거점을 구축해 국내 최초로 ESS(에너지저장장치)용 LFP 배터리 양산 역량을 갖췄으며, 두 회사 모두 테슬라의 메가팩(대형 ESS) 증설 훈풍을 타고 북미 ESS 시장에서 성장축을 넓히고 있다.",
+      "importance": "하",
+      "articles": [
+        {"title": "[Z-스코어 기업가치 바로 보기] 차입이냐 자기자본이냐…LG엔솔 vs 삼성SDI ‘명암ʼ - 한국금융신문", "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE41Z2E1NnJ2S1lGejlPWHhJVHpJdl9NZ3hMNmNXWUFDMUp4SkN4VUlmV2dTOGJSM1BNamxVM2F4WFZSOEpWMjRxNVhrNFB0VnlSdjF0M1lkMVRVX1RteFlOcmtiT0k0Q19IczJNdWxuSlgwZWk0SzhnMlVGN3k?oc=5", "source": "한국금융신문"},
+        {"title": "전고체 상용화 속도전…삼성SDI·CATL 앞서고 파나소닉 추격 - 메트로신문", "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1SUFFwazBFR0UyVjJYejhNcHBRU1BjUFlPRE41dU1SRkUwUF9yS3hOZFF0ZWY1aVhOTVMxZmNfWmp0SkZfeHY2YndHc045WC1zU3RES3gzdmRtVVFnQXVOMw?oc=5", "source": "메트로신문"},
+        {"title": "[흑과백⑨-흑] LG엔솔, 북미 5대 거점 구축…국내 최초 'ESS용 LFP' 양산 역량 - 신아일보", "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBQc252TTdXX2t2OWlWVDZwQ3lMdjQteDNLZ3gwUGFqTDFoc1l0blZHQXZONk13OTFMNFktMFBCTTVmaE1razJQeDNuam1pODdmYlg5R1ZNQ25zTlJrMzFWS2JaYWFMZVJZejF0V1FkeG4?oc=5", "source": "신아일보"},
+        {"title": "테슬라 메가팩 증설 '훈풍'…LG엔솔·삼성SDI, 북미 ESS로 성장 축 이동 - v.daum.net", "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE16UlJjSXNEMlJzeVVfQldhMXp6and5U1ViaXFNM3RheDBhdFhiLXRPUHVFTUdZNHB0dUNyN0hlY0VhUzhFcnc0RUVhbGhzT2M?oc=5", "source": "v.daum.net"}
+      ]
+    },
+    {
+      "title": "트럼프 \"이란과 중간선거 직후 전쟁 끝난다\"…중동발 원유 수송 병목 우려",
+      "summary": "트럼프 대통령이 \"이란이 계속 전화를 걸어오고 있으며 중간선거 직후 전쟁이 끝날 것\"이라고 밝혔다. 한편 예멘 후티 반군이 '눈물의 문' 해협을 장악하면서 호르무즈 해협에 이어 홍해까지 막혀 중동발 원유 수송에 이중 병목이 발생했고, 이로 인해 국제유가 강세가 미 중간선거까지 이어질 수 있다는 전망이 나온다.",
+      "importance": "하",
+      "articles": [
+        {"title": "트럼프 \"이란이 계속 전화 걸어…중간선거 직후 전쟁 끝난다\" - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5rbVBhaDJQelE0WGtBNXhqel9tZ3E3eEFkZEJ3WW1NUWprZG9yUTUzeTFBWGdZdG45NW9xQ3lLSEZFem5GbG9jNDRGZUNOVjdRN3hUc3FzbC10UQ?oc=5", "source": "한국경제"},
+        {"title": "호르무즈 이어 홍해도 막혀…중동 원유수송 '이중 병목' - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9pNFFYU2RkMDY2TXdOczBENVY2SVZUaDd1djdYM0FXYkZfcWdJUWt5aHVTdWJZejRyT3RfWm9MamtDOWZCYURIRDMzRFdicDd4cGg4VTUxbjFuZw?oc=5", "source": "한국경제"},
+        {"title": "후티, '눈물의 문' 장악…\"트럼프 계획 산산조각 냈다\" [이상은의 워싱턴나우] - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE51NVNnQnpDU3hjRG5vOVAxSkU2LWlvV3FONHp2SVUtREJScjdyb3hPODI2NklqNmNpbHA4anVaSklJaGIyckZOVzluQ1lFMmVqWC1EaEZfYUJpdw?oc=5", "source": "한국경제"},
+        {"title": "美 중간선거까지 유가 고공행진?…\"업스트림 전략 짜라\" [노정동의 어쩌다 투자자] - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBMNUFDaHNqRUNTd3dHV2hnOGZpMXo4ODdtcnZ3QmI5Zl9CYXdyaWltci1hU251SnozSW9rRTRJZ2t0RVdYWHdfTTlnM0xSMFI5VnNhQ1JkalFZUQ?oc=5", "source": "한국경제"}
+      ]
+    }
+  ]
+}
