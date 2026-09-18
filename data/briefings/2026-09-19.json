@@ -1,0 +1,133 @@
+{
+  "date": "2026-09-19",
+  "topics": [
+    {
+      "title": "코스피 2.66% 급등, 6894선 마감…외국인 8거래일 만에 순매수 전환",
+      "summary": "9월 18일 코스피는 미국 증시 훈풍과 반도체 대형주 강세에 힘입어 2.66% 급등한 6894.23으로 마감했다. 외국인 투자자는 8거래일 만에 '사자'로 돌아섰고 삼성전자·SK하이닉스가 지수 상승을 견인했으며, 미국·일본의 잇단 기준금리 인상 부담에도 FOMC 안도 랠리와 금리·유가 부담 완화가 겹치며 반등폭이 커졌다. 다만 한 대학교수는 내년 코스피가 5200 아래로 떨어질 수 있다는 상반된 비관적 전망을 내놓기도 했다.",
+      "importance": "상",
+      "articles": [
+        {"title": "외국인 돌아오자 코스피 2.66% 급등…반도체 쌍두마차 힘 6,900선 눈앞 - 신문고뉴스", "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1yOERKRXVGeTFtVWdIeENfTVdVdDVzR0ZKUWhyaXkydV9xNFhmNHMxTUJMNElqbWgydjVNWU1XVGxJb0dYX080?oc=5", "source": "신문고뉴스"},
+        {"title": "“반도체가 돌아왔다”…코스피 2.66% 급등, 6890선 회복 - theconnectmoney.com", "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5NMENSX0tUV2ZNYWJGMHUtbnhlNkJrRWJpR2dkYzU4SWFvTVBrbkR0RHptWFJvZmNnQTNybV9iT3FNbmFmbTVWSUdWY2xncTRJcnpXNTZMODJod0l2X3Ewdg?oc=5", "source": "theconnectmoney.com"},
+        {"title": "코스피, 금리·유가 부담 덜며 2%대 상승···반도체株 강세에 6890선 마감 - 서울파이낸스", "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8tckJ0dXY5MnB3TFB5c21rZG91ejJiZjJROGo3WTVfeExCbjhYWURzMUZjeGdmTTBFMjhjQXk4LWQwSjZPZHdZUUJUaFpWeTQ0cGtLUnhBNV9ndFRGQjBtc2dDZzNYMUNuQ1E?oc=5", "source": "서울파이낸스"},
+        {"title": "반도체주 날았다…코스피 2.66% 급등하며 6890선 회복 - 굿모닝경제", "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1aaHBEUEN4ZFR6V1h0SXhiZlN3S21OQ21aSjhGczNfU3cxeVpzcjN0ZkQtYUJMaWt5VV8xQ2lrWS1FWVNFajhzUWNtdHRlUGtRVjNCN1BYN1M5ZEpHSEtHTkN5ZklOdWw0MnBCeA?oc=5", "source": "굿모닝경제"},
+        {"title": "[증시-마감] FOMC 안도랠리에 코스피 2.66% 상승·6,900선 바짝 - 연합인포맥스", "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9sRnJ6NXdjanM2WDRiVHBJU1U4WF9CQ2RCWEFBZlRXTFNhQlBqZENzMjBPYkVSSlZJWjdUU2FRLUJpOHlOQURZdUhKd2lCYThKSFJPbUVEQXJpdEdDWjYwUVhDbi05X0l0dFFTVGJ0X3c?oc=5", "source": "연합인포맥스"},
+        {"title": "외국인·기관 동반 매수에 코스피 2.66% 상승…지수 상승 이끈 삼전닉스 - 매일경제 마켓", "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1mSVNSRFBUeWMtVUlTcklLYmlCX1cwOERTWXIweE5LUnlIeVN6cXFxcFh0UWNFemVFdVUzN0VCRTdJajRtTE5zMG9fZWlRZWdMN1E?oc=5", "source": "매일경제 마켓"},
+        {"title": "외국인, 8거래일만에 '사자'…코스피, 2.66% 상승 마감(종합) - 연합뉴스", "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9JSjlNMzRsU2o2ZTktaS1OQU9xa2d5bGd1M1g2bVc3NF8zeG5MWFN3YWhST2N5V1dtZTlqaDQ5VHZWdTJiME85NzBIT1dNV09WM3Z1cU15WDNSNEc5SXBEYtIBYEFVX3lxTE9JSjlNMzRsU2o2ZTktaS1OQU9xa2d5bGd1M1g2bVc3NF8zeG5MWFN3YWhST2N5V1dtZTlqaDQ5VHZWdTJiME85NzBIT1dNV09WM3Z1cU15WDNSNEc5SXBEYg?oc=5", "source": "연합뉴스"},
+        {"title": "[장마감] 코스피 2.66%↑(6894.23), 코스닥 0.60%↑(827.12) - 버핏연구소", "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9qbjNmbFllZlRaQzYyd1JvNy1Ob29WSWVfaUNyWXJKdTRRQWJZV2tiVVp6a1lGQW9aQ18wa1BLTzhZXzhJNUJQRDR5OGtKOV8zWjNnLU83RjlSaTJxY1Fxa1hR?oc=5", "source": "버핏연구소"},
+        {"title": "外人, 8개월만에 주식 순매수… 코스피 1.8조 사고 채권 4.7조 팔아 - 문화일보", "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5HczlmRkhZNU5xak9pdTh5MktucmZOcXVuRW4tblh1SnJfR0JYXzBXUzcySWk5ZzRDM2dXem41ZUxMbXhHckJ6em9tdWNYWFJX?oc=5", "source": "문화일보"},
+        {"title": "[마켓뷰] 美·日 금리 인상에도… 코스피, 2.7% 상승해 6900 턱밑 - 조선비즈 - Chosunbiz", "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcGpfRG9qSHdmbURZSkoyREJkbHcycE45ay1aU2VZUnBFd29OX1hEZkNlZzFZVkw4Nno2d053YnVCc0EtcnBfM01sMDZxbFhCaWc3NDNRQWZFcG5wU1hwa1puVlFRckxNWGplVUttZ1Fld1ZBMG5FZHphc1Z2bEVMbGszcjJKdkJf0gGcAUFVX3lxTFB0RXp4TVJmQkJ0aFlXMk5yV0lzV3R2VVVJcDhSWDkxT0lZTWszSmdpRXFUX1RXVkFyUGZHUzRIZVRIMFNpTXQ5WWhBOGR4cHo1UjctSTdXRXQyYWlQeHRXZjNZWVJlZlU3VGE4bEpfYXVUTTJyZllUMFFHTmRTZ25qM0VidHJ2Q21kSWFabDBLYTFNUTN5bkNMeWc2UA?oc=5", "source": "Chosunbiz"},
+        {"title": "\"9천 넘었던 코스피 내년에 5200 아래로 빠져\" 서강대 교수 예측…이유는 - 매일신문", "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBZWHgtSU1vVXFKUWhmcWMtaDJfaHBIeXJ1bFZXWWdKN19RZnJfcW9PMDFycmt3X1J5YXdyZWhNd0JNM0lVWVBjMWhNYWItUVFXT0J6bTFGUTEzNVJiY0hrbE9n?oc=5", "source": "매일신문"},
+        {"title": "[주간증시전망] 다음주 코스피 6400~7500⋯美中 정상회담에 쏠린 시선 - 이투데이", "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAwWGNuRGFCMVpZT0Jxb3ctN1FNSEI5U0d4eEZLemh6cl82NjhOcmx4TGZNMWF6MDMtWnVseHJIYnBmdkZhYkhlNlZSR2oxRFdJbVVqcg?oc=5", "source": "이투데이"}
+      ]
+    },
+    {
+      "title": "원/달러 환율, 7거래일 연속 상승…1383원대",
+      "summary": "원/달러 환율이 1.1원 오른 1383.3원에 마감하며 7거래일 연속 상승세를 이어갔다. 일본은행의 기준금리 인상에도 엔화가 오히려 약세를 보였고, 국제유가 상승과 미국 국채금리 재상승이 겹치며 환율 상승 압력이 커졌다. 일부 보도는 환율이 조만간 1400원대에 재진입할 수 있다고 우려하는 반면, 유가·미 국채금리가 다소 진정되며 상승세가 주춤했다는 상반된 분석도 나온다.",
+      "importance": "상",
+      "articles": [
+        {"title": "원/달러 환율, 1.1원 오른 1,383.3원…7거래일 연속 상승 - 연합뉴스", "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB2RDRsMUVUd0s2a2tBQWdKSkpPZ3ZJemJEUlFNRU91OFp5WGtzTHllT044cFlweVUwOFJkanJMLTdrSG9qVGFOSmVsSTRXSHF0RFZMNzd0OTNqdmNHbElxaNIBYEFVX3lxTFB2RDRsMUVUd0s2a2tBQWdKSkpPZ3ZJemJEUlFNRU91OFp5WGtzTHllT044cFlweVUwOFJkanJMLTdrSG9qVGFOSmVsSTRXSHF0RFZMNzd0OTNqdmNHbElxaA?oc=5", "source": "연합뉴스"},
+        {"title": "BOJ 금리인상에도 엔화 약세...원·달러 환율, 7거래일 연속 상승해 1383.3원 마감 - 베타뉴스", "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9FNVJXd1ViazdmRU5GbXJTRThUNVZZUjR5bHZjUFdWN29CLTFXNk5TRHpBYzlJZXhMZlQtR0RPWjNUSzB3VVZuMmRrVUJuM2xyenVUOXZTRW93Qjg3c2FuN2hGMkU?oc=5", "source": "베타뉴스"},
+        {"title": "원·달러 환율 1383.3원 마감…7거래일 연속 상승 - 알파경제", "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE80dGpnTlNwbVF2RHpUN2RJaV9YYzVSQ3hRUUNNaU5EZDB2a2FRTzNKYVhaWXdWcUIyVjltWXBhZlJDU2Z3Q1dTejFuTVBwMnFHeVN0ZzlIMU1hVlZpM0F5MzFjNnhHSmROMDlkdEJR?oc=5", "source": "알파경제"},
+        {"title": "[환율마감] 원·달러 7일째 상승 1380원대 굳히기, BOJ 인상 이긴 달러 강세 - 이투데이", "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBXOW9DQjI2bmYzY0hQZy1lV1U4Ymc5YkoxZlZIdXRvR2JhQzZSVGVSeG5rZnNfdXNBUXJ5bXU4TDJuZzVPYldpSkxGcVpYQ2ZhcURfMw?oc=5", "source": "이투데이"},
+        {"title": "日 금리 올려도 엔화 약세…원/달러 환율 7거래일 연속 상승 - 머니투데이 - 머니투데이", "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5reXNaTlc2NWFCeVdTTWdzVkRzbzY3Zm5Ea1gwdHRKNlhVdlVMVWtaSURjcEZfeHlnQ0VYSnMyTHVkVFRYc2FHNW1IUVdQZ3lobllhMzd1aVNhSXlsdzdVZlhxMkhTYVRranFJ0gFwQVVfeXFMTVZZR2g0dlUwRWtsemVuc2x5YXUtU1B2aEwtN0NrZ3UwNzU5aFp2VjdoaXhWZTVqRHg4V0lHTHlHM28xVElOMzA1R2dEVVR5enY3OVlCMmItWlNlX2draXlQSkpfUFRGYjJHRGlWM2xmRA?oc=5", "source": "머니투데이"},
+        {"title": "원·달러 환율 6거래일간 46.1원 급등…다시 1400원 가나 - v.daum.net", "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5vTDNNakVkZm1SRmRlT21FM3VscXFkc3EyRXBtNEhJVjlTVlEzeVNlaFI2TTg5cWlIVnJGQ0w0bFNtWEJNV1E?oc=5", "source": "v.daum.net"},
+        {"title": "달러-원 환율 일주일 새 50원 급반등…항공업계 비용 부담 재부각 - 연합인포맥스", "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5CWGpjQkJFTGJIRG5ScWtRb0pETkdDZ0lnaEZqSlF4a193TVh3ckVzdXhlMkZsRGhvcTBxSE9fejE5NlYzZk5sQk15d1JKNTBpS2ZGYldUR0ozV0o4ZDRRYkt2c2NkdXdVbjZLU0Ewano?oc=5", "source": "연합인포맥스"},
+        {"title": "고유가·美금리에 환율 1400원대 올라서나 - 헤럴드경제", "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ZV2xmVTV3TnVXUVR1bER4NEZtZUlaU3ZmYmNJb2k4dktMRDVadWI4V0JXVU5pZmhmaDB0aXdnMmNiS1JQWld3Vm1QWE8zcWVwMVlheFR3?oc=5", "source": "헤럴드경제"},
+        {"title": "석탄·석유 54.3% 올라 생산자물가 껑충… 다시 뛰는 환율에 추가자극 우려 - 문화일보", "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBhamtKSHVUdUR4WC01UHVZSlFFenlDZ0owVDQ0RmhhVFdvQUdIMDd0bl92M09ybVh1bVd6ZE9OanEtQm91UDZtWnNCQVRiXzlr?oc=5", "source": "문화일보"},
+        {"title": "환율, 1380원 안팎서 등락…유가·美 국채금리 하락에 상승세 주춤 - 뉴스투데이", "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9IeWZLYTFBTDNYeTBYbHhmQjFWQ0M3R0ZYbTBSSGQ3YWVjZkF5VEY3cVNyUzVUdFJZVi0yLXFVbjUyUVRoLWl3NmxLbzdqTmREeWpFandHLTYtYzlLeGc?oc=5", "source": "뉴스투데이"}
+      ]
+    },
+    {
+      "title": "이재명 대통령 \"부동산 시장 반드시 안정\"…전문가들은 회의적",
+      "summary": "이재명 대통령이 취임 후 일곱 번째 기자회견에서 부동산 시장을 반드시 안정시키겠다며 공급 확대, 규제, 세제를 총동원하고 서울·세종 '2수도' 체제로 수도권 집중을 해소하겠다고 밝혔다. 강남 집값 하락과 외곽 상승을 '평탄화 과정'으로 규정했고, 레버리지 ETF 도입 등 기존 정책의 미흡함도 일부 인정했다. 그러나 전문가들은 이를 '평탄화가 아닌 키맞추기'라고 비판했고 오세훈 서울시장도 반발했으며, 토지거래허가구역 확대 1년째 거래는 줄고 매매·전월세 가격은 오히려 뛰었다는 지적도 이어졌다.",
+      "importance": "상",
+      "articles": [
+        {"title": "“부동산 공급, 매주 확인…레버리지ETF 정책 불완전성 있었다” - v.daum.net", "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5MZGJlNVFiVVdPa1R4REFYcll3S0p1UEM3SGUwbExXbENkU3dUVDBVS2FJeUlrZ1oweVdrMDV0Q25wX1NTb2U4Rm5SYmQwdFE?oc=5", "source": "v.daum.net"},
+        {"title": "李대통령 \"집값 평탄화\"…전문가들 \"규제 따른 수요 이동, 안정과는 달라\" - 뉴스핌", "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1lSHZGNXFyQzdDSVpVeVNNVjJ1MllmM2tSNEltNnJDakF0RWt5YVVKVWFTem16NGFEYUFfclhwdUp3MmRGcHkxTTU4WXB5aDVyc1YyVkVnM0FOck9w?oc=5", "source": "뉴스핌"},
+        {"title": "\"강남 하락, 외곽 상승은 평탄화 과정\"... 李, 부동산 기조 안 바꾼다 - 조선일보", "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSW1rYWtldmVlRFFMV2diWm5McEVKNlUxZG5Vc1lWN3RwS25HdnFlUjU2NDJvS1dLLTNKTUk2bWl5algyZXB0SGNnaWRHZDM3SU4tR0ZjZlFiUTFXSHEzSTZJZ0NOY0RzelhqdmRzbGdBU2FReFVyeUMxOGRQMHVfSDg1dFo5THlsVjBWUFFCX00?oc=5", "source": "조선일보"},
+        {"title": "李대통령 \"주택 공급 신속히 확대···부동산 시장 점차 안정될 것\" - 서울파이낸스", "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Wa0VVVDNCa2RmbXF0SkY0ZzQwb2xFZUJMektmcVkzcmoyTFVfMWw2ajM2c2QxOHg3UldTbks3bF9kMGtKcEFUMU1xaEFqV29ROVUzenRfYzkzblg4WlNqeVpOOElyV29Dcmc?oc=5", "source": "서울파이낸스"},
+        {"title": "李대통령 “부동산 ‘잃어버린 30년’ 막겠다…서울·세종 2수도 추진” [李대통령 기자회견] - 헤럴드경제", "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBWaDdtdnNnSzQzOEx6Smljd0ZNZHZ6VldQMEMwaUlqTGF5NHpabE93eWdyOFpndXFEd2FzUTduSFZ4ZWhPdVAzQWE5elhuaEVic2pCZkx3?oc=5", "source": "헤럴드경제"},
+        {"title": "\"尹정권·오세훈 당선 후 집값 폭등\"… 李 \"부동산 투기 공화국 벗어날 것\" - 한국일보", "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE53OERuWlJPNGRaWWFic2NOMTQxX2dvN3drRHRCS3hhZUhUTU5Ic1RfY09FNVBLTTAxQkdNSUtjQlFqWF9jbjNmWmpnX2ZUWl9yTDRrRmo3U1Jfdk5qN2h3eWJETXVwOG1sTXhVdk1B0gFzQVVfeXFMT3BnbzlFa2IyY3dkekpuTVNKVGZYelBwYkZndEpaZnZPNzh6aEExR1JqNmdPX0JESUpXWTFFd1B3MFNUVm9xS1FkaTg0QWt0NGNGeUdGVHAtMXltNGw1TGU5VkZ6czRPbTZiZXpEYUxIR21COA?oc=5", "source": "한국일보"},
+        {"title": "\"평탄화 아닌 키맞추기\"…전문가들, 李대통령 부동산 진단에 우려 - v.daum.net", "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5TNU5xcE1Zb09lVmJKWXF5d2RTbWcwQ0JLT0FnQl9tRGpaZkQzRFVhVUdJd0xpTDlhcm4xNVBSTGd6WWxaOGdsVWhyaC01OWM?oc=5", "source": "v.daum.net"},
+        {"title": "집값 문제는 오세훈 탓이라는 대통령 변명에…오 시장, 뜻밖의 반응 - 땅집고", "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8zQTJVU1ZCNkw1bGJuZGlWN2Q2cnduOEdEQ2FITnJMMFdNZEIzYmpFa0dvMTZZdUlpWHN6MDZSaGp5aVZqUnl2V0FmWnJDN0Ywcjdoend6NlNYc3JseFBKcHZadExwSHBwTHdXT3BYc1lVZ1h6T25BMXJpbjJYUWfSAXNBVV95cUxOZGlpTjZOOFEzQTRuMVk5UUh5V0tDeFozMkFHamJEYWw5UFBCR2Y2Q0l6R2RHU1QtbzVlMGIzTVJscVh6b2NENnA3MjcyblB2R1hBNjMxajE2a19SVEV0WHBBaWN5TV9OaUFacGtSd183OWQ4?oc=5", "source": "땅집고"},
+        {"title": "84주째 올랐지만…이 대통령 '집값 안정' 자신한 근거 3가지 - 더스쿠프", "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5zUDViYms3UmtPQ0N3elg1YXpOQVR3N1RTTzJrdG5qR1FzX0d5VmZGWTcxak5yVFFEaHZocVJHTWRkSVpaTTlvUU5YSEdMemxoVzN0cTV0aTItX2lrc2NfYnlUcDRJdnVpNzRMYmxB?oc=5", "source": "더스쿠프"},
+        {"title": "\"이 정부는 한다\" 부동산 또 자신한 李…단기 해법은 여전히 숙제 - 이투데이", "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9Ec1NhLVZQckd6NkdVcWhEZzBUTGhaMEJ5TEhyRXZsM3RiMjdlNHFDajlfMTNtdVY5Y24tOWlDc3pJRVk4MFRVTEdzdDJWSXN4MlFjVQ?oc=5", "source": "이투데이"},
+        {"title": "부동산 정책 수정보다 '강행' 택한 대통령…전문가 \"반발 커질 것\" - edaily.co.kr", "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRlRGTkFYcl9VYWRlbTJvUXJ1bnJjUnlySnhtazRDQ0E5Qkt2dHZ3UnY0SG9ya3hhTmZLSmtkcHlfaUZrT3ZXbFJCeFcxLUNEOVBsRFJ6RUZsODFoTXVBM2tPcERsYjMxdjh1N0dIXzgyUEJmZnZsZ3FFcUs4THRQVA?oc=5", "source": "edaily.co.kr"},
+        {"title": "'토허제 확대 1년' 후폭풍…거래 마르고 매매·전월세 다 뛰었다 - v.daum.net", "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE41WHRaS0hUTWtYWjFNdm9zOTVOWDNjNFRxYTMtYlozUWRPLTk5SVpIRUlpUkluSVFKMXdlUnBOZlFFMWtDelJJbjZMWnJtYk0?oc=5", "source": "v.daum.net"}
+      ]
+    },
+    {
+      "title": "일본은행, 기준금리 1.25%로 인상…31년 만에 최고",
+      "summary": "일본은행이 기준금리를 1.25%로 25bp 인상하며 1995년 금융완화 종료 이후 최고 수준에 도달했다. 우에다 총재는 추가 인상 기조를 재확인하면서도 물가 상승 위험을 이유로 속도 조절 가능성을 시사했다. 시장 예상에 부합한 결정이었음에도 엔화는 오히려 약세를 보이며 달러-엔 환율이 157엔대까지 상승했다.",
+      "importance": "중",
+      "articles": [
+        {"title": "일본은행, 3개월만에 기준금리 인상…31년만 최고 - 연합뉴스", "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE92bzA0LWhGYjJ4REJLZjhkVkU4N2NJamt1a2tsUWZVZzRNdE9YV1lwdVlscEE1ZFZiQTdZMVBrNF8zcktFWmJkT3NwdDBDSm8xbXdQb2dwQm9ZTHPSAWBBVV95cUxOMWludUhKR09Qay1nSnZ5T1dUMXkwRTNCTFVjbjNFTklJT2hONy1waHRtQ3VUUG02MmxLcGVrODh5bDBmVkpma0hxdFJ1TkNwb1JqOVh6OHVhd1ctOEZDaUw?oc=5", "source": "연합뉴스"},
+        {"title": "日 기준금리 31년 만에 최고…우에다 총재 “추가 인상은 속도 조절” - 서울경제", "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1jQUxTLUxBVXV6dVRtTEZodGZMYVRraTZYeko4dWpiSXkxUFliNnd4bERHTnlHc294M3loemFUQ043QXFQZTBQdmZCci1wYlB4UHfSAVNBVV95cUxPVnNOWndyR200OWFvbkIxcTFyZ04zUjY0LXRYS3dRUVpRRDl5LURSbGswYWJLVW1wdnRheXBocndzeEdnbXJsbGxSc1Q2OWZhYXd3cw?oc=5", "source": "서울경제"},
+        {"title": "日금리 12월 추가인상 vs 속도조절론…우에다 총재 \"물가상승 위험\" - 머니투데이 - 머니투데이", "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5pbHRJRmlQX1dSeDFuX3VBS2pGMWpPWThvUVFLNy12MTB3RnlZUnR3anJlcXlhTDl4UzdvcDYxRG9DUFAtSDVMNzFkYkcwME1YYlFvWUxlZ1hXX3pNNmllUG1iMDlYZkt20gFuQVVfeXFMTXJsZ1p6UXJVcnpuNlg3dFBWTUptYURHQ3J1UmhMYVpReFFUSTNBVEhaT291WGlWQnBEdm9sbXhLRUd5V3E5UUc1SUM3VzJ6RHRZQUYtYUdvZTRMMHZwU3J5QkNQaGxaUkZ4b2ZXcnc?oc=5", "source": "머니투데이"},
+        {"title": "일본, 기준금리 1.25%...엔화 달러당 157엔대로 하락 - YTN", "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAxTnhTbVF0aHIwMzU1aUFfcEZUNDYwUmdXNjdVTVIxMkJTa2tUVVAwX0l1U2JRMlMxRVRfbUJ3YkpPZDNUYm55aFl3RTRvRU96eGtnQjJOVWptQk5vWUxhVFYyMGl5R25fcW5uM19TNlNZQXlCVlE?oc=5", "source": "YTN"},
+        {"title": "BOJ, 기준금리 1.25%로 25bp 인상…9명 중 반대 2명(종합) - kbthink.com", "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5PRjJoV1pmenVqYmFfQzFQWndXcGlTclZfVTJWTW5UYV9qZ1pRby1aQWktX29DRHJLc3pvZTNTamxVQjUtS01VUlhRMVZrQVBxT093TTVvX3lia1JhUWN6aUxvcGdIdUo3R2Jwd2pqZlV6Zw?oc=5", "source": "kbthink.com"},
+        {"title": "일본은행 기준금리 1.25%로 인상…추가 인상 기조 재확인 (종합) - 아시아경제", "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE51VWNXejNjd3pnbXR0UWNVMFNNb1R2TkgyVE14SHV1cUtYNVZvRXh1MnVDV3FIQ1lqd2pCMjZ3OHRNLWZQOFBobXNLZ25rSUIyRlM5S1NzWHd3N3JtUUEySA?oc=5", "source": "아시아경제"},
+        {"title": "일본은행, 기준금리 인상했는데…엔화 환율 급등 이유는 [머니+] - 에너지경제신문", "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9tZG1FLUhqNExOOW01T0VxVXJoVXNYTl9sWVNpQU91TkpOWlBKZ1lnQ2dMakJjX2xOaVZWOGhFZjRDNGdWOE9MMFBaUUxVNFJILTlhMUVUeWw5MW9RZzhncGt2MA?oc=5", "source": "에너지경제신문"},
+        {"title": "일본은행, 기준금리 1.25%로 인상...1995년 이후 '최고'에도 엔화 약세 - 녹색경제신문", "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9RTUcwUzVWWjhMeWhnUE0yOFltSFBhdUNYX2NFS3hnREZQbHRnOUhreUxtenpJaURhZ2ZJQkJyWl9pRkhXRVIzQkRRNWoyMm8xU1Z4OGRsOU4tYlJCYi1MVm1LbFZ1YUp3?oc=5", "source": "녹색경제신문"}
+      ]
+    },
+    {
+      "title": "\"美 긴축 한 번으로 안 끝나\"…국채금리 다시 5%대 진입",
+      "summary": "미국 연준의 이번 금리 인상 이후에도 긴축 기조가 한 번으로 끝나지 않을 것이라는 우려가 커지며 미국 10년물 국채금리가 다시 5%대로 올라섰다. 이는 한국의 대출금리·환율·증시에 동시에 부담으로 작용할 수 있다는 분석이 나온다. 다만 반도체 등 기술주 강세로 뉴욕증시는 오히려 상승하는 등 시장 반응은 엇갈렸다.",
+      "importance": "중",
+      "articles": [
+        {"title": "\"연준 긴축, 한 번으로 안 끝나\"…美 10년물 금리 다시 5% - 뉴스핌", "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE02SHBqcnA2Q3FBZVJYZFNZRnM1d09tcWlIM0hpd2pHSW9DVmJzTGpPWUdTUXRlV3Y5M1U3b3hpZWZIYTdBTlEtNG1OS2ZSRlJrbGl0TDZPZGlJZ19n?oc=5", "source": "뉴스핌"},
+        {"title": "美 기준금리 인상 돌입에…韓 대출금리 더 오르나 - 뉴시스", "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFByNF9la25JZ0FFTTVsTjlyM2pfdFlrNERiR2I3Z2FuMG5Cb2d0VHA1NUpaSkxEV29YTmVBR1NPUXU4UGVhV0QxMzZtWFVFcFZPaHRqX2M4bjh2MWRYa1g5MQ?oc=5", "source": "뉴시스"},
+        {"title": "미국 금리 오르면 한국은 어디부터 흔들리나…대출·환율·증시 동시 압박 - 경북매일", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBiZUtzYWdsdUFXQ19FeTJCNFNtaWQwc3ZIa2c5Z0RpYm03ekpKNTZyZi12Q1dybUlfbEE2YW5nM3JiMnZqREFJRDJZN3FPLWc5VVB1V3J2Y3NFdw?oc=5", "source": "경북매일"},
+        {"title": "美기준금리 4%로 올랐는데도…기술주 오른 진짜 이유는 [마켓무버의 국장 힌트] - v.daum.net", "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9wSGxHTFZONzIzanVCYVprcDhLQXg5SmRwa3hzbXhaRzc2LWRtTktkRjZBM3UwdHVyaU9Dc21pMzN1d0o3cnAtUVh6UEJhWTQ?oc=5", "source": "v.daum.net"},
+        {"title": "美 긴축 장기화에 韓도 긴장 … 코스피는 실적 장세, 환율은 유가가 가른다 - biz.newdaily.co.kr", "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5kWUY3QzNESGM5S1lzdUFRNWEtbDlHTUdoTExUUXNJclBDcERCVkhPbWdKMjU0X0ZWcXY3V2ZFLVhiSjNreDhEV3hHMU41SWcxUnZvNGtCTXFTdFlPUXltRXd0MkJkSmF6Rkd3TGZGS1lrb1hEa29zelE3VdIBgAFBVV95cUxNZUx3ZXh5cWc0eWk5Rk1Pam9lUFFOQTU0ZDZBV2JsT21vZjdLUUlubGVqeFVNU2p4VDlPcHhSdWJiZmNIZGFjZVJzUkxrOWtkak0xZGVLYTI3aVpzVFRqUDktdE5RU3B2YnlWSm9PNnp5YlhySWxXMnJMaV9Vb2xfYQ?oc=5", "source": "biz.newdaily.co.kr"}
+      ]
+    },
+    {
+      "title": "이재명 대통령 국정 지지율 37%로 하락…4주째 최저치",
+      "summary": "한국갤럽 조사에서 이재명 대통령의 국정 지지율이 37%로 4주째 최저치를 기록했다. 부동산 정책에 대한 불만과 개각 관련 논란이 주요 하락 요인으로 꼽혔다. 대통령은 이날 기자회견에서 지지율 하락의 원인이 '국민 존중 부족' 등 자신의 부족함 때문이라고 밝혔다.",
+      "importance": "중",
+      "articles": [
+        {"title": "李 대통령 지지율 37%로 하락…부동산·개각이 '발목' - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5qejZxRUROX1BuOWpoZ1ZlYlBKcmZsdzZsbzliWU1tZlR3cVJ3cEs0TVphZTJyalRNSlJkcmlEMW14cUxIdHRpUmFoNlNkeE01UjBxWkFkWXRYZw?oc=5", "source": "한국경제"},
+        {"title": "李대통령 국정 지지율 37%…4주째 최저치 [한국갤럽] - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Oc05EUXpMdTNJZVh3YTRZeDJPN1dnQS00ZUdrT3gtc3NSMkprNmotVmcyREg2c0pWMXlzd1lMbnIyRVl3RFV3VGJJdGF4X3gyNlRxMXlkLUk2Zw?oc=5", "source": "한국경제"},
+        {"title": "[속보] 李 \"지지율 하락 제 부족 때문…국민 존중 부족했다\" - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1xaU5ZYzBLc2NPb2F0MnI3R19PZ1R6NVc2Q0duVE9URGxFYkVsY3JQWVBSeF9WVk14R1FGSWhHWV90UWZkRnZGOGswamlUUWwyTEpQMWlEcHlodw?oc=5", "source": "한국경제"}
+      ]
+    },
+    {
+      "title": "96세 워런 버핏, 벅셔해서웨이 회장직에서 물러나",
+      "summary": "96세의 워런 버핏이 벅셔해서웨이 회장직에서 물러났다. 이런 가운데 벅셔해서웨이는 일본의 5대 종합상사에 대한 지분 확대도 검토 중인 것으로 알려졌다.",
+      "importance": "중",
+      "articles": [
+        {"title": "96세 버핏, 벅셔 회장직서 물러나 - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5NSEw5TVVGWFBUZzNaYkNaMWtaT3J4eDh5WG5HdWdrcEJyQTVfUFdYRWJxU2xWbVh2QnpURE1rVGJrZTVkZGhmVEhGS0xrX1JpWnFrcDViR1ZLZw?oc=5", "source": "한국경제"},
+        {"title": "벅셔해서웨이, 日 5대 종합상사 지분 확대 검토 - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5NVzBNeVFTSmdIRy1CRFp3eWQ0aXBuWUtQSlNpaWZYV0x1b1REVkR1czNSeHFpQXBZQ1NUWWF3WnBvNm02QnZWc1ZyVHJKaDVHQ0NnMXAyM2NZQQ?oc=5", "source": "한국경제"}
+      ]
+    },
+    {
+      "title": "트럼프, 시진핑과 정상회담 앞두고 대만 문제서 유화 신호",
+      "summary": "트럼프 미국 대통령이 시진핑 중국 국가주석과의 정상회담을 앞두고 대만 문제에서 한발 물러서는 태도를 보이고 있다는 분석이 나왔다. 이번 미중 정상회담은 다음 주 국내 증시 흐름을 좌우할 주요 변수로도 꼽히고 있다.",
+      "importance": "중",
+      "articles": [
+        {"title": "시진핑 마중 나가는 트럼프…대만문제 한발 물러서나 - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE11ZDlTckF3djB4b2Z6Ym5LNnh4X1JBV0ttRGR0amFDcHB5WnFFS1lLLXVkc2phSlprbjNhY0tEMUEwbzVXUUhXZ3RlSlhJN2twRGF2VmNFSWVjQQ?oc=5", "source": "한국경제"}
+      ]
+    },
+    {
+      "title": "트럼프 \"CNN·폴리티코 백악관 출입금지\"…기자실 반발",
+      "summary": "트럼프 대통령이 CNN과 폴리티코 등 일부 언론사의 백악관 출입을 금지하겠다고 선언했다. 이에 워싱턴 기자실은 강하게 반발하고 있다.",
+      "importance": "하",
+      "articles": [
+        {"title": "\"CNN·폴리티코 백악관 출입금지\" 트럼프 선전포고에 들끓는 기자실[이상은의 워싱턴나우] - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5yc19RMmV2YjBXczdwdndvLWk0VlRtRk9FUU5CLVVmd0h5ZzhpUEZRS0tkUURpczQtSUFnRU5TcDhHRm1UbWlOSVFnVkRjX0pJYUVGRXh6Sy12QQ?oc=5", "source": "한국경제"}
+      ]
+    },
+    {
+      "title": "Hims & Hers, FTC 민원 이후 집단소송…경영진 잇단 주식 매도",
+      "summary": "미국 원격의료 업체 Hims & Hers Health가 FTC(연방거래위원회) 민원 제기 이후 집단소송을 당했다. 이와 함께 최고재무책임자(CFO)와 최고법무책임자(CLO) 등 경영진이 잇따라 자사주를 매도한 사실도 확인됐다.",
+      "importance": "하",
+      "articles": [
+        {"title": "Class-action lawsuit filed against Hims & Hers following FTC complaint - Digital Watch Observatory", "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRGdab0wzWFV4Wm9GSjk2RHE4ZUhmYjV5SlMxX2ozR2hBTlZadmM4bnRZXzJLWkdKejBUSFRLUG9ULVg3N2IzSFVqQmYxblAxSXdNY21zUzBjS2Q4RmtncXEzbGZXNHVmVjdPcDJoN1RPSXNGTlV5NXJOOXB4NTRBYw?oc=5", "source": "Digital Watch Observatory"},
+        {"title": "Hims & Hers Health, Inc. (HIMS) Shareholders Who Lost Money Have Opportunity to Lead Securities Fraud Lawsuit - Morningstar", "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQb2hKX21Db2F0azNWU3FpcWhaMlZyYUJEWFBuTEdQMEhIQ2NyY0lrZkVEMnlqY2thbmtkQTFhQTlOQTlaYUlvaU91Z1lYX1NVMGI5ZUNqbFY3eXVzMV9MNmI4Zk9fZE1TeTdodUtzRmJYZ2FGNDdfVlloZXVfaDVyYkIwUlB6LUp5M1VNMXA4Vm1xR295Si1WcFhKa0R0clIzNXZFZEx2VXV5SzlqZ09GOFljaXdhaGNLUWNsWGpMWG9qN0pYMllpMEdObmRQZF9jODJSZWJCYW5hZVdOQ21KZFJjOHl3WUpWc1Y1bi1HeXpFSW01d1E4?oc=5", "source": "Morningstar"},
+        {"title": "Hims & Hers CFO Oluyemi Okupe sells $354,860 in stock By Investing.com - Investing.com UK", "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZHlQaWY1bllJc2tXaDRSTDdsWVFKbzNURU5tZmpCdTFmVGptQndrREpkS2k3WmE2YTQ0OEJHeENrWmg1VkREZ05fRG5zRWZrbmFfYXdBdWdySFNSaUNLOTRoY2laZWl5MVBHLXVqQ0dnZi05eWN6a2EtRTlSeEZOZ245bVBMMHZXcG1kYmRhUmEwTmJSdXZxM21FeXZtRGduSW5WV0FyLWZNRFFSc203UQ?oc=5", "source": "Investing.com UK"},
+        {"title": "Hims & Hers Health (NYSE: HIMS) Chief Legal Officer Sells 6,236 Shares at $27.86 Each - Kalkine Media", "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVFo0SVRNcmZnVGs2azRNYmpLc1l3ME9QaXI0VVNibE5ZV3dITFI0a2VweFBJV2xJaU9MUDlwZ0VudHlxVzRTQW5Fc244Yy1mem9YZ2U1S3dEZ1VCbUJQR3dqbnlpaXBNeFlrbzVGLWcxUnp0M3pTTm9JdnJ4RFhhMk42WkNvMVJFQ3VFOWIyZ0VPbHJiWkV3Y25YTUVoYVMyRk9PMGpsZHdNaEVpN2IxYW84V2hEY3RnaHRlWEtIQTZ6QQ?oc=5", "source": "Kalkine Media"}
+      ]
+    }
+  ]
+}
