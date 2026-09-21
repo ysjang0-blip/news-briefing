@@ -1,0 +1,122 @@
+{
+  "date": "2026-09-21",
+  "topics": [
+    {
+      "title": "美 연준 긴축 재개, 기준금리 5% 경고 확산",
+      "summary": "미 연방준비제도(Fed)가 2023년 이후 처음으로 기준금리를 3.75~4%로 인상한 가운데, BofA는 시장이 연준의 긴축 강도를 과소평가하고 있다며 기준금리가 5%, 2년물 국채금리는 5.25%까지 오를 수 있다고 경고했다. 반면 일부 채권 투자자는 2년물 국채로 몰리며 \"금리 4.75%면 긴축 기대가 과도하다\"고 반박해 전망이 엇갈린다. 국내에서는 한·미 금리 동조화 우려 속에 은행채 금리가 5%에 근접하고 주택담보대출 금리 8% 가능성까지 거론되며 가계·기업의 이자 부담 우려가 커지고 있다.",
+      "importance": "상",
+      "articles": [
+        {"title": "BofA \"시장, 연준 긴축 과소평가 … 기준금리 5%·2년물 5.25% 대비해야\" - 뉴데일리", "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE83ZXMteUFwc25PRlFNMllia3lZd05ZVDVIWXl5WlI0M0hweFRNQ3pjdGh6Z2g5ekhMeEFUS29iZllUWHlWNlBxNFNuZ2lybzJpODQyWDBPNl9NQjNFZ3p6M3lxRzhhZ2N4YmNNcjA5SEtUd25DcWFoNFRJY9IBgAFBVV95cUxNekJCZ2Jjc1RRaUtVVU8zVHRRVGs4Zy16bTZZeEVLalR5cXpVUzJVY05ZaHJmT3IxcDhmdFhsWmQtOUNjcVZ1Q0czc1dmYnppZ2RNUGljYUpBeThNRFVrdjlxZUd2Q2ljTENCRnRsZThaQU5yTVhNNmxBU294MXhlYQ?oc=5", "source": "뉴데일리"},
+        {"title": "“연준 기준금리 5% 이상으로 올릴 수도”…BofA, 시장의 ‘긴축 과소평가’ 경고 - 헤럴드경제", "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5jbXdiUUJCSGtDUXN3a2hmLThMSDRhQTJTdUhjU0VQVU5QMERDZXlEampuSmppUTZIdl9KaFAwRHI0cnFobHY3UVdhei1aQ3JKNEtkQlNn?oc=5", "source": "헤럴드경제"},
+        {"title": "JP모간 “한은 기준금리 3.75%까지 인상…그보다 높아질 수도”｜Global Money Club - 중앙일보", "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0wYVlpNlRKR1NIVnFwdi0yeGtWN3ZOak1wcXhhZkhpTGtOdTR3dC1DY0t3N1JERFNUYU1fWkFKQ2pTZ3NpUV9CUk5PYlhOcnM2RktISGtTQVdBRGc?oc=5", "source": "중앙일보"},
+        {"title": "\"국고채 금리, FOMC 이후 장기물 중심 되돌림\" - 뉴스투데이", "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1vVGt4RXVTZDgzcW93S3dza3JTSEpOdWRTZUlzdmFZSl93UTZmbnNOZTdiU2lrNWRiMFRIbzBsaVdhU2J2NU1LMFJ1Q1k4Q0tSMGV1OWYxZXA4RUhHb3c?oc=5", "source": "뉴스투데이"},
+        {"title": "美 국채 투자자, 2년물로 몰린다…\"금리 4.75%, 긴축 기대 과도\" - 블루밍비트", "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1Gb0tjcktsazZsWkNSaVc1enk5YlFhU3JpdGdjWVBLWWtmWEFxc01RRVlnY01tcmhsZVFXT1RNb3A1VDFaTFF5TUJLRXltTzdr?oc=5", "source": "블루밍비트"},
+        {"title": "연준, 2023년 이후 첫 금리 인상…기준금리 3.75~4%로 - 토큰포스트", "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB4anBBb2ZZbWpna21tRHc1emZvaWhGbzBEX2NjWWZHWjVEbm1GU0Z3TjZtbmlpMlZOU29zT0xIMmNodldHU2YxeUxOdDJwQzBWVmhpd2FkNnE?oc=5", "source": "토큰포스트"},
+        {"title": "美 긴축 재개에 은행채 5% 가시권…주담대 8%도 위협 - 뉴스후플러스", "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE95NzJVdWk5Szlaci1odll5ejViVFdqaEhJR1FxcGM0SGxjRm5xSHVsSFFsOE81RUc5UnNKdS1BQVZKdElyaVFTUWx4V3dlTDFZQ3JEUUp4NUVZazFGanZoNE1tQVpNWkdMdGs4akJB?oc=5", "source": "뉴스후플러스"},
+        {"title": "갈수록 커지는 한·미 금리 동조화…‘글로벌 물가 충격’이 주요인 - 한겨레", "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFAxRzA0Vll1a1JoSk1qMGQwVDdwY2dGLVNFRkdpbGlsemtiZXl1ZThzMFBEMGt3Q0QyOFpLZWVNZEpDNjcteHpNaTNoUGl2YjBVWDV2TDlsY0Etbjk0ZUZWLU1lZ3VqcFpYM3ZkOHlWSkNzQQ?oc=5", "source": "한겨레"}
+      ]
+    },
+    {
+      "title": "원/달러 환율 1400원 코앞, '3고' 우려 확산",
+      "summary": "원·달러 환율이 미국의 긴축 재개와 국제유가 상승, 엔화 약세가 겹치며 1380원대 중반까지 오르는 등 8거래일 연속 상승세를 이어가고 있다. 일부 전문가는 환율이 다시 1400원을 위협할 수 있다고 경고하는 반면, 추세적 상승은 제한적일 것이라는 전망도 함께 나온다. 고유가·고환율에 물가 압력까지 겹치며 '3고' 우려가 확산되고 있다.",
+      "importance": "상",
+      "articles": [
+        {"title": "원·달러 환율, 2.4원 오른 1385.7원 - 조선비즈 - Chosunbiz", "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOc3dHTDhiOTRTRXk3MC0xcUFXWGVYNlRZVmoxVmpWUHJVTTZVVmI5RHM5MkFELTZyazJQalA0d1FjVmhVd3JaeExucm5VNmRldUVCekdIM3NjNGlyVG9LenJSODc4dkhNMThlZDRtd25HRUJPeklxYjA5M2s5LTlfOGVVVlVpd9IBmgFBVV95cUxQcHNDa1MwNnctX040VEExek05Nmp1eUFnc2JLS2RWNmtfS0pzci00cGo3RDR2QnUzSFZKY25Zd0hReWcyZmY0VTMzc1l5WGxpdHM5MHpjN0YxbHNLWDJvN3o5QTl1UVhyMDJWNEhRRTRrTW9rTWJ0a3E4dmo4XzloWUR3SjVTUzFWVVRNRjVndDdrSHcwUVFNWkZR?oc=5", "source": "Chosunbiz"},
+        {"title": "다시 1400원대 바라보는 환율…엔화 흐름 주시 속 수급 공방[외환브리핑] - edaily.co.kr", "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQOEJNQTBaOFh6UmZsT3ZJeVRPaVhqNE1qR3VyTHp2NDAtVVNpZnk1RWtHTFlaZFVEQ1oxWlBwY2w0UVl0M0E0bGdMTFdzeWpjc1NHMHZxVjVwTEZEY1ZxSkhzWHFvOXNnM21GdXNkOXZfaFBXTlVram82MFgyYkpqag?oc=5", "source": "edaily.co.kr"},
+        {"title": "다시 고개 든 '3고'에 물가 압력까지…한국 경제 '4고' 우려 확산 - Queen 이코노미퀸", "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE43VDNKUUdoZ0J0QWttX3QzNVAzVWZiblZRZzVuRE5kbGFKZzFNR1Q5ZElCQlpDcjdNNjBQV05IdHdlUnpiNDhIOE5wd2duY2JwQ0RXYTVFU3Bhb3BJOTVzc1lPSGpFYlVuTGc?oc=5", "source": "Queen 이코노미퀸"},
+        {"title": "다시 1400원 위협하는 환율…美 긴축·고유가가 변수 - 조선일보", "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZzd3ZV9wTy1wV1JlRFRtR0hMMUVQdzNpcWhCM201NXNIb0dMV2Z0WTVic3R4QWVNR0I5WExzVEFScTV4NEJOak1TNk9GU3hoT3F0eW5jT0NWYms0YlNqYUpyVUtuaEhaa1VoSU1vbFdIVmxObkl0MjEtalZQWEpQbzFMNEE1QzNpcHNsSGdB?oc=5", "source": "조선일보"},
+        {"title": "일본 엔화 강세에 동조화⋯\"1380원 중반서 하향 시도\" [환율전망] - 이투데이", "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5nbGdraWpjMnFveHlHWUotLUFhN2o2M0JXbm94blNnRjZmQk1FZVpPNkpiY1ZKYzZWMTdQWWhxLThhNlJTRF92elBLTW5JdTZ2WGUyaA?oc=5", "source": "이투데이"},
+        {"title": "유가 100달러·환율 7일째 상승…다시 고개 든 '3고', 물가도 압박 - v.daum.net", "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5TTGhycVF1VFNNWjIxc1d0UFNLcG1hRXR1d3MzYmNXcUxvWmdEbkk5NVA5UC0zTFhrWWFjV2Y0eTdPUTA3Tk45UnFWeFc5aVE?oc=5", "source": "v.daum.net"},
+        {"title": "1330원 찍었는데, 어느새 1380원… 환율 1400원 ‘초읽기’? - v.daum.net", "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBSaGc5YjI5cnhQOWQ4eUlIQVB0U0h3enVEdXJsRGVOT2NXVG9GemN1WnF1dF9uUjdpbGpaQnVKYTQ1bGJHbUl1eHlxZDBsN0U?oc=5", "source": "v.daum.net"}
+      ]
+    },
+    {
+      "title": "코스피 장중 7000선 도전, 반도체가 견인",
+      "summary": "코스피가 반도체주 강세에 힘입어 장중 7000선을 여러 차례 터치하며 강한 상승세를 보였다. 미국 반도체 훈풍과 외국인·기관의 동반 매수가 지수를 끌어올렸지만, 증권주 이익전망치는 오히려 하락하는 등 종목별 온도 차도 나타났다. '빚투' 열풍으로 한국 증시가 글로벌 위험 요소로 지목됐다는 분석과 내년 코스피가 5200까지 밀릴 수 있다는 경고도 함께 제기돼 낙관과 경계가 공존하고 있다.",
+      "importance": "상",
+      "articles": [
+        {"title": "반도체 훈풍에 코스피 장중 7000선 탈환 - 스페셜경제", "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9lYjRXMXNkWmdZWmhKaXRFdXVmcWd1RUVzZm4tMmNXYUxLZjhOdFhYeG1QdTBNUlFwaURSQkNvN01GUW5rWDBRX1B4RTg5R1FISE9LQ0duV3prd1dsSVZEZEdGOG13bWd2bkZGYg?oc=5", "source": "스페셜경제"},
+        {"title": "미국 반도체 온기 탄 코스피…7000선 터치 - v.daum.net", "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA3Vk55T1VXcDdkRWZweEtyX2JsWWNRNzQ5dFpoRno0ZUM5UjE5djU2SXBESmstVUNkUjFZaW1KQ2IxM05hb19NeE5uXzdzZDg?oc=5", "source": "v.daum.net"},
+        {"title": "금리 올라도 주식이 더 매력적이라고?…`실적 장세`에 기대 거는 증시 - 매일신문", "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5LcUZMZm1ac201M3ZWQWZmOWVnYkw5TEJXTmZDem5fNk4teHNWUE9WOUpZcXZIaWoyOHljZzR0WnlPbURDWlF1dzhKbTY4c0N3dVlCWXJaTHRESkpDSnZ1YkxB?oc=5", "source": "매일신문"},
+        {"title": "코스피, 장중 7000선 탈환…외인·기관 '사자'에 1% 상승 - 뉴스웍스", "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5OWmpSbE1INTcxRTk4RnBEQ04xM0x4cUQ0dmFnVjg4OU9ab0d5Y0ZuaEhrZ1lDRjIwejRSRUFVOXYySmE2STFqRTk3eWE1VTBOTGlYWGhucUp3NEk5MnFZeGJKMldFZzVQSDJzZURxVdIBc0FVX3lxTFBuNk5GTUc3cDVxZERNUFRfaFJ6b3ZhVE9fNl9sTXd1WUttNkpjZEtpOHFiRlM2QnlKVlRhcEVsd1RhSmRHaDVaNDVFbXJka1lpNEtYSld6cTk1ZUhrd3h2aW1IZWdBUVg4aWpWS1Vkdzh4b1k?oc=5", "source": "뉴스웍스"},
+        {"title": "지지부진한 코스피에… 미래·삼성·한투·NH 등 증권주 이익전망치도 하락 - segye.com", "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1VZ1gyTUpydkxuNEJWWmJzeEI2VThBbmFOWUpadXJFRDZ4TUItdUkxNTQxM2Z2MXlPQmdwdEhiRzB1RHRUUnN4bG1Eb1NtbkU2TVU0RHo5X3JVZjBiS3Z5WkQ4T19oV0dyWEFN0gFUQVVfeXFMTUJXVmpHNmVwNmJET29VQmwyc0w4QU4zdlhmekFFd2twVmNYa25XZVRzVC0ta1VQazJ3ZjI3TnNDbzRHdkdpZ24tckpKTWR5WTk5Ujlt?oc=5", "source": "segye.com"},
+        {"title": "[밤 사이 해외 뉴스 영상] 빚투 열풍에 결국…한국 증시, '글로벌 위험 요소' 낙인 - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9vTGtxd3FQTWVESkhlanV1cW9wV19xWFRTenViUlFsdHF1MEdhb3lZbHFVRkNZV2F4ZE5SZmczVUZ4VU5lbmYxZFRyUGNYSmpaMEFfOWxVMnMzUQ?oc=5", "source": "한국경제"},
+        {"title": "“어게인 9000? 내년 코스피 5200 밑돌 수도”…현금 늘리라는 경고 나왔다, 왜? - etnews.com", "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5HTDVHYzVhbkpPZFJjdkVzekNmNmlXWTkxelFxNjFQSE9JdmRGM3E4M3ZHcGtLaTBzTWxmd0paVjhKdUFPb2RaZ2NGTlVRZw?oc=5", "source": "etnews.com"}
+      ]
+    },
+    {
+      "title": "수도권·서울 부동산 가격 상승 지속, 정책 신뢰 흔들",
+      "summary": "수도권 아파트값이 19개월 연속 상승했고 서울 전셋값은 11년 만에 최대 상승폭을 기록하는 등 서울 아파트 실거래가가 1년 새 14.56% 올랐다. 다만 거래량은 오히려 줄어 미분양 부담이 커지고 있으며, 서울 아파트 거래는 실거주 유예 조치에도 '반토막' 날 정도로 관망세가 짙다. 정부는 토지거래허가제(토허제) 유예 등으로 시장 안정을 자신했고 실거주 유예 신청 기한도 1년 연장했지만, 정책 혼선에 대한 우려는 여전하다.",
+      "importance": "상",
+      "articles": [
+        {"title": "\"수도권 아파트값 19개월 연속 상승…미분양 부담은 커져\" - 연합인포맥스", "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE05c2NUNVpoWmhORGZTV2pId0M5UDZBODVBZkJ1SXdVMjhGU2lKM19nQ21YdkF4bllGZWVNYXhiTTFGWWlWY01oVDdSX2hvdDlMaXZ2bTFZZC1LaVpuLVZ3Y2U2UUNSX0s1RDQ4UHBZQzk?oc=5", "source": "연합인포맥스"},
+        {"title": "강북도 ‘국평 전세 10억’ 시대…서울 전셋값 11년 만에 최대 상승 - nbn 시사경제", "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA0UUdnZHVYTGFRUFIzQkxCVFJjeXhBV0hWRno3RkdpVDZHSG5lUjI1NGhTSVJ5M3JuckFOb2o0NXRmQ0c3UVROWUxrNFpPdlhlOWRaeFNrSlZsQkQxLUI2TWZuUHFRX2w4RkE?oc=5", "source": "nbn 시사경제"},
+        {"title": "[부동산시장] 서울 아파트 실거래가 상승 지속 - 1년 새 14.56% 올라 - 한국도시환경헤럴드", "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE42bm1ZVXRZRWZrbWNRQWVQVFl2SHZRTGJvUU5hWFZIb2tkYy1xR3AyVTJXQ0lkWGZ0OGNWT2UzTWpwaGJBQzIzdGdIVGdUZk1uaGU3bGkwalhSeWJ1THFPSzlXcEY5aFFJMklRcFlR0gFwQVVfeXFMTlBPQkp6OTNuck5NNEM1ZVhxSzhjWGJNMHZKQWJZTmFOdFBvRjFaX3FVbGNrdG9FdEVyZWk5Z0dfcjMwQVY2TVVrLUZJUnJWRzhjelVnT2QzajM1NDdlX1FrRElISElUeGVZMU1vajB0Tw?oc=5", "source": "한국도시환경헤럴드"},
+        {"title": "서울 아파트 거래 ‘반토막’…실거주 유예에도 관망세 여전 - 산경투데이", "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5veDdGTzN0OVNRN0QyaTBPMFRpWDMyVDBmcjI5dG1hb04xWWJ1ZWZWckN0dUdCZ1BfWEhVT2E4cmRIdTJLT3pNb3RUX09JWWs5dkVJNDlfeHducmUyMmtHQXUtNlhyWjUzb3dUZS1hX0rSAXRBVV95cUxQNDJwaHEweW1KUUhsR1lDMDRjc3ZjV3hKc2xyYy14QXQ2Q09wakVHZ2R6M25Ma2pGMVdSNG82QTNQbnZhT1NqYTRxVGJxYy1XUXpiMXU3OWVEMmh4T0RlTHVKblllLXdpS2dIZDduXzhYb292WQ?oc=5", "source": "산경투데이"},
+        {"title": "\"역까지 1분인데도 5억 차이\"…아파트값 가른 결정적 이유 - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBzSXp6Mm42UktwZVNrNUwxRHFncGRxcTlqY2dVaXA5ekZVLWZlMm5OSXhRYVBqUzQ1SGRoRmJ0bGxUZ05mTkt5UWhqU1E1SmtSc1FyRFdhWVpQUQ?oc=5", "source": "한국경제"},
+        {"title": "이 대통령 \"부동산 시장 점차 안정될 것\"...토허제 유예로 거래 숨통도 트일까? [스타트 경제] - YTN", "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE44Q2FWUFhwWlZvX2o3aFhnRS1yNTlCbkh1YXV3MWhjWVUyWmVNZHMxem1SWW8zcmhWelZQZzhPdy1LdHRrT1dVa2VQNDBra3RzNmpDdmtxSnpyQVB6bkE?oc=5", "source": "YTN"},
+        {"title": "실거주 유예 조치 신청 기한 1년 연장 - technovalue.com", "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA0amVaYl9CNHJ2Uy1IcHJpdXhwQ1E0QzlURnNPeHRSS3UwR2M3ZnlRY0taWXRxNFZiR3hpaGJLM19HVFFJMU5oN25aaHM4N1hoM0lMb2c2cw?oc=5", "source": "technovalue.com"}
+      ]
+    },
+    {
+      "title": "일본은행(BOJ) 기준금리 인상, 추가 인상 시사",
+      "summary": "일본은행(BOJ)이 기준금리를 1.25%로 인상하며 점진적 긴축 기조를 재확인했다. 시장에서는 올해 12월과 내년 4월 추가 인상 가능성이 거론되지만, 매파적 결정 이면에 내부 견해차가 커졌다는 분석도 나온다. 일본의 금리 인상은 해외로 나갔던 자금의 귀환을 자극해 미국 국채·글로벌 증시에 긴장 요인이 될 수 있다는 우려도 제기된다.",
+      "importance": "중",
+      "articles": [
+        {"title": "일본은행 기준금리 1.25%로 인상...점진적 인상 기조 유지 - mdtoday.co.kr", "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8yU0pab0RiWUxoY2x4YmlIeXdmcW56OHktVkZRWE1uZFZDeWNxb2czTno4bzg5V0VCcFNzdFpjYk16REZhMmgzbUFPNXk0S09fb0FtSEdraHRiZzNRQjNrdVBqV05hQVdReFQ2Yw?oc=5", "source": "mdtoday.co.kr"},
+        {"title": "OE \"BOJ, 올해 12월과 내년 4월 추가 금리 인상\" - KB Think", "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBSMTlQeld6ck5TQWo0ZXZZR0stR19iVldLMHNwMWhqMHZiMnJJdmlmRm53WEUwVUgwRXFIa1VpUlNwc3kxeFE4RFhYRnpWUDduZm9veWhBOFIwZE5zRy1QQzV3S2ZvN0VCS2NfR2dhczRHdw?oc=5", "source": "KB Think"},
+        {"title": "BOJ, 기준금리 인상...'매파 인상'보다 커진 '내부 균열' 신호 - 조세일보", "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBkV2VyMHBJUE5XbF9VMkk5ZU12cUt0Z0xFRVhnZUlTQzM3bE9jSGlWakVrYlNHZ0hHcnp6U3hLX29oczhxTWpWeEE0NjZWMXJGS0V3eVFPQ2Y1dmIxc3dmNzJKRGdmNEpLQlVJXzZ0dw?oc=5", "source": "조세일보"},
+        {"title": "日 금리 인상에 유출 자금 귀환 '신호탄'…美 국채·글로벌 증시 ‘긴장’ - 청년일보", "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1vSHpuSlBBRDhmX2dyR0pkc2gtYlA1MWIwckwtZkFyX28yZ2FwcGpaZlVzMXBUZHRuX2t4a3pzTkg1a0t0Y09rZ0tFczdqU0FiRFJwbU94MlZ2b05qYVdfOXhaMlZiWVU?oc=5", "source": "청년일보"}
+      ]
+    },
+    {
+      "title": "국내 은행권 예금금리 인상 경쟁, 가계대출 관리 강화",
+      "summary": "기준금리 인상과 증시 조정이 겹치며 국내 은행들이 예금금리를 잇달아 올리는 '역머니무브' 조짐이 나타나고 있다. 은행권의 1년 만기 정기예금 평균 금리는 연 3.4%까지 올랐다. 이와 함께 금융위원회는 가계부채 관리를 위해 가계대출 매주 밀착점검을 재개했다.",
+      "importance": "중",
+      "articles": [
+        {"title": "'역 머니무브' 본격화되나...기준금리 인상·증시조정에 시중은행 예금 금리 줄인상 - 생생비즈플러스", "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9HaDNUSUl1T2R1NXlMakUtWGFWWk81MHB4dk0tMk9MUUpLT2xfNWdicWMwUVoyYlJjR2t2dXBsMDFSTFdOb0w4eDdaanYydzNWNmVkVGVjS2JoWUlkRjM5eGdXbTd1WVBJTW1mdQ?oc=5", "source": "생생비즈플러스"},
+        {"title": "은행권, 예금금리 인상 경쟁 불붙었다…1년 만기 평균 '연 3.4%' - 뉴시스", "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1nb1JPWVB6TVBSaDFkUy1DaUZ3Z0o2elAxUlBwZUtnN2dYZmdmVmFkUUtMbVVmZXpLYU9mWVZtMnpWc2dhTTFyZE5mVExSTzNjYmVpTC1BTWZ1VURIZmVrSNIBeEFVX3lxTE1FUDlxWGZUbHkweHQySkh2bVVudDExTUo1ZUJJd2lKWjFBRjlVVjBsbEkyQmRGbXBPbUV2YUdDRVJGQlN6WHo4R0xkTzBwVUVqd2JKbVpHX01pLUl4eDVmVHppcHdNNXlhVUpOa3htYjFaTkpEaTh5Rw?oc=5", "source": "뉴시스"},
+        {"title": "심상찮은 금리 상승세…금융위, 가계대출 매주 밀착점검 재개 - 연합인포맥스", "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9raDRfZkZOTGVaTklMVUpwMGVjSkp3dUdrWW1SX0NMLUEyNVpqMUhVSTJ1WlFaY1JWbnN2SzMzLWcybE1jTUhENTFKemtHTFVONkp5czFrQTRYQk9VbVM3cGh5RFRDZVZZODJPS1V4ZWk?oc=5", "source": "연합인포맥스"}
+      ]
+    },
+    {
+      "title": "삼성SDI 등 K배터리, ESS 재평가로 목표주가 줄상향",
+      "summary": "삼성SDI가 전기차 배터리 대신 에너지저장장치(ESS)·전력 인프라 기업으로 재평가받으며 증권사들의 목표주가가 잇달아 80만원까지 상향됐다. 상반기 글로벌 ESS용 배터리 출하량이 71% 급증한 데다 북미 전력망 수요 확대가 기대되는 영향이다. 다만 중국 CATL도 미국 픽업트럭용 배터리를 개발하며 경쟁이 심화하고 있어 변수로 꼽힌다.",
+      "importance": "중",
+      "articles": [
+        {"title": "'배터리서 전력 인프라로'…삼성SDI, ESS 엔진 장착 - 경제타임스", "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBXVS1MaW9XTmxaMjRsOENWQng3VnN6R3BSZkZPNkEwUVl4a0lsRXo3THY1MWF5S0Vick5XaG9tY2lSZlkwY2NzMHJSekIxTk9NcENJ?oc=5", "source": "경제타임스"},
+        {"title": "“AI가 두뇌면, 배터리는 심장”…삼성SDI, 전고체 배터리 로봇 시장 공략 [미리보는 헤럴드 기업포럼 2026] - v.daum.net", "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE00TkVBWXcyV3pPY1hjcmFkN3MxT2NCQ0M4NUNXamJQVklDWnRGMkpKSVk0YzhtT0NzRU82S1Q3bGFRcWFvZGxIQVNtc0hUa0E?oc=5", "source": "v.daum.net"},
+        {"title": "ESS 배터리 출하량 71%↑...각형이 시장 주도 - 아주경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9HanhuaGNMWkV5UkluZ2FpM00zeVRzaHBRaWJTVEQyM1hOb19hUzEtNGg5a3ktV2h3Q0ZWM3NuTHlESUsycFhLNDdOaTJLdzlYR3B2OWxUeF9aUdIBWEFVX3lxTE5UREVUZG9mQzh4dTdyOVltVjVZdGsyRzZnd3J6RUNhWVY5MF9LQmI2YjlmcWVWNGN0dXdkd3NmbUdHcWxuXy0za1VwSC0yY29MUDZ3cnZ3c1U?oc=5", "source": "아주경제"},
+        {"title": "“삼성SDI, 전력 인프라 성장성 반영…목표주가 80만원으로 상향” - 매일경제 마켓", "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9GbXpUaC1yQ2g2OWtLM1VTRTM2cUZRaWYtTXQzN3Q0TTVyME5OWXAzMUVGWmN0Z1AyZnRuNXF1VjdMSVZoUTBYYXB5TzM4Y1NleUE?oc=5", "source": "매일경제 마켓"},
+        {"title": "미국 장벽 뚫는 CATL…픽업트럭 배터리로 공략 - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBmR1JubWZvNjlKY2pIV3JXd0xBUlRYanpZQ0JnM3QwXzFzOVpOWEdOc09XMjAwMFBoWTlzbnpWdkxhRk9LYjZRRG9yTENZUTBNLXU3UjRKazhPUQ?oc=5", "source": "한국경제"},
+        {"title": "AI가 키운 ESS 배터리 시장…상반기 출하 71% 급증 - 경북매일", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB2OHVTRjZwd3V1bExfcVp2dnRZc2JmaUQzaXgzeGhSV1RMVG9MX0pBMk5xa2dOemJnbzhIUHVxLXFpVmdUY0ZzcXRySjR5QkZNRmxHNm9MOXlxZw?oc=5", "source": "경북매일"}
+      ]
+    },
+    {
+      "title": "대출 우대금리 받으려면 급여정보 등록 확인해야",
+      "summary": "급여이체 계좌를 이용해도 대출 우대금리를 받지 못하는 사례가 잇따르자 금융감독원이 은행에 급여정보를 별도로 등록·표시해야 우대금리가 적용된다고 안내했다. 단순히 월급을 이체하는 것만으로는 자동 반영되지 않는 경우가 많아 소비자들의 직접 확인이 필요하다.",
+      "importance": "중",
+      "articles": [
+        {"title": "대출 금리 우대 놓치지 않으려면...금감원 “급여정보 등록·표시 확인” - 금융소비자뉴스", "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9uWk9YcXVXUXAxOEo4aFJoLURCNnhXSkQwdTlWMzZSUk1lMjlxYnFnVTlZY0M4Y3FKZFNBUkZOLUVVek1fbW1Jd1lDaWFRT0VzMFJFYVZMQm9WTk1nUFhZV2REdFZ6bHVKNnc?oc=5", "source": "금융소비자뉴스"},
+        {"title": "월급 꼬박 넣었는데 우대금리 ‘0원’…은행 대출의 함정 - 조세일보", "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0yTHI2eUdHaDFiX3VOeFBGQkRIbFVYY3RRYzctR0pZd0ZnU2xqZVI2QWFYMk0tOE1fWjcxU01fRkFJZ1ZJZmRLbEJDcXZjcU1pYTlVajRPNk5WbDBIU2YyMm9IMDlpcGpqSkdqZHpBUXZaNEdH?oc=5", "source": "조세일보"},
+        {"title": "\"월급 이체했는데 우대금리 왜 안 되죠?\"…금감원, 은행 대출 유의사항 안내 - 더팩트", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9zUkFrZFVhOEFib2RHZ1lXQUwxYXJkUjA2MkIxSmllQTN1WUt0cUVvUmVsODdOMUY2dEZ1ME1UWXl2Ul9NYjQ4Z1gxbTBtak03QU9OUXREU1BLQdIBVEFVX3lxTE1ZTVJJamtQZDJBS2JLNkxDeXBKejZONzlNRnBDVFFDTmUyZUtRTjJuYTFBQ3J6YlZCcnJQenNtN2U0eEdBVFctSW90VkpKS0xOU2FXbA?oc=5", "source": "더팩트"}
+      ]
+    },
+    {
+      "title": "4분기 전기요금 동결",
+      "summary": "정부가 4분기 전기요금을 동결하고 연료비조정단가도 킬로와트시(kWh)당 +5원으로 유지하기로 했다. 최근 유가·환율 상승으로 물가 압박이 커지는 상황에서 공공요금 부담은 일단 늘리지 않기로 한 조치다.",
+      "importance": "중",
+      "articles": [
+        {"title": "[속보] 4분기 전기요금 동결…연료비조정단가 '+5'원 유지 - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1PaWw4b0J1cE5HSTNUdFpXQUppLU05MXBYREFqT3Fpcmd1YVJQN3FqWFBFY20tX2dHTDJtVV9XZ2YtWWRSdmlpRzlIbTlUUTVPZ3pRZFAxYW5qZw?oc=5", "source": "한국경제"}
+      ]
+    },
+    {
+      "title": "9월 1~20일 수출 78.3%↑",
+      "summary": "9월 1일부터 20일까지 수출액이 714억달러로 전년 동기 대비 78.3% 증가했고, 일평균 수출도 89.8% 늘었다.",
+      "importance": "하",
+      "articles": [
+        {"title": "[속보] 9월 1∼20일 수출 714억달러, 78.3% 증가…일평균 89.8%↑ - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9FY1hseUZOMGstVnQ3eGNlQkc2em1DN1NOczF4RHlyMHB5cDRPamxkOVFFRVhPX0NpeFE2V0g1V2gzR2RhaVlvcTBoMWp0LVMwa3NjNU5fUnIxQQ?oc=5", "source": "한국경제"}
+      ]
+    }
+  ]
+}
