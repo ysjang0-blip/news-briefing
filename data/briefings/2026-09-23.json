@@ -1,0 +1,124 @@
+{
+  "date": "2026-09-23",
+  "topics": [
+    {
+      "title": "코스피, 美 AI 랠리에 급등했다가 상승분 반납…7000선 겨우 사수",
+      "summary": "22일 코스피는 메타·엔비디아 등 미국 AI·반도체주 급등 훈풍에 장중 2%대, 한때 7170선까지 오르며 강세로 출발했다. 그러나 국제유가 반등과 개인 투자자의 대규모 차익실현 매도(약 1.6조원)에 상승폭 대부분을 반납해 7017선에서 강보합 마감했다. 외국인과 기관이 매수를 주도한 반면 개인은 국내 증시를 이탈하는 흐름이 뚜렷해지면서 수급의 주도권이 외국인으로 넘어갔다는 평가가 나오며, 미국 증시의 AI 거품론을 경계하는 목소리도 있다.",
+      "importance": "상",
+      "articles": [
+        {"title": "코스피 7171→6986→7017…하루 만에 널뛰기한 7000선", "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9QazM4VkVZNmtUWmN2VWR0S2dHZ1puWWRSd0w4elRBSFpVTlh5MFd1eGRxX0V0UzhadWZPRTkta2FBR1ZJTDdIOVo5d1JaMGZsckxsNWdOTGUxYUpWQ1BTMw?oc=5", "source": "theconnectmoney.com"},
+        {"title": "“아침에 분명 다 빨간색이었잖아”…메타에 웃고 유가에 발목잡힌 코스피", "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9RSy1TcTBhSjdIUldCNmQzWGlTck9sSHVDS2Y5OGdfZkZ1TGR0NVlkZllSZ1B4UDlWSHZraDRhUVVseVZsMXV4c1EyNXFDakxibUE?oc=5", "source": "매일경제 마켓"},
+        {"title": "’AI 거품론’에 발목 잡힌 코스피… 2% 급등하다 강보합 마감", "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1jRkVDWFdDTk43OWM0LWt5dnFCY0c3ckR6NWVfLTRodXoxbm44OWZLOFhjOU9ralhGYVlwQ2JsR25sVURYYzlSNTB5bFNvREc1X3lYd0hKNjlON1ZrbFBJaEd3?oc=5", "source": "이코노미스트"},
+        {"title": "개인, 국내 증시 이탈 가속…“코스피 수급 키, 외인으로 넘어갔다”", "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ZQnMtSWhCUGNrOVVkMVZSaXZzc010UGR4RFk5ZEZnSmkwc0hrRk1hVExoalY2U1dkRWZPVk5pLVdrNzFBZXJ0THJzd1VicjhwZVE?oc=5", "source": "매일경제"},
+        {"title": "美 훈풍에도 개인 1.6조 팔자…코스피, 강보합으로 ‘칠천피’ 사수 [투자360]", "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5OdUlUY0Y5eW1qTDVHdmlIbE82V0hCQXNUanMtNlp5a1NHd2dOS19MMmVKdUloVjlrMDVTTHpYdk1FZ2xVV3EwNXdia0kxS2Rwa0M0QnFn?oc=5", "source": "헤럴드경제"},
+        {"title": "[개장시황] 코스피 2.28% 뛰며 7167…외국인·기관 쌍끌이", "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE53d1ZicVFqMjNfWllWTUIyWmkyUWdQaXFjcmJySEpHRG1KTEFrSVNlYmhNLWVLaGQ5UWZrMTRSYWNGT0lVeE9UNVY0bzR6VzdxMnpLRndOdWZNcFZkMVRXRS1LMWo0RWM?oc=5", "source": "자본시장뉴스"},
+        {"title": "AI 훈풍에도 ‘팔자’에 뒷심 떨어진 코스피…SK하이닉스 하락 마감", "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE94NkNuM21IcThsUHlDdkMzZkRvMTZnMFpUckpWbEpUWnpKaE95LXZnZms1bmV1SFRwRzZaQ0llSlMzbW5VNS11NE5UNFVlRE80ZlE?oc=5", "source": "매일경제 마켓"},
+        {"title": "나스닥 최고치에 '7100 뚫은 코스피'…집나간 외국인 돌아올까", "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9RekN5Sk12VTN3SmRaM0dXU3pKUmRwRGYzWTVweHFIR3M1d3dlQXZtQUJ6SHo0Qk4xTFJBNThVTlA3VTRMXzVpVVhUMlRSTllTQmVJamhfaHp6enA0TVYtOA?oc=5", "source": "아시아경제"}
+      ]
+    },
+    {
+      "title": "원·달러 환율, 추석 앞두고 이틀 연속 급락…1350원대 진입",
+      "summary": "원·달러 환율이 추석 연휴를 앞둔 수출기업의 달러 매도 물량과 미국·이란 대화 재개 기대에 따른 국제유가 하락이 겹치며 이틀 연속 급락했다. 22일 환율은 전일보다 22.8원 내린 1358.2원에 마감해, 한때 1400원에 근접했던 환율이 이틀 만에 1350원대로 주저앉았다. 한국은행은 최근 원화 강세가 과도한 쏠림이 아니라 펀더멘털을 반영한 되돌림 과정이라면서도, 하락 속도는 빠른 편이라고 평가했다.",
+      "importance": "상",
+      "articles": [
+        {"title": "환율 이틀 연속 급락해 1,350원대로…달러매도·중동대화 기대", "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBraEpuRGUyZ3gtM3NGbGlsRjFFd1BtWmVvMmY3NEF3bnFVX2RfWDZrRDBhY0tYTDhwS3NRZkVLd0V3NXhtSWZyR2JLTkhUbU5kTjhQeFJRTDZHd1XSAWBBVV95cUxOMldVa1RMMUZPZGdJYWt1cWVibml3QzE0dkFqbGhzdVd2eUY2NlZ6S3hLMkNMVHBMaDJSQ0hQcy1UOXUtbWRpTFdEUS1JM3RDNDdEQ1Q3R0hndjQ2Tml5ZjU?oc=5", "source": "연합뉴스"},
+        {"title": "원-달러 환율, 이틀 연속 급락하며 다시 1350원대로...22.8원 떨어진 1358.2원 기록", "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE93emI1RXR0ZkdVanhpTmYyd0dxMjBGelNLV3Q4OUpOem5WQjVhcEdWMWtFaEx4RV96TE1RakhBallwV1Q3RjA2ZEtzdlNiT2NXLTVMbUVZQndUSTJsVTFoTE1jZUI2YUV4endFdC1qaU93WjZzLVk5X1FoNmM?oc=5", "source": "비욘드포스트"},
+        {"title": "[속보] 원·달러 환율, 22.8원 내린 1358.2원", "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdEQ3NTdwYm9hTnNqWHhybWZTajBsWDZZblJpSkZLbDJxYkExWTdxVUdVOEpjenhVeXhFSjZxNWxjQTkyMVkyTHlZVnI3aHhJaU80dzB0SUJXMGFPUFhkc3AySHNUZzBWbjNOOXJWV29NQ25ERzZFTDBfZkxwYXQwOVgzV0x0d9IBmgFBVV95cUxQUUhRLW9jckJaUlhLSThpYlFmOWd1c05sSjNmWGY2czl2YU14VElha1NReDViR3ZJdXVkekRMS2Nad3FjeUtuLXc3d0tBR0JYV1RNYlVndmdBS0lSN00waEtnbk8wSVA0TXB6cmhnbXBLOVJGU1p4Nks2THJjWHdNVWlHZlNaMGdIOEl4OGlPdGJwWWw4azFYM0tB?oc=5", "source": "Chosunbiz"},
+        {"title": "한은 \"환율 하락 속도 빠른 건 사실…원화 강세는 되돌림 과정\"", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE02Q1ktUEhiaDNOVGZmNU1NRWowV2RZR0ktMWEzbHdGVlVQdlVIVC1lWWJVTUhSeFNDSUFwMjV0emtWc2s1LXRGRXpaRHVRVUpsNVdwcExhQUtudw?oc=5", "source": "한국경제"},
+        {"title": "[외환] '외국계서 대량 달러 매도·비드 부족'에 급락…1,360원선 안팎", "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9DZ2VhUEExdmVCcGNyU3BYaEQxeTlvS0NlVjdWRHNKUHNtZ1UwenlhQTVyc0dPek82bVRFY29DY09BSHVjOVZqTTU2UTdqNlVPV0N0bjZwSkNVSTF6d0kwSXNHbkZMYURUSHlKVnp2V3g?oc=5", "source": "연합인포맥스"},
+        {"title": "1,400원 턱밑서 급반전…환율, 중동 대화 기대에 1,350원대 수직 낙하", "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9sQXdLSkh5aWxQSFl2VTFPYlpMekdCdUlJUEtUV01DbkdTRnZ1b2tkRzUtZVdjN18zLWNoclZHS2JqNmoyV0lxSlRtTWh3Q2llUGtSd2JTWHNBWlpvcHVUZ3NGRFBBTXBT?oc=5", "source": "CBC뉴스"},
+        {"title": "[환율마감] 원·달러 22.8원 급락 ‘2개월보름만 최대낙폭’, 추석전 물량공세", "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE11ZEl5SGFfTk5kTm0ybWFBeTFFcmJROUdBNXBEeVZJNU1HTmNPT01mX1Fsb0dGQnpYVVE5M1VhZ2ZlWm1GT1pQdzBkOXB4SUU?oc=5", "source": "v.daum.net"}
+      ]
+    },
+    {
+      "title": "한은, 두 차례 기준금리 인상 후폭풍 경고…가계·기업 이자부담 눈덩이",
+      "summary": "한국은행이 발표한 금융안정 상황보고서에 따르면 기준금리가 0.25%포인트 오를 때마다 가계 이자부담은 3.3조원, 기업은 3.7조원씩 늘어나는 것으로 나타났다. 한은은 금리 인상의 충격이 통상 9개월 뒤 본격화하며, 특히 한계기업과 영끌족 등 취약차주의 연체율 상승으로 이어질 수 있다고 경고했다. 실제로 이자도 못 갚는 한계기업 수가 역대 최대치를 기록했고, 자영업자 연체율도 상승세다.",
+      "importance": "상",
+      "articles": [
+        {"title": "한은 “금리 인상 후폭풍 9개월 뒤 본격화”", "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9HeTlfekVKNFhlbk14R295MkhkcUlCa0hzalUwVTl3MDlhOS1YYnc1XzkwTTNGS2RrWVlfT2lZcUQtaE14Rzc1OFdPWnFGS2RyemREWjNZalVwcktVU2pLTExRNEstT0JEblZrc0VaOUdYZ0tsODFlV01B?oc=5", "source": "서울신문"},
+        {"title": "\"기준금리 0.25%포인트 인상시 가계 3.3조원, 기업 3.7조원 이자부담 늘어\"...한국은행", "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9tTTlXa2RKbWxJT3M1RjlodHZPNWVud3dvQm12VFBUemhBaVpQZzdSejRPSjdiUW1ObHc0OHk0djFUbXpDNC0tb3lQeUlZMFoxUVRQTFZHYzBfbVVuMVBqSld3S3BRN3l2QTlKMGRtbWFYM2Y0dUpuTm4zdHc?oc=5", "source": "비욘드포스트"},
+        {"title": "고금리 한파에… 이자도 못갚는 한계기업 역대최대", "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1zOS1aZTI2MWpRSjhVT1dRWUd3em55SVNONDFPcTlCYk93UHJpeUVEdzhaWkloWERNTHZiZTdRaVBOTERpMG9MSGRyMFpRNzBaMG1PVlVKRUhoQVBMN2FiWFpObGozUUE4dUR4S1lfLWtIV05hVVHSAWZBVV95cUxQQkxqZHNvWTBNU1RtcWtJbVEzUlhRNUFqWmxORHFKWDRzdDBRZEtjemQ1aUFUeHVtM1p1bHBhX3VSbjhQSW9GXzhwbXJ3U0NpN3NwdGo4X3V1TDRfMmFweHlWMUpCMmc?oc=5", "source": "동아일보"},
+        {"title": "\"경매 넘어가도 빚 안 갚아져\"…영끌족 연체율 급증에 '비상'", "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE93MV9JZTg3OXdWVTVjSWlIbk5vV2hYUnE4WXppbVpoOEtxMUNxNXRyam1neENqZ3JNczZLQThPLWZPNkJOR0RZQWtPQy1rd2dqR0M1aW1lLXJlMEM5QnVvQ9IBeEFVX3lxTE5wTGJ2VFVZZDIzUEtzN3E2QWZPeEFPYzB5b2xSdkYzTEJGbkYxRXJVaURRLURiQklmc1dRNWx4TnVIRGFRU3J0LU1UMV9VNXhWWkJIWVdTY0t1bV9GdjBHMzhGSjc0T1NWbDRQUVFUX2M2YnlFNlVlOA?oc=5", "source": "뉴시스"},
+        {"title": "한국은행의 경고… 금리인상 한파, 내년 봄 취약가계·중소기업 덮친다", "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8wVlFtNnQtWUlJbVE3emRhNGdnWVpOelFSdUo2b1J6eU9RZWxhaGIwUlg3d3pveWVaNHBmRGw4WTFhN0xRSXp3eHI4YnZ0aXE0?oc=5", "source": "문화일보"},
+        {"title": "기준금리 올리면 대출금리는 언제 뛸까…한은 “5개월 뒤 가장 크게 반응”", "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0zYkp3VDdmUndYLVBoRmZGZ0RYNkQzQk90OEhPSVhyX3gzZ29Bai1Zd2NhTWxhUWRBcFJ4UTBudkV2Xy1GUTAzLVJ3QWY2eGc?oc=5", "source": "v.daum.net"}
+      ]
+    },
+    {
+      "title": "이재명 대통령 “투기공화국 과거 얘기”…신임 국토장관 취임, 그러나 서울 집값은 여전히 상승",
+      "summary": "이재명 대통령이 유엔 방문 중 강남불패·부동산투기공화국은 이제 과거 얘기가 될 것이라며 자신감을 보였고, 신임 홍지선 국토교통부 장관이 취임해 4년간 119만호(수도권 150만가구) 공급 확대를 골자로 한 주거안정 대책을 예고했다. 그러나 한국은행 금융안정보고서는 8월 대책 이후에도 강남·서초를 제외한 서울 중저가 아파트값이 오름세를 지속하고 있고, 다주택자 10명 중 9명이 집값이 더 오를 것이라는 기대로 매도하지 않고 있다고 지적해 정책 효과에 물음표가 붙는다.",
+      "importance": "상",
+      "articles": [
+        {"title": "“부동산 투기 공화국 과거 얘기 될 것”…이 대통령 자신감, 시장에서 통할까", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Ia1owalZLeWtZNEFiS21ralZ1eXh4UGhWV184T0tFWk9lRWRtWF9oOUhYMEhLVkRTUFBycjJyQi0xVWZycHR2dlpLZ2FfeThmT2lFbVZWN3lHQQ?oc=5", "source": "경향신문"},
+        {"title": "이재명 대통령 \"강남불패·부동산투기공화국, 이제 과거 얘기 될 것\"", "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBnSm12enM2eU5vOGdMVzk5WlYxSzJzdmlEWi1leWRDdl9zUjhDaHNUc2E5Y180al9ha0FXTERRNnNqeVhzeFJjV3YwZzNsUHZ6R3ZxY3hqN1paVFpQRlZYX2haM2g?oc=5", "source": "MTN 머니투데이방송"},
+        {"title": "홍지선 신임 국토부 장관 취임… 흔들리는 부동산 민심 잡을 ‘공급 드라이브’ 본격화", "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE95blBnZnI5amZ3V2JnRWRKTV9EZ1o0WlZGQzZOcWkxTmdGU0ZxQ19OMzlxeEtWdlVrcWxIelJYbTlVaTF1?oc=5", "source": "국토매일"},
+        {"title": "[스타트 경제] 정부 '주거안정플랜' 발표...공공임대-분양 119만 호 4년 내 공급", "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBRUHhKYTV4clkzZk91bl9FcDB2R1VpNU1ya3Y0Wk8xSzVxa0dJa3NpVGRmcXlUZ1VETDNDYWhjNzJvdTh6ZjdldHp0RlZ3Q0I2alRDN3RDd0NyTXNLOWc?oc=5", "source": "YTN"},
+        {"title": "8월 부동산 대책 후 ‘강남·서초’ 빼고 집값 상승… 주택대출 잠재 손실 위험 1365兆", "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxON0JyNF9kNnVnZVdFZ3l4YXk2MVQ1OFFMYjJTaGhoZEQxMFFEZUVlbG1BLWpHUDlfTjg2UFg3V1dfcmg1cDhENkY1eVR0T1FJUkRwc1ZXbVdhTGl3OGhXdGFuZVdMY0xvMklSY1BSMFpuMVBIaXZLelFURUtUa3JDcjZTWGhPd9IBmgFBVV95cUxOMXB4NlQ2eWNTLVBMNGhzaHphbEt1eV8tdDdwb0JfWXFMMkJ3WVJRdWduVVpTZ2UzVVRSTDZWODJoXzNTNXc4MmVZLUxIRnhkRFBLcVJjaDY4elc4OXY2ZFN4WnpoV3ROYjVUV2NBeE1UN3JJM0otWF9WM19KdnR1V29oVVRubDRpYU5HR2k0aFBRaEZPTXlkZ25B?oc=5", "source": "Chosunbiz"},
+        {"title": "'서울 아파트 불패' 기대감에⋯다주택자 10명 중 9명 집 안판다 [금안보고서]", "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA5WUZZYkNwOGJ5SEZTSXN5aXFTSGtJWWZIb21zNGFCUlZlQUFyZC1ZV1RXX3hQUWtUMEY0emVuYmJad00xbEZPWjIyeWlvbHAzdFptVQ?oc=5", "source": "etoday.co.kr"},
+        {"title": "“서울 집값·전월세 내년엔 더 오른다”…부동산전문가 50명 만장일치", "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1LOW50cnJLazY1UmcwekZOeWpzVm82VHNzUlc2M3d2Sm9aS0ljUm9lN3VnVGVmUXNDV2UxZ1oyQ3RKRDV1N0lua2owWGxJUWRkWGs0dnZ2S18?oc=5", "source": "매일경제"},
+        {"title": "국민평형 30억 시대… “아파트 당첨돼도 대출 제한” 청약 딜레마", "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9NcUtrUnN3aS0tbEREc2ExR0E3M3VrQ2w5QXA0Z29GVXREQUl0ZFBiRXhtVXp6eEh3WFZCQUp1dmUtRUJXd1lOZXdISF91M3c?oc=5", "source": "v.daum.net"},
+        {"title": "\"이 돈 내느니 차라리 집 사자\"…뛰는 전·월세값, 매매가 띄운다", "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1OZDhfRUtiamJjS3hXQmpmdVNLcElwRjhkOGVrRzcyTDJXUnlDSzdZNm5uVEI2aTlYQ0N3YzVralJjemdRV1JGaVIwSmV2YlBPN2lrM3NPM05aeF9lTUwyY2pnVEdIaU85d2fSAW9BVV95cUxOZVRiOFdKTXFBa1lENzRQamRrRDdpREx5NDVsZGpRaHhkcDZrandLOVdWMnM2WDJJdmNKcnBSNTF6U1l6RGxGUjY1cVF0RVY4c1pPRE1RRE1qQWIyQ1FWMjlIUHdBaVFFbThRcTRad1k?oc=5", "source": "머니투데이"}
+      ]
+    },
+    {
+      "title": "우버, 배달의민족 인수 본격화…공정위 기업결합 사전심사 개시",
+      "summary": "우버가 배달의민족 운영사 인수를 본격 추진하는 가운데 공정거래위원회가 기업결합 사전심사에 착수했다. 심사 결과에 따라 국내 배달앱 시장의 판도가 바뀔 수 있어 업계의 관심이 쏠린다.",
+      "importance": "중",
+      "articles": [
+        {"title": "[속보] 우버, 배민 인수 본격화…공정위 기업결합 사전심사 개시", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9YRERZaXI5S2lCYTlUa3BFQ2cyY3Q4cmdMTThsaG9LLTNzX09ZS05LbjdROExXNGFuNjhvUDhuUTFzQ2xSOFlldVI1blpRblpsUjVBMWJOR1k0dw?oc=5", "source": "한국경제"}
+      ]
+    },
+    {
+      "title": "정부, K-배터리 로드맵 발표…나트륨·전고체에 8조원 투자, 3사 ESS 수주 경쟁 격화",
+      "summary": "정부가 중국 LFP 배터리에 맞서 나트륨이온·전고체 등 차세대 배터리에 2030년까지 8조원(R&D 4천억원 포함)을 투자하는 K-배터리 로드맵을 발표했다. 삼성SDI·LG에너지솔루션·SK온 3사는 역대 최대 규모의 정부 ESS(에너지저장장치) 입찰을 놓고 치열한 수주 경쟁을 벌이고 있으며, LG에너지솔루션은 엔비디아와 협력을 강화하는 등 각사의 사업 확장 움직임도 이어지고 있다.",
+      "importance": "중",
+      "articles": [
+        {"title": "K-배터리, 8조원 쏟는다…中 LFP 맞서 ‘나트륨·전고체’ 승부수", "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBvSGcyZ2JtODVTaktFOW9hUXB3V0thc0ZhcmpiSUQtQnFiQkZXRU1tbUR0OW41REFNOFY2dkNSLUNVNnJHaklKT0VKSVF6SUF5dnA5NWE5aDFJaU8wVlZyYVZlc1ZERHo3clEtMmRR?oc=5", "source": "아시아투데이"},
+        {"title": "정부·배터리 업계, 나트륨·전고체에 승부…2030년까지 8조원 투자", "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5jc21nZVZMZzhCUEpDNG1aWmkzUGt6dTBxUUR0MjR3VE9FWG1kRUpHYXlKVUVMZEpZOXdIZEFrNTZ3N25UYkgxUnBXeUpoR0s3UGRxckJZRXFpV3ZucUpiVkN2R0J5U1hVbUFsMC03YndjQQ?oc=5", "source": "인더스트리뉴스"},
+        {"title": "삼성SDI 수성에 SK온·LG엔솔 추격⋯역대 최대 정부 ESS 입찰 ‘3파전’", "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBUaFFNS1hiMjE0cW4tejNEUlQxa2s4YjZxcS10YWx3cHVHd3IxOTlzbkdnU1NnaHQ0a0VTVFBjR0Vtb3RMY2N1T1FsdFp3T0g1cl8ydU5ZS3Q1c1NzQWQ1Q0lqeHlHcUpaTERrcmppcw?oc=5", "source": "엠투데이"},
+        {"title": "엔비디아 손잡은 LG엔솔, 선그로우 노리는 삼성SDI…ESS '연합전'", "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9HSXJoWlNjbXJ4UWlqWEJjVXFEcDlVQ1M1MnlObDd4R3J2Q0hUcUJJQk1TeE1VMndJQ3Bfdzg5c0JGRHRjZndBeXlUZENRck5OaTJBMDAwdWZ3TndrYkw4Zi1UY0xtd0dL0gFsQVVfeXFMUGFYZnowTEpGa09FOGZpY0FKa0FrQ3dlTWdrcjVYeF9WTU1rRkE5aXU3ZWIzX0JPVVhSTUhrM3E2bmhEN29yVVVtTDhtcm5HcGkzVVQ0YVpKM2ZydTUtYTh5bm9zaVV5MXRDVTBs?oc=5", "source": "블로터"},
+        {"title": "배터리 3사, ESS 수주 3차전… 생산능력 확충 승부수", "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMHhXaWVWdGV6ODdMUVlEX01BUzZLRDF2LUVtMzdoR0lTZzlUYl93ZnNHNGM1UDdTTFVPNlpiREVmSXpRMnZWdllmQ3pKTGM0WEZkVFhTVk1oRnU5MVVSaWxtZUVDVUdjdWt2X1RVc1VZYmQ0X0g4M2V1bkplQzVORjBkbXDSAZgBQVVfeXFMUDU0cmFFdWZWcjVubVJiRnhfNUFpVk10LWlYZWc3dkh6VTJEbXlyTmUxc19Gay12cjRFVTJvZXFMT09NSjNmWTRTNG45VkJqcnpKMEY1SGFmek5sS1gwMHRwUHJCWUdkUHdXeEJuaVZjV2s0UFc5V3dGamt0TlBTTjctWUkxTl9EY3NKTXJkQjRkTmtmanp3djQ?oc=5", "source": "Chosunbiz"},
+        {"title": "삼성SDI, 3분기 ‘어닝 서프라이즈’ 전망…ESS 성장 본격화", "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1lZHNKODdCeDNWX3VtakhvUnF4VG5wODBxY0l1V2NpaGFvclNxckFfZ2JTdHJVbV91cWd0UlE0cTlWNENwX09DVG96cUpzZHB0aVdla1ktQVpBaDEtVTFqdjIxM2FMVE8tdmc?oc=5", "source": "컨슈머치"}
+      ]
+    },
+    {
+      "title": "금감원, 해외 카드결제 취소 시 환율 손해 자동보상 강화 추진",
+      "summary": "해외 카드결제를 취소한 뒤 환율이 하락하면 소비자가 환차손을 떠안게 되는 문제를 해소하기 위해 금융당국이 카드사의 자동 보상을 강화하기로 했다. 항공권 취소 등에서 소비자가 직접 챙겨야 했던 숨은 환차손을 앞으로는 카드사가 자동으로 보상하도록 제도가 개선된다.",
+      "importance": "중",
+      "articles": [
+        {"title": "185만원 항공권 취소했는데 왜 -175만원…카드결제 ‘환 손실’ 자동 보상한다", "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9hOHl2V0tVS1h4TVRyUGFNQTBibVNwNF9VOE9ZbmZwSzdXZXgxbVF0YVBtWlFDNTdNLVp2cFYzZHlsLWdWTzdRRUIyU1dMM1RCNWZfNXlaQ0Z1VmR4NWJDYVlwVGh1dmc?oc=5", "source": "한겨레"},
+        {"title": "해외 카드 결제 취소 때 환율 떨어져도 손해 없게…자동 보상 확대", "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZ01xMmkwcUpIRnUxRlJ1aWFYaFBFeEptNldUc3pvUlVFeXRWdGxyZnUya3MtcWlvZWNJSkZhX3hwUUFQcVg1OW83Sm5CbXFzRXQ4VXU5VnpjUndJOUN3aUpMbU9CbklOVy1HU3hUZWlYZHpFeEV1LW9NQ1hWQXM5MkFvekd4bU1Hdm9B?oc=5", "source": "조선일보"},
+        {"title": "해외 카드결제 취소 시 환율 손해분 자동으로 보상해 준다", "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9jT0VINkZoaGlfMlptNnJZX1QyOHM5VE1pMWt4TFVmMUFuOTM4Tm80YTJXODVOYWRuaUlmSXhVQzBOdzA4QjJrY2lGcm1hV3ZyUmJoWkpEa0FSZkpTZnFISjB0WEpTdkFGZ1hYQWdVczY?oc=5", "source": "연합인포맥스"},
+        {"title": "\"항공권 취소했더니 '환율 탓' 10만원 손해\"...앞으론 '자동 보상'", "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBvbnRlNTBUOWJ2bzNKdnZwdUozRjB6dlpPTll2YWJ2TG96UjVCbjJCWVJLMnFBMkxxaWttX2pmVzFxTmdncS1leDU5RHJtQUh2Wml4cVhoX2NkQ3lTYnRRTExLYUV3S1ZpU1kw0gFwQVVfeXFMT3ZEbGpXYjgwYXpiemhiNmZ5blFPejZKQ2dkbUNwLU1LbE4zUmNwSFdFMG5zVVM2V1B4X2E3M2dkUUJieGMteVhNUnhyTGp6dHVQQnlUMWlGOXdWOEpSNUVGMkxUODI2MklveEhYMEQwQQ?oc=5", "source": "머니투데이"}
+      ]
+    },
+    {
+      "title": "트럼프, 유엔서 “3선 도전 안 한다” 선언…막말 논란에 이란·쿠바 퇴장",
+      "summary": "트럼프 미국 대통령이 유엔총회 연설에서 다음 대선에 출마하지 않겠다고 밝혀 3선 도전 가능성에 선을 그었다. 같은 연설에서 나온 발언에 반발한 이란·쿠바 대표단이 자리를 뜨는 등 파장이 일었다.",
+      "importance": "중",
+      "articles": [
+        {"title": "[속보] 트럼프 \"다음 대선에 도전 안한다\"…3선 도전 포기", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1aQTh4dXVhaWFtWWlCY1ZVZ1dQRE9fc3BtZGZYLUdXeWJiRmdZSENHSThrSjM0Zld0d0RISm9CV0ZQVVFiYkF5ek5zcDV1Y2NGR2UtTjRDMW0tQQ?oc=5", "source": "한국경제"},
+        {"title": "트럼프 유엔연설 '막말'에 이란·쿠바 '발끈'해 퇴장", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8xb2E3cGJVcTctVUl5cUVzOElBT2RYQnA5ZGJWUHRueVVxTzBiVmN1VW03ckpyZUlYbmktZlQ2STJMRHFZdTdCM3J4akc2STdNYUFneGMycjNrUQ?oc=5", "source": "한국경제"}
+      ]
+    },
+    {
+      "title": "美 국채금리 5% 돌파…연준 인사들 매파 발언 지속",
+      "summary": "미국 10년물 국채금리가 5%를 돌파한 가운데 연방준비제도 인사들이 인플레이션 위험이 여전하다며 추가 금리 인상 가능성을 열어두는 매파적 발언을 잇달아 내놓고 있다. 연준은 이달 PCE 물가 3.7% 전망 속에 기준금리를 25bp 인상한 것으로 전해졌다.",
+      "importance": "중",
+      "articles": [
+        {"title": "美국채금리 5% 돌파…발맞춰 뭉칫돈 몰리는 자산은?", "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBZQjE4MzI1OWhhX0wybFY1bzJnaEMzMHRPVk16NmhtMHEtWVp0TkVHd2VtM3pZa3FfeFpLV1Jyb05hZ2pRaU9JeVRQYkNZV2hiZlpyYg?oc=5", "source": "매일경제"},
+        {"title": "美연준 인사들 “인플레 위험 여전”…추가 인상 가능성 열어둬", "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5MWnZsVHdMT1RTdU1lZG1Iaml2OExvVkU0bm9FUDBUWUlDVWxJMU1yWnVhVnJCa3dMb1pGMlZyY2JOcEJjUmFPZTVUaVJuZEM3Sm82RVpJRlpHUUdmOWFDZ045Q0JaV3VES2s2VUU5YzN5TTA?oc=5", "source": "마켓인"},
+        {"title": "美연준 인사 '인플레 경고' 잇따라…\"더 긴축적 금리가 도움\"", "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBiTkZEeDRXdzQ5MWZWZnQyM0haME5DNmVtU05fcnJwMERWU3FZNjd3NDNCX3F2bXlvbzNJNW5uUllPblRIcE4xT1dkVmVvQ3lWWUE?oc=5", "source": "매일경제 마켓"},
+        {"title": "연준, PCE 물가 3.7% 전망 속 기준금리 25bp 인상", "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1WZ2ZtX3JsTDhHVXE4dG4wSS1TYkZoMG52Vmg4eVp3YUgxSXNKak5CSWgzOXBkTFlqV3VLRlVFcFpONEF6cUkyMXc2MHdWWkR2d3EzMjd4akY?oc=5", "source": "토큰포스트"}
+      ]
+    },
+    {
+      "title": "9월 소비심리 한 달 만에 반등…금리 상승 기대는 3년래 최고",
+      "summary": "9월 소비자심리지수가 한 달 만에 반등했다. 증시 변동성이 줄어들며 소비심리가 개선된 것으로 풀이되며, 향후 금리가 오를 것이라는 응답 비중은 3년 내 최고 수준까지 높아졌다. 응답자들은 집값이 계속 오를 것이라는 기대도 여전히 강하게 유지하고 있는 것으로 나타났다.",
+      "importance": "중",
+      "articles": [
+        {"title": "증시 변동 줄며 소비심리↑…금리전망 3년래 최고", "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBkOGtYNWxBeXBZc19SMkZvQXpNa3I4OW5xbHlHLVo2NFh0MmdkeFdZXzNrVGJ1QW9hNjhGeHdJM2dhazVHZHVtb3M3eDdtTTZ5dUdvVHlJa0cyOHZ0dVpPQlY1OTFqRnM?oc=5", "source": "연합뉴스TV"},
+        {"title": "9월 소비심리 한 달 만에 반등…\"집값 상승 기대 여전히 높아\"", "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9wVVdoOGFQTF9WbDBmU1kyNGFPN1Z0eFNLYWNuNE11XzZHOEJ1ZE5PUlJidkJzSU9pXzgtMmMyMDFCaFBpdXhsal9ZRG5zOTNQcHc?oc=5", "source": "매일경제 마켓"}
+      ]
+    }
+  ]
+}
