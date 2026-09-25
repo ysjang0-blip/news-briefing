@@ -1,0 +1,167 @@
+{
+  "date": "2026-09-26",
+  "topics": [
+    {
+      "title": "美 국채금리 급등, 한국 금융시장 긴장",
+      "summary": "미국 10년물 국채금리가 2007년 이후 최고, 30년물은 2004년 이후 최고 수준까지 치솟으며 국채 매도세가 전 세계로 확산되고 있다. 뱅크오브아메리카는 연준이 기준금리를 5% 이상으로 올릴 가능성까지 경고했고, 클리블랜드 연은 총재는 이번 금리 급등이 인플레이션 불신 때문은 아니라고 진단했다. 미국 평균 주택담보대출 금리가 7%를 넘어섰고, 국내에서도 6억원을 대출받은 가구가 매달 440만원을 갚아야 하는 '주담대 8% 시대'가 예고되며 환율·증시·대출금리에 경고등이 켜졌다.",
+      "importance": "상",
+      "articles": [
+        {"title": "10년물 금리 2007년 이후 최고…美증시는 버텼다[뉴욕증시 브리핑]", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Va1ZkOFJwUHppZ1lEZllBdXozZmZCeXNweFo4UjFWejRES1pqUGZKOGRvcTVYVGFwUU9fMmQ5c19ORHdvdkZlSGN1YU1pQ2tPdmtwaDdfZHZ2Zw?oc=5", "source": "한국경제"},
+        {"title": "클리블랜드 연은 총재 \"美국채금리 급등, 인플레 불신 때문 아냐\"", "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1PZmVIVjNQQ09jd21TZzZidjlBbzFvNE91T1VlSVBybVJIZ2wyV01FNm1rLXVsSDZaQXZ6UF9oS3VUQTZJZEU4Z0JCamllN3hvQ2NZRHE0OUJ5elZpYkdLbFFPcm00elnSAWxBVV95cUxPeldQTGFIQ1BMRUxDZTJReTI3V2o5YnZqeEZ3WWwwMVZ6cS1WZW5oQWt5b3RuZXRiei1fZEtlWDJVajRDUjVzZ0tLd2htcDBSaXJUM3ZHWWpIempSRUZWNFlrQVE5MmJNM25vS0c?oc=5", "source": "뉴스1"},
+        {"title": "미 30년물 국채 금리 22년 만에 최고...국채 매도세 확산", "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5JTTlnaGxUTEhCa2tuS2hIOG5IdDRzNktXeW9NRzZKeWszVG9Ham5kYkp5OGJEVldfVzFKN3B5OGFVbXRRRDBMM2pVSjB3ZmNfYXVuTnRPVE12M0stclE?oc=5", "source": "YTN"},
+        {"title": "“연준, 금리 5% 이상으로 올릴 수도”...BofA의 경고", "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9GNk1IM3hRQ3ZXbmhWOER5S0Y3ck1QM1B1UndwbGJfWlVEVmd1djh2UHFyTG4tVzFld3BTbW9QZzF0aW80X1dUZjVodG15OWc?oc=5", "source": "v.daum.net"},
+        {"title": "미 국채 30년물 금리 22년 만에 최고...국채 매도세 확산", "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1aNlFaMzlvTG83NXE1NGx6cHpLTjdGR3VmcWY5YVItMmpJb1MtV2pjOGtZT0oycVFHdHRqN2p4dDF3Q2UyTVhTZTNod29zR2NieDJhQUZ3bkNzOHR6eHc?oc=5", "source": "YTN"},
+        {"title": "[주간 미국 금리와 서민경제] 미국 국채금리 5.2% 충격…한국 증시·부동산·가계대출까지 흔든다", "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8wQ0lMNFFXZUZlT1lPd3RhVThYaXlTdGR5dWNMTE9yS2V0TDU5ZWRUUUR5bFJXbkVLUUpMQWRFMlJfTV9MdHdaU21JczlqRlRNanVWYWFKT3p5aXVBRFhKc050TDVvRWlmVVhRQg?oc=5", "source": "전국시민의소리"},
+        {"title": "미 국채 가격 연일 상승…30년물 22년만에 최고치 기록", "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA1VWhvdlRKSWdxcWh2ZlhPTTVTZlVZU0dDZUxfWVU3R0dmdzlBZ2FuRk1RUkt1WXRSLXVtdG5FdGRHS0s5ZHEwOWhEMVdJYWdjZVZCOENyWVhCRndzTzYwNlF0SzF5TkZBMlg1YmhyVmxrUXI1?oc=5", "source": "부산일보"},
+        {"title": "뉴욕증시, 미 국채금리 급등에 혼조세 마감", "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBhSmxvb0hPb0IzXzMxRW4ySHpyWkViTkFXUEZxVEZSb3gxOWFDelhpLUthcmIybjNLbDlITUdIRkM0aGpUbVRLVlVhVlRfV1dEX0UzdUdoYXZBNmNPUnBWWnE4OWhaQ2xzTVlKQ1hIWUzSAXRBVV95cUxQc3RFNURFVDdvNEkwcTROSXlWX3hIMGN5ZEFsa2dHdnNEMXhEcmpVdk1xc1lZempydWNJT2FpdkVVaTl3TTFQdnpiQkFNUk5TUFB6NmxkVUFPR0hzNnNPTFBybG5za3JiemJ0WWUyMDZGRlRlNw?oc=5", "source": "이뉴스투데이"},
+        {"title": "美 30년물 금리 22년 만에 최고…글로벌 국채 매도 확산", "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBEZWZETHZKY2cxUHdqZXdkRE5oUFRDQ2N2TERxMWFUdmNuQmxvbFkwNGlSNmdfelFDTkx3M0gycXJSZjJ4Ui1tbzR6a0t0ODNyTS1VSnlTU0NWOGh6SkFqWnRKYw?oc=5", "source": "쿠키뉴스"},
+        {"title": "美 10년물 국채금리 5.2% 돌파…국제유가 상승 등 영향", "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1HNWw1U3YyNndQUHhIS25Cd2MxeWgwWGNicUtUOHNQeTkyeGo1dlZiekNjaS1lcjRPNlpuTGU1UFlZREdZeEV0WWIyQklnSTNzaDJaZVB6UkcwVmZxWmdpblZuMGnSAWhBVV95cUxQejBWQ0ZHUEZSdk1mSEs3NEd5c3J6Nldxejc1Wl85c1h5SVl6akJjSmthdFZvOFdQQnJvbzNWYzc3WEV0VlRiR1Joc1g1MFpPYXRWa3Job3hldy1jX0t4MUhkWENlblJWTg?oc=5", "source": "매일일보"},
+        {"title": "손절매 쏟아지는 채권, 10년 금리 5.2%…메타, 인텔 폭등 지속 [김현석의 월스트리트나우]", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBIMWVodE9PS0tvMFBWMWFPOFc2SW9fdTlITjZmWk9Jd1pWLURPakNmbWxRU2xnN1dNUGFGRUNLRHNZbkxMS2YzdnVfY1lHZkJWS0JzYUJsNFVGQQ?oc=5", "source": "한국경제"},
+        {"title": "\"채권의 시대 끝났다…자산배분 새 공식은 '주식·원자재·에너지'\"", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9waVdEV3Y2R0xMRXJYd2taTWNxajBoeWRqaEJDNGxmTFByc1Y2ZVBoQmk5M3hLMTdCTnNfcGJyZnoyczlGT0F6cnMzRjFjLU1hN0l4SGF2bG5IQQ?oc=5", "source": "한국경제"},
+        {"title": "“시장 익숙하지 않은 영역 진입”…美 30년물 금리 2004년 이래 최고치", "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE40OG93azlkaGhFdlRWbzIzZ2JLUWNDZ1hpMXNTRF9TaHh5S21zYktzal84ZGM3THRFd20tbUJTdVFBeUdyd1BMZEZUSzlLaDBnQ1E?oc=5", "source": "매일경제 마켓"},
+        {"title": "미 30년물 국채금리, 2004년 이후 최고치...미 평균 주택대출금리 7% 돌파", "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9UbXVtZENaSEpGSXpWS2hMRUZFTl9WcnAzbTRST1RGTmo3TzZjTFZRWXRXNm1IUHRDTHdwdGctMDM5cFZTMzUwbkd4NVJuVDJBN2dzRENLdTc1TVBucERsUmlNc1ctVEo4NFZZSW42V1Q?oc=5", "source": "오피니언뉴스"},
+        {"title": "\"6억 영끌족, 매달 440만원 갚을 수도\"…'주담대 8% 시대' 온다는데 어쩌나", "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5lUEdSaVpnOGZ6T1dKeE9tNFJBY3Nic0xPRDNXRDlXM0U4SGJqZzE1SmNraTBRRXhER2hUazJxcVBkMkczYVlZZjk3bG5FaWdkcUlNUVdYdWhYMmtvcXZmVg?oc=5", "source": "뉴시스"},
+        {"title": "美 국채금리 5% 쇼크, 한국 덮치나… 환율·증시·대출금리 ‘경고등’", "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE40dnFTN1JyY2IxQVNtakpkQmdlM3BzV05PcVRKTm5JdWZjbUdhMGxMbGJ3cmxhT1JsMnRXcDFUVFA0c3JVNVJfcm80cUUyOE04U25ZVWI4TVp1dzE3RjN3WTJ4Y3RNRWhfS1E?oc=5", "source": "천지일보"},
+        {"title": "미 장기금리 상승의 국내 영향은?…\"환율↑·외인 자본 유출\"", "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1FR2xUcmtvaEptem1reGRBUkR3ZVNTYVI5T2xwTkd5bWxEVkktRmV3QnZiak9ITlhZd19KT2psaXJkdWdGLW5HSlhtcEVHejFORm80SlI4cWF5LVJxLTFobHVzOUZMeFVwSnc?oc=5", "source": "news.sbs.co.kr"},
+        {"title": "美 장기금리 상승의 국내 영향은?…\"환율↑·외인 자본 유출\"", "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5SQkFHUlFHbkl5Q2tJOThOZ1JISmN0TW1MMkJ0anZnY0NOSmNlTWwzN1VERVJTcnZQZTh6ZjQ0OVhyS3dxMjV5NGdpdXVuSG8?oc=5", "source": "v.daum.net"},
+        {"title": "금리 오른 지금, 은퇴자는 무엇을 봐야 하나", "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBiR1JZZDllZzJ3Z1RZcEl6LW44N3J3dFlCaFBSNThJVEpPWlNzWjQ1QTdsZWRYMFpxWWw0RmxEdDlLcjJ2R3AwZzJ1dVhnVTBURS1wdWhhMDh6X3JON0lv?oc=5", "source": "미주한국일보"}
+      ]
+    },
+    {
+      "title": "엔화 약세 심화, 한미일 외환시장 요동",
+      "summary": "엔·달러 환율이 158~160엔대까지 오르며 엔화 약세가 심화되자 일본 정부가 트럼프 대통령의 '엔저 우려' 발언을 이례적으로 공개하고 구두 개입에 나서면서 엔화가 157엔대까지 급락하는 등 등락을 반복했다. 일본 재무상은 미 재무장관과 엔화 약세 문제를 논의했다고 밝혔다. 반면 원화는 달러 약세 속 1,350원대로 강세를 보였고, 이 여파로 불닭·K뷰티 등 수출기업과 삼성·LG디스플레이의 3분기 실적 전망이 환율에 따라 엇갈리고 있다.",
+      "importance": "상",
+      "articles": [
+        {"title": "[뉴욕 금·채권·달러] 금리·달러 오름세 주춤…유가 하락에 원화·금값 반등", "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBOWEJwUTdIVlVBTVJ2YWE3X1NMaTN6cWIwLTEyOFZrVklrbVFrNVUxdHRkNGJ3czNXUkIxXzNraDh5aE5wWHN2RlF4WFdaMUhuYV9sNnpocFc?oc=5", "source": "블록미디어"},
+        {"title": "달러-엔, 日 재무상 구두 개입에 157엔까지 급락…1.18%↓", "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9hQ3E1U1Y3ZEg1amdXcjFxRzZ3TWZQX2Y0dFpTWHFPSkRWd19tVkpZa0RMOFBXaEp1cVpRdjZ5SDhMTUtxbEtLcDhKX1llNDB0TENidHJJN0NGVTlGalBUdGlKb2xqV3NPRTJUX2dJbEE?oc=5", "source": "연합인포맥스"},
+        {"title": "日재무상 \"美 재무와 엔화 약세에 대해 논의\"(상보)", "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5NMDZsY2diRmFvYmt4bnJKdEs0ZXIyckpKbjJJRkZjTEZQS3BjdUhfOVhmdGEtSlhBWFpxOXVqVFhDSE5NSHZjYzhzUzRmRnhpVUNCZ3BEZ1dNX0p1SGQ2U3k3cWVVc3ZEOUpudzRvaHRpQQ?oc=5", "source": "KB Think"},
+        {"title": "달러-원, 뉴욕장서 1,350원 중반대 거래", "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9wSy14MlF3UkU0dllZSHB1QzVVVkdGdm1uR3dHamxUVzlQaWxEaVhfQWFvR1RVZUJDV3NyLW41Q0s5RVcxenV4X0ZYSEhBVDVnT3JRME9LTi1KQTg0VzJYOFFhLUo3MXM2Wkw4YUhOMEg?oc=5", "source": "연합인포맥스"},
+        {"title": "달러·엔 환율 1.1% 하락, 157.126엔 기록", "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBiRE5hTjgzbmRYUEhNbHEyRXcxUnlTcFAwMmFEUDdVZE5lVjVKc0NWY0FsMnFvRUdmc2QxU2FYR1dGMzdHMTV4Zk11SXJfZi11RFAtV1dZMlA?oc=5", "source": "tokenpost.kr"},
+        {"title": "“환율 어디까지 내려갈까”…주춤하는 달러, 살아나는 원화 [화제의 리포트]", "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Ib1JvOTZkcUJIbk9tZHJ6R1ZXN1p5TnpuTWdwNDJ5em40TFFqak9pUkdWbndOMkwxWVJHMThGQ3J4dXp5N0swaE4zZTFSQ1M5SlAyQlJtSlg3RlhxN29ZOHhLVXBrU1BPMHo1Mg?oc=5", "source": "한경매거진&북"},
+        {"title": "\"엔화 약세 우려\"…日, 트럼프 환율 발언 이례적 공개", "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB1QzhHOXRYSjgtR1Rlc0R1b2VvS18zUDYxMFN6QjdlU0wzNXVqOUthT2N5dko0cUd2cnpaT3FrSkZFZWZ0aEJ2VFNBX0hWaXM?oc=5", "source": "v.daum.net"},
+        {"title": "엔저 재확산에 일본 정부 ‘트럼프 우려’ 이례적 공개…환율·금리 시장 동시 흔들", "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5faDRIRWRKLUpSVmdBYkhNd0gwRGowRTEwSTZ3TmhibVh2WFJ6ZXpobEt5bjBtMTdVa0wwMUdQLWtOMUFtN1FEd1pzVFROZmFDSVhPU0UtSXNRbWRqWkp0TUR2TmVrUWNJSGc?oc=5", "source": "sisaworld.kr"},
+        {"title": "엔·달러 환율, 다시 160엔 근접…“트럼프, 우려 표명” 이례적 공개", "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1weFBicjQ3ZWZ2SlhjQ09WX1hMY3FReEd2ZV9WV2RhaV9xS0JCUTJ0dnpMT2wwN3hTOWxpSGI3T2hLR1Z6U2V4cTNGcUJId2c?oc=5", "source": "v.daum.net"},
+        {"title": "엔·달러 환율, 다시 160엔 근접…“트럼프, 우려 표명” 이례적 공개", "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8yOG5JdllmV0JXRGx3ekg5M2c3YjBnemkyOXlqZkhzQnJYS0pNTTJrZTl6QkxZU2J0N0RpWFFaaWk4WkV1ZXFIZ2x1UVVlYjAwc3E2VE4yMlBlQ2M?oc=5", "source": "KBS 뉴스"},
+        {"title": "日, 트럼프 '엔저 우려' 이례적 공개…엔화 한때 158.28엔", "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPSk96ZXVrS1VZUFdWRkh4WkJZNmZ2T1U1TFI5YkxjT3hUeThLS2JYYTRKY3Z5WWt6SFVqUTlORGZCMmZ0QnN3TTIwTlpHMVJqSUk4RlFELVlaUlM2RlBtLURGTmxvX3BFYU5sWHoxejFBOUVleXM5Rjk0WjJwanVHMlpjemEwZ1FrY0p3MHlhRnVpaFVTcjl4eVZsc1RFZWc3cjBhWF8xLUJka1NpYmdFal9yODRwWU5UaENGOHA1NlJJMHRITjZ4VUZpUHJYVjJjS1FkenQ0cUg0ODI1blAxLXJTb2x2MVBUaGduZ05hQ0owTElqWkFfMTd2S2xzY3J3X3dZdEtJM3BISndrbmU0UDVNUC1RMldM?oc=5", "source": "데일리안"},
+        {"title": "[도쿄환시] 달러-엔 하락…日 재무상 \"트럼프, 엔저 우려\"", "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5lRk5OTkcwVHJ6OW1lRDZNQXVLc3l6aFBqOV9GblRhMEplaFNOZkhOd0tLNXEyRHJ3RGtRTDBHOURFZWtKS01NTE4tYU42V0tuSnFlOWk5MHFfZzA4UkpYazFrZnduaHFKaExIZ2o4SVVZUQ?oc=5", "source": "KB Think"},
+        {"title": "반도체가 끌어올린 국민소득···4만 달러 돌파, '환율' 최대 변수", "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBPeXA1VkM3SmF0dTFZVFpfdzVQWmM5ay03Vk9vUDE0NUpmekRGZjVYZXhlRkgzTlZnWm9qY0pnWVB5YThabXhlREFNdGE3Z21XSnhKZVB1NEZGeXhTS0xZWWpFbkx0amNXSktENA?oc=5", "source": "스마트비즈"},
+        {"title": "함영주號 하나금융, 환율 하락에 순이익·RWA·CET1 '청신호'…밸류업 힘 더할까 [2026 3분기 실적 미리보기]", "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBMbnFHNmR0SGxFRWptVVBZZ2NZRnB2MjBzRFhVYUREU2VXOUduOWRPTm11VHhNc2hDSW5hVHVHMnk2ODIxMjk0YnhvMVkxMkdfc3VVV05sWklPZ2o2VWtPdk1nR1NXVXFkTTVsNVFnSU5TaUpid0wzZnFKQWw?oc=5", "source": "한국금융신문"},
+        {"title": "[다시, 예금]반등 기대에 엔화 사재기?…달러보다 불리", "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBOV0pRWkpCZmpOR0M0MG5CemFiVUlXTHc5OEJ0ajNjTTlXUVp3alRXZjJFYzVMQzR3SzJDb2tpSUl6Y2VReVYxZlV0SFZ6QlZoV2RDV1pyRkl2YmVtOTFRQ3VCUldrN2NvbEZJ?oc=5", "source": "비즈워치"},
+        {"title": "잘나가던 불닭·K뷰티 환율에 울상…그래도 사라는 증권가 - 머니투데이", "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0yVWMxeXdCZlJBTVlWbnpzdmttTWJfd3IyRlFQVTViUGZUWHM2SndRUE9QRFdHNmdhRHpVTHd4LVBIYjdfemRfazVTajluUHZiMTlqSkNrV0I0WVZiUzN1MXdZNmFzUVZf0gFuQVVfeXFMT2pHclhrYWVOZ2dHUjBDQklNWW81X2tnell5R1NlT1UyWnFlVXJQVFV0RFdRWHVoSWtKVFNMQlA5ZDdQdGhRVVJjckUwX09ndFFkYk9hbTFEWXVHWHctVVpmX214Ylk5dVJfbkpsSmc?oc=5", "source": "머니투데이"},
+        {"title": "잘나가던 불닭·K뷰티 환율에 울상…그래도 사라는 증권가", "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBUWFZMMC1HWnR6eS1FMTlhS0otQUtDVmpGWXAyRFFCUDUzUmxWY3luV2drYTgwRWgxM3NMSjlfLURYdHlaT3Ficm5hbE5sZVQ1TW1QMFlEQmEyZlI3?oc=5", "source": "supple.kr"},
+        {"title": "삼성·LGD, 3분기 수익성 감소 전망…환율·칩플레이션 여파", "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBHaGRZMDBpVXpKcFdDckRHelJwb1psR1otclpuTWdCVnRRM2EtOU5FSEpGNEVEYnE0OUl3M1NVdFNMdlpTZVE0aUtyekZwUXJUMzh0Vy1B?oc=5", "source": "zdnet.co.kr"},
+        {"title": "3분기 실적 시즌 임박…반도체는 ‘맑음’, 비반도체는 환율에 ‘희비’[마켓시그널]", "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5VVUVwY2VEaTFGS1U2MU9SQ0FKU1JVZV8tcFpVZWNuamRBelNtbnoxWFFrbzdFQm1OSWN4aVJ2bGVHVjJLa1NBeHV6bE1uVVJzTUHSAVNBVV95cUxQRU4zRHZKM1gtd2xFR2h3T000Nlk3TURsdDFZTjFtVHBxTDRNbUxMeTUyb1lCclNPVE1PS3NlbklNYVp3MzFleENVbDhYLW9QQzdiSQ?oc=5", "source": "서울경제"}
+      ]
+    },
+    {
+      "title": "미중 정상회담 마무리, 무역합의 진전",
+      "summary": "트럼프 대통령과 시진핑 주석의 정상회담이 마무리되며 양측은 11월과 12월에 추가로 만나기로 했고, 시진핑은 새로운 무역합의 도달을 세계 경제에 대한 희소식이라 평가했다. USTR 대표는 무역협상이 진전됐으며 28일 구체적 결과를 발표하겠다고 밝혔다. 다만 로이터는 이번 회담이 외교적 수사에 그쳤고 트럼프의 영향력에는 한계가 있었다고 평가한 반면, 한국 정부는 미중 관계 안정화 흐름이 한국에 긍정적이라고 밝혔다.",
+      "importance": "중",
+      "articles": [
+        {"title": "결과물 없이 외교 수사만 남은 미중 정상회담", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5PVUdia1VjX252YXh2TUVkVFVpM3dDcFNsTE9nMU00M0hjckpXd2NFWm8yNWU4dDVXWXdVRzhXeVpDOElCRUE5bDAyNlR5S2tMaFNLUEJteElDZw?oc=5", "source": "한국경제"},
+        {"title": "시진핑, 귀국길 올라…트럼프, \"11월과 12월에 또 만난다\"", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5IQXFRd2NLd0RHemlhUy1sWjVFazMwVGgxcUlfX21HdVZnMnJIaHpwSl90aUNsNkZGdVV2dkJxWEp6UGJMWHNJeFMtQlVQY01fU05hWmZCZEMzdw?oc=5", "source": "한국경제"},
+        {"title": "\"왜 취재 안 했나\"…시진핑 환영식 놓고 트럼프·CNN 공방", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9HSFhfOENxWG1PSm82YTRYaGdXdElqX2RRRmtNaGFQZ3kzRTdFSXc3aTdJa2gtMTF0MVlKbmpadDVZS294cGhCbFVsXzJMTDM0WW9qTnJ3SUdNZw?oc=5", "source": "한국경제"},
+        {"title": "로이터 \"미중 정상회담 성과 제한적…트럼프 영향력 한계\"", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB1QTd6c3E5NTh1U0V0Y3k5US03NDJycHI3TEZqUkE5UlMzMmdLamh0RlBDRmc3bG50eDA0cEF1N21qcHpscUN2dnRyS1BIeHBvWHJWVFBYZjE4QQ?oc=5", "source": "한국경제"},
+        {"title": "靑 \"미중 정상회담 무난…관계 안정화 흐름 한국에 긍정적\"", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA2XzM2Mk41QWMyTXA5S3NfMUg3NmMxbnF3M0lvWE01ZWlQbGl4ZEVuenJON1k0MHl1dFBBSDVZNG1aYUgyXzZIUUk4bHhVWm9ZVFZybVJxWGFJZw?oc=5", "source": "한국경제"},
+        {"title": "트럼프·시진핑 정상회담 공식 의제로 오른 '한반도 문제'", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0wMnN2NVJISzY0YXpxUWdvRFROeUJ2cDNoN2VIeWRTX2F0RUtKdTVLMnBCdlQ2eVRqd3oxYnFpV2ItcmxJa0tGbGlxN3ZTV2FYOHlwQzlpQ3drZw?oc=5", "source": "한국경제"},
+        {"title": "국영언론으로 '언플'하는 시진핑, 회담 내용 안 밝힌 트럼프 [이상은의 워싱턴나우]", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nMDl3a1lrYkVIckg2NVRqbmk2d1VmVHZaNURuNzlSd2R4MVNtSWkzdHNqQlEwcW9Wb2lxdVJrd2I5TnRUUFk4ZlFhWEFHV1JHbWN5TEtlQldrUQ?oc=5", "source": "한국경제"},
+        {"title": "시진핑 \"미중 새 무역합의 도달, 세계 경제에도 희소식\"", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBqalp2cjJuNkR5ZHRYV3AxblRXZndhSVllcWZ2NnNKbS1sME5PS0tZZWdHOUhucmtEOHp3bEFkUzVRdW9aTzNzdC1zRy0xSk5XYmVVU1lrSDhzQQ?oc=5", "source": "한국경제"},
+        {"title": "USTR 대표 \"미중 무역 협상 진전…28일 결과 발표\"", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9XNUE2cnpmZ0lKZEF3aUlrcGU4WjdoQzRLaEdHcmxOSzkzdG1EeXhkTmR3aEtmX29GYnV4UUlNdXRPNUxnUTYzLTA2LV83MTExN3hUX2R2azNNZw?oc=5", "source": "한국경제"}
+      ]
+    },
+    {
+      "title": "한국-멕시코 경제협력 강화, 투자보장협정 타결",
+      "summary": "이재명 대통령의 멕시코 순방을 계기로 7년 만에 한·멕시코 투자보장협정이 타결됐고, 양국은 AI 협력 공동선언도 발표해 2028년 APEC에서 이행 상황을 점검하기로 했다. 정부는 한·멕시코 무역협정 체결 가능성도 열어두되 미국의 USMCA 재검토 결과를 지켜보기로 했다. 현지 진출 기업인들은 멕시코가 단순 생산기지가 아니라며 경제협정의 조속한 체결을 희망했다.",
+      "importance": "중",
+      "articles": [
+        {"title": "李 대통령 \"한·멕시코 제조업 성공 경험...에너지, 전력 등으로 넓혀야\"", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBvMktMNlYxLVRFdTQwenhHZnJXYzNHZExLVWh1aS1hVDMwd0tGbkhYRDZGb3FnaG1TMFRtRkUwdjRIaHhkOTFoM3pYNk9QRDZINS02SlVyRkJhUQ?oc=5", "source": "한국경제"},
+        {"title": "\"7년 만에 결실\"...한·멕시코 투자보장협정 타결", "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5HN2RIMl83WG9qZDhRRmQ0TmZ1Vk5TTzNIRzcyMjc3cl9GTFRmUnZyRUxYQkRJV0VnMnRpeHdIX2FnMF8yb20zZGtTRXFQS1hTNFN3UkZEbnVmTGk5d3UwZzdqSklKNDZYTWtjRQ?oc=5", "source": "한경매거진&북"},
+        {"title": "한·멕시코 AI 협력 공동선언…2028년 APEC서 이행 점검", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5PSFl1LW55STBaNE1qR2hpUWZ3Y3FfeTdHVmJvYzB4TGVEYUpuYnZlaFVCWWdxRFVZcS1Dd0R4clRfWjVRNnI2bGVaak01LUlYX3hZcUVjN3Fkdw?oc=5", "source": "한국경제"},
+        {"title": "靑 \"한·멕시코 무역협정, 가능성 열어놓되 USMCA 재검토 결과 보기로\"", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAtel91RkFqY0N4enJqbWdaRUx6cmVDdVJPb1VWdHZ5WGZlelVsdE5IYVJBbERXV0pPYnlaejRQcFJyMXlBMF9aR0ctSVVDQUxmNzZUbS00WlZodw?oc=5", "source": "한국경제"},
+        {"title": "韓 기업인들 \"멕시코, 단순 생산기지 아냐…경제협정 조속 체결 희망\"", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0tTnJSUmROREh3U1c0TkV5U2RMYlFkSmxYajNnZmtPWHd2WUh3NnNMTTJXRTVoa2RYSmpiQ0NpTjNibXBJNXllV0c5cXg3MXJwMGJ3clV6YXV2dw?oc=5", "source": "한국경제"}
+      ]
+    },
+    {
+      "title": "코스피 7000선 안착, 연말 전망 엇갈려",
+      "summary": "코스피가 7000선에 안착했지만 국제유가와 미국 금리 변동성, 반도체 실적에 따라 등락이 이어지고 있다. 서학개미들의 미국 증시 보유액이 다시 2천억원 늘면서 국내 증시 상승세가 지지부진하다는 분석도 나온다. 증권가는 10월까지는 투자심리가 부진할 것으로 보면서도 연말 코스피가 8400까지 오를 수 있다는 전망을 함께 내놓는 등 시각이 엇갈린다.",
+      "importance": "중",
+      "articles": [
+        {"title": "[주간증시전망] 7000선 올라탄 코스피…유가·금리·반도체 실적 주목", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4UHhleWphUXEwdG4tLWNBMjRMTE05VDJnTnJOa2t3WDIxYkRiQVpaVmdXYXZ0dTh2WkxFUXdrQ3JVNmRURno1dDhTS0xUQlhvaV94SGJtRFk2Z9IBWEFVX3lxTE1JQWFYM0txQWhOVHZzNVEwck9hRWhKcndTUFFKblRabDRmcV9INF9rWXdlYkpScEIwNHVDcHozVVhJSThOcUNNTFg3b3hUUk5KQjFyWnJzUWQ?oc=5", "source": "아주경제"},
+        {"title": "[주간증시전망] 코스피 7000선 안착 성공…연휴 이후 주도주도 역시 '반도체·AI'?", "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9KV043Y3p5cFJiQUdHUGIyZ3F2ZW4tMlJOU0loV0hsMzVlUmwwdF9XalBEaXNJMjRBemJsWXBiekRiQjFiRVUwc0U4ZTZIaWc1emhqOXY2S08xY3U0MXJaRDlvaGdKUDlwaGY0aHB3?oc=5", "source": "이투데이"},
+        {"title": "코스피 상승세 ‘지지부진한 이유’ 있었다…서학개미 미장 보유액 2천억 재진입", "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9OZ0pZdm9ranJ2X0RFVUtoZXNqc2FlbWlfTjNReXoybWFNRHYxRFVSSlZCVTdRTzdjUl9Nb0FKb0dxNy13TjZwRXJQbzJhNkQ1?oc=5", "source": "문화일보"},
+        {"title": "추석 이후 코스피, 연말 랠리 이어질까…증권가가 본 4분기 전망은?", "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Fc25sanR4VmtmTHQ2QkQ3Wlp1M3FBNGt0NnVmSGI5TnZxLXpMeTNldWZrX193enRIcnd4aTdaXzJGSDNzQlY5Z2NEMVRLc2c4Mi1zLW12cGplZGZJMXN2eVh1djR1eEJNRFNPUw?oc=5", "source": "ER 이코노믹리뷰"},
+        {"title": "글로벌 금융시장·국제유가 ‘요동’…추석 연휴 뒤 코스피 어디로? [이슈+]", "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ZQzdRRzVGSEtmY2N4N0ExRllkVmZvVjJYYlBnXzJRT0xic2xPVXFrYzZCbndlT2hjczUwcGtVeE1Nb25xVjZKbTRuWGRPU3E4V3NoUDRnYnUtRW8?oc=5", "source": "에너지경제신문"},
+        {"title": "[추석 이후 증시] 장문수 센터장 \"10월까진 투심 부진, 코스피 연말 8400 목표\"", "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE53ZVNCMm52STUwVng0NC1vbTFGd25jLTJTcFZnWjFCZkZWSVhhckZINkppYWpzaDVaZzNjQTcxVWpXS0tfX0V5eTRLaW9hbnNfdUhiRjU1ZjFzNnhVci15VE93MTVYbmpH?oc=5", "source": "팍스경제TV"},
+        {"title": "미장이냐 국장이냐…S&P500 vs 코스피, 꼭 따져봐야 할 투자법 [주린이 1억 벌기 프로젝트]", "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1yWHN0cWc5aC1rakNvNlpKVzZ4dTF0bVVoTFRJa1ZKemNpVEZob1FkUElDSm1hLXVJYk1TbU5HTWMyMUtLdWowSUE0QzRMdlhOVmJCWjJn?oc=5", "source": "biz.heraldcorp.com"}
+      ]
+    },
+    {
+      "title": "서울 집값 양극화 및 부동산 시장 동향",
+      "summary": "서울대 교수는 강남 집값은 위축되고 강북은 고점을 회복하지 못해 오히려 상승 여지가 있다는 내년 집값 전망을 내놓았고, 대출 규제가 강화되면서 오히려 서울 외곽 집값이 뛰는 역설적 현상도 나타났다. 아파트 진입 문턱이 높아지자 오피스텔 거래량이 전년 대비 8.24% 늘었다. 지방은 인구와 일자리가 줄어드는 반면 서울 집값은 계속 오르는 양극화가 심화되고 있다는 지적도 나온다.",
+      "importance": "중",
+      "articles": [
+        {"title": "“아파트 문턱 높아지자 오피스텔 뜬다”…상반기 거래량 전년比 8.24% ‘쑥’", "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5vd2NyZEZ3LVhNSkRXSXNlLVVTb3gyRy1IcUZILWJpb09tQktxVlJYbjAtT3NDUnFfSVdUT2hwQVYxYVp6QkJUQWFHYXlraFNOSmRhR19zSE4?oc=5", "source": "매일경제"},
+        {"title": "\"아파트 당첨됐다고 좋아했는데\"…계산 실수 한 번에 '날벼락'", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1vaExNS09YWDJTZk52OHRYc2lEYk9Ja2p4MWJfS000elpqY2x6YWhOakNEZVFzcGZITUR5YTBYbmJ3REZuM3VtUVdXVDEtMHlxSGFsVEFEbzNBdw?oc=5", "source": "한국경제"},
+        {"title": "전문가 4인 \"내집마련 적기는 연휴 직후 … 한강벨트 노려볼만\"", "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE45bkhJMDVraVBHeFRxQzBlNEt1NnB3OEU4MTEwVUdOUjZ2bkw5d1JjQWVheF9RSlo1YnV4Yy1WX19ObFdIaGlsWGc4LWRsZUk?oc=5", "source": "v.daum.net"},
+        {"title": "\"강남 집값 위축, 강북은 고점 미회복에 상승 여지\"…서울대 교수의 내년 집값 전망", "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5lOHZQN2xCYkhqNkF2UjExVzRDV3F2OHlBdTk0SFJ1ajFhZU92VnBpZWk3UGNES2p2eG1sTU5MWnJxQ3ByTzRFTGtqcDJpME5QYTV1RFotV2UtSlcydkQzU9IBeEFVX3lxTE4zeTh2eUk1OG1HQzlXWUJVY1I3M0RYbTUxaUszOTNwM09TeFplRjA5WWpERzlSZW5kNGJmbV81MVU1RHNvNzBReVBaaUFOaVlqTkdaOG01TlA4TGd4M2VyeExKY3o3U1owNWY2cDZ0N1B2YmU4R2V3TA?oc=5", "source": "뉴시스"},
+        {"title": "\"지방은 사람·일자리 사멸 중\"…서울 집값 폭등 뒤에 숨은 진짜 이유", "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE94dGxkMkpod1JROFlNRjZqQmZvZW02XzhKd01xSmQ2aWcwX0RUUG02a1pQU0U3eUhDMVJiRmZaRGM1ZEEya2pwdGt4N3JCQXZTdWxBUGhjcjZTcmtMUGdmedIBeEFVX3lxTE9KNXJUeWpOVVR4aVVvbGJFTS1zY19xUldNZDMyOEdOcHh6bmVqUzhjT1B4ME13QVNET1lRRTlSNFJSVklubGh3YjRKaWNWRldfRWR6NXJQa2JCc21jUkZteklzUFVoU1ZrV3UwQTVESmlFN044R1VySQ?oc=5", "source": "뉴시스"},
+        {"title": "[부박사] 금리의 ‘역설’… 대출 옥죄자 서울 외곽 집값 뛰었다", "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5VX1UxTUFzZWFJV2Rsa0FUZXp2TTg0OGctV0gya3dqWVljeU1qMVNjekxhSXlKVXkyNUdxcEpnQ3NMYm9xT2VMR2NqYXY0TnFxeE5VTTVPcmJ6cmVuZy00dzRQZ1NieHVjNFlLcg?oc=5", "source": "월간조선"},
+        {"title": "\"문 몇 번 열어주고 550만원\"…30대 직장인 분통 터트린 이유 [복비의 세계 上]", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Bay1lazJGZE8xU0E0U00yYjhiWlJPaURBRnM3QVQzc1R0WGVrbDBDQW15SEVrRVZ6ZGRKRGlrWVo4emltQVcydmNVMzg4NG1xRkR0VS1zZVFBdw?oc=5", "source": "한국경제"}
+      ]
+    },
+    {
+      "title": "예금금리 상승 속 자금 이동",
+      "summary": "농협은행 등 5대 은행이 정기예금 금리를 연 3.4~3.55%로 올리면서 5대 은행 정기예금이 5조원 늘었지만, 개인 투자자들은 16조원어치를 순매도해 다른 투자처로 자금을 옮기는 모습을 보였다. 증권사들은 예금에 추가 수익을 더한 '예금+α' 상품으로 틈새 수요를 잡으려 하고 있다. 은행·증권·보험사들은 금리 상승에 대응해 신종자본증권 발행을 통한 자본확충에도 나서고 있다.",
+      "importance": "중",
+      "articles": [
+        {"title": "5대 은행 정기예금 5조 늘고 개인은 16조 순매도", "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9LaDFmbmNJWTZhSFdEN1FFV3VGcG43b0Q0ajFxdFYwWEJ3V3BTU3NsVkJYVldyZktWaDk0TkdFcGpXUXJCbzR0MmtxZXNmNlRqdmJ6eFFMMDQwQ1NIQVd1UHk3Qlp5b0k?oc=5", "source": "자본시장뉴스"},
+        {"title": "농협은행도 예금금리 올렸다…5대 은행 정기예금 연 3.4~3.55%", "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ob3Q1Z0Z1WlhfU05BUVRQaEl1QnJRRkdfS1ktTy1tcGRxU0lFYWlIaEYzUUdPQmo1YWlERWpVdEtBVko4cFZSUHBTT04wTjh3c3dnbHZHNG80MTFkQTB4NUZfUVJ3MmpBaDhMTnhzZw?oc=5", "source": "피플투데이"},
+        {"title": "금리 인상기, 예금 머니무브 속 '예금+α' 증권사 틈새전략은?", "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNeDgyNjM2NWhYNUpiWWtZQXJJX25OZWlqeXJWR3JUTGxUSWZvdnRlaTZ2cDExZTNVWDAyR0ZyamNWVVp0UU9kLXZ2a0h2eFhYcC16ZkZsaG9QMmEyTnk1VWJESmx3OXdWeWtWcExsdGVRdkluZko4WGM2VlJCVldnUA?oc=5", "source": "edaily.co.kr"},
+        {"title": "은행·증권부터 보험까지…자본확충 비상에 신종자본증권 '러시’", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE10Q2JKVHdGcnEzUHV2cVlXNzM1UFQ1OW4wZmEyLUtrR0h2MXk3OE1rY1dMMlUtbmhnV21fc0phVGdZQ2htQ2xGR1VkYWRweFR4a3d0am9YVDJaZw?oc=5", "source": "한국경제"}
+      ]
+    },
+    {
+      "title": "트럼프, AI 정책·빅테크 행보 확대",
+      "summary": "트럼프 대통령은 '인공지능(AI)' 대신 '수퍼지능(SI)'이라는 호칭을 쓰기로 합의했다고 강조했고, 빅테크 경영진과 회동해 AI 규제 반대 입장을 재확인할 예정이다. 백악관은 오픈AI와 앤트로픽에 영국의 사전검증에 응하지 말라고 요구한 것으로 전해졌다. 마이크로소프트는 'AI 시대의 업무 운영체제'를 표방한 새 코파일럿을 공개했다.",
+      "importance": "하",
+      "articles": [
+        {"title": "트럼프 \"인공지능(AI) 대신 수퍼지능(SI) 호칭 합의\" 강조 [이상은의 워싱턴나우]", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5hZFRrblFKSVFLZGhZcy1iSjg2WXJleUFyRlVYSHQ2ZVgtTjVDQmFjN29ZejhReU1hQzFyUlppT1owTXoxeUtGU1dfV0RNSTdJNE4wejJWTEtLdw?oc=5", "source": "한국경제"},
+        {"title": "\"AI 시대의 업무 OS\" MS, 새로운 코파일럿 공개", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9CQnBkNWh1MWxTRzkyVzdiZ3hKYWVSY3BFUUFzcGY1SVpKbWpFX200TGcyeGdJSHVSajZSb3J6UFNjRVFXMkhQVThDcDJxY1pIRTVMTExnLWswZw?oc=5", "source": "한국경제"},
+        {"title": "백악관, 오픈AI·앤트로픽에 \"英 사전검증에 응하지 말라\"", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1MTTZGMUxWMWI0ajRvYm8td0N1VkRPMUhQdnEzRldOWE16ZU11TzVjRy1YYmVnM25vZjJXb0tuQmFaMUdEU1ZEUEFzOVBuM0NBclBXal9VWGFmZw?oc=5", "source": "한국경제"},
+        {"title": "트럼프, 빅테크 경영진과 회동 예정…\"AI 규제 반대\" 재확인할 듯", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBoSUppeWRhUGpzdVl5M01BZThpSkt0NS1oRW90cmpmUjBkNVp6eWNGTElYN2VXdUQyS1lNOGUtSXhJa0NhMmswd3BXRUp2Q3I3cldhQXhOdDFrdw?oc=5", "source": "한국경제"}
+      ]
+    },
+    {
+      "title": "아시안게임, 한국 선수단 다수 메달 획득",
+      "summary": "한국 3대3 남자농구가 아시안게임 사상 첫 금메달을 따냈고, 체조 황서현은 평균대에서 한국에 40년 만의 금메달을 안겼다. 카누의 조광희·김효빈 조는 스프린트에서도 금메달을 추가해 한국 최초의 대회 2관왕에 올랐다. 반면 탁구 신유빈·임종훈 조는 혼합복식 동메달에 만족했고, 야구 국가대표팀은 일본 실업팀에 0-5로 완패했으며 남녀 축구는 나란히 4강에 진출했다.",
+      "importance": "하",
+      "articles": [
+        {"title": "남녀 축구 나란히 4강 진출…男 베트남 4-0 완파", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9QTm42UmVZdW44LTZvZFhLTUZPVzNFNzJBbTdNVHU5MGxaX0JETTRqMHFoZTNyNHdDM2VQRE1wLWp4OWVlakVaWHk1UFpHYzh1SlpfVjRUOERJQQ?oc=5", "source": "한국경제"},
+        {"title": "한국 여자축구, 우즈베크 잡고 준결승행…일본과 격돌", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WVjlIM1BXYnpTcW1uS1NVWTNvZEQyT3pvUkNmY1h2VHZaUU9UMUVtdGZqbkZNaXhUY2xGU0JIaURmaHd5eGVONGNPQndhYlM3QkxSalZlQUNGdw?oc=5", "source": "한국경제"},
+        {"title": "안타 쳤다 하면 병살…한국 야구, 실업팀 일본에 0-5 완패", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB2TDY5T1U0MWY5Q09ibGhWRklrV09WbXVsNm1oRVJfeXNZYUZlMWIxZDNDTzhxbmVjOXk0d1A1NTNZeXRIVTd6Q0ZLb1NvRklvOGxKMm16SlZYUQ?oc=5", "source": "한국경제"},
+        {"title": "신유빈-임종훈, 통한의 역전패…탁구 혼합복식 동메달", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9VMWZ4ZTgtWWFUWVRHQVFhNVhhZTJtMEFKanBkMGJXcjRiQ3NnOVVPMG94NjZrS2kxSGNXenRWX2ZwU1ZWSC14a1hnejhiVG5TUlZWQkoza2lxdw?oc=5", "source": "한국경제"},
+        {"title": "'이영준 멀티골' 이민성호, 베트남 4-0으로 꺾고 준결승 안착", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5QSGFrNmFNMlpvU1MteENBaHQ2bzIwR3N2dVV0ZXR0ZHBrYnd3SW1HbnFlNFdXZ19tT3hET3cxZ1BoYUdfYS1vUEkwQUgyYUFGaVZjTjd2eFJjZw?oc=5", "source": "한국경제"},
+        {"title": "[아시안게임] 한국 야구, 일본에 0-5 완패…빈타에 병살타 3개로 패배 자초", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5GQWZNeU9McURXWTZTdlR3V1NMM0JCcFl1LWVXQVJBaHZkdDJtSDNZdmxfQ1VabWJrTkxPMnNld2VRQWhrUDZuX2xZWXVGTjh1UTVXU2pqMGc3dw?oc=5", "source": "한국경제"},
+        {"title": "[아시안게임] 하다 하다 메달까지 아끼는 일본…\"상장도 직접 인쇄해라\"", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1KQ2FqMWc5LW1YaGZXUUpaZFdxUUR1aTlwbTFBMHYxUHhnUlZpN21teXRDRVhCOUNOaHBmZWxIWjJrd3ppNjg5ZXlUaXhUS2dxWVNrRGNYQi1rQQ?oc=5", "source": "한국경제"},
+        {"title": "[속보] 한국 3대3 남자농구, 아시안게임 사상 첫 금메달 쾌거", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGaGRqbElfZzY4bkFlSk1tSVZGNU9VYXM3ZUJ4SmdrRnY4Z3BVaGxHa3VOckJxZ3V4MF9rM3NqTUFjM1pOcktObi1mRlZLNzFJd3Q2RWp2QzRFdw?oc=5", "source": "한국경제"},
+        {"title": "박태환 '자유형 400m 신기록' 16년만에 깨져…中장잔숴 7관왕", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE53R0ptaFJYcHBoRzhUa1lhRlBYaWdTNEREZUJwQjk5RmtYQ0IybTRVcXJsUjR5enByaVlNdF9CcDlxbFJJemVIMTc4N2ZJR1oyemR3NFozdWtLdw?oc=5", "source": "한국경제"},
+        {"title": "'낭랑 17세' 황서현, 첫 아시안게임서 金… 한국 평균대 40년 만의 쾌거", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB3VkpfWTBFeFNGaTdIYVBJMWhsdkpOMzA4eUI4TS1pdV93UGQtbnFlRUhnLVpGVDhlTmkxaEYyTW5OV1JrS2lESHBTeUFxTHRpRkRYSE5RdHlFUQ?oc=5", "source": "한국경제"},
+        {"title": "[속보] '133.8㎝' 체조 황서현, 여자 평균대 깜짝 우승…韓 12번째 金", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE93cDdXU1pCS3lMaE5Wem5SYmlndmcyQkxGbGxsa0U2TWhHeXVZRjBFUVRoSTZOc1dnQzhtY1VFYXU2d3FLZk5xNXRwY0k3a0h3YWhrTkZSRExtQQ?oc=5", "source": "한국경제"},
+        {"title": "주종목 폐지 아픔 딛고 '한국 첫 2관왕' 조광희 \"카누에 관심\" 호소", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5lS1ljamlFa3pOMUM1TWFaS0ZUX0lkaFVaZXFYN2lON1BJempaZk9iS0sxSVY0QjZVQjMwRHdQS3NXNFB0ZlhuTUJkWDg1NW1jN1hZOVVabnQ5UQ?oc=5", "source": "한국경제"},
+        {"title": "신유빈·임종훈, 동메달 확보…대만 꺾고 준결승 진출", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1jcUtYOEM2V0NCdl9qc1Z0U1VJc1pZeFJMTmkyakpHM19raWFxUkQ3VlJSRmRfX014VUxNQ2l0MlJnLWZnTVg0Z0huZzVYc1VBSmNRd0Y3TUU1UQ?oc=5", "source": "한국경제"},
+        {"title": "'황금 콤비' 신유빈·임종훈, 대만 잡고 혼복 동메달 확보", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9rOXd1S01IX0g2X01FdEtUcFFoNlZPdE9LZEFSbW9mTjBibDlaRWVIQV80MmhJdVFpVkp0NjdqV3VXM0oteVA2NzItTnBrTUw4cXhpcnBVVzJmUQ?oc=5", "source": "한국경제"},
+        {"title": "추가은-홍수현, 10m 공기권총 혼성 단체전서 銀 합작", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBkQno1cUZJWnl3d3F3OFRxaU9FUUxJOFhMVTBqWmNtYy1VbXVUREZORTNVQmZCMlVzalc0bThoRmZIYlpNOHRZdERPZmtibUtBSXM4Q2p3WVFTQQ?oc=5", "source": "한국경제"},
+        {"title": "조광희·김효빈, 카누 스프린트서 또 금메달…한국 첫 대회 2관왕", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE50S3hDZFgzZS15STVQZ2k5MWNQLWtwSEdIak4tbFhGMGh0VWhRYVE4T1l0NTVNQWtXQm9rUmFKTW1YY2FiQjhQZ3p0TWtSWmMwN0tCZGpUenJQZw?oc=5", "source": "한국경제"},
+        {"title": "한국 '카누' 또 금메달 따냈다…조광희·김효빈 2관왕", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VNVZqN1BHM0tGWmwyMExNMnJ6dVRqMkNKeGVUTXZFOUlRd1pENmdub0wxOFM4MUhjLTJIN3g3amFrLXVBTVU2RVhHdno4TFVaLU9SZ2VsT0U2UQ?oc=5", "source": "한국경제"}
+      ]
+    },
+    {
+      "title": "중국 은행권, 64조 위안 만기 도래 압박",
+      "summary": "중국에서 64조 위안 규모의 채무 만기가 몰려오면서 은행들이 비상 대응에 나섰다. 만기 상환 부담이 커지면서 중국 금융권의 유동성 리스크가 다시 부각되고 있다.",
+      "importance": "중",
+      "articles": [
+        {"title": "\"64조 위안 만기 몰려온다\"…발등에 불 떨어진 은행들 '비상' [차이나 워치]", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ZeGpvSDR3QktRQmJmVDVzbUNZSDVTdUp2NUkwb0dFX0NmNWJuMDFtbmUxdF9faFJOSDNUZ28zdTAxV3NMbW5yQm5wWHFDVXRSZENXMC04SlhwQQ?oc=5", "source": "한국경제"}
+      ]
+    }
+  ]
+}
