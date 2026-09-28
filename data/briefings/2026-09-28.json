@@ -1,0 +1,128 @@
+{
+  "date": "2026-09-28",
+  "topics": [
+    {
+      "title": "코스피, 추석 연휴 후 첫 거래일에 7000선 붕괴",
+      "summary": "추석 연휴를 마친 뒤 첫 거래일인 9월 28일, 코스피가 미국 국채금리 상승 부담과 반도체 대형주 매물, 외국인·기관의 순매도(장중 1조원대)에 눌려 심리적 지지선인 7000선을 내줬다. 개장 초 7050~7060선에서 출발했으나 삼성전자·SK하이닉스 등 반도체주 낙폭이 커지며 한때 1.8%까지 밀렸다. 개인 투자자는 순매수로 방어에 나섰지만 하락세를 막지 못했고, 코스닥은 기술주 반등에 힘입어 강보합을 나타내며 코스피와 엇갈린 흐름을 보였다.",
+      "importance": "상",
+      "articles": [
+        {"title": "[오늘증시] 반도체에 쏟아진 매물…금리상승 압박에 코스피 7000선 깨졌다 - 오늘경제", "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0wUnUtTU9JSUQtYUxoQU1mR0FJZXNCbVRsRU1wYUNnbERRNkNIeklOanpzRHRzWWZzUkZyZjJMaFI0MTZLVmZrX0d1MFV0LWNDblFTVmo5VFZjWDdlV0NQYlgzRTl2VjRzSHo0OXRaWEZSWEU?oc=5", "source": "오늘경제"},
+        {"title": "코스피, 외인 1조원대 순매도에 7000선 이탈 - 뉴스핌", "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5yVlRsMWRUTDRtOTJnYURqRlYwZU5tX0lMcEJmY21FYUlibG5MeUw5ZkJQT0lFOXJZR2hGZldWY0xTU0hmR1Z4NEFpNjhIUURqOFo1aHE2LUhoVGh4?oc=5", "source": "뉴스핌"},
+        {"title": "코스피 7000선 내주며 1.8% 하락…코스닥은 1%대 상승 '엇갈린 장세' - 잡포스트", "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5lYXBfYlhNTUEtQ3huVEJCOVIwR1c5TE0zMXRJWjZaSDNQaEhibXZmSGc3N1Fyems4UklxM2VKb2tONFRHWVpQUmtuM1BmMTJQX1pHZUY3NEFyN1ZrT1dRc3pLV0s2VlhZeWdjUENB0gFyQVVfeXFMUG5CNDRLMV9iYXpuV0JaSTVhamtYQjNibXBEWE5hYVZPTnBVRUJJV2NGQlQ2aV9JMElvd250NnQyUFNJc1JmQ1FjRDBCVk5aRThZR1ZLZkhNOFpPam5JbjZJclVIN21hM0FIQ0h2VVdtNGJR?oc=5", "source": "잡포스트"},
+        {"title": "연휴 끝 코스피 7000선 무너졌다…삼전닉스 3%대↓ - 마켓인", "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1Bd1VkUlFHR09CX1M3b19LLU1SeGVRcHhxcWZnUm9aZ0pRT1duNWlPbndWWnQ1Q0JpbjdoMHdfbkVUYWJWc0NiLU5PUGltanRMNzhYODU2WTF4SW04TVFYLUpsSVVYVXl3RGR3Q2hET2d3VTg?oc=5", "source": "마켓인"},
+        {"title": "코스피, 연휴 끝나자 7000선 붕괴…삼전닉스 2%대 하락 [투자360] - 헤럴드경제", "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE93QVJ4ZTh3U0tZbEFpdjlVNFBMTWpibVBQdnotM0ZKR0ZUdlZVVEVaVkp2UFg3cVdVVjk2WmhPQWxrdkRsbTFPdTBuME1COTF0SGRhcU1B?oc=5", "source": "헤럴드경제"},
+        {"title": "추석 연휴 뒤 코스피 약세, 외국인 매도 vs 개인 매수의 대결장 열렸다 - 공감신문", "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBRaG9nUWpwZS1mdUN5SzNXY1Q4Z1FEaFdRNW5rMGFGbUNiYlRZbWRoQ2g3aXBKVlBjdEpSV3ZTaXc3bHpOeHQxbTZSaGdHS004SUlmY09FMTJuR0pBYTBQZ0wtZDZCaVU?oc=5", "source": "공감신문"},
+        {"title": "[속보]美증시 AI 훈풍에도…연휴 끝 코스피, 7000선서 '주춤' - edaily.co.kr", "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMU5zY1o5eXhTZXFSNXdWVWxmSEg4ckRiMmFMUE1UN3JqdDVyYUtNYWlLZ2MtdEg3X3JfaFVialNObTh1SlIybFhza1dkRk1xcV85ZGl6azAxUmhCWUF4OWdpSUROMFlBY1pxRk5faTlFRVA4SUxQNTZKcmRydl9nYQ?oc=5", "source": "edaily.co.kr"},
+        {"title": "[개장시황] 추석 후 첫 증시…코스피, 외인·기관 순매도에 0.60%↓ - 뉴스핌", "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5PWUtwYnRTbmF5SjJtMzhfYWs2T0x3bW1MRkhwM0lPTTBGV21KdDJ6ZDNDRldmSHZEVVVtRUJaSHZhQ1JmUG5kcDR2Y3c4QTU0bG5GRE5BeGlZS2NJ?oc=5", "source": "뉴스핌"}
+      ]
+    },
+    {
+      "title": "미 국채금리 22년래 최고 급등…원/달러 환율 1350원대 등락",
+      "summary": "미국 30년 만기 국채금리가 5.5%까지 치솟아 22년 만에 최고치를 기록하면서 글로벌 금리 상승과 달러 강세 압력이 커졌다. 원·달러 환율은 추석 연휴 이후 1350~1360원대에서 등락했고, 엔화는 미·일 당국의 구두개입 경계 속에 157엔대로 반등했다. 호르무즈 해협을 둘러싼 중동 정세 불안도 겹치면서 국내 10월 기업 체감경기는 한 달 만에 '부정적'으로 돌아섰다.",
+      "importance": "상",
+      "articles": [
+        {"title": "美 30년만기 국채금리 5.5% 찍고 22년來 최고…환율 상승 부추기나 - 동아일보", "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1tSnN1eDUtQnQ3X09uV1pUSHhZV0hUVFBRVTFrRlptcHVseU43NGd1eU5kbGQweUR5Q0F4WjhCSUpBeTY5QVoxeGhldmh1SEx5UC12WFMtcl90dkdyOEJ3cmxad29HOFNYejUxNDZUXzc3RWczd2fSAWZBVV95cUxObk5jaEJCRkZQRVVjb0hhaXhncGZkRFRmUWJ5ekY5WXBseDZzOWc4M0lqZHpCSzN3Y2xZSXhnZWI3MHBDQUZnRE5qaGlUOVRwNmNnbTcwSEE2Y0hZYjczZG53dlNROHc?oc=5", "source": "동아일보"},
+        {"title": "환율 1357원대 출발…중동 불안에도 엔화 강세에 '상고하저' 전망 - 뉴스1", "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE01WkQ5SmFHS0U3MEJLcUtPR3oxalVOcEJtOVdsUS1Qd1BSZzZYR1lHT3ZwLTVQdkNYUFlVcGFNRHlFTERGMHVjNVFrQTIyM0hBNW9ZR1pTVFgzNUnSAWBBVV95cUxQblBRd3kwMDNvYUxYWXJxUzIyMUtUTk1nZHJhTkcxb0tSTFZ6dy1aLUlfbW9SXzhBWjNDUm13S0RTXzVKX3I2NnprNFN0X19hNHlCbzh6SnJELWlpdE1LSXk?oc=5", "source": "뉴스1"},
+        {"title": "미·일 당국 '엔저 견제' 한목소리…엔/달러 환율 157엔대 중반 상승 출발 - snakorea.com", "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9kYzNqZ0dxN0ZDb0tueVVFWDJkbDd3RWhLRDV6QkY4RWl1ZWxkdGpWTl9qUV9qWUVQaGVNVS1XX09FeE1FbmpFakVzTERxaHJKVTBvMW1MdkMxNUJLLU5EVURGbkdTYkp6SXZN?oc=5", "source": "snakorea.com"},
+        {"title": "호르무즈 교착에 금값 다시 밀렸다…추가 금리인상 우려｜Global Money Club - 중앙일보", "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBlYWY2dzR4WjFNd0VVVzdreWRDWjRzTHBuZ0JrbzlUN2RXdEJ2c0tPVnAySUhvMG0zN2MzQkE5NE1iOW5VempDZnllMDhlUkV4Z0pUSWZTV3B4YUU?oc=5", "source": "중앙일보"},
+        {"title": "중동 불안·환율에 발목…기업 체감경기 한 달 만에 '부정' 전환 - 경향신문", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4MHE5ZXptaGx3b1IwVjQwNEs3c194ZXpiS3pSR2RTb3dJbDhOS3ZDN0pSRm1yV3diaTg2NkY4MGptWXB2UHVCSjRzWGFGSU9tWENrV1BUODZhQdIBX0FVX3lxTE8zYTZUV09CbnRGd3BBLVlrSFROeGNXNlNDQWF3YUNsTmFBOTQ5SzZKQVJzYy0yRjFiVU9SM04xa3Jva1N5N0MxUzMxZ0FJYU1SbjFEdXZPVUlFRGRlb0Fn?oc=5", "source": "경향신문"},
+        {"title": "美 국채금리 10년물 5%대 '뉴 노멀' …국내 금리·환율도 상승 압력 - v.daum.net", "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5wNkY0TGdxdlY2VXBUSTdZUXpJMXB6NUpKRnVzcVlxd2xvNGtFNTBrSVBhMjhvY1F2Y3lDcEdZMmdaVkJfY0xZamZzUVpnSlk?oc=5", "source": "v.daum.net"},
+        {"title": "[주간환율전망] 원·달러 환율 1357원 마감…이번 주 박스권 전망 - 자본시장뉴스", "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBCTndCRU9mcHZOVkhNZng2TlJxeWdaOXVaODVCMTlEYlh2b0E0YnVPN25Lc0lJcW5sVXlJUEJwUHBfcGkzRWpwdF94NEVzbjB4U3VXS3F3d0lTaWpyakhCcnEwNlJrQVk?oc=5", "source": "자본시장뉴스"}
+      ]
+    },
+    {
+      "title": "기준금리 추가 인상 경계감 확산…소상공인·개인 부담 가중",
+      "summary": "국내외에서 기준금리 추가 인상 경계감이 커지고 있다. 바클레이즈는 한국의 수요측 물가 압력이 아직 약하지만 11월과 내년 2월 추가 인상 가능성을 제기했고, 월가에서도 BofA가 연준 긴축이 끝나지 않았다며 기준금리 5%대·2년물 국채 5.25% 대비를 권고했다. 국토연구원은 기준금리가 0.25%포인트 오르면 반년 뒤 집값이 1.2% 하락한다는 분석을 내놨으며, 금리 부담 속에 소상공인 대출 상환 부담과 미 국채 금리 5%대에 따른 개인투자자의 미 장기채 ETF 매도세도 확인됐다.",
+      "importance": "상",
+      "articles": [
+        {"title": "바클레이즈 \"韓 수요측 물가 압력 아직 약하지만…11월·내년 2월 추가 인상\" - KB Think", "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9hME9WdjVPX0FYN3ZIUGFKa1BkNUdZLUlHZ1hkMGZOMWltM0ZKWU1BWGJFZ21fMmkwZmZONjNOcmRyMnpid29leS1JUE9rX1NmY2RDSk8wUW55Tmw3azFsekh0TFl5VmwyYk1tTGZzU3kzZw?oc=5", "source": "KB Think"},
+        {"title": "월가, \"연준 긴축 아직 안 끝났다\"…BofA \"기준금리 5%대·2년물 5.25% 대비해야\" - 데일리팝", "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAxeWppa01SckpDelJUaVRMUTBwUTFNZzZzZkxrXzJJb0VWX1RYVmhGeU1QWGxUNlRNZm1vQlZKVF95SDhQTmhMTU9tRTZyVEpmLXI2TVJzVjlxdmUxdThxYWZ0ckZWbi1E?oc=5", "source": "데일리팝"},
+        {"title": "\"금리 한 번 오를 때마다 집값 1.2%씩 떨어진다\" 부동산 '하락 경보' 내린 국토연구원 [부동산360] - v.daum.net", "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0wR1dqdWdMYnlWN1FaM0l2MUhoQV9uZ2tEYnZRNTIySXA5eGw5TE5jc3liUURtY1dWcl81TUF4NndoOWgtLVA0WUdLeVhxYm8?oc=5", "source": "v.daum.net"},
+        {"title": "기준금리 3% 시대…소상공인 대출, 내년 봄이 고비 - 동행일보", "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9WRXU3VWpESE1oWmRDS2FiQ3ZEY3hBMVliYjFsWkpHZU93WTBFRldxcGdmV3hmX1VvSXVJanNPb0pXaTYzaWVSdHJ6M3lfNEROWWVvSndFQWQyUUNCWnh3VVZhY3hYOEhK?oc=5", "source": "동행일보"},
+        {"title": "美 국채 금리 5% 시대... 개미들, 미 장기채 ETF 9000억원 팔아치워 - 조선일보", "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNelBMZXo4VFhjcExVQlVDX1BoWFRjeHVTd3ZzcG41MDRzT3hVaHc0RlVHVnRwbXlkdTlVeVVSUkdQNEF6MHYyWWlURHd3UVg0elY4WFBFaW5vUUt3cDg4NnJRZmlha0taRXdPMGxLaFJzV2Fuay1QN1Y0X3ZJdGNrdjQyQkNyeHpBUUNJa0dR?oc=5", "source": "조선일보"},
+        {"title": "금리인상 충격, 中企부터 빨리 온다…기업은행 대출 순증 8.1조 '4대銀 합계 추월' - 녹색경제신문", "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB4MS1rWGxUUWQ0MzhTRXZkckZaRHNoU0p6ZE8tSGc2U2hGczRMOGE2NFZINEdOU0FmTWQ0Vy0tOWVHcHRwT1NESTd1ZXdVY3RFRTZPcU9yNDc5QWxaajd1czFuWnNqT0FM?oc=5", "source": "녹색경제신문"}
+      ]
+    },
+    {
+      "title": "인천 등 수도권 주택시장, 매매 하락·전월세 상승 엇갈림",
+      "summary": "인천의 8월 주택 매매가격이 하락 전환한 반면 전세·월세는 상승세를 이어가며 매매·임대차 시장이 엇갈린 흐름을 보였다. 집을 사려는 수요가 줄어든 대신 전·월세 수요가 몰린 결과로 풀이된다. 서울에서도 전세 매물이 줄고 중랑구 등에서 월세 거래가 급증하는 '월세화' 현상이 확인됐으며, 입주 물량 감소로 앞으로 수년간 전세난이 이어질 수 있다는 우려도 제기됐다.",
+      "importance": "중",
+      "articles": [
+        {"title": "인천 주택 매매시장 하락 전환... \"전·월세는 상승 폭 확대\" - 투어코리아", "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1VYnQxZHVFVmktV1hFYzlzZkNfRVhxUjg0SHF0SWVWTy04LVBCM0lPVzBIOW9mNXY2VFk5N2NfYzhobUVYQ0F0aVNZNnZ4SGhEakhUdTZmWGtQcjRuU3dUZkRNaWVzaWxDSENoQWRR?oc=5", "source": "투어코리아"},
+        {"title": "집 살 사람 줄자 전·월세로 몰렸다… 인천 부동산 '매매 꺾이고 임대차 껑충' - 복지투데이", "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBONTNOdVQzMUJ2Wnd1d2xFbURpZURRZ2VZTW5KX1BtUWZMSDhDWHJ1SjJrSTJuYy1FTjJtTXV3b0pFajBJWGZCQUxxTkI3b2Z2eFBzcjlZUkd3d2wtVzgyVFd3WXlVM205QnpJVg?oc=5", "source": "복지투데이"},
+        {"title": "인천시, 8월 주택 매매가격 하락 전환… 전·월세는 상승세 지속 - 인디포커스", "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMkJQQ0hHR0JEODN3dFloZ3FzWVpaTURvaUFwVW5aMk9zZkdJOXJTUkUtM1gtci1xb0hmbHkyY0Z3VVlaazJZZW9ZSGlIZGhPSGZ6UGh0TF9IYmRUeS1tdnROQnZzamR6QXBlUzY3aVQwVkxtSERmd0JkRXRKTVpwUWV3SGFYdjZKUzJBandrekE?oc=5", "source": "인디포커스"},
+        {"title": "인천 주택시장, 매매 하락 vs 전·월세 상승… 8월 가격 '엇갈림' - v.daum.net", "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBBN2lRcnhraUVKek9kYThyenlxWV9hTDQ5VTdBaHhuNlZyMWdPMnFiOFY1bjZhb1pMWVBCRlc1eVktcU5TVTBrdHNkSzVWSTQ?oc=5", "source": "v.daum.net"},
+        {"title": "'전세 매물 실종' 예고편 끝났다… 입주 가뭄이 몰고 올 잔인한 3년, 시장 충격파는? - 유스연합", "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBhQ1V6dzlDbnZjaDdvZFpoYXRhS0huRTV6Y2FiQktUUV9ILU1Fa2VBTVc5ekZSM0lpSGlHc0MwYkhoYjNFb2JJTVJ3RXFVN3VGSDdv?oc=5", "source": "유스연합"},
+        {"title": "전세거래 급감하는 사이 월세 3배 는 중랑구…'서울 월세화' 축소판 - 마켓인", "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE03UGtXZENjelFDby1zN3Y5YzRaMDFfMm5rZTA3Q01DRnVDQ0R0YUYzUk5McXhTZHlRSEdlTnRkRm85VDYzdkJhZUVXWVJWOEVFVDdycGRpZmJGVVY5OV9TQXM3SW5QdEFySlZ0UkVKMGNjdHc?oc=5", "source": "마켓인"}
+      ]
+    },
+    {
+      "title": "삼성전기, 환율 하락에도 3분기 역대급 실적 전망",
+      "summary": "삼성전기가 원화 강세(환율 하락)라는 수출 실적 역풍에도 불구하고 3분기 영업이익 6600억원 안팎의 역대급 실적을 낼 것이라는 전망이 잇따라 나왔다. AI 서버용 부품 수요 증가가 환율 하락에 따른 손실을 상쇄하고 있다는 분석이다.",
+      "importance": "중",
+      "articles": [
+        {"title": "\"환율 떨어져도 실적은 뛴다\"… 삼성전기 3분기 영업익 6600억 '역대급' 전망 - dailian.co.kr", "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQZkQ2YjhQTUZsZFB5aVJtY3pGRnJCcy0xcGptMXo2WDg0aFRSdnl1TDNJRlA3S0F1Y0xock1NY05IczV0YXljQmxKM1NmSnk1M3Q4N2EwNEVKTDllY2VKMDNtd3YxSkYwWENXQVFHUkZSZ3N6MmVxOUpPSk1FbnU0MjJxX3hXUl91R25pc0FFUDFFWDdvYWRiQ1ctTWg1b2NuZ3dweWVGdjc3Yi1oeHl1U1JjTFhvLXY1SHJrUjViOURXa1B6Ti1nRW5rMmlYY2l5N0JCUXJNMGI5ZHdnRFkxZnM2QldfbVhmUHROMWxKTVNRZlNJUl9GODYxOHpqZVFmVjNvdHgxeWJ0dmUxalE?oc=5", "source": "dailian.co.kr"},
+        {"title": "삼성전기, 환율 역풍 뚫고 3분기 최대 실적 예고 - 파이낸셜포스트", "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5Ra2VPMTBKWGU5UXNpUWdpcmJQMktwU001b3d2Um9tZG1EOXRNTThDTGJmMlFFb1FtNjh1WHpucDNYX21VdmY1aEN1XzFFLTRLa3ZOM3RRejR3d2M5RTdPZlNTckdoY25DdHcxQ3JjTVZZMFoz?oc=5", "source": "파이낸셜포스트"},
+        {"title": "AI 올라탄 삼성전기…환율 하락에도 실적 눈높이↑ - 디지틀조선TV", "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPeEhia1ZsRXdrREhYZUFXQzNUdFNFTG1aSjg3QXJ3YVlFT3kydDdzQWNhRXJfTmxaS1BDZFFTcElWM3V6SWl3Vi1uSmlZUjFOZmpIZm93RnZLZTktbkVia1o4ZlZ3enM2SHI0a3RBeWhRY24tMzNTbHpJazJjTnV5cDJ4Z0k3UQ?oc=5", "source": "디지틀조선TV"},
+        {"title": "삼성전기, 환율 하락에도 실적 기대감↑…AI 서버 부품이 견인 - 뉴시스", "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1pS3otS1lrVTQtZS1SZDZkNVVKZ1lYSW81YXYyZlpXcnN0QUNScmRsTnU4YTlzcDVnTDduVlhCN2plSEdZSG5IZGN1R2sxN1JFZW5RMXdtZDhEQjhYRkxSOdIBeEFVX3lxTE1Gci1ZMDlHUEhvdGQ3SXNpY1VlZEhZUVZPdXBHbmxtZzJYRldlYWNpSFh4NFg0alhYbmlScVctcTQ4SUxMSjFkOS1QanB5Tm9EY2F6Z1hNWnRuZkw2Y29yWndmQlpnVldhUnRVZUI3UlBrSVhPeE9IbQ?oc=5", "source": "뉴시스"},
+        {"title": "삼성전기, 환율 하락에도 역대급 실적 예고…AI 서버 부품 '질주' - 뉴스핌", "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBUNkdSdTNtOEFFTm1vRGYzLVFjTlRQT0JEUmpsemJlYTFfa0k0RlA3U2pnQVAtbWJwMk9hUDRGUEx0YU40bWU2eTJDRnp4Y3p6cl8xcGhZNnpCSmFh?oc=5", "source": "뉴스핌"}
+      ]
+    },
+    {
+      "title": "삼성SDI, LFP ESS 화재 안전 인증 잇따라 획득·목표주가 상향",
+      "summary": "삼성SDI가 LFP 배터리를 탑재한 ESS 'SBB 2.0'에 대해 UL 대형 화재 시험 등 글로벌 화재 안전 인증을 잇따라 획득했다. 앞서 삼원계 배터리에 이어 LFP 라인업까지 안전성을 인정받으며, 북미 등 ESS 수요 확대에 대응해 2028년까지 생산능력을 50GWh로 늘릴 계획이다. 증권가는 목표주가를 상향 조정했고, 회사는 전고체·나트륨이온 배터리 등 신시장 공략도 병행하고 있다.",
+      "importance": "중",
+      "articles": [
+        {"title": "삼성SDI, LFP 탑재 ESS 설루션 화재 안전성 입증 - 헤럴드경제", "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE00OEJqWFFCYXVjRUk3SEhMd21WOWlwQk9uS2lOY0JWYWp2dkVuQkxGZ0xPVlk5a05TTk9YMXNtTGxqeUNRM2FicW5SajNEY3EzQ3NKNVZB?oc=5", "source": "헤럴드경제"},
+        {"title": "삼성SDI, LFP 배터리 탑재 ESS 화재 안전시험 통과 - edaily.co.kr", "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcHJ4NW5qMXJ1SVA0eVl1TjlzQmVRZ2RlNUo0MWR0dkYxbDhTTk1zV1hxbXM5YUZtdmZSNks3YWdHS3RLU2lydzZTbW5TMGhQVlpJdS1kaXZ3dnE5ck1ZV0pHcVlnSGFfYlh5Y1AtMzJFcDBBRjdaMWN4VkhhWVlSeg?oc=5", "source": "edaily.co.kr"},
+        {"title": "삼성SDI LFP 배터리 탑재 ESS, 화재 안전성 글로벌 인증 획득 - 연합뉴스", "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1EdFgzVTE1VlhHRU5TRktqT0FLekdUeThFbEZpUkN1cV83OG93d2FrZTZNeFZkdC16MGtuRmVXeVFPT3RmTFI1NVlSdDFuX2NYQXhzTGR0cUJNODjSAWBBVV95cUxQSlQ1dXB6T0ZXWDJaczliNkdvVFJRRkNVOE9XRWpfWnIyc2t3SDF2Nk5Wa2wyWDlES2JpME12M3czQm5pV2RTcl9SaHB5cGs4N0tsMC1FaHdiUkFBZEV6VEg?oc=5", "source": "연합뉴스"},
+        {"title": "삼성SDI, 북미ESS 수요 대응...'50GWh(2028년)'로 캐파 확대 - 금융소비자뉴스", "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9uZy1Fb2pleGVxQ0JUUFVJcUJFdlFlUEVqQnZnSUtHcHV1OU40bmxaMnhPRmNkbjlwTEhaTFBtSTRaWU5fNXlxYU54c0JDN0pCdnN0NzNwbjN5eXhyelF1b2xQd2x6ZlF5REE?oc=5", "source": "금융소비자뉴스"},
+        {"title": "삼성證 삼성SDI, 북·미 ESS 증설 가시화…목표가 64만원으로 상향 - 아주경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBMeDNGVHI4c28yYlhRaWs1ZmxUblVaUnRlb2d1Ulltek0xVlJrc0d1MUVhYllXTXJ5dmFIV01QZ19RenlmQ3FXSkV5aDMxX25iRGdLY0RwSXpkQdIBWEFVX3lxTE1tWkJrS3YwMVFsMTB0a2ZFVlI0LXRWYU10NldsNVV2Q1pwQ1RrdzdIMDh1T0o0RmMycGRYd1djbWJUVlI0OGFJVm9SWUtmZXFlZ29rYkRJakU?oc=5", "source": "아주경제"},
+        {"title": "삼성SDI, ESS 판매 늘려 실적 개선…전고체·소듐이온으로 신시장 공략 - 메트로신문", "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5idGJHWjFPNmZGNEhtSFJKRUFXSDJLVk9GeFhuSXhET3hTeThLVkNzdHl5UE4waTdBZ1huNk9oam1XVUpXTnRvUFMtckF0Y2lVNjJadjFzOHZXX2ttZEdZZA?oc=5", "source": "메트로신문"}
+      ]
+    },
+    {
+      "title": "10월 아파트 분양 3.8만가구…수도권에 65% 집중",
+      "summary": "10월 전국 아파트 분양 물량이 3만8000가구로 집계됐으며 이 중 약 65%가 수도권에 집중될 예정이다. 특히 수도권에서만 2만4000가구가 분양돼 전세난에 지친 실수요자들의 관심이 몰릴 것으로 예상된다.",
+      "importance": "하",
+      "articles": [
+        {"title": "10월 분양 3.8만가구…수도권에 65% 집중 - mstoday.co.kr", "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBfTnNGOGg1THEtZzlqZFdKWGx6S1pSSjVuYmxxVlBJclNjTTY5T0tZa1lkMHRmaGZjTXpfNUN0bl81Vk1EZUZlM1FOS21kXzhfUmhIVzAxRHBZRmt1emctOERXY2FYa3F6TTJSaA?oc=5", "source": "mstoday.co.kr"},
+        {"title": "10월 아파트 분양 3.8만가구…수도권에 65% 몰려 - 더팩트", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBMVy13YmZPTVlXa1FtenlfMmlyczlqN3hwemdLdlNodUZzWGs3MC1oZFR6YW9qRHIzeUJEREs5S3RxbUEzRmluS2VDdU5fa2pLYWFROG5qNUtlUdIBVEFVX3lxTE8zd01sYXk1RWtUVzZJY3hiNXNyVkIwOEZlaUduaHR0cEZsLVF6eFRLVVN2em91M2pnODRhenRMaHhFTFhaYWYtODlUVEJWOGZIZTc3dw?oc=5", "source": "더팩트"},
+        {"title": "전세살이 지쳤다면…10월 수도권에 2.4만가구 분양 쏟아진다 - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE82eW9TZmFETGFuX2hDdy1PYndoLW4wVDF0YXYyMFlSNlZHYXpYcGROb3pxWFJMNVJKUFVKU2JPNXd3NEpfclVSRWpWT1pQYzRmUldBOVkxZ0pFdw?oc=5", "source": "한국경제"}
+      ]
+    },
+    {
+      "title": "부동산 전문가 70% \"추가 대책 필요\"…전월세 시장 안정이 최우선",
+      "summary": "부동산 전문가 설문에서 응답자의 70%가 추가 부동산 대책이 필요하다고 답했으며, 최우선 과제로 전월세 시장 안정을 꼽았다. 서울 전셋값은 연말까지 3% 이상 추가 상승할 것이라는 전망이 우세했고, 전문가의 99%가 연말까지 서울 전셋값이 더 오를 것으로 내다봤다.",
+      "importance": "중",
+      "articles": [
+        {"title": "전문가 70% \"추가 부동산 대책 필요\" ... 최우선 과제는 '전월세시장 안정' - Queen 이코노미퀸", "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9odU5Ydkd1MWNBRHlFNlQ4bmU2dVFnQUVvQzdfR19ORHRPSFpMRVg4S0E4b1NVLVkzdlVMZkh0LXJiZk5nZEFoQUd2S1l1VC02a3loLXlWRUlCRFRiWnJUd0JKOWt2aWJFeGc?oc=5", "source": "Queen 이코노미퀸"},
+        {"title": "다음 카드는 '전월세 안정'…전문가 70% \"추가 대책 필요\" - v.daum.net", "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9odlVyZzI0NU85NTc1YzN1aERLM2tOVU9lS1NITVVTMTIyMjc5djdHTGxWQmFlT0J4MmFOckZZTTJDa0t0RWpRT2Nia2tkV2c?oc=5", "source": "v.daum.net"},
+        {"title": "\"수도권 전세, 연말까지 3% 이상 강세…집값도 밀어올릴 것\" - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1lanhSSHphWExvMGlscUFFZkNyS05PXzdQbTVkdE9KdUJUdklNdERrSTkzMVVyVmJnNG9RbFlVZmFmZURjV3ZTTmI1ZFNHbE1rR29JbnhjMTUxUQ?oc=5", "source": "한국경제"},
+        {"title": "부동산 전문가 99% \"연말까지 서울 전셋값 더 오른다\" - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE51R1p5VHBpa3ZKSHVBdjJQXzdTemItaDJjSk1XMXBPVWgtaG5qNUpNWExKaEg4QndJTkVJWjh3Ml9LVW9ZSUJ5S3pJRC05S1hnelVfbjNpYTg4UQ?oc=5", "source": "한국경제"}
+      ]
+    },
+    {
+      "title": "이형일 경제부총리, 한은 방문해 금융·외환·부동산 시장 공동 점검",
+      "summary": "이형일 경제부총리가 신현송 한국은행 총재와 만나 채권·외환·부동산 시장을 함께 점검하며 시장 연계 리스크에 선제 대응하겠다고 밝혔다. 새 경제팀의 첫 행선지가 한은이었다는 점에서 '긴축 속 성장'이라는 정책 조합을 맞추려는 의도로 해석된다.",
+      "importance": "중",
+      "articles": [
+        {"title": "이형일·신현송 \"채권·외환·부동산 함께 본다\"…시장 연계 리스크 선제 대응 - sedaily.com", "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE01Y3VoOXh2MF9wYzZiRDBTZ2RFNGNzQ2E5Qmd1d21GZDFTVVZFVG9qeWFBRFJpZ1lDUnhIZmdHR0VoeWpsR2RNZUlMZ3dKNTNQLWc?oc=5", "source": "sedaily.com"},
+        {"title": "이형일 부총리 한은 방문…금융·외환·부동산 시장 공동 점검 - dailian.co.kr", "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQSDZ4NTBhd21UalVici1xM0hfMFlZeXBJUmxmUnlvQmdzNlk3S1RMZWZNNko2NFFyUUNOUzlGeXFpaXVtTEtSZTIzRm16TmJGOVhnbHJ4ZTRrWVZwVE9UdnlFTjluSFNrX2R4R1IxUTVHMVdZNFRpeEQyYTZSeG5uVGhvU2o0RmJERjFGU21KaUFWM0JMYUE2TlF3azVXV1ZSMXhFSm45Q2w2NVZfNE83VDBiX3lfQnFfanRHV3ZmTmpkd0s3b1dSaEp0UFpDREp4Z2czT2JKanRUa0VFZHhPbUV4bjZiUV9iR21YMHBTSW0tZDlOd005WFNleXRqYlowcS1CckE1ZU9OR2V0SzJNVElVRWMzaFE1b1lCcFhFM0lhRXZ5OHl3b2N0YTZWQQ?oc=5", "source": "dailian.co.kr"},
+        {"title": "새 경제팀 첫 행선지는 한은…'긴축 속 성장'정책조합 맞춘다 - 대한경제", "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9oWTBDZjNaTmU3Qkk0UHlMUFRKaHFFMFc5WERRUmZDZ2E3cW1qN0VMQkJLUWdhX2dHa2ZRMlIzSkJxSDVYNzRhWng5QzFVUWE5V3QyRV83ZGJHNmVsWEJrNndwYWtpRk13Tzk2bXdSSHFPRjRx?oc=5", "source": "대한경제"}
+      ]
+    },
+    {
+      "title": "올해 재테크 수익률 1위는 코스피200 ETF, 예금의 40배",
+      "summary": "올해 재테크 수단 가운데 코스피200 ETF의 수익률이 80% 안팎으로 가장 높았던 것으로 나타났다. 이는 약 2%에 그친 은행 정기예금 수익률의 40배 수준으로, 금이나 비트코인보다도 높은 수익률을 기록했다.",
+      "importance": "하",
+      "articles": [
+        {"title": "\"금도 비트코인도 아니었다\"…올해 재테크 수익률 1위는 코스피200 - v.daum.net", "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5tdjlWV1ZBZDEtNWhhM2xwQllJbGYtazN4STc1NjFDM3VRQXBJOFZxY2tjSGZWYldwOEp3eFJYTDZOZ2hrUUFTNVRKeEpLaHM?oc=5", "source": "v.daum.net"},
+        {"title": "올해 재테크 수익률 1위는? 코스피200 ETF - v.daum.net", "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5HSWdjUjdUVnRBRDM2QjNGWi1HVndRUTR0THZNdXVLenlMWGdKdzZwQ3RvRjQ5dHlwN1lPcmpycHRFNE1wcWs3emlpN0xISVE?oc=5", "source": "v.daum.net"},
+        {"title": "2026년 재테크 수단별 성적표 보니… ‘코스피200 ETF’가 은행 정기예금 40.6배로 1위 - v.daum.net", "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5tb2JvWkhjWERGMnRKTUZzMlZMamNuSnVoNkJ5aEs2M0lMNWRPbEswTERZTW1mVzZCRnZaenJpaDhON2IxLVpDcVowd3VHZzg?oc=5", "source": "v.daum.net"},
+        {"title": "예금 수익 2%일 때 '코스피200 ETF'는 81%…올해 재테크 수익률 1위 - 뉴시스", "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9aMmhLNVJhMEFnT2NDbXRKWklQNmRSbjM4Z25yaExzdFNnRWFxV0tfMGRLSDkyRUtJaUE5eXdQaXY3bzlPVnZwSjA3bm9zaklwYy14OFBrbTdRUkNMU0hKelhRZHFET3VFVXYxeTBuU1pRMnVoV3NPY9IBeEFVX3lxTE9aMmhLNVJhMEFnT2NDbXRKWklQNmRSbjM4Z25yaExzdFNnRWFxV0tfMGRLSDkyRUtJaUE5eXdQaXY3bzlPVnZwSjA3bm9zaklwYy14OFBrbTdRUkNMU0hKelhRZHFET3VFVXYxeTBuU1pRMnVoV3NPYw?oc=5", "source": "뉴시스"},
+        {"title": "올해 최고의 재테크는 '코스피200 ETF'…수익률 80.76% - 부산일보", "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE02OVYzSzJvNF9YbzNBclh5Y2xuNzh6YzFjWGVEb0lsZndQYkhBM1FaQlRMOHR4M0o3MkI3bG9KVVNHa0RuUEJnbFEwS2lTMVdrWXUwbzBGaTR0TklqUnQxWnlMZWhGY2wxbldXWjBzUGtHR3VPRFRQcQ?oc=5", "source": "부산일보"}
+      ]
+    }
+  ]
+}
