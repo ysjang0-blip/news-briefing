@@ -1,0 +1,131 @@
+{
+  "date": "2026-10-02",
+  "topics": [
+    {
+      "title": "마이크론 훈풍에 코스피 6971선 회복, 반도체 랠리",
+      "summary": "미국 반도체기업 마이크론의 깜짝 실적을 계기로 삼성전자·SK하이닉스 등 국내 반도체주가 강세를 보이며 코스피가 1.95% 급등해 6971선을 회복했고, 코스닥도 4.48% 급등했다. 전문가들 사이에서는 한국 메모리 반도체가 마이크론보다 상승 여력이 더 크다는 분석도 나왔다. 다만 10월 코스피 밴드 전망은 증권사별로 6000~8500선까지 엇갈리고 있다.",
+      "importance": "상",
+      "articles": [
+        {"title": "[증시 시황] 'K-반도체' 훈풍에 살아난 투자심리…코스피 6,971선 회복·코스닥 894선 안착 - CBC뉴스", "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBWZVFOamhnZ2FNSEZFNWRnSmJyZDNtVkN4SVFTSlFRV2J3WTJ5X1FMZ0kxckVic3FMY3lVZ3BlVW50emdjbGt1Wk1aenV6akJjTXVrcEdtbEEtdnRDbjA5WF9XLWpuaXNL?oc=5", "source": "CBC뉴스"},
+        {"title": "코스피, 마이크론·반도체 수출 '훈풍'에 상승마감 - 베타뉴스", "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB0Vm1SY1JsQUI3X2ZtRG1hS1pOcEJ0NkZ5ZUVMcVlnWXJtOTNxd0xwQU5MNnM1SXRPTGRCajhHTWM1UjZaSzZPbFdRYnBlMTNrT2ZoREZ0U3ltOThPV2ZFVUZ4RXI?oc=5", "source": "베타뉴스"},
+        {"title": "마이크론 훈풍에 코스피 6971 마감 … 삼전·SK하닉 상승 - 세이프머니", "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBNd01NWXhIaFppNHA4SU5Gd20zWlpqREpPUVp5VUpzMkJVVUgwOV8tdjFvdjlaTE4xSVFfeE1fSmVzZnlfTHZMSkdnR0JhODM1QV9LM29BbmR3QTdqR0NBUC1TUUJYb09WM3ZKSFh3?oc=5", "source": "세이프머니"},
+        {"title": "반도체 호재에 코스피 4일 만에 상승…7,000선 턱밑 안착 - M이코노미뉴스", "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB3UERJS0NrNnFUQUVXQl9IcWZsMnBrVXRwdnBDUkw4LU1ZTGphTlVwWGRERkxQTlJBZlc0VWZVTTVneDFvV3BiZlZ6dFBBWDQ3ZjhSZVpadlEwNERfcVVVeHZ6U3QwQkU?oc=5", "source": "M이코노미뉴스"},
+        {"title": "[마감시황] 코스피 1.95% 상승 6971…코스닥 4.48% 급등 - 자본시장뉴스", "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE10R1M1T2dTLXJPWWhWeGtnc2Nycm9uREVsa2E4WUNXOWZzSlg4eHZVc3ZadUV5UlVteXdBeGJkTlJVTnNsRXBtVXpsazI4clZPQS1zRi1MZnFLMzFub0ZSOVd4RDh4ZVE?oc=5", "source": "자본시장뉴스"},
+        {"title": "\"마이크론보다 한국 메모리 상승 여력\"…반도체·소부장 '불기둥' - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA2U2psd20xQnVtcVpsTlRFemNOX09vSTNCOTM2UHhXRmthMDBIYjc4QzJ1bVpIdEdtTFNpWWNYYUZGQjNEdjNUUG5rTVFMcmJUY25pcTIxSDFrZw?oc=5", "source": "한국경제"},
+        {"title": "코스피, 2% 상승에 7000선 회복 눈앞...SK하이닉스, 삼성전자 상승 VS KB금융 하락 - 이코노뉴스", "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE44c3FtaGZMbWU5MkJjamFEaVkyMFl6ZVpSOFRNN2hWZGdKTExFMXJfU1BZalJFb2Q3ejlaSlh0UnBnOU5Vc3I0V01SS0hDS29WZFZ1VEhob2lIQXpoNjZidnVLWVFESEZIRk5IWEFzYw?oc=5", "source": "이코노뉴스"}
+      ]
+    },
+    {
+      "title": "美 고금리 장기화 우려에 환율 1360원대 근접",
+      "summary": "미국의 고금리 장기화 우려와 프랑스 재정 불안으로 달러가 6개월來 최고치로 강세를 보이면서, 원·달러 환율이 5.6원 오른 1358.4원에 마감해 1360원대에 근접했다. 다만 미국 금리가 오르는데도 원화 가치가 과거처럼 뚜렷하게 약세를 보이지 않아 '환율 공식이 깨졌다'는 분석도 나온다.",
+      "importance": "상",
+      "articles": [
+        {"title": "美 고금리 장기화 우려에 달러 강세...원·달러 환율, 소폭 상승해 1358.4원 마감 - 베타뉴스", "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0wTElzTEJ2RjROWV9sSDZHMW9tWHdVUkN4WDB5clE5bmxnMVl3S3VYeWVXUURLZjNWLUNkV0ZVWm5BY0pwbjlESHdPSkFnTmFILWU4RjU0Q0Q2TjBCTDlJOUd2czg?oc=5", "source": "베타뉴스"},
+        {"title": "[뉴욕환시] 달러 6개월來 최고…프랑스 재정 우려에 안전자산 선호 - KB Think", "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9zSHRxN2h5d2d1YWNLQWZuQmYyTUVmU3ZQa3NSUzMwZ2k2ckJRMWZuNk5CUmJtWHF2Y3JFRHhnME1HTUU5TS1kclBIbHlUaXZXSFM5RUNFMkxlb1JvaTB1UUFieUJzVVNna1BwOEE4b0p1QQ?oc=5", "source": "KB Think"},
+        {"title": "美 긴축 장기화 전망에 달러·원 환율 반등…1358.4원 마감(종합) - 뉴스1", "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBjRGxPOGRTMzJPSFpvV3ZMVUJQMmtpRWxTNTJsN0RTWUtrRF9NSU5kUVl4Nzd4QlhYdE50eUZJR3Z0ZmVzTV9MTjNvdDNWcWJyUFZzNGxzS2ZOc3PSAWBBVV95cUxQb2JBSmE3a1dseVBSRnphWVY1UmI1QkkzVmJSS1E4YS1TMnBDNG9pREFMUWg1MC0yV3NqUWhMSXFYeEpEU3U1ZmFGaVM4b3BkMGtwNGJ4MUh6eGk1SDJfb1c?oc=5", "source": "뉴스1"},
+        {"title": "[속보] 원·달러 환율, 5.6원 오른 1358.4원 - 조선비즈 - biz.chosun.com", "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWW1pRjZpaXRxRFU2akpqYmpEcE9naUd1SlgwaUlEbDZWTkFTR0xSc0FHOXlBWk04eGFhV1FqR3U1LXRIcDJJWktLMkxscEZySmI4dWl0dUsxUzNvQlFmVV9RLXRpQjI2MjdsY09mOVRRTE11a2FtZ25pM3lUWmplRXJvVXliUdIBmgFBVV95cUxQTllnYk9vNTFBeWVJMlY4TThLTkpqamhhVmt5enlJR3R1cFpZSG1FUE95SmhWWHk0YVBZYWZUYmVfVERJaFRQc3ZFWmUwOHlwTVJmMlRLa2duQlBYMHdOc1dzSFl4dm93UFBCZ2ZoMWM2RDAwT2Vsdk5sZ1FQZFJjTG9zNUtFSHdWaGVrVjJaV2tlOUw0aFdsOVN3?oc=5", "source": "biz.chosun.com"},
+        {"title": "환율, 美 국채 고금리 장기화 우려에 재차 1360원대 근접 - 글로벌이코노믹", "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcHVac05OUDNoSmxDd3pNVXZWUWxvRVpNV0NsR0ZrTHN0STItdlFDUjhWN25zaWdKSVFwZkhLSmJ6TWZXd0tOM3A2S1NoZ2V5MW5kU21FUDhDUF9LOW5UYVJSMUJDSHhxSFNGUkJqUVNXY0NzQm4ycXhXUUxUR3lDZmREbXY?oc=5", "source": "글로벌이코노믹"},
+        {"title": "이상한 환율…'美금리↑=원화 가치↓' 공식 깨졌다 - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5X25YYmZMc09UeDM4cGlVcmMzd2lSSnZVNnlGOUE3YlMtd3hfY1BYNkJOMVcyVEhPelRJakw4LURGYnotMGVsTzFfVGY3WnptVE91aU1YdjlpZw?oc=5", "source": "한국경제"}
+      ]
+    },
+    {
+      "title": "서울 아파트값 86주 연속 상승…강남은 급락하는 양극화",
+      "summary": "서울 아파트값이 86주 연속 상승하며 문재인 정부 당시 기록을 넘어섰지만, 강남은 오히려 7년8개월 만에 최대 낙폭을 기록하는 등 외곽 지역이 상승을 주도하는 양극화 장세가 뚜렷해졌다. 대출 규제와 피로감으로 '상급지' 선호가 식었는데도 공급 부족에 따른 수요 억제책만으로는 집값을 잡기 어렵다는 지적이 나온다.",
+      "importance": "상",
+      "articles": [
+        {"title": "서울 아파트값 86주 연속 상승…文정부 기록 넘어섰다 - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1xV1pVdXBGdnVGaVlTNlFQeXBCb1VOZ0V1bjFsbUFqTFdhWGJaQllVNEdfVXg0azBlRE92WmZSZDNTdDJYd3k5dmNwcDFfYTF4ZW9WZXFzNkdFQQ?oc=5", "source": "한국경제"},
+        {"title": "[지식의 발견] 서울 집값 '역대 최장' 86주 상승…김인만 소장 \"이런 부동산 시장 처음 봐요..전세도 억울합니다\" - news.sbs.co.kr", "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1veFhYdHJiOTZDVTI1ejVIR2pPVC03d1BKb0ZCZ3E5MzVrSm5OZ1RvYTRHVG9UQkdMdHM2TkhDSXpZUjBLQmxJR3dpRHg3NXZkTmhiZWtXZ1VlNWU1RV9oV01TajViWjZ5TUHSAWZBVV95cUxON2dPNzZrZUppUEJJd3pXdnA1N2x3NHVGWEw4dHllNGFNcmVZbTcwTlBrYkx0MzQxSGNtWi1YMWF5NGlzVG5CaFVOU0owVTNlbTRPLWRHRHdxV1ZDSnZsTDItWUdIS2c?oc=5", "source": "news.sbs.co.kr"},
+        {"title": "서울 아파트값 86주 최장 상승인데…강남은 7년8개월 만 최대 하락 - 마켓인", "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBTMVhNSEM0bUlMQUcxZzd5MlJDVC1Bc192cGJzdml0aklGTkVzdWxaOFhYSVNfaFlDWUg4Um91V0hGTHFhR0RzVGU5em9rcHhoSmo0V1htdE1UTzZuWjgtS0RxRE1rZW9Ca3NaVjF0UXVLaG8?oc=5", "source": "마켓인"},
+        {"title": "서울 집값 '역대 최장' 86주 상승…과거와 다른 '외곽 주도' 장세 - 세계일보", "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9xb3NBVEhQcjJpQmtwYVRPR2tFRTdOSmtUNGZNb1p6LVJHNGExNEVsZkZzY0RPTXpvQ2VjSm5TeVU4QWVKeS1LRmtKdlJkdTJNaWMtbU01QlfSAVRBVV95cUxPWmR4bk1hNHM4SEtpRDd0UmxtWUluVHp6VlZxU3ptUVl2TGF3V0pwSEJnZ1VBd0FRWF9OeDA5QzhBa08wTE9fWENZLUs1WHZDa1BTSFI?oc=5", "source": "세계일보"},
+        {"title": "공급난·유동성에 맞선 수요 억제책…서울 아파트값 21개월 연속 상승 - v.daum.net", "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBveVZ0X3Z5d3FURVNmVDQ3QTJ2YkxyQUhpRFNYdVZNUUpVaXdZRnZRS0lTWDFWcUVOUHpGZ1hic3BfRUUxRkJhalh4bU5wUms?oc=5", "source": "v.daum.net"},
+        {"title": "'4월에 팔걸 그랬나'…37억 넘던 강남 아파트에 무슨 일이 - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5SbW5aQl81cjRNMVBMblhORE5KVk9fak84YkY2S0M1VUlYcTVmNnJWMDA4OG9VZ1ZoWTNFOC1BZnFEWTBKSVN3Ulc5X1hzRzJvZ1J6UFpXMmFNdw?oc=5", "source": "한국경제"},
+        {"title": "대출 규제·피로감에 차갑게 식은 '상급지'… 서울 집값, 상승세 둔화 속 양극화 심화 - 청년투데이", "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9PNVNLRk9oMVdvc09tZDlUZ19Ud3ItMm1yQTVzTTBGUE9zT2szWV9UZnd2clBsTnFERl9hTXRyMFBQQmhVc003NVB5Mmo0UHQydFJMZFNyX2xyUDZwdWpTTjlQUUF5WWJLckE?oc=5", "source": "청년투데이"},
+        {"title": "서대문·노원 강세…강남은 0.56% 하락 - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE14VlNsaDVEaGhhbk5fWm5SclFOTlpyUUQ5dkRQOFZMTjhDMmJ4c3ZueU1KRE02TTZ5WUhSRUxJbFc3YjltTERQWFJiaDM1NjdBMTBqRUhTV1BMQQ?oc=5", "source": "한국경제"}
+      ]
+    },
+    {
+      "title": "가계대출 금리 줄줄이 상승…주담대 7%대 눈앞",
+      "summary": "기준금리 상승 여파로 주택담보대출 금리가 7%대에 근접하고 신용대출 금리도 6%를 넘어서면서, 지난달 5대 은행 가계대출이 6개월 만에 감소 전환했다. 다만 코픽스는 석 달 만에 소폭 하락해, 대출의 기준이 되는 지표와 실제 체감 대출금리 흐름이 엇갈리는 모습도 나타난다.",
+      "importance": "상",
+      "articles": [
+        {"title": "천장 모르는 가계대출 금리…주담대 7%대 넘본다 - edaily.co.kr", "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOb2ZxRXp1eERia2pJNHlzb0FVbmJTZnhLRUVoS1lNSEhocFI0UDFtN1k2eHhxUzctUnRxTDQ5enNEcWJqbmtyc0NWV0IxRFc2OWI3ejU3RDR1Sk5IUGswd2ZGcVZ0R3NtSHFGcVBYUG54T18zYWxQdFJ4NXE0T0FjOQ?oc=5", "source": "edaily.co.kr"},
+        {"title": "지난달 5대 은행 가계대출 6개월 만에 감소…'빚투' 꺾이며 신용대출 1.3조 줄어 - 조선일보", "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNencxQnZxZEZPNWl0R3ZjX2lxZm13WWtaLTVxT0RfcUwwZGZmNjBYVFlJVzFTeGdxa1NlZVVoSHk3UVFfS1VTS0lnODdEdkVWUk9FT29mQnBpWXFfb3I2d3NSY1YzcmFnZmY3ZUE5QUxOb0F4ZXphZXNPdWIxR0Rtb05DaHZ6b3BfMDQxMmp3?oc=5", "source": "조선일보"},
+        {"title": "금리 뛰자 신용대출 1.3조 빠졌다…가계대출 6개월 만에 감소 - 메트로신문", "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE90N0hiTG9TM3o3MEFDNlNTenluWFlOWk03V2xWODRGMEdEWG9ZczNHektuemtTcFc3MVdtcDVlMUpQSlZjMlhuWVI2Z19mUHc4clZ0QVh4aGpwTXdNb2hVbg?oc=5", "source": "메트로신문"},
+        {"title": "넉 달째 오른 주담대 금리 4.66%…'레고랜드' 이후 최고, 신용대출도 6% 넘었다 - 녹색경제신문", "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1NbUZKeF9aQldWM0NpZmIyWl9PX01YUmd1Nnl0X2tQcnUwaDR5RFVqNzhlOGt1Vk9oTlNUY2Y5MUlHamkxS3ZQdkF6V1o2akVOU3M5aUxMTC13b1o4WXR4bU9zd3hfU2ZW?oc=5", "source": "녹색경제신문"},
+        {"title": "중기대출 금리 0.44%p 상승…이자부담 현실화 - edaily.co.kr", "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQYUFHWEZEVU5Ka28tdVprMVZYd1k2bTBsSGFpMU9mMkdRUHM3aTFaeHVlbkNPX3NoRklpNkFUUnZOeE1XX3pTT2o1VWM5YndfT05fLWhCRjNHYUlDaE1qOXJfRnZnRTNCbnZWU0EzN0E5OXlHUzd2clRiVXBCQk5sbg?oc=5", "source": "edaily.co.kr"},
+        {"title": "주담대 변동금리 석달만에 하락…7월 코픽스 0.01%p↓ - 매일경제 마켓", "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9zZXUwaURVRXA0cXJWZVhwSFRBb3hUTjNDTTQtZDVGaXlmblNXQTRPRGtLbHpqcl9WRURoS1luT1l3S2NHVG8tampIUWM3ZE5t?oc=5", "source": "매일경제 마켓"},
+        {"title": "\"주담대 상단 내렸는데 왜 비싸졌지?\"…최저 금리 5%대 시대 - 에너지경제신문", "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5RdmRPS0FmQ3pNNmdTeVZwUmdob0hCTE1kNEtiXy1ya0JnaDcwZC1TeDE4U3puQXRkaGdnb3NUVXZpQ1J1LThnZlRZN2pIZ0pkS0Y4QWJodDA1a2tQcXc?oc=5", "source": "에너지경제신문"}
+      ]
+    },
+    {
+      "title": "2000억달러 대미투자 협상 타결 1년, 수혜주 들썩",
+      "summary": "14개월을 끌어온 한미 대미투자 협상이 2000억달러 규모로 마침표를 찍은 지 1년을 맞아, 원전·가스터빈 등 수혜 업종을 중심으로 관련주가 들썩이고 있다. 다만 코스피 전체에는 중립적 요소로 평가되며, 실제 성과는 결국 '미국에서 버는 돈'으로 증명해야 한다는 평가가 나온다.",
+      "importance": "상",
+      "articles": [
+        {"title": "14개월 안개 속 협상 마침표…'미국서 버는 돈'으로 증명해야 [여기는 논설실] - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE01Tlk3VTBwSzZ1OW02MTNTazQ4SWhOSW1PdWFPanlUWjU5dUwtMGdoTjZERzlTbHhYTWVjQ2EySjNESE5SaDFXQ3p5Q2hwWk9DeUk0dFZaTlc3UQ?oc=5", "source": "한국경제"},
+        {"title": "2000억달러 대미투자 수혜주 들썩…韓·美 웃을 종목은? - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA1QWdKQ1F5UTdmem91VTMwSlctM0NBeVpxbVI3bHZ1SUpFLWJudkppZWp5c1lKMTQzUHVkWkxfVWxCRkJNdlc5TFZ0SVdRSzZ0eERFMWx4WHVSdw?oc=5", "source": "한국경제"},
+        {"title": "[기고] 대미투자 협상 1년…위기 속 국익을 찾다 - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9URFNhNS1ZVVJKTG42b1daeXJaMEhmZ3FQZlNBM1RzeVpJak1CQXk3RHNwMHdRR0F0Y1M2ZFRuUHRjal9sdUl3MUhOZklrRmNUM1BxMFhJM2ZNZw?oc=5", "source": "한국경제"},
+        {"title": "대미 전략투자, 원전·가스터빈은 수혜...코스피 전반엔 '중립요소' 까닭은? - 파이낸셜포스트", "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE41Z05UbkZ0MDBpdTJBMDgtTUI2RkMwMURBWDZWSUVSVUY2blUwR3VlVEg5cUVkNlVOUlM3YmhCbkNDOG1OQXdMRy16aHpMZV9QZzdkNnZUNU9LM1RpMUVESmsxWG1TTk5xaF9qd3gyVkdmSjR1?oc=5", "source": "파이낸셜포스트"}
+      ]
+    },
+    {
+      "title": "美 연준 추가 금리인상 여부 전망 엇갈림",
+      "summary": "미 연준의 추가 금리 인상 여부를 둘러싸고 전망이 엇갈리고 있다. 골드만삭스, 전 댈러스 연은 총재, 제퍼슨 부의장 등은 추가 인상이 없거나 동결이 유력하다고 본 반면, 미니애폴리스 연은 총재는 올해 한 차례 더 인상할 것으로 예고했다. 실업수당 청구 건수가 예상보다 적게 나오면서 금리 인하 명분이 약해졌다는 평가도 나온다.",
+      "importance": "중",
+      "articles": [
+        {"title": "前 댈러스 연은 총재 \"채권 시장 앞서갔다\"...금리 동결 시사 - 코인리더스", "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBJQ1VFZldMZG8zVlBNWG8xc2xyTEcyVHBoYVJ4S2VLRjUycVhpM216eEFnbzBNV1M0OEU4WWdYeE5zYXVHN0lwWWZB?oc=5", "source": "코인리더스"},
+        {"title": "제퍼슨 Fed 부의장 \"추가 금리 인상 판단에 시간 더 필요할 수도\" - v.daum.net", "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9Ndk5Xd2kweUp4aGs2bEtGSEpqeENqdTNvUkgwNEhMa19XTElYQ0pPSXI0b3JRMWwwb0kwR2NjM3dEeFFBUDM4R0pwWDBpX28?oc=5", "source": "v.daum.net"},
+        {"title": "카시카리 \"물가 잡으려면 금리 얼마나 올려야 할지 몰라\" - edaily.co.kr", "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeXVKSkM4RU1zWlR5MUJ0VUFVc1pVUnF3T0R2UnA0WVlPX0lHa3ZQdUtJRDloNzR4ZS1Ld09vRHhxR2FkSGsxdUEzNjJPSHcwUXdoNFFwZ3owSHIxNnRoai0tYUlKZHMxMnVuTG1aQ3Brb0RIMThEa0ZyX29jdnc0aQ?oc=5", "source": "edaily.co.kr"},
+        {"title": "골드만삭스의 파격 \"美 추가 금리 인상 없을 수도\"…한은은? [분석+] - 블루밍비트", "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE54VDFwRU1pNnk2a0xVQThoT2Y1dTRZSlFISnNoeTRLb1BNMTBRVi1OOVYyWjVtLTJ0ZDF2WW1PcTNsbGJrVzhaNVo1MXcxci1S?oc=5", "source": "블루밍비트"},
+        {"title": "미니애폴리스 연은 총재 \"올해 추가 한 차례 더 금리 인상\"(상보) - KB Think", "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1vbHpUMjZadVhQZy1kTXJNc1RrX2dIN1ZkSXNZRUowQTRaR2xJTlBHeDZxdGU3aktZd1N6RkdFRzlmSE00UTE1MDBJZ3Z2a0o3WG5OSk5iYkx0Ni1sal9mb3dESkUzN3huWUlIb0pFMTVQdw?oc=5", "source": "KB Think"},
+        {"title": "美 실업수당 청구 건수 예상치보다 적어… 기준금리 인하 명분 줄었다 - 조선비즈 - biz.chosun.com", "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNzh5S1YtWmxpWl84ZzBtMkRVbDBhOF9YN09LXy1jM1BUQjFheUh6SzBJdThKV2w3TV9LSDZ2NmttZkVDUEl2NEFmelhvQk9uSDV1aG9NTTFIbnhrNzdNeGZQalRRRFFQVnBWMHlvb3d2dWlVcXpITnZFdnJPQlJKc2pmQ3I3UdIBmgFBVV95cUxQYXk4cEotamxoYjVlb3RTWVlpaFJEaVNQSy1QekIyX2VTSjhEeDJhZGZPZVZ2OU9XYWZ1NnZOT2h5SC1ENlVWVU16Yl9rdXJzT3JaUlpRVTA2OUNZa3Mxek5FT3hjcFVLT2xzbkt6RDNqTC1Od0lzM3ZiRElidjEwY3VLaUJwcS1qYmlNclQ0REROdC1pc2tBc3FB?oc=5", "source": "biz.chosun.com"},
+        {"title": "\"연준 또 올린다더니\"…美 물가 둔화에 금리 동결론 급부상 - 에너지경제신문", "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE91YTU3WU5nLUk4NWs0ZG5EckdkWkQzU01OVXFhWjZlQnB5REctcUQxMllXVjM3SDdIUEhQUHNpVWJqT19UNko2SWpRR05sWmJ2bjlBMWw5b3dxNnc?oc=5", "source": "에너지경제신문"}
+      ]
+    },
+    {
+      "title": "일본은행, 10월 추가 금리인상 시사",
+      "summary": "일본은행이 물가 상승 조짐이 뚜렷해지면 금리 인상 속도를 높여야 한다는 입장을 밝히며 10월 추가 인상 가능성이 커지고 있다. 9월 금리회의 의사록에서도 기조적 물가상승률이 목표치 2%에 근접했다는 평가가 공개돼, 한 달 만에 다시 금리를 올릴 수 있다는 전망이 확산하고 있다.",
+      "importance": "중",
+      "articles": [
+        {"title": "일본은행 \"물가 더 오르면 금리인상 속도 높여야\"…10월 추가 인상론 - 헤럴드경제", "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE90OHhtbktCVjgxRDFTTTViWWl2WkdHd1RRUmtqWnV1SzVyc3pwYlgxeW92bFI3X1VsZTRNdFoyXzE5VHhqdHptajQ2aGFxbEhaUXV4bUh3?oc=5", "source": "헤럴드경제"},
+        {"title": "日銀 \"물가 상승 조짐 보이면 금리 인상 당겨야\" 회의 내용 공개 - v.daum.net", "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE13Q19tVHVFcWo2MUlHR3kzUHBMVjZzZnVXLVI5Q0Z1cUkzVVo0OXJ0QWlQLUk0OXptTUNjeDk5MjVMalNJOVhOYlA4a293V0U?oc=5", "source": "v.daum.net"},
+        {"title": "BOJ \"기조적 물가상승률 2% 근접…금리 인상 적절\"(상보) - 연합인포맥스", "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9nSTlVYTlVRzZsUmlpMm9UTmx6aml2Vi1KVDFfTldjbkRhZmtLS1ZhUlVUa2Y4eGxteTBqSUwtZVEzd2lmUHZLdjZKSi1aZ2VOTTNKVEpsamJHTEhKZkxpUFoyWmdaSE9IYjhXWWVwUWo?oc=5", "source": "연합인포맥스"},
+        {"title": "일본은행, 한달 만에 금리 또 올리나⋯추가 인상론 확산 - 아이뉴스24", "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5CWjEwZUhkTGFZUm1xYWo1WTBtRVZhb2lZQTBZZkkyN1k2cURqUkhJR2JKR3gzVUJNVEpYZ042Um04dFlhd0tOWkd1TQ?oc=5", "source": "아이뉴스24"}
+      ]
+    },
+    {
+      "title": "한은 \"반복된 환율 충격에 가계 소비 내성 생겼다\"",
+      "summary": "한국은행 조사 결과, 과거 환율 급등을 여러 차례 경험한 가계일수록 이번 고환율 국면에서도 소비를 덜 줄이는 것으로 나타났다. 특히 X세대는 MZ세대보다 소비 위축이 작았으며, 저자산·고DSR 가구에서 이런 학습 효과가 더 뚜렷했다는 분석이다.",
+      "importance": "중",
+      "articles": [
+        {"title": "한은 \"환율 급등 경험 많을수록 소비 충격 작아\" - 세이프머니", "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1wTFFQcEdrb0ZyMEc4VGN6NUI4R3F1eGNjLU94VE5zbl9MRU1ZSnJRa3ZoTks3OHNtWTRXdGMyV0p4RTJ0WXdNZlllRXNEcXg4RkRqLWRGZnlGVjJsVmIyNEQ0TXZ5SnNQRVhObllR?oc=5", "source": "세이프머니"},
+        {"title": "한은 \"환율급등 경험 많은 가계, 고환율에도 소비 덜 줄여\" - 아시아투데이", "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5UaEJtZkpQMzVCWjNMem1HQmw5cUo4cENqOC1KcEFYVXZpdndRU2JMOGRDWmc4U0N4OFZsdktoRkRkNF85djh3SjVTWm9yY1BwTGtnVUpBREMxNGc2NFhZNG5RM0NxWEFNejhZMkZB?oc=5", "source": "아시아투데이"},
+        {"title": "환율 급등 경험 많은 X세대, MZ보다 소비 덜 줄여 - 아시아경제", "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ld2ZmTlY0U2VwQlRCVWxhTDJZa3p2eGdBR2NMX21hRTFtWm9GLTdMdk9nRXVSc0xzNU5sVlVkMDhySFFGZ1Jjbld4dFVPYmM1M1JiTTdQcWZMVDhydzJuaA?oc=5", "source": "아시아경제"},
+        {"title": "한은 \"환율 급등 경험 많을수록 소비 위축 제한적\" - 연합뉴스", "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE41MGtqbGlOdDVDSDV1dmFOZ0RocTY2eURPemp0OENFck9JWXh4d2hCUEVXRUMtSmxMckZCd3hxcy1oQmoyNVhUcHRiaUxxWmRCSjlmc3cta0NBbkw2SWcyZtIBYEFVX3lxTE41MGtqbGlOdDVDSDV1dmFOZ0RocTY2eURPemp0OENFck9JWXh4d2hCUEVXRUMtSmxMckZCd3hxcy1oQmoyNVhUcHRiaUxxWmRCSjlmc3cta0NBbkw2SWcyZg?oc=5", "source": "연합뉴스"},
+        {"title": "\"고환율 한두 번 겪냐\" 영향 덜 받는 X세대…MZ는 지갑 닫았다 - 한국부동산뉴스", "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBEYTlyV1NleFlWWHU0NDZUd24tSkZrNndmdUZaQVdqZ2dsWXVORU1hQ0FqRC1UMlJWMWpiZExyTUQxZS00YWJDR3FpXzZwS2FtQTV6cjBDSHhiY0RjYzFsZkFQN2pkTENTeHlB?oc=5", "source": "한국부동산뉴스"}
+      ]
+    },
+    {
+      "title": "오세훈 서울시장 '여론조사비 대납' 항소심 결심",
+      "summary": "오세훈 서울시장의 정치자금법 위반(여론조사비 대납) 혐의에 대한 항소심 결심 공판이 1일 열렸다. 1심에서 유죄가 선고된 바 있어 이번 선고 결과에 따라 시장직 유지 여부가 갈릴 수 있는 중대 사안이다.",
+      "importance": "중",
+      "articles": [
+        {"title": "시장직 걸린 오세훈...오늘 '여론조사비 대납' 항소심 결심 - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1HeVdXeHhNbjA2dWZBLTBxUDBxWFVCWUJWZ19oSlgzZjcxdVJTUjRFU1JVUzJNVW9pR2QyTkUtTm4xWGJfNFpwRms5eHZkT1F5REY3TVFOdExtZw?oc=5", "source": "한국경제"}
+      ]
+    },
+    {
+      "title": "영국 국채금리 G7 14년래 최고…전 세계 금리 인상 압력 확산",
+      "summary": "영국 30년물 국채금리가 장중 6%를 돌파해 G7 국가 중 14년 만에 최고치를 기록하는 등 미국·일본·유럽·한국에서 동시다발적으로 금리 인상 압력이 커지고 있다. 영국에서는 매파 성향 BOE 정책위원이 금리 인상을 주장했고, 남유럽은 기름값발 물가 상승으로 금리 인하 여지가 줄었다. 호주와 콜롬비아 등 다른 국가들도 물가·재해 변수 속에 기준금리를 올렸다.",
+      "importance": "중",
+      "articles": [
+        {"title": "영국 30년물 국채 금리 장중 6％ 돌파…G7서 14년만에 처음 - 연합뉴스", "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9mWkZoZ0s0aTJjOWh4bEJTUUxwdFRBZ1RfYk5IeU9XaGxrLUY5YXRXM1d6QXM4SFZsa0RvUWhUT2U5cHc4YlN4RG9NZTFkSjVPb202QTBLbnZaaGvSAWBBVV95cUxOeFdFSGJJSEQzekt1S0tCT0dUSktWWEU4cGJLZ2NIQktqYndWeENDWFF2Y3J2Z2h2NDF4LTdGckdWYmQzajVQRHo3NWtaQ3RTX0J4WXdOcEozeF9oMnJGU1A?oc=5", "source": "연합뉴스"},
+        {"title": "'매파' BOE 정책위원 \"금리 인상해 신뢰성 유지해야\" - KB Think", "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9qU2NKSVptSmo2RFFOdmxkZjZCZUQzRldEVmJCUnVNWmdHR2I4Z0xNQjcxQ3lXZnk4QzlxaWppRWFJTTAwei1uck5sa0ZxcTEwMXVlUmJzUlQ1R3poTkJiNFhOMXlHc25xTkZRSUp1ZWJ0dw?oc=5", "source": "KB Think"},
+        {"title": "미국·일본·유럽·한국까지... 인플레이션 공포에 전 세계 금리 인상 도미노 - 조선일보", "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQUpMb2F3ZmJRTzdSM3l3WXdFaG9vbUNvLXgySUY5cnVDbldfUGZWZ2I5aGNHbWpfRVh1ZEl1d21RU3dVT2NNeXpSNkM1TFRlbHhKbzYzb0JZWmJ4YWVFQm9VNy01ZFhBU2lOem1TU3E2YnlXVURha2xnWkRxMUNjbUN3QTBtRmZST1lGemVBOEk4dzc1?oc=5", "source": "조선일보"},
+        {"title": "남유럽 덮친 기름값 쇼크…유럽 물가 다시 뛰자 기준금리 발목 잡혔다 - 글로벌이코노믹", "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdGhMTlI2S1l3TmlwQkltckxjejlhY1JBdlUxM3ZDU29BVlNIQXZ1ZFJSNk1UN2RzREhvcXRuTDR2YkN3cHNmcWlJY244a2dVNjYtc3dFOTFlYVFaSlVpNWxkb2pTZEFyeVlWZ2w3aWNOUkFtSHBQQzNZeTdNclJFbmZuaUV3LU16?oc=5", "source": "글로벌이코노믹"},
+        {"title": "RBA 기준금리 인상에 시중 변동금리 연쇄반응 - 호주 톱뉴스", "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1IN1h2Y1V4RkxuWFlmQmw3RWNibjN0YS1TYnlSVXFsS2Y5OW5oX0hyTGtvVUh5UHFjZVRuWkx3MDJ2bG8tLXRlN25velo4MjBDOGZFRWlrODk5bmdnTFc1S1Exd0M4Sy1DS1B5VVgzZjg?oc=5", "source": "호주 톱뉴스"},
+        {"title": "콜롬비아, 강진 피해에도 금리인상…\"엘니뇨가 인플레 압력\" - 연합뉴스 한민족센터", "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB3dkRrbWZTZmY3LVB3TzhkMXd6Mlk4TmVtZDcxcjViLVhWNWlTYWhNcDJSNVlNMEQ1UTYxOWFDWEZxOUk4c3FTNnEyNldhTnZXV0xHSWpHMWU2ai1IZWhEM2JjdjVUblM2d1hoU1FRSUxXOTNn?oc=5", "source": "연합뉴스 한민족센터"},
+        {"title": "“강진으로 힘든 와중에 금리까지 오르네”...12.25%로 인상한 이 나라 - 매일경제", "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9hck1LT1VNQjgzckdUS3VUWWE5M3BJbzBURjBZbE5EajRqbFIyUXVIbXVUZFBaN3VBLU9tNTFnZVdrRll2TG9RdExGTHFXWlZ6eFE?oc=5", "source": "매일경제"}
+      ]
+    }
+  ]
+}
