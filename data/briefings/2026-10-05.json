@@ -1,0 +1,122 @@
+{
+  "date": "2026-10-05",
+  "topics": [
+    {
+      "title": "美 금리 인상 기대는 후퇴했지만 장기금리는 오히려 상승",
+      "summary": "미국 연방준비제도(Fed) 인사들의 매파적 발언이 이어지며 10월 기준금리 추가 인상 기대는 다소 꺾였지만, 미국 장기 국채금리는 5%대까지 올라 시장에 부담을 주고 있다. 9월 연준 회의록에서도 금리 인상을 둘러싼 내부 이견이 드러날 것으로 예상된다. 국내에서는 국고채 금리가 4%대로 오르며 가계와 기업의 이자 부담이 커질 수 있다는 우려가 나온다. 한국도 결국 금리 상승 흐름을 피하기 어려울 것이라는 전망도 제기된다.",
+      "importance": "상",
+      "articles": [
+        {"title": "美 인상 기대 꺾였지만 장기금리 5.28%…환율 어디로", "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5EdHpueGZPaW5lbjNROU9GRlZFcFJXQk10VmpocFg3YzBZcFVaNXJ6RHJvWlZsWGg1OEVVQjk5bGxxZVVsc1JGZGZLWGtLYzlsbC1aRDJPbS1JWHF0QmhLeGJwVEN4VGwyeVhPNXE2bVNSQWs?oc=5", "source": "marketin.edaily.co.kr"},
+        {"title": "美 인상 기대 꺾였지만 장기금리 5.28%…환율 어디로[주간외환전망]", "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5vSHdySGJTVjhiYTl4NFdJWWpwcEU1cF91WmRHbTdhZ3dXODNVSTYweFNSR2k5ZVpJSWtVRGpHVjJfWVZtSmUtWjhlcElDNmpjM0kwWEhCNS05Z3FtOFJPSEtpbFV1WmVYNFVB?oc=5", "source": "edaily.co.kr"},
+        {"title": "美, 금리인상 속도조절 관측에도… “韓 포함 금리 상승 시간문제”", "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1wRnZ5a0twODBDR01pcDJVdzBKQUdkREUyTGthOGZ2MmxGRTJXbFVERUlwWlRPbXA4cFNEMTUydEJBTnF6VXdScHZRYWZjRVVRelQ2RmQxcS1oZE5aX3FzWFRCaU1mSkNrZGk4WFFfMzJRTkN6cFHSAWZBVV95cUxNWjQ2bW9UTXpIeEl1bUpsM19Jc1hWUDBUdi1jMWszUTFnSVpBdjF0THF6blc5VkdHSHJ3ekxBMlZ1dDFfTDlIeWZ5NTluU2FnRllsWExYWHFpeU1JbVptWGdQSjRGWVE?oc=5", "source": "동아일보"},
+        {"title": "“언제까지 AI로 버티나”…美 국채금리 5%대에 증시 ‘시한폭탄’ [머니+]", "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1PYVcySEw5MURZdHV1WE4tcTk0SFptc1ExbHRPa2lPTy11U0ZtTlJBMzBBTzE0YWFOU2o1NHNBa25iMkdnSDJSMjlqYVBOMXFGcFZOV0xPbTluaTZsOFJOeWNRbw?oc=5", "source": "에너지경제신문"},
+        {"title": "미 국채금리 발 국고채 4%대…가계·기업 '비상'", "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5tcjhCVmlGSGowb0tZQnNRckxKQkNOMXhwSUNPSVlkbzd0dkVoTzBDLW4wdVVaWHNlRVVsaW5hLWxzcGM4Z2dDRlFMTlYxUWIydkxydzMxM3lCMnNxXzhhMzBXYUlpeWZ6WGJN?oc=5", "source": "비즈워치"},
+        {"title": "미 연준 9월 회의록, 금리 인상 놓고 내부 이견 드러낼 듯", "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9Bb0UwWUMxTkl3OUpUd3ZrdlRVek9EdERNVmEtVERucjhKMlIyMTZSVWk4ZHBwcXpJRzhqRDUwLTdQd0tHQWdQYnI3RWNlbUhDdWVsbk11RWg?oc=5", "source": "블록미디어"},
+        {"title": "美연준 인사들 잇단 발언...10월 금리 인상 기대 후퇴", "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1FM1hRVzV0dFZYMXoyUmcxZUNtQ1N1MjRQRjI5akV3Sng0dE5ETUZHS3dRZ3k0QnJST0JVenJOVWRNMjJ5eEI3S3AwU1NDZ00?oc=5", "source": "v.daum.net"},
+        {"title": "美연준 인사들 잇따른 발언...시장 10월 금리인상 기대 후퇴", "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBCY2VONEpmdXlzdktVdktoM1RseUllMVNyam9Uc1RxdTNMbHZ0NVRsQ2JtblFqSzFuYjg0RTZOWUc5eG9xaXJYSWdRcnR1UWc?oc=5", "source": "v.daum.net"},
+        {"title": "워시는 침묵…美연준 인사들 발언에 시장 움직인 이유", "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE05dUV5UkduOXBFbWJnTS1GYWhtYWxWZFZZQzJ4cXl4dTNfeTlGUDNXa0QzYXo3R0Z5S0Y0SEdfTEVVdHVfMGZNWi0zdHlmbW44VkY2cDJOdDB6eXPSAWBBVV95cUxNMklmWkFQbFpsOGtBbmR2M3MzaGJuXzl5Zng5b3M5VzdSQUpCR0RqdG5IYzB5MVZLX0Vsb0tkSXRpc1V1WnhGbGhnWlY5RG11bjBTZG5VaGVzSUxMWGo0V1g?oc=5", "source": "연합뉴스"}
+      ]
+    },
+    {
+      "title": "코스피, 삼성전자 실적 발표 앞두고 7000선 공방",
+      "summary": "코스피가 7000선을 유지할 수 있을지를 두고 삼성전자 3분기 실적 발표와 미국 금리·유가 동향이 변수로 꼽힌다. 외국인 투자자는 한 달간 코스피에서 약 20조원을 순매도했고 특히 삼성전자·SK하이닉스('삼전닉스')에 매도가 집중되며 코스피 수익률은 주요국 중 최하위권으로 밀렸다. 미국 중간선거 결과도 국내 증시에 영향을 줄 변수로 분석된다. 다만 일부 증권가에서는 코스피가 여전히 저평가 상태라며 반도체·전력·조선주를 긍정적으로 보는 시각도 있다.",
+      "importance": "상",
+      "articles": [
+        {"title": "삼전 실적 기대감 커진 코스피… 금리·유가 상승폭 가른다 [주간증시전망]", "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5qWkZNeDA1X2ExOUc1VUItYm9NWHQ3SWxGR1dfRk1lTmhWVHRCWjJvT2dZRzMyc0lpaGdxUzhDREduMXQ3dzUyMGZKV01iMkdheV9FRm1vakE1ZUVfWXU4VU1GaTVWV3VvVm1xWTlMZ1PSAXRBVV95cUxOY2cwVlB2a29md1p2Zm83RDZyT0hzMTVLbV9SU1dOb1B6ZExGUmhvdXY2c3hzMDl1NW9CS2hfY2tNUWtBOWNra2Y4Q2E0cDRUdjBRcTgwemlxeDdCQ1djdHRRbGdYTUlYOENVcXotOWhWdnplVQ?oc=5", "source": "IT조선"},
+        {"title": "외국인 ‘엑소더스’… 코스피 수익률 주요국 ‘꼴찌’", "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5oWW03MTdVUjZ3cFJPSWJ6YnQzeVJlS2lkZWo4VzVnWGdSSEpLajZnUFR1bGN3NTBJZldoVTc1MkwweGJjNTJXblZreGVISlE?oc=5", "source": "v.daum.net"},
+        {"title": "역대 미국 중간선거 전후 코스피 향방 어땠나?", "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5PSEFXZlFHSkJTSkpYS0ZHTDlieEhjVmViemVZcTJrMzFHc2ZOTVEyUGFNY1FBc2Z3YnBvRHhDTVlnX0tNdlNfODZ3cm9OUmtjYzR3YmlLYjZSdmx3MFFxX0xHVEI?oc=5", "source": "MTN 머니투데이방송"},
+        {"title": "NAVER(네이버) 주가 19만원선, 흐름 '이목'…코스피 7000 회복", "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1BeXFMXzlaczlBcW1hSUV2WERzQU9takRFS3d6YXBNaEd2eF9oaF9IT1JzYzZCcFZVQzREaWZZRTdzbWJGS1p2cE53VFhEZFNLcnpiNjUxWDVjZHQwa1lNM05teEdyWFFz?oc=5", "source": "CBC뉴스"},
+        {"title": "삼성전자 실적 앞둔 코스피, '7천피' 지킬까…美 금리·반도체가 변수", "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1iYnBBeHJBR043ODdJRjRMdjNTRHdiSnFEWHpLY1NjaTZhVEFCcEhaV1JDUjhZc2hCSXZfbmpfY1pPSXdsMExuWllFcG5DckZHb1RHbnE2cFRtUTlOM0hmOXlrWWF2WFc2RFFCUw?oc=5", "source": "ER 이코노믹리뷰"},
+        {"title": "美 중간선거 결과가 국내 증시 미칠 영향은?...시나리오별 분석", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE41OEJ4ZmNwQmZJWDZweEs0QWlGZ1MtLXF5NXNZaDV0amVLODhyN3BLbzFhYzRsaGN0eG5Cdy1ISXJGeHVKdW1YOFNMRVNCcTBGV3c4bkxJVU5JZw?oc=5", "source": "hankyung.com"},
+        {"title": "3분기 성적 발표 전부터 기대 꺾인 삼전닉스…외인 마음 돌릴까", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5wMnpVYng5U2dPYURUVm1nM0VZZ25RS1BtcDhuSS1ja3V1TWxULUQ3bUNqTXpMR21sM2RaZ2NtekZhRVk1MFZ6LVU3YmtCTUFlcWlqOWNycVVuZw?oc=5", "source": "hankyung.com"},
+        {"title": "금리 무섭다고 주식 팔면 안 돼…염승환 “코스피 여전히 싸다, 반도체·전력·조선주” [투자360]", "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBpZTluWVF3VXpCejNhd1NCYmEyTGpIdkdhX1FBRUFJVUt5UmM1VjlCUS1kR0J0WW5RbWFUTHMxNkdjMkpEZGpNSjFzY3dqVTg?oc=5", "source": "v.daum.net"},
+        {"title": "외국인 한달새 코스피 20조 팔아…삼전닉스에 매도 집중", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0yVk9PZ0NweXdVZGFKOVpWejBuc0xWR05qSkdLdVlPVmJZYjQ3ZjN3ZWt3c1loX2ZQSEdldFRjRkNFRm5hRXNHdEV2T3EyQl9vcmp6aUNPYzBfdw?oc=5", "source": "hankyung.com"},
+        {"title": "[증시전망] 삼성전자 '깜짝 실적' 나올까...코스피 7000선 안착 시험대", "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1hUjktN2RvclVwNjBGSTFPTjFVdDdZYWhFQTBmNUxGaW1ZbEhQbEdUT3N0MDUxZ01rZ003NnItbzdHY25ZS2VoZDJKQ3B3YV9QMmxGMm9Ic0s2TnpGNkdkaVFGblpYWGw0aUtTNERJOWhyMkE?oc=5", "source": "디지털투데이"}
+      ]
+    },
+    {
+      "title": "서울 집값 상승 지속 전망…금리 인상이 변수",
+      "summary": "서울 집값은 당분간 상승세를 이어갈 것이라는 전망이 우세하지만, 향후 금리 인상 여부가 최대 변수로 꼽힌다. 기준금리 3%, 주택담보대출 금리 4.66% 수준에서도 서울 집값은 지난달 1.05% 오르며 고금리와 집값 상승이 동시에 나타나는 엇갈린 모습을 보였다. 서울에서는 증여를 통한 주택 거래가 3년 반 만에 최대치를 기록했고 동작구는 40배 급증했다. 고금리·건설경기 침체 속에서 정비사업 시장에서는 신탁방식 개발이 대안으로 떠오르고 있다.",
+      "importance": "상",
+      "articles": [
+        {"title": "서울 집값 \"더 간다\" 무게…'금리 인상'은 변수[집값, 최장 랠리③]", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBqOFI4ZWc3VjRJX1doRjFWRHJPa3N6RG8xSEFYMVhGVGRSS0pCQkw2SzF2VEwtSTBNWW16V25yZW53U2MyY0tsVzFfeG1nOFhFRXlXVlVVcEw1Zw?oc=5", "source": "파이낸셜뉴스"},
+        {"title": "서울 집값 \"더 간다\" 무게…'금리 인상'은 변수[집값, 최장 랠리③]", "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE13N3hZTVBXQW1icC1xVnRFZDhpbTdsM0NGY1htbW4xcGxJZGtzSzlyZDRzTjBsMVg2N2pVUGNjdXJ5QlVhSUVwTEdsOFhmN2tEVXFIZDd5ZkpYNUJqa0ctTw?oc=5", "source": "뉴시스"},
+        {"title": "고금리·건설경기 침체 속 주택 정비사업 시장 ‘신탁방식’ 뜬다", "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE43UFJjUTNocWFmZ0xmM012MFdxYk1JN0ZiWG9fT0ZWLXVMQzAyLU5JZm83NnFNZnQzdDBPOF9EaFNUM2ZldjByWXVMQk5hQ2M?oc=5", "source": "v.daum.net"},
+        {"title": "서울 증여 3년반 만에 최대…동작구 '40배' 급증", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5LWVpScVVVa21sbmxuRU9zWWNnZGJpX3poNjJDcFE1U3AtRUdjR0ZQMkx0SDhLYXVQSlQxcEM4RGIwb3ZlWHYxTkdGdm1TcGpyTGhsUDNKdndJdw?oc=5", "source": "hankyung.com"},
+        {"title": "부동산금융 위축, 주가수익스왑 키우는 증권사", "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBUXzdxY1BrUmlqM0tVbnVWNzdFZ0h6V01BUGpwN1hFU0NVRWVTdlFkTlZST1ExbWIxNGZ0ZmFYVjVFSGNKcnJLM0c0ZlFMTW1CcXRKYzZzWG1rd3dYUVJYdHJOckVzbXRJ0gFsQVVfeXFMUHprSDhPbGlReVpvbThBSGFfSTRDM0c4TGx2WG1uYTZHMi1FR1FRRzdHelVidHJKdDlqYms1d2Q0eGd3UVFsZC1KQ1lkVzR4RzdFcHhvTjFSQmhQSi1PaEZCcXdnSElVZmt0THVj?oc=5", "source": "블로터"},
+        {"title": "기준금리 3%·주담대 4.66%인데 서울 집값은 1.05% 상승…엇갈린 부동산 지표", "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1weGFRdy15NXVEelVqMGZGOExGeFJ0aFR3bjAyRkxHVHFON3NBckw1encyMjJITktVQkxqZEctaExYZzA?oc=5", "source": "대한청년일보"}
+      ]
+    },
+    {
+      "title": "원/달러 환율, 1400원대 재진입 전망",
+      "summary": "미국 금리 동향에 따라 원/달러 환율이 다시 1400원대를 넘어설 수 있다는 전망이 나온다. 한 분석에서는 연준의 10월 금리 인상 기대 후퇴를 반영해 달러-원 환율이 1345~1370원 범위에서 움직일 것으로 예상했다. 환율 불안정성 속에 식품업계는 원재료 가격 안정세를 지켜보며 추석 이후 가격 인상 시점을 조율하고 있다.",
+      "importance": "상",
+      "articles": [
+        {"title": "추석 후 가격 올리는 식품업계… 환율·원재료 가격 안정세에 ‘눈치’", "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQR1BLVHZsamFReVNvZUl3b0N1dFlsbUtQUFRrV1NtMnJqZDhNd3ZBdXVuQjdSQ0gwUEUwd3RBNWpFMXV4MEdIbkdYU3AwMkxzck5xVXdkSXk2M1JIMWFpa2ltVTBPRjBsM2FqcEl1VlgzNkpMWW1MTXhjQkZCeG9MVmdsbjI4Z9IBmgFBVV95cUxOYWdQbmVfNEVQTGhFSEtyZ3hOMEk2NHpJUmdXbHpFY2UwOEpyckh6VkFrRkhGUENNc1J5YUt3bW9zd09YWS0wUmI2NXpPaENYOERqQndBeTg5Wm12WWoxOFBsbHZUZ1pkMFFuUUtaMHZ4N0RaUXdwMjVOUlgyNlJLV3FDNUhBLXJSeno4QVo4NzJkM2tlN09TQTF3?oc=5", "source": "Chosunbiz"},
+        {"title": "“원·달러 환율 다시 오르나” 1400원 대 넘어설 전망", "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5wa09XY05Kd0NySXlOTTR6ek8wN29hN1R6OUN3OGJ6MHFGZEJiMnhHZDcyTXlVX0dCRnNkeU56aUtSam1fckd4Vjg2QW9pSXFlMFJUY0lJcWEzWWhpT0VaOWFQNk8tS2NObE1jTA?oc=5", "source": "한경매거진&북"},
+        {"title": "연준 10월 금리 인상 기대 후퇴…달러-원 1345~1370원 전망", "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE42YzBUZFJTX1U0TkJ4dEdXQ0YxQjg4TTduaUJNRF8yZy1wd3htRzl2bk4xU2lBcW5jbFlob3BUT2xWZ0VPbW4ybVV6Y2JXZE1lUWRfZF8tMjE1aUxFY01DVVU3eFNGbkFBODctRA?oc=5", "source": "ER 이코노믹리뷰"}
+      ]
+    },
+    {
+      "title": "금융권 해킹 위협 확산…당국 경각심 강화",
+      "summary": "저축은행중앙회가 AI를 이용한 해킹 공격을 받은 사실이 단독 보도됐으며, 다행히 정보 유출은 없었던 것으로 파악됐다. 중국산 AI를 악용한 우회 경로를 통해 국내 기업·공공기관까지 해킹 위험에 노출될 수 있다는 지적도 나왔다. 금융감독원 측은 금융권 전체에 최고 수준의 경각심이 필요하다고 긴급 점검회의에서 강조했다. 다만 5대 은행의 보안 투자는 순이익의 1%에 불과해 대응 역량에 대한 우려도 제기된다.",
+      "importance": "상",
+      "articles": [
+        {"title": "[단독] 저축은행중앙회도 AI 해킹 공격 받아…\"정보 유출 없어\"", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9wNVpQSm9pbTBXR0thRUtXUGt1V3lwT2xmQ3FpRzMyV0ZCcDFvcEZobFNZWFYtMnZxdkszYWNhSXNhSFMxREV2SGpjdmU0UW1iNHNJQkJROUdhdw?oc=5", "source": "hankyung.com"},
+        {"title": "5대 은행, 보안에 순익의 1%만 투자", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA5UGZ6UkExSy1QMjVTN2ZZejV5QXZucWJicEZCU0JidlNvMDBZR3cwR2c3RFRvSWxnZmtpRTZaY08yLWVfRC1pTDlHWjc2UzN0X1RYR1pXYWxfQQ?oc=5", "source": "hankyung.com"},
+        {"title": "중국산 AI에 '우회로' 뚫렸다…기업·공공기관도 해킹 사정권", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGVVR2WjFVVUNXQ1huZklFZjdJd0E3ejlUVGRBc3lkekRyd242YTM1WGJvVXRhc19QODRnWHVlME53LWEwbXJ5OVdzMWZxd1JJTk9vcjBKT2FLUQ?oc=5", "source": "hankyung.com"},
+        {"title": "[속보] 이억원 \"금융권 전체 침해사고 최고수준 경각심 필요\"", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5UcTh6dDJkbU9KdmhNdHkzbFN1ZHV5YWlSZDB4Mlg4TXpTdHNDOTgzZkRHeXhicV9DZkZ3WF90MFl4V2Q5RmRFblJmSUtJdXh0Y0ZLS3VtSUpKZw?oc=5", "source": "hankyung.com"},
+        {"title": "[포토] 최근 침해위협 대응 전금융권 긴급 점검회의", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5QTUc0X2RqYlNsTTM2cnZyVF91YnBRcmFfSWFLb2JFbEI1Zl9mQ1dOWHJaemItV1BkVjRKTVNpOTVOUTJ3NzR0ZzZWS09ybEtJRXZpN2J2NC14Zw?oc=5", "source": "hankyung.com"}
+      ]
+    },
+    {
+      "title": "자산가들, 삼성전자·SK하이닉스 팔고 자산 재배치",
+      "summary": "고액 자산가들이 '삼전닉스(삼성전자·SK하이닉스)'를 팔고 커버드콜 상품 등으로 자금을 옮기는 움직임이 포착됐다. 엔비디아·테슬라 같은 해외 빅테크 주식도 정리하고 새로운 종목으로 갈아타는 부유층이 늘고 있다는 분석이다. 반도체 업황에 대한 과도한 의존을 경계하는 목소리가 커지면서 자금이 다른 자산으로 이동하고 있으며, 주가가 반토막 난 키옥시아는 오히려 기관 매수가 몰리는 등 투자 전략이 엇갈리고 있다.",
+      "importance": "중",
+      "articles": [
+        {"title": "\"엔비디아·테슬라 다 팔았다\"…부자들 새로 베팅한 종목", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBwQTZkbFU3aE82ZGFwaHY0NUo4VHlaRlhDRzFjekZ1b1ZTYmFDWjlhUkYzeXUyb0JacF91SjRmRnd0NFlWSXVqdjk5WVhBRVJiQ2xDUno3ZHZ6dw?oc=5", "source": "hankyung.com"},
+        {"title": "자산가들 삼전닉스 팔고 커버드콜 담았다", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5rR0I2RmZ4MnN6QmpDZmMyajNMTnJCZDdDeFk4di11T1RLaWR3cUplM0FaMlU3VXRPMnhISXFIMHliMFYxRmVhRExaTWlZYnFvRG1MaEpja09zQQ?oc=5", "source": "hankyung.com"},
+        {"title": "\"삼전닉스 팔고 빠진 줄 알았는데\"…부자들 '뜻밖의 선택'", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4zTXdsejU1S1RYdzNjYXVOaC1QYWpoLU93bUFlZVRWRVAxelZOekRRbDBYcUhxMlpfUHBwaFVpWWo2S3kxT2hiTHI3emVCdV9XMHVqX1NLSVdIZw?oc=5", "source": "hankyung.com"},
+        {"title": "주가 반토막 난 키옥시아…기관은 다시 담는다", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBLa2g3eVNyYVZBWXREUy15QWxpb3QtMTE5ZW1IZHd0MFB2dVFuU2ljMDBXSzNtUFpiN20zQnlENjRrc1g2Wnpuc3hkTVRSZ244UEM0VjJ0WGFrdw?oc=5", "source": "hankyung.com"},
+        {"title": "\"반도체만 믿다간 큰일\" 돌변하더니…뭉칫돈 '대이동' [김연지의 연금빌드업]", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1zS09falY4Vkg4YmJ5NjFyRFJEN0tUMklMMFZsNzBjNEtxVElkQXo0eG1KRnZvQ2M3SDhrZXo4Z1JoYlNQNDViT0FoZkZ3OE80cHo1LXlRQTAtQQ?oc=5", "source": "hankyung.com"}
+      ]
+    },
+    {
+      "title": "AI 투자 거품론 속에도 데이터센터 투자는 계속 확대",
+      "summary": "AI 기업들의 공격적인 차입 투자가 과거 닷컴버블과 닮았다는 경고가 나오며, 조정 이후에야 옥석이 가려질 것이라는 전망이 제기됐다. 그럼에도 데이터센터 투자는 이어지고 있는데, 신규 데이터센터 건설에는 수년이 걸리는 반면 특정 AI 랙 장비로는 며칠 내 가동이 가능하다는 설명이 나온다. 구형 데이터센터에서도 최신 AI를 구동할 수 있다는 분석과 함께, 고성능 AI일수록 연산 비용이 과제로 남는다는 지적도 있다.",
+      "importance": "중",
+      "articles": [
+        {"title": "\"데이터센터 새로 짓는데 수년, 삼바노바 랙으론 며칠 안에 가동\"", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE56NFFUbmI1VlY5blhkb0ZJd3hNVlR0RGNuZmh5YS16c01xZ05YUlFHckVMVVdVMFFWM2wwTWsyVlVjSGs4eEFSMklyc1RJV1JRaVZFdkRXOE5Kdw?oc=5", "source": "hankyung.com"},
+        {"title": "\"AI기업의 빚투, 닷컴버블과 닮아…조정 후 옥석 가려질 것\"", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Ed0paYWx5SG5WTGIyaXlHVE9Ub2JoUEs5S1R6R1FMSmFVYWotUVVrUXo0NGJmc3JkUk85VHhlaTN3a3BfVGhvNnRCX2lMTGVVVmlfSEpMVW5Ndw?oc=5", "source": "hankyung.com"},
+        {"title": "'고성능' 업스테이지 AI, 높은 연산비용은 과제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1uWjhfenhQSm5mNXBOSnhicTlzNVlhdU5GdUVLRFZwbGY0NzhweXZEeUF6UzZLQk1JV3dPVEg1YURWaUFRZ0pWUVA0c2RvTElTUkpuaG5aUG92UQ?oc=5", "source": "hankyung.com"},
+        {"title": "\"구형 데이터센터서도 최신 AI 구동 가능하죠\"", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBYbEc0VXlhUkpZdE04d0JFUEMycXN1YTVRcDFTblluUnpLYU9kTHFJd0VNMHNvWGtWR0h0VDd5UmJCVjFrZl9MV05kUTZBRjlIWUt6ZDFLQWJIUQ?oc=5", "source": "hankyung.com"}
+      ]
+    },
+    {
+      "title": "3분기 ETF 수익률, 원유·달러 인버스가 상위권 싹쓸이",
+      "summary": "3분기 국내 ETF 수익률 상위권을 원유 ETF(약 35%)와 달러 인버스(약 31%) 상품이 휩쓸었다. 달러 약세에 베팅하는 '달러 곱버스' 상품도 3분기 좋은 성과를 거뒀지만, 4분기에는 환율 전망이 엇갈려 수익률을 이어갈 수 있을지는 불확실하다.",
+      "importance": "하",
+      "articles": [
+        {"title": "원유 ETF 35%·달러 인버스 31%…3분기 수익률 상위권 싹쓸이", "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1FYnZvNU1zd1hLekhGcGdBQjA0d0xjU2dqTGtQN21YaTJFQ1dPdmtqTW1mNEVwSEVxb1RGVU1UVm9OeHNKNFAxUk5yZXRFcXJJX2JST1JFUEt4UG84M0lPa1ZmRFlKNTFuWFlOX1huMXEyUEJFdjRrSWp3Zw?oc=5", "source": "부산일보"},
+        {"title": "3분기 ETF 수익률 ‘톱3’…달러 곱버스 ‘싹쓸이’", "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5TbmhEX01EbkRFNnVKWlV2ZE9JUnRyT1BaUkVpZ2ZtX2RXWTRmT1lVc2pobE03U1pkTHNpd25oWmlURzdnaWpJbXMycWJubUE?oc=5", "source": "v.daum.net"},
+        {"title": "3분기 달러 곱버스 일단은 '방긋'…4분기는?", "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5oSlZpUDQ4ZU9qbWw5ZjRnM3N6TXRONDJPUVpkVlBYV3l6bktSc2czT0tyOURQU0tGRkpFRFBvY1MyUUphQ2x5Nm1iQ2gyOGRkQWREMmZOTjZjVHZpbnV3RGNlUlBWZ0x0MWRqUg?oc=5", "source": "ER 이코노믹리뷰"}
+      ]
+    },
+    {
+      "title": "고금리 장기화에 자영업자 연체 심화",
+      "summary": "반도체 등 일부 업종은 호황을 누리고 있지만, 고금리가 이어지면서 자영업자들의 대출 연체는 오히려 깊어지고 있다. 실물경기와 체감경기 사이의 격차가 커지면서 자영업자들의 어려움이 가중되고 있다는 분석이다.",
+      "importance": "상",
+      "articles": [
+        {"title": "‘반도체·실물경기 호황’ 딴 세상 얘기…‘고금리’ 시름 자영업, 연체 늪 깊어진다", "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9BSFgzaEtya1kycWV0YUUxVjV2aWdiQWVvanlhZ3A1Y1hRSmxBZGZhaTZXT3Q5Tmp0aWlXSGFBRVY2QTJmY0hnUDlPMGVCcEd1dmNBSzhlSmxMakU5ZUtscllPSFZqbFVBQWRoQzBYM1pydw?oc=5", "source": "한겨레"}
+      ]
+    },
+    {
+      "title": "후티, 사우디 아람코 공격…저장탱크 화재",
+      "summary": "예멘 후티 반군이 사우디아라비아를 공격해 국영 석유기업 아람코의 저장탱크에 화재가 발생했다. 중동 산유국에 대한 공격이 이어지며 국제 유가와 원자재 수급에 미칠 영향이 주목된다.",
+      "importance": "중",
+      "articles": [
+        {"title": "사우디 공격한 후티…아람코 저장탱크 화재", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBhejEzWFE2M1VxSHhRa25xUXBvb3I2SDVtZTFKSk9TV1F0T2ItRThNTmJsOFlmZE5abDdkSjM2ZVV5cW9LMTA2Z0ttbXo0R1VMeHlhLU5zWmlyQQ?oc=5", "source": "hankyung.com"}
+      ]
+    }
+  ]
+}
