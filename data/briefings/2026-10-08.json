@@ -1,0 +1,147 @@
+{
+  "date": "2026-10-08",
+  "topics": [
+    {
+      "title": "코스피, 美·대만 신고가 속 7000선 안착 또 실패",
+      "summary": "7일 코스피는 외국인이 2조6000억원을 순매도하며 1.98% 내린 6803으로 마감해 7000선 안착에 다시 실패했다. 미국 증시가 사상 최고치를 경신하고 대만·일본 증시도 신고가를 이어가는 것과 달리 코스피는 연고점 대비 25% 넘게 하락한 상태를 벗어나지 못하고 있다. 삼성전자 3분기 실적 발표를 앞둔 경계심리와 대형주 수급 부담, 외국인 자금 이탈이 주요 원인으로 지목된다. 블룸버그는 코스피를 '위험' 자산으로 평가한 반면 일부 미국 매체는 내년 초 9000선 복귀 가능성을 제기해 전망이 엇갈린다.",
+      "importance": "상",
+      "articles": [
+        {"title": "코스피, 고점 대비 25%↓…외국인 이탈에 7000선 고전 - 블루밍비트", "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9FdUZqWmZsZnZiY1J5MEdxc2M1ZWUyYzE5V1NYRVFXOGRWQnExQzBjWDBjQkF6Q3ptUldIRzA2SFBpMnhUT1pibUs3ZVY2aGRn?oc=5", "source": "블루밍비트"},
+        {"title": "박스권 갇힌 코스피… 왜 7000서 번번이 미끄러지나 - 조선비즈 - Chosunbiz", "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWmJ0Tmlsem92RkxuSG1TeERNQzJmUm9Qc3R5c3B4VGU4UW4zb2t1ZFRUbUhuVlYwU2V2OXpYb3NUelJuU0V3dlc2Wm9zQnVseWR0RkEzejhjZm82aEs0cVFkUDhBaTR6YXBQaVdpU0tma09vS2JOZmF1MnU2OU1TY0RLQ3FIeDg10gGcAUFVX3lxTE5QcXlqaUw5TGJhc3lfR2VwVTVwdXhDVnd3c3g2R1VmR25meUpFeGpiU2xoUll5WnRvRVZtbnM1U0xsbVprRlBId3U4b3dUX2VCRjZHVGwyRXlscU9zckFaU19jSzNvMjBFRllpLXE1clY2cV9DWWlKNlpBYU1zX2tUdVYzdG5lTEJRV3RtM3NZTXczM2x4Y05WbVp0VA?oc=5", "source": "Chosunbiz"},
+        {"title": "코스피, 연고점 대비 25% 빠졌다…美·日·대만은 오르는데 도대체 왜? - 헤럴드경제", "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBRNVhfTVNXTEN1UVNIX2lCN2dQOGRUZVo2bURfNzJrYmgySzZsZVVUNmhmY2ZiR2laSGRJREZ1bUh6c0hUMDZ2aGJhY3BJaDVpTEZ2TjZ3?oc=5", "source": "헤럴드경제"},
+        {"title": "나스닥은 신고가인데, 코스피는 여전히 고점서 27% 폭락 횡보 - 한겨레", "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1UZHpGaWRpOXN3UnFhMVFqNWFuRnQ0UlhPVmU1THFoUXNQMGc4Qk5vNEZmaXZzYmZtb0ZaZEpSTkdXY1NLYlZmVUlLZmI4bnJvWGRnekwzdjEwZ1M3TjhvVjRRUnVlZXc?oc=5", "source": "한겨레"},
+        {"title": "코스피 2% 하락해 6804…외국인·기관 동반 매도 - 코리아리포트", "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBwS05GMDZFbDVOWFlqRVN6R3d0ZklaVTNOQmQ3bjVSTUFQUzhDWHpiNGZOSTJlbW8xcTNOMDE2aFg1T1ZuQUlpbUhBRFgtOHJkZzBNU2JTeXRkWkNxZE85V3h0elJNNzlEYW4yanRpOUs?oc=5", "source": "코리아리포트"},
+        {"title": "나스닥 급등했는데 코스피는 도대체 왜…외국인 2.6조 ‘매도 폭탄’에 ‘털썩’[투자360] - 헤럴드경제", "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Tellhck1yY0ZoQUo0OGtFQmQ0dU5OMmhibllxWFFpUXNGWnVoSVRFVlExX3F5TnhxX3NXUXNtdTFzV0FkTFktTG1wWXR4ZmEtTjVsLUNn?oc=5", "source": "헤럴드경제"},
+        {"title": "美 대만 일본증시는 최고가인데 유독 코스피는 25% 넘게 하락...증권가, \"주가 끌어올릴 자금 자체가 부족\" - 비욘드포스트", "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0zWWlnTkJfc0tkeHJFRVlKUVFuOFRSc3lXNXQtcGtVWGctWGVoZlZQU0Z5R3hTZ18xekRnc2s5dGtwWFlHX0VOdW5TYzNZLUlINXN5bXpNTWpUNFJtWGZYV2doa01wcHFBQlU3SHdSTU5NM2F0Tkd1a1Z3d3E?oc=5", "source": "비욘드포스트"},
+        {"title": "코스피, 1.98% 내린 6803 마감…코스닥 2.34% 하락 - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE85eEs5OFRMU2dTc05IRm9JQU9qSFYzazdDOG9VSDEzWl9tLXBJcy1rekp1MTJzR1pZcGJLMkpYYUU5Y1o5ZDJQM0FzcktURlB4U1hDN3hldUN1UQ?oc=5", "source": "한국경제"},
+        {"title": "美·대만 등 최고치 찍는데…'횡보' 코스피는 연고점 대비 25%↓ - 연합뉴스", "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9iY1pYWUZWMm9sYWI3aUpmT0NJUXBDb2tUWlI4UVFHWEE1SU1JRkcwS05JUlN5RGRDSWVBenVQbDZFZnJMQ1A0aUJjZzc5RFp6UTRzdFNieFh3TS11ZFlmadIBYEFVX3lxTE9iY1pYWUZWMm9sYWI3aUpmT0NJUXBDb2tUWlI4UVFHWEE1SU1JRkcwS05JUlN5RGRDSWVBenVQbDZFZnJMQ1A0aUJjZzc5RFp6UTRzdFNieFh3TS11ZFlmaQ?oc=5", "source": "연합뉴스"},
+        {"title": "대만, 韓 제치고 올해 증시 수익률 1위…가권 72% vs 코스피 65% - Daum", "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBVZHExN1NtN3JaNmYtejE0dHppM0o0VFZWbjNubzNoZGVZMnRwTEdjc2wweFZua29zVkJyYzhPcXZmSzJ0T1ZxVEZSR0VaUHc?oc=5", "source": "Daum"},
+        {"title": "블룸버그 “AI 유망 투자처는 대만...코스피는 ‘위험’” - 매일경제 마켓", "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5kWUxrazBwZ0xtUmJpNmRfNU83N0pTWWVncEotcEk2SmtVMFc1SjdING53QkZYekZ6WlFGZ3VoQ2RPM3k3aWNoa0hGa0lTNUJ4WWc?oc=5", "source": "매일경제 마켓"},
+        {"title": "미국 매체 \"코스피 내년 초 9천 복귀 가능성\", 금리 상승 악재에도 삼성전자 SK하이닉스 성장 굳건 - 비즈니스포스트", "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5MeUg0NEMwUm1NSmNGcmhEZV9wTGg5TTJVNTIzRjdmZ1RXTk9tNEtjNHkzUVNXQ0dOazREeWF3OC1HTmR2cHFRM0Q2V2h5U1JncXhqLTdZcUlsaU9Uam9CWXVkUzQtMkRpUXluM3RLSE1OZkE?oc=5", "source": "비즈니스포스트"},
+        {"title": "美 증시는 사상 최고치인데 코스피는 왜 7000에서 번번이 미끄러지나 - 조선일보", "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNd0NXVjVkbVlocGlzX3Y5cTJTYUFWQllNbU5aLU5tdFRDYzJoOU96NUFnWjRBRmlGUGQtMWJHbmsxU09scUIzY1ZVa0wzdnNJSnlRdThER1dnOVJBa29vWHh4cUJvc01YcVNpc1QwM2ZuR18ta0RrZVFQcjBSM3VqeA?oc=5", "source": "조선일보"},
+        {"title": "“10월 코스피 6,400~7,600…지수보다 업종 대응 중요” - 뉴스투데이", "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5QZDRvbC1RZ0hoMzFlS1ExYW10OHo5ejhCWVJweFhqVU4xTzZfRDBIZGpqdlk4RXM1ZWVmWnQxVFlBaHF2c1otUEd6OXdqaTlDNUpVa19kVHU5NmpsTUE?oc=5", "source": "뉴스투데이"},
+        {"title": "[마켓뷰] 연일 최고치 경신 美증시…코스피, 반등 탄력 삼나 - 연합뉴스", "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5GVHlFa3Jqb1JpNGlra25iTm1sX2hYRjVhN2plY1F0TDcxM1B5TlpLYUhrTHdfZmk4RVoyMFIwMURYSkR1cVBxRThEZk5uMmtTU05QT3lnR3VuOVXSAWBBVV95cUxPaWR0Sk1DRkRtTHhVNm5xbEhHN0ROTUpqNkI1Qm1lTFVXaDdfbm9Fajd3VWUtYWZVV0hXa0gwVHU3c1FsbUhrWkpoOHg1T3h5UDdkOGlpbGtEOXJYbTZJVEI?oc=5", "source": "연합뉴스"}
+      ]
+    },
+    {
+      "title": "원·달러 환율 28년 만에 최대폭 급락, 기업 실적 희비 엇갈려",
+      "summary": "원·달러 환율이 석 달 새 200원 넘게 떨어지며 28년 만에 최대 낙폭을 기록했고, 7일에는 3.2원 내린 1340.4원에 마감했다(장중 1330원대까지 하락). 반도체 수출 호조에 따른 원화 강세가 배경으로 꼽힌다. 환율 하락은 기업별로 희비를 갈랐는데, LG전자·LG이노텍·HD현대일렉트릭·현대글로비스 등 수출 비중이 큰 기업은 실적에 부담을 받았지만 하나금융지주 등은 환차익 효과로 오히려 수혜를 봤다. 재정경제부가 '환율 안정'을 명분으로 7대 수출기업의 11년치 외환자료를 요구한 것을 두고 과도한 조사라는 논란도 제기됐다.",
+      "importance": "상",
+      "articles": [
+        {"title": "원화 환율, 석달 새 200원 넘게 떨어져 - 조선일보", "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZnhxcktySEVlNEhXanRUM3k5QW0yLXZETUdJemhzQUxrT2hSMm8xTW1SQldpR0YyUVcwUlFBb2NRZDZQU21EcndlNXNJODZ2a200Vy0yckpFc29IbjVNQjNORDZESjllc1d1b1BzUWRReHlWNFJoaV80cDhDMnF5N2xjR1MwYldmUkpV?oc=5", "source": "조선일보"},
+        {"title": "환율 악재 뚫은 가전·전장… LG전자, 누적 영업익 ‘4조’ - 국민일보", "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbE9wOU5DXzZQMHlfRF81b2xEV3dLMjd2TkdETkVyd1dWU0E0bG9ESVFBOWkyU1ZjQkl3RjBjZjBwYzREYXcwMVhZSzUzSWFUbTJTWXFfY0lIWi1nSnJJMW1TTFJsci1zSUJlWXFlSlJjVzhVTjJWeElBdjN4S2NnYUhvWmk2d9IBbEFVX3lxTFBiaHdJZGJ0d1F1eU0wdHNTanJ0czVPUm9EMktlLW1tZy11azhhR01qOVVuVHdrdU10b1NYZjFtM2duN0JHN19vMVdSZDVOR0dEQWphRGVTVlRDZlNCdjUtcWJqQ3FSR253dGo2Ug?oc=5", "source": "국민일보"},
+        {"title": "LG전자 3분기 영업이익 7818억원…환율하락이 실적 끌어내려 - 한겨레", "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5BWktrU3oycDRaUTNrNXZ2SloyYTRBb1dFbjZSWnNVcmlWQ1h1bHYtT1dSc0NOWGk3aV8ySDB1ZER2SEFXbU1TNUhKazNDd1ozWFhyLURCeHRXUllIVXVKczRrOWZrY3BYNmc?oc=5", "source": "한겨레"},
+        {"title": "“삼성중공업, 100% 환헤지 악수(惡手)였나?…환율 1300원대 하락에 ‘역전의 기회’로 - 뉴스퀘스트", "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBPQXB2N0FqZmUwRXJKY0sybG91RS1MSkFnbThnOTBlbkg1NndmUFBRVkg1U2V6V09va3hOdkJ2Yk81WGFVRnNTc0JYX2xMbTJNQmFBLXZYSEFyTEktWThnV3RJMlViZ2lFT0wyUzNzRQ?oc=5", "source": "뉴스퀘스트"},
+        {"title": "원·달러 환율, 장중 1330원대 후반…약 한 달 만에 최저 - JTBC", "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE83cEc0Q3NDZ1lObkktUGt0cDlnT0tmckhrbnlkdTNTc3BNQzRhVEpsQ2JjcUhSWjUtbG9Kbzl1aTl5bjlVTWZkU2xLS1hhWUstaFhsYQ?oc=5", "source": "JTBC"},
+        {"title": "환율에 수백억 날아가는데 성과급 갈등까지···조선 3사 ‘이중고’ - 서울파이낸스", "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE15THA5emJHQWNZVW9xZTI3Q3pqYWhwSS1ZRFF0dXFTTXJieGtlUkpqTXN1NUI2eWJDUUNkZmljT0R4UThiVnNtV2hGMUlwcmZYeHpra3RIYU5acXhlZlBMS1VGVzJld0ZhOUE?oc=5", "source": "서울파이낸스"},
+        {"title": "환율·리튬값 하락 직격탄…엘앤에프, 3Q 적자전환 전망-DB - 인포스탁데일리", "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5IeHFZZC14TXV2ZjFLcVF6VllNSzUxd3lsa0JoZ1ZSMHhxWXp2YTZRQ2F4UUZnRHhPanJTcE5TU0NyY2lzbWx1VkpQc0R2TUp5VE9uc3pPYk9iR3BYdHlCNlBESTJnLVcxWHJXQmJZckxvQW1FM2c?oc=5", "source": "인포스탁데일리"},
+        {"title": "재경부, ‘환율 안정’ 명분 앞세워 7대 수출기업 11년치 외환자료 ‘먼지털이’ 논란 - Daily NTN", "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5jSGV0cUJmNHNDNHJMRV9KRjgwOW5RRjRTYkRNOXpUOFFKNGtnRU4tT1JGWnBfNTRRazdiaEQ0UE5ZcmY2V0c3NE45RTBocEk1WEdscG1MWWI1UjJueldyYXdqcHN4b3JneHc?oc=5", "source": "Daily NTN"},
+        {"title": "[리포트 브리핑]HD현대일렉트릭, '환율 부담에도 수익성 유지' 목표가 1,165,000원 - 유안타증권 - 뉴스핌", "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9oeUpOZHJNT1hvQXRTeUZ0NU9PRV9BTHo0czZvTkRRc0ZYU1VrUFB6VjFCRUplT3hVajdvSGJYSW9rTTBRYVNGNEg0TWxCT3hmZlZZVnBzWDFBQ2FT?oc=5", "source": "뉴스핌"},
+        {"title": "하나금융, 금리 상승·환율 하락 환경에 매력도 극대화 - 메디컬투데이", "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1tdG1uekVkel9heFA1UHhHZU0ycThNczFybHZENDYzWE9Zek1iejFjWGpZYWRnTDFaeXhKMkRkMnJXN2UxT0I0VjhjWXN2UFBYcXN0Mi1menpKV1F6cEZFY1JYeEZLSW14RDdSTg?oc=5", "source": "메디컬투데이"},
+        {"title": "원·달러 환율 석 달 새 200원 급락… 28년 만에 최대 낙폭 - 조선일보", "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcFNCNmNqMXlOc2tmZ3ZoZXk3eV95NWpKVXFNUkw1VnlNbXA4NVdHTmtQeG52MXpvWTdXRmhnUDdPay1CakZ0NDQ0bzRyaGd0SUQ4WkpCeEh4Wk5xWDBGcFZ3X0ViM1dDLXNxS0tYdXozT2FFbWc1LU13ZGtfdklwR095cVI1RTdNLTA0?oc=5", "source": "조선일보"},
+        {"title": "반도체 타고 세진 원화, 힘 못 쓰는 엔화...100엔당 원화 환율 18년 만에 최저 - 조선일보", "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQaExaLVFZN0pWU2k5YVNYUER2ZEd1THFuMERUTXpBbmFIaktvMGphNnVrZUJETG9qODVzTE5JZmQtdTlRcFVQYTlhLTRGVWM4UHk1czNyNHZNTXhPcWplN09BS2h6WHh6WHUyRkFQX2JEb1V1ZTlsbmRuUkYwcGJNTjJrVU1EUV9WOWsyYm1R?oc=5", "source": "조선일보"},
+        {"title": "현대글로비스, '얄미운 환율'...PCTC: 다시 고개 드는 용선료 - 쉬핑뉴스넷", "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE53WTdSc1lUX2owbHB1bkROdGhaRDk4ekdYMUdZcjBnZzNyWEdudXpHVVNSd2VuNmhTelNORDV3UE5qWjlPTGRnS3ZSXzZVUEJhT0tJcWRjQ0szUEVFZ2w3VkNTVkc1VEk4MkdkX3hMb0syQjQ?oc=5", "source": "쉬핑뉴스넷"},
+        {"title": "[환율 전망] 주춤한 달러 기세, 더해진 원화 탄력 - KB Think", "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1XSE1DSWhTM21keGlDclVZQWdBLVQ3c3QtSXBySEN3end2MnBzT0ZWWWE3blRtMS1CWGx3QjhlQjFYSFZfQXdWVVNTYi1hakFFLUpiTWJYSXk5QUhvVmNvTQ?oc=5", "source": "KB Think"}
+      ]
+    },
+    {
+      "title": "9월 FOMC 의사록, \"연내 한 차례 더 인상\" 무게",
+      "summary": "공개된 9월 FOMC 의사록에서 연준 위원 대다수는 연내 한 차례 추가 금리 인상이 적절하다는 데 공감했지만, 인상 시점과 근거를 두고는 위원들 간 시각차가 뚜렷했다. 다만 10월 FOMC에서는 인상을 건너뛰고 12월에 인상할 가능성이 높다는 관측이 많다. 장기 국채 금리는 추가 인상 기대에 급등했고, 트럼프 대통령은 이와 별개로 연준에 금리 인하를 거듭 압박했다. 고용지표 충격 이후 연준이 예상치 못한 변수에 직면하며 금리 정책을 둘러싼 딜레마가 커졌다는 평가도 나온다.",
+      "importance": "상",
+      "articles": [
+        {"title": "9월 FOMC 의사록 \"연내 한 번 더 인상\"…10월 단행엔 '침묵' - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1EbzQwbmtIMlFXZmVEckNmRnZfcUk5SXV4UU0wT2pLRUdUN0VEY0FwVUNRRldpM2xsVkE3SWdOQUFUSGloZFFJR3QwNzI4NGxvMHBsNTI0YXRUUQ?oc=5", "source": "한국경제"},
+        {"title": "美 9월 FOMC 의사록 “연내 추가 금리 인상 적절” - 조선비즈 - Chosunbiz", "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQ2o4TEtGRG5SQU13TTViaXlrZ3FmTUlYV1liTjhUeDBqcDBOSjVHS2pzTFlRUmhoeHJBR3JCYlNHSklrdzZjRi1va1RmVklwZXJVWkQ1am13MV9nZDY3b2pTR0gtODdfMndHdHA4SVJHWFlydXIxOVZYMmVXXzZxcU9uNm5VZlNvaTBXZ1piS0hrVk5hOFN3ZG5kWE1yUdIBsgFBVV95cUxOMFNwUmYxODhfbTVxZWhPM3F2eWdKYW1EQkwxZEZNQjBFU0hia3lnckNvbloxUmo2R1J5U0hZMzhMLUcxSlVPMzhHYS1tdGExWjkxbU1IZElBQ1NrUFFyWDVXcm5vdW5lSmZZOWZvM3o1OVhqdTk0X0tmU2l4dGlLeTRCRHY3N2lqOGFSQTZoeGNxNUhXcnpjZTlsTnFiMl9IM2xNeG1aQWpOSlN4cTlaTkZ3?oc=5", "source": "Chosunbiz"},
+        {"title": "연준, 추가 금리인상 열어뒀다…위원들 사이선 ‘이견’ - 핀포인트뉴스", "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE15aWVzT3E2a1pxaUJNdmNEUkNtLVBDVHJDaFkxZXJiTHVfSmI5NUR0dlgyVWswWG9SZTJRMXdKZFRScXVkRnZKMm1mTTI2aGVhalprcDFadmFWanNhWjluSllqbTFCRHJwU3FsZmN0RW1oVVXSAXdBVV95cUxPMlNjYWtJajdvVnVOS3ZDQ25ybXFNV1lkZkpHbUI3LVM2RmduejVaLThJVDI1NGNKUUN4WDljbEk4VDQ1UVBITDE4M3dsbWhYamFhXzhmbVZPNGRHQ3ZQSlpkRFZrRFZoNnNvaTN1Q04yT2VnZVA3SQ?oc=5", "source": "핀포인트뉴스"},
+        {"title": "“미 기준금리, 12월 인상 가능성”…장기 국채 금리 또 급등 - KBS 뉴스", "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBVUEkxcC1oSGVNYUlKck83MVVxOHNqRE9lNWVXU1JFWHAtUk1EWkIwRlUzRGdEWUw5X1E5UVhpUDQxX2poSTAxTnlTOHB3VTItVUFXU0ZCZ1lsc2s?oc=5", "source": "KBS 뉴스"},
+        {"title": "연내 금리인상 시사한 9월 FOMC…트럼프는 또 '인하 압박' - SBS Biz", "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE82V1pvSzA3cEVEUS0wbHoycGxKSjg1V1Q2djNna2ZhcHZDZ2xfZzRqNzlfb3UteklYUmNmMld2SDNQU0l6ZjRtTDVGU3lKVi1BOVZr0gFYQVVfeXFMUGhBMXNCWWxoVDB6V29RelN2NVpUUHVjbTJ5Rmh0eXF1dlZBdjZyMVFBTFBKeHlxeGUzTHR0c184WHloLUtSR0p3ZnExZTZvZ296SzUwREVlMA?oc=5", "source": "SBS Biz"},
+        {"title": "Fed “연내 추가 금리인상 적절”…시기는 못박지 않아 - 헤럴드경제", "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1KSXNuV3pXanFEMk5DeWh4UFhvYzcwYWpGc1NsMk8wbHhrdEVEcExsSmNXUGJRS1h1Ul9VWXEwVGdJSjV2MVV6eU9pa2RtdjNBcjBLemp3?oc=5", "source": "헤럴드경제"},
+        {"title": "매파적이던 연준도 예상 못한 변수…'고용쇼크' 후 금리 딜레마(종합) - 이데일리", "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNM2JvTzdTV2pzaGU1NXM1Q3pScVc5MTNIZ0tpM0dvRXlfVGJaemgxWkFoUk5OZG1Rb2xQblJPRUVNQzV1bnFxUUcyS0JENk5xQW5KdmhnTU5sYm9CWko0N1FxbldtWjBvUXJ4SXNJaGEwSzg3cmN3QUtYOGstM3EwUA?oc=5", "source": "이데일리"},
+        {"title": "연준, 9월 의사록서 추가 인상 신호…\"대부분 연내 한차례 더 적절\" - 이데일리", "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTjRVM0lEUExjSTZ0dkVPVEI3SUltenFZVHdxZDFEU0h3em1LTFRaUVhweXJQR2lmN29yaEZUN2JxYzQxMmZ0RWRRaEVBMDVNeXlrTk1TaGhzVjNzS28wbkRrQW84N1YwdDZnX2p5OVoxRldfR05ROXRCZ2x6NEliUg?oc=5", "source": "이데일리"}
+      ]
+    },
+    {
+      "title": "부동산 정책 공방 가열, 서울 거래는 멈추고 월세는 급등",
+      "summary": "국정감사에서 부동산 정책을 둘러싼 여야 공방이 이어졌다. 야당은 토지거래허가구역 해제가 집값 상승의 원인이라고 비판했고, 여당 일각에서도 정책 기조 전환을 요구했다. 오세훈 서울시장은 이재명 정부의 부동산 정책이 지지율 하락 원인이라고 주장했고, 청와대는 오 시장도 서울 집값 상승 책임에서 자유롭지 않다고 반박하며 책임 공방이 격화됐다. 한편 서울에서는 매물 7만7000건이 쌓였는데도 거래가 멈춰선 반면 아파트 월세는 1년 새 14% 뛰었고, 국토부 장관은 올해 수도권 착공 목표의 최대 88%를 달성했다고 밝혔다.",
+      "importance": "상",
+      "articles": [
+        {"title": "\"월세 잘 나온다\" 덥석 샀다간…투자할 때 조심할 점 [심형석의 부동산정석] - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Dbjd0Q0E5eXJCVkhEU05yR2M3d0VzTUhNbGdKcXBRQThaN1VPb29ZRENucGxENS1WYkRJcUhEdF84aW1FaWR6Wjl1MUlVS1JPaHJzelNoSkNUZw?oc=5", "source": "한국경제"},
+        {"title": "[데스크 칼럼] ‘누더기 대책’에 갇힌 부동산 - 핀포인트뉴스", "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA2bDk0WDhjaUdIVzhWQTFRZVdpRzJ0N1Y4UUJIUnhfVTk5QlF0RFRjcXZqVURQTTY4bW5WRXVIR3FHNzVtQU8xVHBxWHlTU2RSdmxWVmI5VjMwWWJ2cmpiLXFqVTFUMjVjT2NwWVpiQWtZdWPSAXdBVV95cUxNbWY5WktWVEdkd0hXSGljT0tLUm45OERWTHU5dXhqY28yOXdUYlEzVENoYkY5RHRxekViOUFhM2UybWcwTFNjcE51QWFpMTQ3eFBYcFVoeHdXTEVSZkRmNFc3TmN1NlBWODhiMk9UakFsWWIwSWNFZw?oc=5", "source": "핀포인트뉴스"},
+        {"title": "오세훈 서울시장 \"31만가구 착공… 정부의 규제개선 뒷받침돼야\" - 머니투데이 - 머니투데이", "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9WcDYxZUhXcGp6ZUpuQnN5SXJIZUhaRVZQV0lUbUJLR0FFT0U0ejRNQWJZTG55ckhwVVNyNVB6UVVBd0FZV1FOaUY0RG96VXcwUjBjRWZ4blhQcVFBRGhZU2l2ZEZ1Tmo0elHSAW9BVV95cUxNOEF5MmN6aU5fY1UyeHI3aVJ6ZlJsVUdlYV9LVjNnd2RxYXVodHFQNEFJV19KbUc2d3R3c2ltajJtbEJoUEJPX1RnQi1OQm5Wc19lN21UbUg4ODFEa0owRUY2X0V2ZVN3QmV3SFdYSU0?oc=5", "source": "머니투데이"},
+        {"title": "오세훈 \"李, 부동산 정책 정신승리\"발언에 靑 \"오 시장도 책임 없지 않아\" - 매일신문", "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1WRUlPM2h2TGVXenVaa0YtcDZXNC1ocTBvQ2N0amNHMDBGc0NqeXdVQ0ZfQ2YzNEJGS0JvSlBZWTNoWVBpZzFOb2IzeU8zNnhJSVAtc3ZGUE1RbXNabE5GN0lB?oc=5", "source": "매일신문"},
+        {"title": "\"매물 7.7만건 쌓였는데 살 사람은 없다\"…'멈춰선' 서울 부동산 시장 - 머니투데이 - 머니투데이", "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5nY29za29zZDQ3YTNvazRyUFZUUVBmUzFzMGRoOGFjUGcyQWRaT3MwT2diVVRqam1abzNmWWlja1pPemNxOVByM2dzbllJY2R1R210WHRvbXZ4Q3FuLTVTMFZWWG1XR095cmlienV2WURYclRmdy1r0gF8QVVfeXFMT1RXNjlMd0NVMDNVNy02WHRJSGx1cjcxanFDd2tWazNHS01US2lLclFneHlHRDBiRTBhb1VHREdVbUtrZTIxMzB1YU5UZEo4S0VtSHZSWDNwRlJOQkNmMDdaWU1CQXJlUzhkeTRsR2g5MkQ2NnRFTGxaNWpxMQ?oc=5", "source": "머니투데이"},
+        {"title": "靑 \"오세훈 서울시장, 부동산 문제 책임 자유롭지 않아\" - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE81NW1ZQVNoT1MyUFpqdUNYRzU3LVZWV0ZBeTROWHpnSEhUcGVLdUVMMXNJZkNNMzBqOU5tRnRvaFhMcFFsalg2OHJjX2kyM19kSDhIUkZ0X05kQQ?oc=5", "source": "한국경제"},
+        {"title": "‘서울집값 상승’ 공방… “李정부 개입과도” vs “오세훈 비협조적” - 아시아투데이", "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Qeml2cVhLUmhIaEkxWko4YzZKYmJNNDhDeGZ6TmhhNFZ6YW9Eb1I2dDZRc3FMTmJ4VDVnUFVicHV5ZmZNZVNWOFh4d1ZyUmFpcWxaOG9DdXQxOWpqX3FDLUJQd1VnWkJYclRqNGpn?oc=5", "source": "아시아투데이"},
+        {"title": "[2026 국감] 부동산 시장 불안에 여야 공방…“토허제 해제가 원인” vs “서민 잡는 규제” - 데일리안", "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNQ01NNjdkUzdzSmZMMUZkX3VaVDhoT3hwdlN0UzJrZ2ZnVGRCelZ2b19BSzVWbVh1aWtlX0IwLUg2SXlMNmZjRW9McTdRYkdNSmJRd2ZJODFxeVZQaVNwRFFRX0VzMDdNRFZFeHBqcnlhZzdESmxyam5CQWZiWnhBdXdGUkdOeVdUVFVmRDh3Rkl1QmNqeXlXbThfSkpXY3FJcXItM2Z3dlRMczFjWUJ3TllYZkxHSTFqX0JTeklJdUkzMTJQaVdTUTY0QUl5Rm9MLUpkNzd1Rk9WWmhuVWhIN1BHTWt0TXN5VW8xRHRB?oc=5", "source": "데일리안"},
+        {"title": "서울아파트 월세 1년새 14% ‘껑충’ - 매일일보", "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9IdWpDTVBVSUx3LWdPOXRITk9mNWxuNmtfUkk4VkNadXYtZ0RiYm04ZGVhaDFBSGxPQk0wckdCNERZZ1phQS1lQURQZ3d4VnVZQ3k4SlNtRF9IMXd1cWZ2REF6djg?oc=5", "source": "매일일보"},
+        {"title": "홍지선 국토장관 “서울 집값 연말까지 상승폭 둔화될 것” [국감] - 이투데이", "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0xNnZHaFh2Q1JiQU9qa2hqVFZFOWxYcUVfZnlwRnNoSVFiWmZfNHRQUzZtOXZXYzRYd1pfb29TVFBkUHZtR09iejdQOTBiU0dyU3FFXw?oc=5", "source": "이투데이"},
+        {"title": "[李정부 '닥공' 시험대①] 집값 86주 신기록…강남 꺾여도 외곽·전세는 뛴다 - 데일리한국", "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE04M2VIa1l6bGxZR3psamNWU21JZjVsZl9sOEVkVVk4SkYtaXVCZmpZa2R1NDhuTUtFbzl1YnA2VDJOQnlGY2M5c2tPMUE2azljcTk4Z0Rubm05STlCRXRNUjktWEdxeUF3cmhBY2RhUdIBc0FVX3lxTE4xOTlIdnFCZ1ZaeUZLUXVxWmpnVU95cjVqdmxFN0dsRlhVSjRnaUVnaHlZTllUc1ZEN3hNcU1Ud2YxWmQxUmhFb3NITHV6RnRMZW14TGNqZjJOZzFqWXR2RlNFRXAxd1BhRGxsLUZMUjVHRlE?oc=5", "source": "데일리한국"}
+      ]
+    },
+    {
+      "title": "삼성전자 3분기 실적 발표 D-1, 영업익 100조 기대와 환율 변수",
+      "summary": "삼성전자가 8일 3분기 실적을 발표할 예정인 가운데, HBM 수요 호조에 힘입어 분기 영업이익 100조원 돌파 기대가 커지고 있다. 삼성의 차세대 HBM4E가 엔비디아의 품질 테스트를 통과해 주요 고객사 납품 문턱을 넘었다는 단독 보도도 나왔다. 다만 원화 강세(환율 하락)가 실적의 변수로 꼽히며, SK하이닉스도 환율 영향으로 3분기 실적 눈높이가 낮아졌다는 분석이 나온다. 투자자들 사이에서는 실적 발표를 앞두고 기대와 경계심이 동시에 감지된다.",
+      "importance": "상",
+      "articles": [
+        {"title": "삼성전자, 분기 영업익 100조 신기원 찍나… 환율 변수 - www.dt.co.kr", "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE53NGxqdXpFTGpnZU80QkpFdmp2MTZ4RDdYYWl5Q0N2SlFhYTl3RnR0UVFBQktqSFVSVlRtM3hNOGREN1Y4czN6RUxCUGdUdw?oc=5", "source": "www.dt.co.kr"},
+        {"title": "\"영업익 100조 보인다\" 삼성전자, HBM 날았지만 환율 '관건' - 데일리안", "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNNXhmY1R2NF9adUdsVTZWTDRSY080blZBdXBfMDU0b2JVNWtlaExnSkdpZUdnSHNRdmFyN1hqNWhqdmUzNU9vM0Frd19wbjBIWmNqX0gwNVd2RkVKV29MQkkxLU1CLXQ2Wm5SejFjTHNjejhXNm04MUhpS2lRRlhOZ3Z0QUVrbzVJSGJVckpIWThIeUF6M1I0endaWWhkX2pkejF2YTdwREg1WVJYX2prbUtoaC1wUV9iOHlhWlJyRnB3ZW9OcUFib05SOEVKZW9sRTRXaHpSQ181RzFzdmkyVkM4dHRfRU1ydlpaYkpB?oc=5", "source": "데일리안"},
+        {"title": "'100조 시대vs환율 부담'…'실적 경계' 삼전닉스 동반 하락[핫종목](종합) - 뉴스1", "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1iTWg2WXpJLUU3eTgyUXliOC05STRIa3JFT3VCOTI1bTFXS1c0OHc2eDlSSHpqNGp5eGRycUpLYmh1bWlBN2RsWldEeGdyODIyTVA3cXN0ZEJiTmM?oc=5", "source": "뉴스1"},
+        {"title": "[단독] 삼성 'HBM4E', 엔비디아 문턱 넘었다…주요 고객사 품질테스트 통과 - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4xRUlUcVd6RDJhTjRFRi1GOFN2TmdxSFdGUC1EWV9fd1FaRWI0S19HN2IyTlhjeVVldG5fYUI4a21PTW5sMlFLeWpCaVBHTkZhNldiaHh0ZGxsZw?oc=5", "source": "한국경제"},
+        {"title": "“물떠놓고 빌어온 8일 운명의 날”…삼전 개미들 기대 속 월가 경고는? [재테크+] - 서울신문", "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBPelpmSTdna1ZKd19VOUNZV3EyWGlwN05rZ0M5eDdINmtoMTVkTjJ1MkJlMHI0b3RHY200MU44YVJ2MjRBTXRFdFo1TlRkR2FyQ0pvcW83VFJpckhvUGtWQXF0aks1MG96VHcwdFItTQ?oc=5", "source": "서울신문"},
+        {"title": "[버핏 리포트] SK하이닉스, 3Q 환율 탓 실적 눈높이 하향에도 주주환원 90조 눈길 - IBK - 버핏연구소", "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Za1ZMMDVMZEZIUjJ6Zjg3ajFZU1ByaGpiVjNCNWRndVFZbVFPZ3JiZS1sWlBUUC1wV0t2dlV5QTk1WXd0OG9XR0M1djF6UVNNMlVVNDNCZWp4OURtNlc3Tmdn?oc=5", "source": "버핏연구소"}
+      ]
+    },
+    {
+      "title": "인도중앙은행, 3년8개월 만에 기준금리 0.25%p 인상",
+      "summary": "인도중앙은행(RBI)이 3년 8개월 만에 기준금리를 0.25%포인트 올려 5.5%로 인상했다. 이란 전쟁발 인플레이션과 루피화 약세에 대응하기 위한 조치로, RBI는 통화정책 기조를 '중립'에서 '신중한 긴축'으로 전환했다. RBI는 동시에 2026~27 회계연도 성장률 전망을 7.1%로 상향 조정했으며, 추가 인상 가능성도 열어뒀다.",
+      "importance": "중",
+      "articles": [
+        {"title": "3년 8개월 만의 반전… 인도, 기준금리 5.5%로 전격 인상 : 경제 - 재경일보", "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE01eEZhdFozRklnV1NKbjVqblJ5NjliWTZZcUpqOFFTRi1Mbk40Q0ZhM040dGhkMVo4NWp6QVJYMUUtS1diOV9xWXNqQQ?oc=5", "source": "재경일보"},
+        {"title": "인도, 3년 8개월 만에 금리 인상…기준금리 5.5% - 서울경제", "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1qcEljcENndDNtMkFXMG5udUJIYkhCT205RENPRng1UDRaR19yYU1mbHhiRi0wSUJvWm1rd1FXSFdEeTNaQUkzZlJLcXRUX1JSSnfSAVNBVV95cUxOOUZnTzB0NENSNld6UFJua3lqQnlIcmh5MzdpSnVKekYwbGZZOXJWN0FMVldYMlZObExhaTFLak1BclFXbVpVYjY1STNhakRFT1pCRQ?oc=5", "source": "서울경제"},
+        {"title": "인도중앙은행, 3년8개월만 첫 기준금리 인상…\"인플레 대응\" - 연합뉴스", "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE40Rl9zS1g4X0QzWkRHOUtUNk9IbExwQVJyMHkzS0dqck01XzZmMXRicmtNM2M3bTVUQnZJNzN5NFQtNkswNVZkQ29EQXBJNjV0QktPV2xOeEVMVUXSAWBBVV95cUxNbUtZRmxoZDdCVFJiMDJlV0o2d19CR1ByQlpHM09qYlpETnMzMmpheWNxbjdwVDdHbFI4dnJQanZQeVUwbFNMM01BdmRRbDBBZlZWMENkLWo5dHB5UnZQYUk?oc=5", "source": "연합뉴스"},
+        {"title": "인도중앙은행, 2026~27 회계연도 성장률 전망 7.1%로 상향…기준금리 5.5%로 인상 - 파이낸셜뉴스", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBHazBDZFlwRmdtNEJsS3BCX3RJYTk3cXlkTEFOeFBJX2I1UUdDbGNyczU1RHlramNCSWFRNkdVRmROU3NBTXNuQ0VMa2JaS2ZqcUFoT2RKZFBRUQ?oc=5", "source": "파이낸셜뉴스"},
+        {"title": "인도, 4년 만에 금리 인상...'중립'에서 '신중한 기축'으로 선회 - 뉴스핌", "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBzaElFX3h2Zk11bWdzRVBYY0cwNmlFSExHbDR4aEhKaGZMcjFveGhHS0RqTFVHRjZOZTJIUmI4WFdoMjRjTEdJUFBCUW1PeDhTblRaR0tBSFlVTUVV?oc=5", "source": "뉴스핌"}
+      ]
+    },
+    {
+      "title": "삼성SDI, LFP·전고체 배터리 소재 공급망 확대",
+      "summary": "삼성SDI가 ESS(에너지저장장치)와 전고체 배터리 등 신사업 확대에 속도를 내고 있다. 포스코퓨처엠과는 6조원 규모의 LFP(리튬인산철) 양극재 장기 공급 계약을 체결했고, 에코프로비엠과는 전고체 배터리 소재 공동개발에 나섰다. 증권가는 보상금 효과로 3분기 실적이 컨센서스를 상회할 것으로 보고 목표주가를 상향했다.",
+      "importance": "중",
+      "articles": [
+        {"title": "[다시 뛰는 K-배터리]① 삼성SDI, 기술 투자 결실…ESS 넘어 AIDC·로봇으로 확장 - 대한경제", "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1qZ0RCUWsxcjF1NGpMQ0JQNGk5MkdJU0g2YUhLbF9ZTXdZcC16Xzc3cU9LVGx2WVhZX3E0Rkt2aTBmTmpPXzN6ejh6b1duWWZaYnNJNHZtT2xoeE9CNV9mNVVmMk1sWnlTZ3NHSHVDTng2QkU?oc=5", "source": "대한경제"},
+        {"title": "포스코퓨처엠, 삼성SDI와 LFP 6조원 공급계약 - 글로벌뉴스통신GNA", "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1McjRmOVBBc1VjM3FUaWlEc0Z0UHQ3Ump0YzBCVmQ5M2V4V2N6a3gtR1pfYTMtYWlGdnI4ZW95Z0JSc01GRU5HRi1naDZiYTd0M1FGRDZ6M0VGYWxjQjlBX012VThZdDQ4RExjaWlZeU1abDY0?oc=5", "source": "글로벌뉴스통신GNA"},
+        {"title": "에코프로비엠·삼성SDI, 전고체 배터리 상용화 '맞손' - 노컷뉴스", "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE54SzJaeHEzM2Z4M2NpbTFLdjl5anVvX2FZTFMwNW5XU195dG1EN0Mxc2pTWFpDa05RUTl3b09CS3VWMm11Qi1TelNSSGJJQm5WQ3c?oc=5", "source": "노컷뉴스"},
+        {"title": "[포커스] 삼성SDI 두 장의 카드…'당장의 규제'는 LFP로, '다음 기술'은 전고체로 - 투데이에너지", "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9jZi1xRWVhcmlDa3E4eTNiNS14bUV1VF9ydEY1dWQ0enBZamI3RWxzSGZsVzhhOXNGZXVYMHRiQ1RaaDI5OS1TZFdZcnNIa1lnY2hJZDk5OHd1cWVsM2NQalB1dzkxN0dHQ3FUQg?oc=5", "source": "투데이에너지"},
+        {"title": "AGI 시대 준비하는 삼성SDI…\"ESS가 새로운 성장 기회 창출\" - 머니투데이 - 머니투데이", "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1wblJ5akhMSXQ1NGhSMGFITlUyMDVoa09EeU9kb1U4dVZEQWp5N1JZRTNLMUs4ZUZ3SnBmUGxEXzhHc2xRU04xU0d2MmJKVS1DXzgyRjZKeWJiRWZwRVJ0ak1MZ253bUhIbTY1U9IBckFVX3lxTE1JZGhMeC05a2xUSHNMRTV1Vi03SGdhVnBkdmdXQzRtc3NhNDFkSWNGT0VUenk0cFlLV3VZLV9ZcnJxWjZHa2l4YjktQUxLTkZCSG1xd0xUUHBLRmd6MXpzUy0tMWNnMnVPR2xyT3REZEpnUQ?oc=5", "source": "머니투데이"},
+        {"title": "[리포트 브리핑]삼성SDI, '3Q26 Preview: 보상금으로 컨센 상회' 목표가 840,000원 - DB증권 - 뉴스핌", "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9qZVdrUVh0WUUxSUhiUkw3TjRTNWZpYThSdnhsZEFhc2pwWHpteVpZelYtX2p5NlI1M3lWc1NnbHFqejluTkNiN2dQZTlWSldLSDdtUXhuTnlQaDZa?oc=5", "source": "뉴스핌"}
+      ]
+    },
+    {
+      "title": "美 밴스 부통령, 한국에 알래스카 LNG 참여 압박",
+      "summary": "미국 밴스 부통령이 한국 정부에 알래스카 LNG 프로젝트 참여를 압박하며, 한국이 빠지면 일본과 사업을 추진하겠다는 입장을 밝힌 것으로 전해졌다. 이는 미국의 대한(對韓) 통상 압박이 반도체 등 다른 산업으로도 이어질 수 있다는 우려로 이어지고 있다.",
+      "importance": "중",
+      "articles": [
+        {"title": "\"한국 빠지면 일본과 한다\"…美 밴스, 알래스카 LNG 압박 - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBBLVNuYjc2ZGR0VGtsWHJYdmVQNTJTX2E5eDkxa2NsaHAtWDBsMG9XdkF6ckxoTUV6NGZLNmtteF9aaUdxUVJBOEp1QmVhbmNEOFdhbjlUenJrdw?oc=5", "source": "한국경제"}
+      ]
+    },
+    {
+      "title": "李대통령, 적자기업 포함한 보조금·세액공제 '하이브리드 지원' 검토 지시",
+      "summary": "이재명 대통령이 적자 기업에 대한 선(先)보조금 지급과 생산세액공제 연계 지원 방식을 검토하라고 지시했다. 보조금을 먼저 지급한 뒤 이를 생산세액공제에서 차감하는 '하이브리드 지원' 방식이 검토되고 있으며, 지금까지 지원 대상에서 제외됐던 적자 기업도 포함하는 방안이 논의되고 있다.",
+      "importance": "중",
+      "articles": [
+        {"title": "李대통령 \"보조금 준 뒤 생산세액공제서 차감\" 지시 - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ZN0dTU1kzSHhzUjF3aHI5eEMzRjFUbmcwX0JIQ1Fqa3FoMWNlU1poblpCWnNQMGlFWUZnWWVFdVJORHlxa0pIV21UTE1BaGZMckRncXlrSEZlQQ?oc=5", "source": "한국경제"},
+        {"title": "李대통령 \"적자기업에 先보조금 검토하라\" - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE52YWlqRkk2MmpDd2ktNDdLY015TGh1amlraWVUeEp2d2NudF96WDBxbzZQS2RTV2Iwb214ODgwd1JibEhrQUJqY29TaTVvRk5hVVZGU0dmcTlLUQ?oc=5", "source": "한국경제"},
+        {"title": "李대통령, 보조금·세액공제 '하이브리드 지원' 검토 지시 - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9mUTdMVFJwbHNRTG9sX1l0dXB2UGdnY3lTb3VvdWMwWFhZOG1XUnVpX1EwdFpMZDRPT2VSR1k0T2JRVjJzRjFSWXpZdF9rQzBpOXVBMHhxM2dkdw?oc=5", "source": "한국경제"}
+      ]
+    },
+    {
+      "title": "노벨화학상, 의약품 제조 공정 혁신 '비선형 효과' 발견에 수여",
+      "summary": "2026년 노벨화학상은 의약품 제조 공정을 혁신한 '비선형 효과' 발견에 기여한 앙리 카강과 소아이 겐소에게 수여됐다. 수상자 중 한 명은 장을 보다가 수상 소식을 전해 들었다고 밝혔다.",
+      "importance": "하",
+      "articles": [
+        {"title": "\"장보다 소식 들었다\"…日 노벨화학상 수상자 고백 - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBzUHRZRDFMeUlKTkxrLUtPZ01ROGtweEZVcDAwTFk2YjY4LWZvd1lRaXgxNk5JZWdIdl9la0hpeDJ2aUZYdG1XTzZFanNEU09Tb0JZR21YbUR5UQ?oc=5", "source": "한국경제"},
+        {"title": "'의약품 제조 공정 혁신'에 노벨화학상 - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ZcXJzNE90cGZNcnV1aXZIc0lMelVPYVZUcWI3UUxOR3M3b3RkUWpjREM2ejFnazBDbHE2YkczUEwxcE1jTUtoWkF0N0hxYjN0elpKR0FnZWFhdw?oc=5", "source": "한국경제"},
+        {"title": "[속보] 노벨화학상 앙리 카강·소아이 겐소…'비선형 효과' 발견 - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE92eWZqX0lxWWlfaTZZN3JQdTVzMEJvalhmaHZjc2lZWU9kcjJsZl85LWR6VHNlYkktTXJXVnhXVmdZaGgwN0JoeVJFVkFrMWNNY1pmb2hyX244Zw?oc=5", "source": "한국경제"}
+      ]
+    }
+  ]
+}
