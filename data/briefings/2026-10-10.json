@@ -1,0 +1,123 @@
+{
+  "date": "2026-10-10",
+  "topics": [
+    {
+      "title": "코스피 급락과 반도체 '실적 역설', AI 버블 논쟁 확산",
+      "summary": "삼성전자가 3분기 영업이익 107조원이라는 역대급 실적을 냈고 미국·일본·대만 증시가 동반 상승했음에도 코스피는 하루 2.62% 급락하고 석 달째 박스권에 머무는 등 '실적과 주가의 역설'이 나타났다. SK하이닉스 등 반도체 대형주는 석 달 만에 90만원대까지 떨어지며 33% 급락했고, 한 매체는 이런 국내 증시 소외를 두고 '-30%' 수준의 격차로 표현했다. 오픈AI발 AI 버블 논쟁이 확산되는 가운데 3분기 실적 시즌과 TSMC 실적 발표가 다가오는 미 금리(5%대) 변수와 함께 10월 증시 방향을 가를 핵심 변수로 지목된다.",
+      "importance": "상",
+      "articles": [
+        {"title": "미 증시 최고치인데…\"코스피 석 달째 박스권\" 이유는 - SBS 뉴스", "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE80QnlmeXpta1dCMnVTdHM3X0wtaVdORExlcGRJdGRBVDZYNXlGZ1p6UWNURnhlYWllNl83RkVxcjRjQkROc3pkWlpvNlJzZWdJZUhrMjY0Mlp3YklDUkFyak1JV1dwSFJubGc?oc=5", "source": "SBS 뉴스"},
+        {"title": "‘이러니 국장 탈출하지’ 미국도 일본도 신났는데…코스피는 무려 ‘-30%’ 악몽 [투자360] - 헤럴드경제", "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA3Z19DWkVyRnVVVnFCVTlTLTJQbDhzVWhENVFMMVNTcmwzYjF3cjRNR2lzUDQyc3QtejIwYnUxRVpIRnh1b0lLSFNnUW94RmVXZHYxSVF3?oc=5", "source": "헤럴드경제"},
+        {"title": "日·대만 달리는데…3대 걸림돌에 막힌 코스피 - 매일경제", "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8zRDB1Q0tfN3BYZkc0b1pIUkV3VlhYWmVmNHFXRXQyU1QweFZOWXFMU2YzOEV1ZDZQOFB2cW4wYkEzX1pSS21NclRQMXpjcHBUTUE?oc=5", "source": "매일경제"},
+        {"title": "\"실적은 대박인데 주가는 왜 이래?\"…코스피 덮친 뜻밖의 공포[주末머니] - 아시아경제", "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA2ZjJUZ19od3JCdjdoTVZaeEtxTFNsQUllSnlETmZWTEN4aUsxZWtrSjg2TWZoOTV0MW1xQTZGcXVGZ1FNOC1RNUF0OE9lZ2ZHMktueE81aHhPYzA4bmJmOA?oc=5", "source": "아시아경제"},
+        {"title": "[영상] 삼성전자 영업익 107조인데 코스피 2.62% 하락…왜? - 서울경제", "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE55YW1xV0Y0SEtvcEstcXFNVWJFOW9UX05zOUk2Z1hVQVdCQU9JYVJ3c1c4cDNNQ0tXOHB4ZjlubkN2QUlwZmtJekF0LWxVVEpyTWc?oc=5", "source": "서울경제"},
+        {"title": "반도체주 담은 개미들 '술렁'…67조 쇼크에 '무서운 경고' - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5YTlFVVXFtYzA2Uk92M1otNkhoM3J3Vjk1Nmp3TXBKaUljUm9xZndFeFhFSzJlaF9naENCUE4tNWMtcGpKOTVISG04WXhrbjI1N2xYV210bWRzQQ?oc=5", "source": "한국경제"},
+        {"title": "세달만에 90만원 뚝, 33% 급락한 SK하닉…코스피 톱 10곳 중 8곳도 떨어졌다 - 매일경제 마켓", "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE01SFBDMHlZcDl4ZGtmY0JhYlZpOHFMY05oNy1iZXd1Ym1KbjU4N211LTJsaDdYRU5FWFlzaXdheVN4VnRyckVMM2hsZ0d1UWNYRUE?oc=5", "source": "매일경제 마켓"},
+        {"title": "5%대 美 금리 vs 불뿜는 반도체 실적…10월 증시 향방 가를 3대 변수 - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5QTWl1TTNrc0JDeGVWR2tIaGFGREFPd2V0U2hVOUsyVW9YWWNaaEZZTkpteU5xenVxSUtYVkhtd1JDcjZRTnZPVlRfZmxpOW90SE85aE1qSWJhUQ?oc=5", "source": "한국경제"},
+        {"title": "계속되는 'AI 거품론'…TSMC가 답을 할까 [다음주 주요변수 미리보기] - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4yOV8yUktpYVA0V2ZIX0x3ZmotdDY2VlMyZklkeVpvbGd2QW1aTnYybzVQQlNiRllXYk01Zk5VVk85ZncwMVNIRVc4bjJBR1IxdnNLRF9sUFRlQQ?oc=5", "source": "한국경제"},
+        {"title": "오픈AI發 버블 논쟁…다가오는 실적 시즌[월가 백브리핑] - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9aV09NWmI4TEstN3JPZmRrTmRfd29Iay1Wa0xwTnhLTTZ0dlIyTDhVS0JBOTRpYzEtMEpyQXUwVWgyNWRudTJJb2MwWS1taFJOSUZCNXM1TkFzQQ?oc=5", "source": "한국경제"},
+        {"title": "AI 주식이 급락한 진짜 이유 - 네이버 프리미엄콘텐츠", "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOOTdqV21MaVo2cjFZQV9qNWx0TzhwVENMVkNZSHZMTXBxaHRQQjBRUU1hV3ZaUTA0a1NnWkt6QUU0NGxtTXF4dlJJaUY4OXBhbi1oN0gzNldCYk01YlphRGVhVFJWRWFfME44eFVySXZ2aTF1VkxvWXVpSU0xZHpGOVdCZi1qRDNtajg4?oc=5", "source": "네이버 프리미엄콘텐츠"},
+        {"title": "3분기 실적시즌 개막…'깜짝 실적' 예상 종목은? [한경우의 케이스스터디] - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBHLUtSYnFLRkR3ZzNUSjBBbXdtTGhMcFdaYjBOMl9zOVlIMmIwM1dvc09kaDBRREVPdmVmV1N3NnFFLThzSjR2d3hKV3ByanBXNnd4bFdPeEJxZw?oc=5", "source": "한국경제"},
+        {"title": "삼전·하닉 언제 팔까…8400억 IT펀드 수장이 찍은 '매도 신호 4가지' - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBMX3lsNjNHblJUeGFtaHhIM0Y1bUljYlU1V09yWkR4NXNhOTNUbllaR291cWc0Wmt3dUw5d3pXVGwyZ0l3OXVBemFEanhXSEJjQ1gyNFlJb2ZTUQ?oc=5", "source": "한국경제"}
+      ]
+    },
+    {
+      "title": "한·미·일 기준금리 갈림길, 대출·예금에도 영향",
+      "summary": "일본은행은 이달 추가 금리 인상 가능성이 제기되고, 미 연준은 2연속 인상 여부를 두고 내부에서 신중론이 나오는 등 주요국 통화정책이 갈림길에 섰다. 한국은행은 10월 기준금리를 '매파적 동결'로 전망하는 분석이 많지만 미국의 추가 긴축 여부가 변수로 거론된다. 금리 상승 흐름 속에 국내 대출자들의 변동금리 쏠림이 흔들리고, 예금금리는 3%대 중반에 안착하며 고금리를 좇는 '예금족'이 늘고 있다.",
+      "importance": "상",
+      "articles": [
+        {"title": "日, 이달 또 금리 올리나 - 조선일보", "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVWptQjdLbk1HeXJnakl2YUZUaXFEZ2ZsUzZWNFh6ZmFDMF93eGp0WUxjekZGTHEwV2tXMVBSeWozVl9qMTFZRmJic1NLVmQ0ZXFfZkpnNEU1bVItM3Ixa0IxNm56bV9SOEpkaTRvRVcxa2wxQXRZRnVwdnpuZHdCVjhVVGxiQk5QWmdj?oc=5", "source": "조선일보"},
+        {"title": "美, 2연속 금리 인상? 연준 인사들은 신중론 - 조선일보", "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQN1NJNGhKZzQyQWhENGhjNzZVTDRsYlN6QkdITml5U09MRjRNcnpQcmttOG9ZNVd3MVJQN3U2UU5JVnF0SVVFNnp1X3dyLVZGSGFNQU91bWxNWlJ1ZTVfZHI5T0Q5S3hsUmIzTXdLV3pJTEtidVNnazMyMmFLaUMwRW1xcFJkVWF0UmlZ?oc=5", "source": "조선일보"},
+        {"title": "우에다, 내달 IMF에서 강연 전망…추가 금리 인상 시그널 주목 - KB Think", "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ZME50WEZlWE1wOW5TYUd2Mi1Dc1YzNlJlc0JJblhtSmp4VzBQUkNuSVZmcURwYW9PYU44WnpLVFlKR0V6aGNoWkFTLVBKWDFrV293cHhrcDI4dmtpUlZGSVpHMEQ3RDRlWFRXcUJqb1E3dw?oc=5", "source": "KB Think"},
+        {"title": "한국은행 10월 기준금리 ‘매파적 동결’ 전망…美 추가 긴축은 변수 - 국민일보", "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9lc1k0TU00b0s5d21VdjBrX3NYMHRiUFhGeUR5cGpjaHRxS3NyVmExalhwTndoYkFsUVZncllJVnRjN19LdXhJamZycDVLNUFOMlVnZEZSekJLdTdNT1J4clVKOGFKd03SAWxBVV95cUxOd3BoNDRYRXJGVU5FV1VURW80amp1MkVIeGh5cVcyV2w4Zk1CVzRrazVmbHg0VGlNaXd3YVFUa3pfbGJHeS1WUnVuR2xISEplbVVoQVNtb20xV2tlVkFLNzhrTDZEZDU5SFZSOWQ?oc=5", "source": "국민일보"},
+        {"title": "오르는 금리에 대출자 고민… 변동금리 쏠림 꺾이나 - IT조선", "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9LQzBEaVhJOXB4RDhrRWVJTjNGUWV3WE8xMm4tSzlLc3RjYnhNTVNnWEhlbHJPa19RWEUzTEhJaXBNdWFYSzNvenI3Z0NLMHpjUm4wenlxTjFRNlZ4OU9COHQ1dGNLVXFxQzVLMDE0NGvSAXRBVV95cUxPZ3VLZUdtNEhFOUlDaEVHX3E0Tk9MV09XQUVwbmdiNmlqNmlrNkNVcnoxdmNyaTVCWEctSlo1ZFFEa1piWkoxdm5wZHFhMkMwZmtwQTkwMmM2cVlCYnI0VjhNbTd4RUk4dHhjZjN6S29rdTdZTg?oc=5", "source": "IT조선"},
+        {"title": "금리 뛰는데 은행주 왜 빠졌나…4분기엔 반전? - 매일경제", "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBWMl9EREtUYXZpNU9YeGp3MDkxVW5XTTdQdkMzOVRSSGpPWFQzZGQ2YjdGRmRlSjNwdjA0eVYzVVVyZklrT1E2Rk1hX0VhSnNDZ2ZDZDln?oc=5", "source": "매일경제"},
+        {"title": "은행 예금금리 3%대 중반 안착…고금리에 눈 돌리는 '예금족' - 오피니언뉴스", "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5pZTR3azZuRmpKRHJzb0xzUmpyUncyR1l6ODc2WFdRMzdUcnVJRDl0eGZET0tDdTlyRmNZTmlJcllYVlZsR1lBdDB5UGNzeHVfbWZDYUNVZDVReGYtaXZHc1djWVNGeVFFN3k0dTMyN28?oc=5", "source": "오피니언뉴스"}
+      ]
+    },
+    {
+      "title": "지방 부동산 'K자 양극화' 심화, 토지거래허가제·임차시장 대책 논쟁",
+      "summary": "지방 아파트 시장은 외곽·구축 매물은 팔고 핵심지만 보유하라는 조언이 나올 정도로 'K자 양극화'가 심화하고 있다. 토지거래허가제 시행 1년을 돌아본 평가에서는 규제의 비용과 효과를 둘러싼 '청구서'가 제기됐다. 국회에서는 주거 안정 대책의 핵심으로 임차시장 안정과 세입자 보호 대책을 촉구하는 목소리가 나왔다.",
+      "importance": "상",
+      "articles": [
+        {"title": "지방 아파트 'K자 양극화' 심화…\"외곽·구축 팔고 핵심지 보유해야\" - 뉴시스", "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE16SjFfTHUwUVBRQ3pqZGxIX0pDWGNlbWVVRlpSWi1ieDdvdXVFMnFfSXdJcXZQV3JVQ2VvbkF0Y3NiVDdpUklHMkRyV21CWHZoVk1OSnpLNElJMG5JN01YTNIBeEFVX3lxTE9rZktyaG9fYUgyYlNSNVFDdTU0VWNUNUlqaGZyMkMwOF81RlR0OEdJRG5TVDhvTU9UYkVENjlsU3BNTU5DZTV6aG1GTWxLY192WF80Nm9LWTRjczk0c2ZGOGFaRExxTHYwR3NoVlJ6MWRSYkFjZzRpdg?oc=5", "source": "뉴시스"},
+        {"title": "[토요칼럼] 토지거래허가제 1년의 청구서 - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE54dlptYTkwUjNaX2JWUkNLSmtyY05SQk5vM2stMkN2bjBFbzNfOVRDTVN3eHp4U0ZkWWhSU2dEbUJ1S0c0cjZUQjRwQ2ZVODk0bFBWNEZEbVR0Zw?oc=5", "source": "한국경제"},
+        {"title": "'주거 안정 대책의 핵심은 임차시장 안정'…국회서 세입자 대책 촉구 - 알티케이뉴스", "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0zUkR0MTBFTEt0MUdncXlRQlR3T3ZOYl9Sb3pZLWlYNG5kaUJZT2I1RmVhcVV4T0RNYW9kb1Fqc0RyRUtfeGd1MGRRRXJ6czlIcnFKdjItbTVRZFRMVWNORFh0cUIxSnp0UGVISQ?oc=5", "source": "알티케이뉴스"}
+      ]
+    },
+    {
+      "title": "빅테크 AI 장기계약 '줄섰다'…삼성전자 메모리·전력기기 공급 호황",
+      "summary": "삼성전자는 메모리 반도체뿐 아니라 AI 부품·전력기기 확보 경쟁에서도 내년 공급 물량의 80%가 이미 빅테크와의 5년 장기계약으로 채워진 것으로 전해졌다. 다만 전력기기 빅3는 AI 관련 수주가 쌓였음에도 주가는 반응하지 않는 등 실적과 주가의 괴리가 나타났다. 증권가에서는 AI 인프라의 다음 주도주로 CPU·기판·MLCC를 주목하고 있다.",
+      "importance": "상",
+      "articles": [
+        {"title": "[단독] 메모리 넘어 AI 부품·전력기기 확보전…빅테크 '5년 계약' 줄섰다 - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE03akxVNWxYUHZlSUFvbW9FamwyYUhWMTZJV181ZkNhZG5xaEtfalBGTDdFV3BSZ0xWZThUZlpnS2hPWmhvU3Y2THdpZVMyQVpnVW9PQkpfaHVBZw?oc=5", "source": "한국경제"},
+        {"title": "[단독] 삼성전자 물량 80%가 장기계약분…빅테크 줄섰다 - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAtSVdKbkE3UkVEbzA0OS13TXhaTElKTkwyOXJTUGJQbmpWMlhIYTBuNnpyc3BQWTE4T3RLNW5uZlA3WVpyYUIteUQ0cjluM2dkeWFET0YzRDhVUQ?oc=5", "source": "한국경제"},
+        {"title": "[단독] 삼성전자 내년 공급물량 80%가 장기계약 - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBud05pSE4taGtwM3Rlekc1VDYteE1qXzgzR0JBd2w0d3llOXBOUlZjeHl2SHNBanFXMkNZdE1YNVc4cDFjekFVbXhKZFNCNW9NdkJqc21iYlBBZw?oc=5", "source": "한국경제"},
+        {"title": "'AI 수주' 쌓였는데…전력기기 빅3 주가는 찬바람 - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1UNVQ3V2hyRzNhUU1NTkxqbXVfN2NBTWg4MlVGaEdJS21NOEJJcWhCY0xKTUhRSGVaNmlXZ1J5NV9XTjViU2dHMktaWUlRbV96MjJZQzFldDFaUQ?oc=5", "source": "한국경제"},
+        {"title": "이왕섭 팀장 \"AI 인프라 다음 주도주는 CPU·기판·MLCC\" - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE14M21DTXpRZVZUOGV2ZHZRc2RKTWlISlotM3BoVUk5Z1hrNkZPZE1LS0RDY280TEZzUV9IYnpQVW5HV0l1WXpfS0R5Y092QVhHajZSU1AtZE9TZw?oc=5", "source": "한국경제"}
+      ]
+    },
+    {
+      "title": "위안화 저평가 공방…중국 \"EU 비판에 정면 반박\"",
+      "summary": "중국은 EU가 위안화 저평가를 수출 경쟁력 확보 수단으로 비판한 데 대해 \"환율 덕을 본 적 없다\"며 정면 반박했다. 중국 인민은행도 환율 조작 우려에 대해 \"필요도 없고 할 수도 없다\"는 입장을 재차 강조했다. 이는 EU와의 무역 협상 테이블에서 위안화 저평가 문제가 쟁점으로 떠오른 가운데 나온 대응이다.",
+      "importance": "중",
+      "articles": [
+        {"title": "중국 “위안화 절하로 수출 경쟁력 확보 안 해”…EU 비판에 정면 반박 - 한겨레", "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1RLXNrRk01ZUN0blNNZXNJLXRPcHo5aTJYcDJWNGg4TjFrWGp5bEJOSHgyQW9oSFFJOHU4V3htMTgzWGhaLTZiTVhydUlVV2pJc3Y0bmJ1aGZUSVdGV1RuOXFvdjFMNjJackFwaw?oc=5", "source": "한겨레"},
+        {"title": "\"환율 덕 본 적 없다\"…EU 협상 테이블 앉자마자 '위안화 저평가' 맞불 놓은 中 - CBC뉴스", "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9LaFF3RjRGWFNYTE1IS3VzZ2J6c1cxVWphMDVIa1FnQnZDQnVjR0F0Z2puMDg2TWt4ZzRfWlZPanB5S2l2QUpHNlVIbzctOU1Wd0JOYkVfM19QckUzYWs5MDRya0pJRDdi?oc=5", "source": "CBC뉴스"},
+        {"title": "EU '위안화 저평가' 압박에 中 반박…\"환율로 수출 경쟁력 확보 안 해\" - 아시아경제", "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1iX3hudFd0T0N4UEZGamYxTjVMX29IM1RNT2h1dFlUYmFrbk4zblFMWFNXdlZ1R1BpYWFSakhSV1lrRlVHd0RFWmd3VkdFQ0o1MnI2NE1mTFlSZmxQUWV4QQ?oc=5", "source": "아시아경제"},
+        {"title": "中 인민은행, 환율 조작 우려에 발끈 “필요도 없고 할 수도 없어” - 마켓인", "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1ocFhXQlJoOW0tME9tODR4RXBSSUd2bGZjendwZG1RNFBabzZqb3dDbXd2a1haWG9mRlJ0Sm9SMllGeHlSaFVnMllrTmNfaEdVOFdqZXpjcFZ2MmlSeWZaeTNHVkwySzBzSXpWUWsxOThlbHM?oc=5", "source": "마켓인"},
+        {"title": "中 인민은행, 환율 조작 우려에 발끈 “필요도 없고 할 수도 없어” - 이데일리", "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUDhVNlZtZks1SVZBTFNSS2xsVHhudy1OdURqelRwbVdHcTZzUnRsdGFuOTBCYzdxNlBJZHlZQ2thc0J4bWxYZEhoYnJlNVJQSlAxOHoza3liN3V0NVlRcFpxUzlSUWZlZlV3TklMWkJRaE9iT0F3WlNIMUJXZjN5dQ?oc=5", "source": "이데일리"},
+        {"title": "'수출위한 환율 조작 안해, 中 인민銀, 환율정책 입장 밝혀 - 뉴스핌", "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4tcnplQkpZYTBJZ1dvUWxYY2dFaHdJdG5zRzlMS1JCVGNJMGFOZkpDdTFKY1IwWHlRV3Fia256UE1LdkxZdGJlaXN3MkVELUhuUWVlZkV4SHIwZk4x?oc=5", "source": "뉴스핌"}
+      ]
+    },
+    {
+      "title": "국민연금 '노후자금 환율 방어' 동원 논란",
+      "summary": "국민연금이 노후자금을 환율 방어에 동원했다는 논란이 제기됐으나, 국민연금공단은 외환 관련 세부 내용을 공개할 수 없다는 입장을 밝혔다. 국민의 노후자금이 외환시장 개입에 쓰였는지를 둘러싼 투명성 논란이 이어지고 있다.",
+      "importance": "중",
+      "articles": [
+        {"title": "노후자금 환율 방어 동원 논란에도…국민연금 “외환 관련 공개 불가” [시그널] - 서울경제", "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAwMWJxcVI3UEgyZHdncnJFX0RwVFlsbC0xS0xhdjdZYk5lR09tekJsdTZJanRaWHdST1V1WVpjRUlqckNOTF9wZVF4SzU4MzFwYnfSAVNBVV95cUxNdUYxMjB3bFdyQjMtTTlXb2JMT0dGNG9oUkpTbFFXMHdNcnMxeVZPczY3NThZWEVzVGFBSFJMVTlRaDk0UDZlNFd3Y2xfSUtTWHh1WQ?oc=5", "source": "서울경제"}
+      ]
+    },
+    {
+      "title": "최태원 SK 회장, 호남 반도체 투자 확대 의지",
+      "summary": "최태원 SK 회장은 호남 지역 반도체 투자와 관련해 수요가 있으면 더 크게 짓겠다는 의지를 밝혔다. 이어 인프라 구축이 늦어질 경우 팹을 먼저 짓겠다며 비용을 아끼지 않겠다고 강조했다.",
+      "importance": "중",
+      "articles": [
+        {"title": "최태원 SK 회장 \"호남 반도체, 수요 있으면 더 크게 짓겠다\" - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9HRmJSWnhSaHg4WnpOaTRUSFBha0l5Y1NoRm5UbG9GcWJBMk1hbXo1d2MzQlltTTlwcFRZRzBzV3RSZGdTLTJFel9hV1RZbDZDUFNqUFhxQ3JGQQ?oc=5", "source": "한국경제"},
+        {"title": "[속보] 최태원 \"호남 반도체 인프라 늦어지면 팹 먼저…비용 안 아낀다\" - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Bck9ONVJZbmh6dTN1eXQ2NzlrVE1uMTA1Vzk3WEZ1eHNWS1pxY0hKbGxnNjNhS3VtVC1kQThDUkVJXy1ncW9aaWhhWVl0ekl2bldVVnp1ODk5Zw?oc=5", "source": "한국경제"}
+      ]
+    },
+    {
+      "title": "삼성SDI, 본업 흑자 전환과 보급형 배터리 전환 가속",
+      "summary": "삼성SDI는 3분기 영업이익이 2575억원으로 본업 흑자 전환이 확인될 것으로 전망됐다. 포스코퓨처엠과는 6조원 규모의 LFP 양극재 공급 계약을 맺어 보급형 배터리로의 전환에 나섰다. 전고체 배터리 전략에서는 삼성SDI가 2027년 황화물계 올인을, LG에너지솔루션이 2029년 원가 혁신을 각각 추진하는 등 서로 다른 길을 걷고 있다.",
+      "importance": "중",
+      "articles": [
+        {"title": "삼성SDI 3분기 영업익 2575억원 전망…본업 흑자 전환 확인 - 핀포인트뉴스", "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBYeUxwUFRYeTB4T19LMFFCbmR1VFI5OE56Ny0zYWxYOXh2N0dvck9LWDlHVll5bWtVSVc4WDJaNklic3U0bWhidlVoZ1FtUUVjY3VDSDNIaDhyRUYyeDVFSjBKaExTSlhKaEFrbDd0Qm9nYm_SAXdBVV95cUxQNUYzZVRWX1ZvcjhpTU1UczFYX0lzaWxCLWR2aW5SV2RRUG5uV1h3TWR4UXhfQkF2UmVIa0RINS1GVGRwenpjaHk3MnlBaEdSQm0xUVBwMmhVQTI3VXY4TzlRNS1TU2d6ZHI0b3pFX2NBdUNhakVzQQ?oc=5", "source": "핀포인트뉴스"},
+        {"title": "삼성SDI, 포스코퓨처엠과 6조원 LFP 양극재 계약…보급형 전환 신호탄 - 리드경제", "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1DMU4yUE80azFHQXZlVlk0OXkyREs1U3lHTTlLZWJQZHAyQi1xTXg2WmNjR3JsRWktSlV4Y3JkNGJ4RGtMcHhfUHpjTW93OVNqaEFVRHlzS3ZEOE1YOHNLLU5VUUFtU3lyQ1pHYXNyY3k?oc=5", "source": "리드경제"},
+        {"title": "\"2027 황화물계 올인 vs 2029 원가 혁신\"… 삼성SDI·LG엔솔, 전고체 '다른 길' - 글로벌이코노믹", "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeUdHdUFSeDdveFBWdVA3SDlwLW5OVEpPSDRzWVYxR2lFQ1lzZl9iaUJPNWszcmM2cnAzNjkybWJzcFJURHlMY2w3ak9oamNXX1RHODJpYVVVRGh6XzgwVWVOWUg2TFdIRzB0NUtyV011TDZCanpVc0hwMERsQlZzYUVFRTh5cTlo?oc=5", "source": "글로벌이코노믹"}
+      ]
+    },
+    {
+      "title": "2026 노벨평화상, 나비 필라이 수상",
+      "summary": "2026년 노벨평화상은 남아공 출신 인권운동가 나비 필라이에게 돌아갔으며, 전쟁 범죄를 국제법 심판대에 세우려 한 공로가 인정됐다. 필라이는 수상 소감에서 트럼프를 언급해 그 배경에 관심이 모였다.",
+      "importance": "중",
+      "articles": [
+        {"title": "전쟁 범죄를 법 심판대로…노벨평화상에 나비 필라이 - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE15bEhubHVVbXZvQ2YxVUN6QjR2eEhRVmd0M2dUQmxqSmhVcmNQaHlBRlQ2T2kyVzFLTi02dzJPOVNScjEwTFM3Yi1LT0JtcXg2WUlkcmpWOGhydw?oc=5", "source": "한국경제"},
+        {"title": "'노벨평화상' 필라이, 수상 소감서 '트럼프' 언급한 이유가… - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5tUmxpTkFmNFNsblQ2Sm5HSEo4N3pLRzctMENzWWxhT2ZoNUQyWGFYUkUxdWhya0dvWDhBZTA2aVBELUN3TWQxOVNmVVBLQ1doemRvMkRQcWV4UQ?oc=5", "source": "한국경제"},
+        {"title": "[속보] 노벨평화상에 남아공 인권운동가 필레이 - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1QZDFualhXa3RSQTZNbnJocE1vUjFmY1laSTVGLTBUWTZkNU9LTS04YThNallncV9GTlR3WGthQzdjUEpTbDZWSzhrcERiOHBVMWExbG1ZaV8xUQ?oc=5", "source": "한국경제"}
+      ]
+    },
+    {
+      "title": "Hims & Hers, 주가 급등락과 신약 기대·하방 리스크 공존",
+      "summary": "Hims & Hers 주가는 최근 변동성이 커지며 하루 사이 8~10%대 급등을 보였다. 씨티는 펩타이드 신약 기대감에 따른 7% 상승에도 17%의 추가 하락 가능성을 제시하며 신중한 시각을 유지했다. 5% 하락 이후에는 GF Value 기준 46.35달러로 현재가 28.06달러보다 저평가됐다는 분석도 나왔다.",
+      "importance": "하",
+      "articles": [
+        {"title": "Hims & Hers Health climbs 10% amid recent volatile trading (HIMS:NYSE) - Seeking Alpha", "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUE5GRURlQTRHV0JDOVlIU1BPSms0MDVXTFVuRC0wNjJTNTRTUjBMckVDMmVXbGdtMkltdmFvenVJSUNpLUpzWlB6WW1vdTBTVzNXaXFqd1paQVlFbFlUcHdaOWl5QUNUUmtGYU42bDlrbGJ6cHpfSjlpYWtDV1JZYy1KcXZBZHkxcjhhU01nUnBwbTZZQkF6dQ?oc=5", "source": "Seeking Alpha"},
+        {"title": "Hims & Hers Surges 8.8%, Adding Roughly Half a Billion in Value - 24/7 Wall St.", "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSHB0Q21qV0NUUW1PdjliVVJyRnV0QlZ1UndLbUZVVC1KWmR2dUdrRlV0LXlGQ1JBWi02MkpPWlY5SWJHZVlUR2p2U0VCclJhNkxWamZCX1M2RHFic2dURjNCMnZfcURJa2YtN1hKSWtWeC05RWZfNDBOdmVSREctblpUbjlwejAw?oc=5", "source": "24/7 Wall St."},
+        {"title": "HIMS jumps 7% on peptide tailwind — but Citi sees 17% downside from here - Investing.com", "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOUHBtOEpjRlZ4UUZwWnB1NklicHNDa3JWeXJEMmxXdHg1SU9wRXhuZjgtMHF6V0J5ZUlhN2o5TVY4YXdwam9SWDZnNTVWR1ZSSXB6NEk1QkRSUGptQ3ByWV83cHVEa2JLbTl0TkE5ZXNobGYtR2NCWUZqQUhRLUVJLUNFSjFPQ1lxbFNyYjBMYndqT2drenhWQkR1YzRSZU1lOXdZZVJmaGd0VFZEaHV4UkwxSmJKZ0hYYWpNQmZTaEhUUmJRckxuc2VyQQ?oc=5", "source": "Investing.com"},
+        {"title": "1 Healthcare Stock Worth Your Attention and 2 We Turn Down - The Globe and Mail", "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxONTFKSzZtUkdTNV9tS3pFQlliWVZYNGQycUY0N0dfaUhXZTd4WnRPU0ZlSG9qbDFkWVJtYkpyQTRHUF9NcGgtSGVyYUE5VmxuQldWcWtibVF1bjlwQk95TmRJeEo1NmIzYmIwUGhxUlgwRW55VEItV1FmdzFidXFiQXRfd0E3QTktWGlKeDVLWENmbXRxdk5PTEdpMFBJLUxZaGtnc3ZNXzNfRC1hZ3pLT3gyVE9zeUxxNmhPLXd1ckJnYm5XNGJrNjhtMHE4VThLcE9zWmUyaE9Qblk?oc=5", "source": "The Globe and Mail"},
+        {"title": "A Look at Hims & Hers Health Inc (HIMS) After 5.0% Decline -- GF Value $46.35 vs Price $28.06 - GuruFocus", "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMk1KOXF5Q3kxU3JGemU3cVB6LW1UdjF0ZW1tSmItX3k1WnBmaTg4cmQ1Y0x4ZFRWV0JHZlUtSktmOXpEU2dxYllUVE5oc2V6YktzZWQ4aVg5ZTBXY2FoeXd6ZmJVZFJMMGZMVjVRVFc0S1RZLTBVRXVwbFE1SmVWdEZVbkFUTFRyUHcwR3phM1piV2hmMVEtWDgwbmxaaU9MUUtyNGZnUVpIOFYtWXEyWjY2SUdPbzZmZjFZ?oc=5", "source": "GuruFocus"}
+      ]
+    }
+  ]
+}
