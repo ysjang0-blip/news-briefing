@@ -1,0 +1,111 @@
+{
+  "date": "2026-10-11",
+  "topics": [
+    {
+      "title": "코스피 6600선 박스권 지속, 美 증시는 신고가 경신",
+      "summary": "코스피가 삼성전자의 3분기 역대급 실적(영업이익 약 107조원)에도 불구하고 6600선까지 후퇴하며 석 달째 박스권에 머물고 있다. 미국 금리 부담과 반도체 업종 약세가 주요 원인으로 지목됐고, 같은 기간 뉴욕증시는 반등하며 신고가를 경신하는 등 디커플링 양상이 나타났다. 일부 증권가에서는 AI 투자 집중에 따른 거품 우려와 추가 하락 가능성도 경고했다.",
+      "importance": "상",
+      "articles": [
+        {"title": "코스피, 다시 한 달전 저점… 美 금리부담 언제까지 [주간증시전망]", "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5OclpqWDRTNEtqVFBBLWV6LWUzVk8wRnBBRG5MYS1hblhyOW1NLWp4b1RfNTZGem45NzNKT2VQSmRucVVfc3MzeEx1ZXNXajF4NWdmYXh5bFVkOGxVQmllU016NU1uNDRVWWh1VmlXakrSAXRBVV95cUxNdTlhNllpS210dXFZazBEWWVMMDBjc0VIU2s1aFNUNm1BYVBfUzVPeUlMM3lyV3RVaTJrSmZhYUR1ZUEtWmhhSlV4aV9LX1NqZnp5WTJaVHBqTV94UXNtb1VWRlZ2LTJMUDB5aEpSRFJoUkdUbg?oc=5", "source": "IT조선"},
+        {"title": "\"AI 투자 기대냐, 실적이냐\"…코스피 반등 가를 변수는 [주간 증시 전망]", "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOcUc0V3hlQ2tDWmZxVGNQYS1wT3ByMHBfb0drRHc5a0FfT1JOeE9XLS1Vd0IwampOQW5DZ2lNcjdFNDI4OWpDSjBxeTdYOTYtc2tyYzdwaV9sbE02RUI2aDNHdFpteFZyajJhdTFzdTMzUFNHLW9QTG5yYWZpanA1X1VEdk8xckJuazRfVVRRUmlCRllzd20yS3VNM21vNDJ3X3VNSjR2QUROWUxTVHpORTNjd2kxZlh4QnhUckNuaVFvTXZnUUlZaHN5ZVdLdktjWHo5dFVReXFCcEd1bUpzbWxNVkdnTVNkV01WeVE3T3ZFR2FLRWtkb0JNTGRBaEw2R00wcTZTZWNhWFQ2X1E?oc=5", "source": "데일리안"},
+        {"title": "반도체, 5% 급락 코스피 구할까…실적 반등 기대 속 금리·유가 변수 [증시전망대]", "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1DNk5iQ01nbzFHZHNQQmRHYzlrUUlaYm9GVm9TTFM5YVRwNmZ5ckttQ0dOS0FjbUxfbU0wSFNkb1JlRmNfY2VjZ1VsY0tzUQ?oc=5", "source": "www.dt.co.kr"},
+        {"title": "코스피 후퇴 원인, '이것' 찾았다…삼전 '역대급' 실적에도 6600선 '-30%대'", "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ETUpiLTRmcHc4TnowNnlLZ09ObDRNdTlaQmFFRGV1QkFrcE5Tc0dVcEdnbHZnUHpfOWxya0xfNHlxLWNzZER2dnZjbnNiWm9WS1BsSVRMR2JQRGRfNnBHTmhn?oc=5", "source": "이코노미스트"},
+        {"title": "[조타수] 삼전닉스 55조 자사주가 받친 코스피…다음 주자는 '실적'", "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE96R0ZUUmNRZFZpazdqNjFscTUtX1JLYnpheDcxSzIzaWx4UENUSHRhLXZ6cDI3dThiNUJoOE5tUHlibUV4NDN6RmxKREtuS0EzQ2g2U01wRzF3WVg5bV9jeGhDRW9HQmMwcFE?oc=5", "source": "콕스뉴스"},
+        {"title": "삼전 '107조원 영업이익'도 안 통했다…코스피 6600선 후퇴 [주간 증시해설서]", "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0zT0Q3cnNXQXJlazVIS2E5S2FYUDRNcXdlTHZBV1BDYWR4WEplcGtYZFNkVTdMb193RDJUbTBuYVZZZkhJMHFZdkR4dlhxZjAwM3BHVm1fbWpnRExLRWk1Yi1PR1FoR2FzeVdCUjF3?oc=5", "source": "더스쿠프"},
+        {"title": "[10월 둘째 주 세계경제동향 브리핑] 코스피 5%대 하락…美 증시는 동반 상승", "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE84RG5KT1dsNzhxelJrel82WHhNX3dyY0wxY3l3VmltTERQbnB3c0V2cWItNnoybjZFbzlQbkw2enBfdE14NzBUOWE2Z2tYX2I1bjJaSGUwY3NUREMzQ1V4SWd6bHFhZ3V6R3RMSXlVaw?oc=5", "source": "기호일보"},
+        {"title": "뉴욕증시 반등에도 코스피 '제자리'…연휴 이후 반등할까", "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBsV3duNWdwQXZ5SG4zV1dJOHotNk1hUE50VTNFUmxBU2h4SkU2RklMLXI0SkVmd3dmbVlMQ0FFYlgzbVdaVnU3Q3dSeXA0b3FQQXFaUWVwYktPTlU?oc=5", "source": "에너지경제신문"},
+        {"title": "107조 잔치에도 주가 '뚝'…반도체 비틀대는데 이 종목 왜 뛰지?[김근희의 증시랩업] - 머니투데이 - 머니투데이", "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9pMk55NEFfWDg0REFXSXdYVDdSVGttMkk4aXBxX1BJYnpiYlBheXJZRVNnV3BnN0VBdm9OWHN4S2dqLUhaRVlDR2ppQTBOQ1c1R2JTT0h5RUswYms3b2E5b3pVQkN3bm9i0gFuQVVfeXFMUFh2VnR3THZ5akluaUk1bFg3OTVhM0VYbzlhSWpkWmR2enFhaExSY2pjQVpydHpqcllodWFJOG16Zkx2a1cwdDY5TDNlUmtRVTF4Y05xSklpQ25MVnc3VFYxNy1QNVpmMy1yRGQzemc?oc=5", "source": "머니투데이"},
+        {"title": "미 증시 최고치인데…코스피 석 달째 박스권, 왜?", "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBWSTdFVThwV2FHaXdqTFcxNVpSRTFmY2E3azVuZE81SjE1SnRReG5mYjZHaUtKdVpFSHNYM25wQ2RkbGlDcHNsTkdoTVc3Wk15bXA3RW85R1RKX2ZhaThhd2JUWEFHaC1lLUHSAWZBVV95cUxQVTYxN2dKaXpzWF8zaHpfakhJeE15NS1WSVVBR0RsUVF6ZjF2azJDRGVLQUpGT1JJUlVXLUMyVklWcEg2RWhEQk5mcGpLWXRnVTZ4Y1B2V1BSbGZtaDhlc2JQeUpQb0E?oc=5", "source": "SBS 뉴스"},
+        {"title": "AI가 돈 쓸어담는데…\"심상찮다\" 월가가 긴장하는 이유", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1YRHBycS1hSHJMeTIya3AtNlVYSGtVdlJjbUIwYjN5Q1hQUlhIX21SZVMtVDd5bkk5cDFLV21IX3NyZjMycFhvMVN6YkJpRWJQRDVCTzJyZ2Njdw?oc=5", "source": "한국경제"},
+        {"title": "AI 수요 오해 풀렸지만, S&P 신기록 다가섰지만, 또 떨어진 반도체 [김현석의 월스트리트나우]", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ndjlJZGFMeU4wSkRhUm02TWRDMHBHWk90Z0p3Wk5QbWhSTWdUS2hsdFlXaHoxdE1fZW5vb0pOTjRIbF9rVnF0RFdNWjE1UjZYTFlMUUxUUWpxQQ?oc=5", "source": "한국경제"},
+        {"title": "\"증시 덮칠 '진짜 공포' 따로 있다\"…증권가 '무서운 경고' [분석+]", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE45QkdqMWxXQ3RjRkxKSXYwbzIwOVFkc2doS18yaUt5bUlHS1J6Wm5VOG9GelhsMXZHTHNCc2RIQm1PZktuMXRld3hwdjUwX0pRMk40dl8xYkhaZw?oc=5", "source": "한국경제"},
+        {"title": "미국 증시 반등했지만, 아직 안심하면 안 되는 3가지 이유", "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRXludDZMUUZJRzQxVzJUUXpqQ3h1M3FxS0tVaVVIQ0F4R1FTeVZSUGQ2QjNfbWtkN0NWWGFqRENCWktzNGZNNm1tSEtrVFRBOVplWW1QZkZPZnBNRnAwLVZ4ZGVDM3RjT09WdG1PUG90TktkMmg3Y0F2dDZWQ2Y5czVMcDNFN1g0MnNn?oc=5", "source": "네이버 프리미엄콘텐츠"}
+      ]
+    },
+    {
+      "title": "한국은행, 기준금리 '3연속 인상 vs 10월 동결' 기로",
+      "summary": "미국 금리 상승과 국내 물가의 3% 위협이 겹치면서 한국은행이 10월 기준금리 결정에서 3연속 인상과 동결 사이에서 고심하고 있다. 은행권 가계대출 중 변동금리 비중은 57.3%로 1년 새 4.3%포인트 확대돼, 추가 인상 시 가계 이자 부담이 커질 수 있다는 우려가 나온다.",
+      "importance": "상",
+      "articles": [
+        {"title": "美금리 뛰고 물가도 3% 위협…한은, '3연속 인상 vs 10월 동결' 기로", "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE82TndadURMaVVka0paM25Fa2szVTJpMWJJMXVHbk5IOXpkQzRqNHVsSXJ2Mk5Demdva01iUERpUHRFdzRqMk5mT0ZvXzFiU0FYS19hQg?oc=5", "source": "뉴스1"},
+        {"title": "은행 가계대출 57.3%가 변동금리…1년 새 4.3%p 확대", "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4wam5aSV9SZkhVYlIzeDV1UHpvQVJYbmZwakZJdmRJUUwtWWMzamxjRGU4LVdwcGxOZGdIbjFoNGM3cGZzazk2RWFzZGE5YmNjdFpoXzRZdXd2b1HSAWBBVV95cUxPbTZRaEtzYlM5UXRlM0hnczZualctcFAweE1tUW1Ea3d0bzBsSlEzcVBoVHJfMi1tVTBvaGJnWWVocHpOVjZza0V1eldJQVNPTkVQMGdtei1QMDA1bEp4M0g?oc=5", "source": "연합뉴스"},
+        {"title": "잡히지 않는 물가…한은·미 연준 '기준금리' 올릴까 [10월 경제캘린더]", "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBkUVpZeUxyYkJvbzFNbzR2cHdSdnN3VVFtSFhUbjc3STVZeGZqT3VIeEZnQWx5R2J1QlhpR3pwbTlWOVlXTUVFa2dFRjJDaUZISW1XcUdwakY3UlNEWE04Y2MzUDVKYnFabFBxWUpn?oc=5", "source": "더스쿠프"}
+      ]
+    },
+    {
+      "title": "美 연준, 2연속 기준금리 인상 후 신중론…금리 인하 지연 우려",
+      "summary": "미국 연준이 2연속 기준금리 인상 이후 \"서두를 필요 없다\"는 신중한 태도를 보이고 있다. 이에 시장에서는 향후 금리 인하 시점이 늦춰질 수 있다는 우려가 커졌고, 장기금리 상승 압력도 확대되는 모습이다.",
+      "importance": "상",
+      "articles": [
+        {"title": "美연준, 2연속 기준금리 인상에 신중론 … \"서두를 필요 없다\"", "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1TWGpLZ1VNTUV3eEJ5X1FLck44OVRPeGZRNGRuSE4yMG1kYTJmVDBHUFNhZm1jV1daM3ZNbmI4ME9ramdVSFpVeXN0WUhhdHVCeDh0Z2VtY29pUjFoLVVfSTZmenZWRUo0dTdQSDRjVDVPczVramxPd016c9IBgAFBVV95cUxQN0lHLXpBWXBBSm9hVVAtYzl3UUFQc042M2pjMDNUNThTYmVWaDNtUktwRFh0aW5weDZZZHJUQ19JQl9taEp6V0tldzdzUFA5MEZSU0NlZlM1aXd1SlFaOGRnYjU2ZzAtNTQ1TFdaRnBPNVh4R3NqUDlrYWJ1dE8ycA?oc=5", "source": "뉴데일리"},
+        {"title": "미국 금리인하 늦어지나… 장기금리 상승 압력 확대", "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB0TV90Nzl6UVRPaFpiVnlJUENkR1pLcnc0dkNJbzlhWWh1MzRuRXQ0bEZXMlVHVU4xU3RHeWpsVWlaUllyYVNUWHJnc3QtQVFiQTQya0UzUGp0M0FXUVhhcEJoTGpxZw?oc=5", "source": "뉴스비전e"}
+      ]
+    },
+    {
+      "title": "원/달러 환율 전망 엇갈림, 엔화도 추가 약세 가능성",
+      "summary": "사상 최대 무역흑자에도 원/달러 환율은 1250원과 1400원 사이에서 전망이 엇갈리고 있다. 엔화 역시 840원대가 바닥이 아닐 수 있다는 분석이 나오며, 엔화와 달러 모두 추가 하락 가능성이 제기됐다.",
+      "importance": "상",
+      "articles": [
+        {"title": "무역흑자 사상 최대인데…원·달러 환율 1250원 vs 1400원 '엇갈린 전망'", "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5CUDVOQmgyQnRySXMzcUJkVXpDTzM1cDNsTEFTdUtjblNVV08zakJzODlxXzNYV1hKQzUyRE5JOFdrTm9rVV9LckNTSTFEWUJUOWl1enJ5cmJ1R1J1b1FoSU1JLThJZzZmQnN2U1JJb1FPNV9F?oc=5", "source": "파이낸셜포스트"},
+        {"title": "\"엔화 840원도 바닥 아닐 수도…엔·달러 모두 추가 하락 가능성\"", "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5UbnVaV0Y1NjZwd0RnaUMxMUg2TXF0eEprTnF1WTZwbVpROTBQRThsZVllMU82Qk1tMlAxajU5U1BEY2tST3V5WHBKSDR2LThUNWZjUUxyd04xLXBBdUFEY9IBeEFVX3lxTE9pTThjUTJ2YXJUU2NHNmxqVUF5bzRNNUV2NFVZd1hWd2Z5eUN3TkJxT2hyUkdfY1dzenNMUGhZMG5DTU9oRU1IS1YtR3hlYUZlSTAwQXFLR1Nkd3hMYk1wWlFVMU1MZmFWT3dDQWtOWHhkS1J6b1otUQ?oc=5", "source": "뉴시스"}
+      ]
+    },
+    {
+      "title": "노보노디스크, Hims & Hers 상대 복제 다이어트약 소송… 주가 변동성 확대",
+      "summary": "노보노디스크가 자사 비만 치료제의 복제(조제) 약품을 판매했다는 이유로 Hims & Hers를 상대로 소송을 제기했다. 여기에 개인정보·결제 관행 관련 소송까지 겹치면서 투자자들 사이에서는 회사의 성장 스토리에 대한 의구심이 커지고 있으며, 주가는 소송 이슈와 실적 기대가 맞물려 등락을 반복하고 있다.",
+      "importance": "중",
+      "articles": [
+        {"title": "novo nordisk sued hims & hers over compounded weight-loss drugs - Olhar Digital", "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZm0yYVYtMWpUdHhvUVEzSEg1NUh5YjR4cm1FZ3lrQjd3WXZ4aHB4em4zRkxkb0djVF9SRmFpT1NLZEo1Z3FBS0pNNlBtYXNsdThEV19yRUZZTjltWFpjUDZ4eFBxUmhFMXVLcVJpVmZmZG05elhpc01UMDhldUlOM2VIZUxrd0tqY3B3OW11eXRvelFaRHVmVHVuSGl6WVJ1RVZDVFE3VQ?oc=5", "source": "Olhar Digital"},
+        {"title": "novo nordisk sued hims & hers over copycat weight-loss drugs - BusinessWorld Online", "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNF9JYXlteWs2TWZtdkNneTdBTnRZdFBzcVBmeTZ0MDFNVmdIRFAwdEpnQlpXRXNuOEdwT091YW9UMXFYQWx3LUJueUxHZzNBUXhXRUJHQkRiM2ppMmZMZ0IyZVBtelVNQll2bXRZOEZTMEZnN1Z1YmNsS3RqNzc4SFBEb0pvX2hRQ29NaUp6el81MHk5MUhrZVA5aWtrbFp6?oc=5", "source": "BusinessWorld Online"},
+        {"title": "Hims Shares Have The Bull Case Changed After Privacy And Billing Lawsuits - Simply Wall Street", "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZGRZRkpsSHV3NC1RSGlJVXVhSFlTZG9aZjRVTjRSTUk1OUFNQ3NwMXp4UWN5b3ZiQmV1bjRENURNVWZtQndKZkhZVDRlS3dUUGdwemhrcU5VRGFqVHdlb0VhVGJNc3NqMnQwN1VuTkI1RUN2a3pJTThVWVFDS2YtZk1JTUFWUFFYd05iUl9mbzQ2UmstSjhobEgxMGhYbHU4LUxnLWJwdXVmaWxLaDcybGkwYno3RGFQbHpWemJKbHVSeGR2WmZtdTA0UFVEb0Fa0gHWAUFVX3lxTE1QOW5IZG5KV2g2Ry1nWXVxRDZka0gxUTNmb21wZ1pLYnktM3E5ZUdIUkIxWkIySWdhRTlURDU4WkM5Smt3SlY0Znl3UHNpWnRfTlZ5U2tpOVc2VjRKdnQ5NWVGSkIyRnFHdG9sbF9aS2Vad1ExSUJCbzJrMEx2VkptWVhvM09rLUVsNmt0WEJoeTZRSjhrMThGeTZ5dDQ2SnlHODdJeHhnM05PUXZQdG5iZjdBTzkwWXZ1RnEtazFaWmNtOEhCLUx1d3lmZnp1R2Q2bmx5WEE?oc=5", "source": "Simply Wall Street"}
+      ]
+    },
+    {
+      "title": "LG에너지솔루션·삼성SDI, 배터리 사업 실적·신사업 확장 가속",
+      "summary": "삼성SDI가 9분 충전이 가능한 전고체 배터리 양산을 가속화하고 있으며, LG에너지솔루션과 함께 배터리 교환망을 활용한 전기 이륜차 시장 진출도 확대하고 있다. LG에너지솔루션은 3분기 영업이익이 전년 대비 567% 폭증한 것으로 나타났다.",
+      "importance": "중",
+      "articles": [
+        {"title": "삼성SDI 전고체 배터리 9분 충전 양산 가속", "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVlNCSHJvdkxtR0NMVWJpeldjTlY2eUFfdEtmemhuaE11NldyZ3E5RVRnaUZGb2p1YkJadmxKampmWlFMU2FmcXBsaTdDZXEwSGxXNURwNlZMeGxZQ3JnaXNudnZ2b05jT3A1bS1Xdi15Wkg1aE11V3k4UDY1U2VkNjlOdTlBdDlI?oc=5", "source": "글로벌이코노믹"},
+        {"title": "\"배터리 교환망 타고 2035년 급성장\"… LG엔솔·삼성SDI, '전기 이륜차' 영토 확장", "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbVlTMWFpTXhkcGtpVFhQcGxFalVlZ0NSUXcteW8yLW5UUVQ3dVlJQWxqN1ozRWRvU1poZHAwUHN1Y0NlUnkzcGxlMW9qaktDQkZjelhVRmJna3IzTkRVVFljcFpjNW9ZN2ZYOWZ6cW83ZWZ5dWVuMnFBV1p0WWFKbnpsNzJveS1x?oc=5", "source": "글로벌이코노믹"},
+        {"title": "\"모르는 사이에 무슨 일이?\"…영업익 '567%' 폭증한 LG엔솔[중화학ON]", "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAzWFZOT3B1Tl8xaEdnSHlvNjFyaEI0NFlseGtxeVRJM052TkV1ZUJFMUt6SkNpYzRiczJqSXp3Qk8xNmhmWGh6OHhRUkt4Wk9sZDNCcFBiSW1jUFBIR3V0LQ?oc=5", "source": "아시아경제"}
+      ]
+    },
+    {
+      "title": "대구 한 마트 천장 붕괴, 38명 부상",
+      "summary": "대구의 한 마트에서 천장 일부가 무너져 노인 등 손님 38명이 부상하고 9명이 병원으로 이송됐다. 소방 당국이 현장에서 인명 구조에 나섰고, 이재명 대통령은 인명 구조와 수습에 총력을 기울이라고 지시했다.",
+      "importance": "중",
+      "articles": [
+        {"title": "李대통령, 대구 마트 천장 붕괴에 \"인명 구조 총력·수습 만전\" 지시", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1lSUQ3aFVLVEZQWFNXbmkta0FRUG5lU3BxVjd6azlNSHp0TXJYYkhBYnBoMGIwUDVHeGFHa2JkTUtmeG1GeWtySnF5NFNuQVBSd2habHNJdXY0dw?oc=5", "source": "한국경제"},
+        {"title": "대구서 건물서 천장 붕괴…38명 부상·9명 병원 이송 [종합]", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5tY08wYWdnbzZMNVNMdk1mOExzVGNpeHRCdDFQOWtLal9ndlFJYzZxbk84dHVXNHFoWVB6R0F4bldYTFhfUU4tQXdINk9QWlVBb1dOaXlLVGVyZw?oc=5", "source": "한국경제"},
+        {"title": "대구 마트서 천장 일부 무너져…소방 당국 \"인명구조 중\"", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBWeVBTblVkNXFGdmsyQXRBUTRtZnlWYlQ1RmN3OXhzcFBvQUJzRmhfVHFBM2RLRV9oNFBTYlNqTXZTOWxNOVd4ZGNXd1F4WUxsYnNLampmVEFxdw?oc=5", "source": "한국경제"},
+        {"title": "\"10초 만에 천장서 우르르\"…노인 수십명 혼비백산 '날벼락'", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE16NnNfelF2Tk1QZ2NWcUNBc2wyTk9RNWptVkJ4dldMZ05McVo2Q3NWSGRDVWRsNU9vSHlqbmlmdWdka3dtVnRMWFBCMlNNZjNvcHc0UnNTRnBqZw?oc=5", "source": "한국경제"}
+      ]
+    },
+    {
+      "title": "한동훈, '딸 수사 무마' 의혹 반박 속 정치적 존재감 확대",
+      "summary": "한동훈 전 대표가 자신의 딸 수사를 무마시켰다는 더불어민주당 측 의혹 제기에 대해 \"망상\"이라며 강하게 반박했다. 이 과정에서 한동훈의 정치적 존재감이 커지고 있다는 평가가 나오며 여야 모두 긴장하는 분위기가 감지됐다.",
+      "importance": "중",
+      "articles": [
+        {"title": "\"민주당의 망상\" 발끈한 한동훈…'딸 수사 무마' 의혹 반박", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBmQXFHMlNQOThtYmVGcDYxcXhyMm04dl92M3VEbjU0d2J5elZkaGJYY003SWVvZlktdm9HeHFfUzd6Q3dlUW90YktOaHRDOVY5ZFFpUmQ2eThqQQ?oc=5", "source": "한국경제"},
+        {"title": "\"몸집 더 커질 것\"…커지는 한동훈 존재감에 흔들리는 與·野 [정치 인사이드]", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5KejlmUENiZVowby02d2dFX1VCRHRvUVpKeVJTMERmUEF0WFpNb0ljWV9jWGhWSHRSV0VaWlJkSWNia1pRWW44YjRFVC16U1gzc0tvNTgzbkNXUQ?oc=5", "source": "한국경제"}
+      ]
+    },
+    {
+      "title": "안철수, 대통령에 北 규탄 성명 요구…與 반발",
+      "summary": "안철수 의원이 인천 해수욕장 인근까지 북한 지뢰가 발견된 상황을 거론하며 이재명 대통령에게 북한을 규탄하는 성명을 내라고 촉구했다. 이에 여당은 안철수의 발언을 강하게 비판하며 반발했다.",
+      "importance": "하",
+      "articles": [
+        {"title": "\"李대통령 엑스 성명이라도 내라\"…안철수 '맹폭'에 與 '발끈'", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5GbGpjaGdwOE45ZVVZQV8zSHJmWXMxZVYwTEhyV2Y3UXdNNjV4M3dET0tvc0JVSmVxaF9VdE8yRzFDSWRzRG82bGZIVXRFSFdzNkR5REJvVWlLUQ?oc=5", "source": "한국경제"},
+        {"title": "안철수 \"인천 해수욕장 인근까지 지뢰…李, 북한 규탄 성명이라도 내야\"", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE84NnJ0d3lYcTJpSzk0clZNYTZIOXZpYkR3aWlwWGRTcDJaWWJraGRSa2hqQmNmMjgwS21MSUUzNGZ0NzZBQ0hqOW8tYWxJSmRJdnFmME9mQzBxUQ?oc=5", "source": "한국경제"}
+      ]
+    },
+    {
+      "title": "제주 부동산 경매시장 침체 지속, 낙찰가율 44.8%",
+      "summary": "제주 부동산 경매시장에서 매물 10건 중 8건이 유찰되는 등 침체가 이어지고 있다. 낙찰가율은 44.8%에 그쳐 시장 냉각이 지속되고 있는 것으로 나타났다.",
+      "importance": "하",
+      "articles": [
+        {"title": "제주 부동산 경매시장 '꽁꽁' 10건 중 8건 유찰…낙찰가율 44.8% '침체 지속'", "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1acGVoWHFxNi05eXlsRDd0bU9tNjlzeURyNkYyMkRlY01Tb1pPcVRncXROaHh0U3BuWXl5ank1TGxFU3dDemNBc3BVUzkzMHRqbHRFa2dYbVVCTzRVQmMxYUVMeWE2RDE4ejBN0gFuQVVfeXFMTTR1VWx3YjlWTnhMOVFXb3Rhai0zU2lnUG9Xd29fRUozWmNQSGlKc2RsclJKcHJ3c1NBLWlZMkNWbS1vX1FXS0tIVGxmZnJOTDJ5bUdzRThzbWdKc19ZcVpRSGg1WVR1TTJGbWYwZGc?oc=5", "source": "제주뉴스"}
+      ]
+    }
+  ]
+}
