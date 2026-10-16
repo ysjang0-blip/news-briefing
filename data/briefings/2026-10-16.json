@@ -1,0 +1,116 @@
+{
+  "date": "2026-10-16",
+  "topics": [
+    {
+      "title": "코스피 '검은 목요일' 7.57% 폭락 후 반등 시도",
+      "summary": "10월 15일 코스피는 AI 거품론과 반도체 투자 수익성 논란, 미국 생산자물가(PPI) 쇼크 등이 겹치며 장중 8% 넘게 급락해 코스피·코스닥 양대 지수에서 서킷브레이커가 발동됐고, 7.57% 하락한 5,554.22로 마감했다. 외국인이 3.4조원을 순매도했고 반대매매 우려까지 커지자 금융당국은 이억원 금융위 부위원장 주재로 긴급 점검회의를 열었다. 16일에는 미국 국채금리 하락에 따른 뉴욕증시 반등(다우 1.08%↑)에 힘입어 코스피가 장 초반 1%대 상승, 5600선을 회복했지만 외국인 매도세는 이어졌다. 같은 날 지수 하락폭이 미·일·대만 등 다른 아시아 증시보다 훨씬 컸다는 지적도 나왔다.",
+      "importance": "상",
+      "articles": [
+        {"title": "코스피 7.57% 폭락에 서킷브레이커 발동…AI 반도체 불안, 한국 증시 강타", "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBSWUpTT21SeGZraXMtejBUa3RudGhRTzlCdkJNeFJ6QVJ5VENEbTM1a0dZdG04Yl9QbnBTQTBtbDk3cE1KLWphd1dXNVpCSTJhY01zNHNaMGw3aVFYLVhHSzRwbWhmZXc?oc=5", "source": "지이코노미"},
+        {"title": "증시 덮친 '검은 목요일'…코스피, 7.57% 하락한 5,554.22에 마감", "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5WMTc1VDd2MV9tbnBCN2RDYVliZE54Zk5LSm52bmR1MFcxck05X2tBM0VsZzdXYjJSRXEwY0I1MEt0bGhqcjEwRVhOMlhvNDBiR08wVmVuaXl6aWtnVVZjT3VPRWM1UXowOUpLWEN5a2zSAXRBVV95cUxNWTJKUnlDdUlsVHJQYlRNRVVwT3hxVllKN0ZZcUdyMXZfYy13YnhEWUo5eUVORGtqZGowLWItMDhRdXloamRhbGJETGpwczdmWGd5NTRPbS1BTlZ0ZEtfWk9ISThfYkdNNS1MekFGUDM2TXpFWA?oc=5", "source": "연합인포맥스"},
+        {"title": "AI 거품론, ‘닷컴 버블’ 재림인가…코스피, 7거래일 연속·총 20.7% 폭락", "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAwVkpoUzJNUWNnR2JBUWRLYktoTERpTnJnZ0tlOWU5eWRMeEptT2ZCTU9aME5yMlBKTWZhcE1QUUlpbFBrRzNMVF90d2FRb1ltY2FaR0lVMXl0WTFQM0FZY3pwZzF2cWc?oc=5", "source": "한겨레"},
+        {"title": "코스피 급락에 긴급 점검회의…이억원 \"리스크 관리에 만전\"", "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9UM2xNYWpHQVNKUEpzZEdMcUNkS2FlMjllbmYyMndXZ0JRR1RTcTZDeG9oQ1YyZHk3OWh4Ujl6Q1BIYkMza3pfZXM0ZjQ5QjhuZE03UTYyaXp0SW52QlE3d9IBYEFVX3lxTE9UM2xNYWpHQVNKUEpzZEdMcUNkS2FlMjllbmYyMndXZ0JRR1RTcTZDeG9oQ1YyZHk3OWh4Ujl6Q1BIYkMza3pfZXM0ZjQ5QjhuZE03UTYyaXp0SW52QlE3dw?oc=5", "source": "연합뉴스"},
+        {"title": "“외국인 3.4조 팔아치웠는데”…코스피 받아줄 큰손도 없다?", "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9sWDYzVXM4d3FTTnRUYWVNakVQSGtzSURJcnBQdGM5SlhWTHBnaC1HYnNFbVo4SHlEb19wdzdUNzFxdXhhR3h3RWplQUNyTWJxUmJGeFd1VzA0RmpLdm45RnBldEZGRUJiQVEzbmJzZVh1NHM?oc=5", "source": "마켓인"},
+        {"title": "뉴욕증시 반등에 코스피·코스닥 동반 강세…8거래일만 숨통", "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE56RmwyWkRocjZRenV5YXpHWF8yQ0t6cHRHNnQwLXdtdVNiYVdGU0lsSzZrdEdaRFZPdWxaSGlSei1Gd2M2WjdVX0ZVVnJLMEJTM2RXODd6cGdYNG9tLVJSSzd6UEQ?oc=5", "source": "서울경제TV"},
+        {"title": "‘전날 폭락’ 코스피, 장 초반 1%대 상승 출발", "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBvdjlQelhJN3dCdlBhTXE3LThwdVBUSWc1QWgyd19iNl82bGdPaWlXRmVJZ3hETnI4UVE2bzltWkctUTB2NzVpQTNFZnpuRkM3dE10cWtNTTJtTnViMThpbW1McnptOVJPWnRBZEgwU0pHQQ?oc=5", "source": "한겨레"},
+        {"title": "美 국채금리 하락에 3대 지수 반등…다우 1.08% 상승 [뉴욕증시 브리핑]", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ueUtweTV4dWdkbE8wSEx1Y3gyRUFXV3g5cEg0OHZQLXVBTFdkR3FlS1kzOFY0cEdjSk8tWUZYQjFUWXo0UkphVmpKN0dOWXM2RXBONGRIaWxWUQ?oc=5", "source": "한국경제"},
+        {"title": "반도체 '빚투' 10조…코스피 급락에 반대매매 경고등", "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9WUlZmYmFYZHV3ZmR1cklFNVRDX3I5OGszdVVPdW1YWUhJSW1hV2FYcDFCTkQtWmNTNXhScXhpOTRURGhBY1hNcTd6NnNySTd2VzVza01oOE5zM2cyV1Zzek40WFJ5ODYw?oc=5", "source": "www.ebn.co.kr"},
+        {"title": "미·일·대만 2.8∼4.3% 빠졌는데…코스피 낙폭은 '갑절'", "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE02a1BCQXptQVNBZUJINElDcDh2aHg5MTRnM1hUYzgyMTNBUWlNX0FHTENGcmJvbWVTcV9ZYUNESkZCcG8zUGpJampicnhocGYtSUZwTHowYmhOdzRqZ3dyatIBYEFVX3lxTE02a1BCQXptQVNBZUJINElDcDh2aHg5MTRnM1hUYzgyMTNBUWlNX0FHTENGcmJvbWVTcV9ZYUNESkZCcG8zUGpJampicnhocGYtSUZwTHowYmhOdzRqZ3dyag?oc=5", "source": "연합뉴스"}
+      ]
+    },
+    {
+      "title": "10월 금통위 동결 전망 속 코픽스 급등·주담대 금리 인상",
+      "summary": "오는 10월 22일 한국은행 금융통화위원회를 앞두고 연합인포맥스가 조사한 전문가 15명 전원이 기준금리 동결을 전망했으며, 하나증권도 만장일치 동결을 예상하면서도 \"금리 인상 사이클이 끝난 것은 아니다\"라고 평가했다. 다만 미국 9월 생산자물가(PPI)가 1.3% 급등하는 쇼크가 나오면서 미 연준의 금리 인상 우려가 부상했고, 이는 한국의 11월 금리 인상론으로 번지는 분위기다. 한은 최종금리 수준을 두고는 KB증권과 블룸버그의 전망이 엇갈리는 가운데, 9월 신규 코픽스가 3년 10개월 만에 최대폭인 0.25%포인트 올라 3.43%를 기록하면서 주택담보대출 변동금리가 연 6%대까지 오를 전망이다.",
+      "importance": "상",
+      "articles": [
+        {"title": "10월 금통위 만장일치 동결 전망…하나證 \"금리 인상 사이클 안 끝났다\"", "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9FNUgwQjBCT1VyVUZUREQ2bXE5MEtLSmNfTExYOFJEdFlSR013ZkhyMTl5ZUd3NF9oX0k5T1h6LTcySkFjNXoyc2F0dmdkM3NGc3NTYkk5MG9VS2s0Q2VTa1FlWWRQZW9ISHNBYS0tYw?oc=5", "source": "조세일보"},
+        {"title": "[인포맥스 POLL] 15명 전문가 모두 10월 금통위서 동결 전망", "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9JZlU0Y0tnZi1uWEQ4T2NpVW8wMGpyZmFaZHcyaU1RT19FaVM1RWxYZ3U5ekFUbG1WLWtteHNzOGh2SXljU2dVZWU2c3VTaHpqYkpJbE83YjQ1UnJLUUU4LVJYWlo2WXpuTHNnZUc3WG0?oc=5", "source": "연합인포맥스"},
+        {"title": "美 9월 생산자물가 1.3% 급등…무게 실리는 Fed 금리 인상", "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB4MFBhV0R2Mm1talh5R3R4SXBMRnZPVlZldU5ZbVlQeldjYnAzMWU1WVUycTlKdzVPWkVTaktpUGk3MFlncEQ5QnZ2OS1TQTFp?oc=5", "source": "블루밍비트"},
+        {"title": "美 물가 쇼크에 韓 11월 금리인상론 부상…고금리 장기화 우려", "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9YU3Z6QVRoVWNWUDFfdWgzYlloeEtXZVBKZTBVT0d1NUdnZ2Y5RDB3WlVjNV85bkRDRk5RcVlNQjVpQjFKQkE0Y2YwWGluTDZjYVktYmRLbHEtOTRRcXdpaTBR?oc=5", "source": "이코노미스트"},
+        {"title": "한은 최종금리 3.5% 갈까…KB증권·블룸버그 엇갈려", "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBycXRMaGpFd1ljNzdlQldSMWlIS1hjWkhDUkc2Ull4NHVhTlllbHdYOVMzczNLZDRvVk5Bd3FEZDlSdnNicG1OWWg2dGhJcEZyeVVIeEx5TEJwR0NuZXJ3eVB3dG5HaG8?oc=5", "source": "자본시장뉴스"},
+        {"title": "주담대 변동금리 6%대까지 뛴다…9월 코픽스 0.25%p↑", "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9LUGQ3YmN3UnUzVzJxWE5CSjgtQ3ZNcmU5TG4zdjFGanpyVFotcW5MOFNla016RDkxNzF5MlBsSFBlV1B5TzhZekpNZk1QUmp2cGJUajVDREhzX1VWbEtzcU5URFdrcWFDTzJmNWZ3?oc=5", "source": "서울이코노미뉴스"},
+        {"title": "코픽스 3년 10개월 만에 최대폭 상승‥주담대 변동금리 또 올라", "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFByN3VJczYxNzI0UExhVGlKVGZVdTBFVU5JV1kzU3ZaRElnV1RKV3FCdzRpdkc0NTg4dERnekU4NTRkQXU4d09vRHFfSXo5Y3NhclBXWG5YLWpKWnlQaXhHSzVoLUVCdlgyZjFvMS1MWWlmUHpj0gF0QVVfeXFMT1dGNnF4dHVwVGNqTTF1aGszbW5PcWxpeTJCSmIzRWt5NTBNUFVUTndvSFJhMHJTdXVGcHNVcHBvUnNzS2N1ZV9LSGpscy1BZlN1dkJPOWFqcV9fSnBCU3JJLW9VbUJqWExRTk52STByc3RkT2k?oc=5", "source": "MBC 뉴스"}
+      ]
+    },
+    {
+      "title": "환율 하락에도 유가 급등으로 수입물가 넉 달 만에 상승",
+      "summary": "원·달러 환율은 미국 국채금리 급락과 달러 약세 영향으로 1340원대 초반까지 내려갔다. 그러나 국제유가가 큰 폭으로 오르면서(원윳값 21.6%↑) 9월 수입물가는 전월 대비 1.7% 상승해 넉 달 만에 상승세로 전환했다. 반면 수출물가는 환율 하락 여파로 0.8% 하락해 수출입 물가가 서로 다른 방향으로 움직였다.",
+      "importance": "상",
+      "articles": [
+        {"title": "환율 하락에도 유가 급등에 수입물가 넉 달 만에 상승", "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBKTGVPejdxSzlTdmdmY0dVUV94WTM0V1Q1MWV1bHdCN1Nkam5obWJFNTVIX1JacXc4aFdoaDhWTVU3bjdOakh1U1hNQVNZcWlDRDRsQjJSQmlnaDd5UnhVZkh2Wms0Mzg2dUdOZkN30gFzQVVfeXFMUG5HNWV6ZGxzNjNSR0dCdVpfODlkbm45T0E3UFhlWTlzVVowS3htZXZUOGdmcFVkTkFISHpEcUJseXRrRkFCR2wxYkxIWnlqWHQ4M0tnaUI5cDQ2NnFDNFMxbjFsQmZCeS10OFRoa3pjbWtMQQ?oc=5", "source": "한국일보"},
+        {"title": "원윳값 21.6% '껑충'…환율 내려도 수입물가 넉 달 만에 오름세", "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5pTDdYTnM5T3B4bXFSeWRQU2R5LVpsX2RPbUVJbnBlRk5VWGU2S2o5b1B5QWw4b1h2SFYyNzQzaUlSVUFLdlg1Y0x1OGNEaE54SEVkdQ?oc=5", "source": "뉴스1"},
+        {"title": "환율 하락으로 9월 수출물가 0.8%↓…수입물가는 1.7% 상승", "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5yMDVsT3RNQ1RFYi0yVU50dG82NllqQ2NzMGcyS2xHNHlCcmlNNWstUkRkOTZyTnVmT25odG9EWXBMejNmMG5FUmI3QlJaZFp2NWVTUkdvYWN5N0U?oc=5", "source": "KBS 뉴스"},
+        {"title": "원·달러 환율, 3.1원 내린 1341.5원", "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOYi14OVo2REpJVG9PMUxIVEVJdjFtdk9mbVNhQTRBTldGalNPbkpVZVpOQlFuRi1fbDdvNTNRV2ptWWtVS2Z2eVhvVDhITDN6Unc2bDFFSjVaUzhpaUdJYTYxUW1JN1l1TjNFeHlFdXJrQVdmcDJwcXJRRUtfQWxtQ213S3ZjZ9IBmgFBVV95cUxPdWNFeFNIa2prci1YRmN4LUhOekN5NXBxOHNMU0tjeXFNS1BXeEpFanM3a1ozQU9hV3RnQ29FeUZxNVFxTE1nZnJ3Q2lVSzZOQU85LU9OajJ4V1FvTkZMWWhBRE5OcGJsYWNvMktqYl93TzQ2c09BRjkyRVI0VTRoeEJ0Nl9MVjdUUVhfNmF0bjlENGZITERvczRn?oc=5", "source": "Chosunbiz"},
+        {"title": "美국채금리 급락·뉴욕증시 반등…환율 1340원 하회 시도[외환브리핑]", "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZXl4b25pMEFpdmFkcVh0bTF6NVA0SEE1aVdHSmpCZWFiY2ZEbzNmTnNrRnJKLXF2SHNxNDBzS201YmlmaDAzMFJUYm02Y0tZNWhVbmxXUUZUVldIamY0LWRISXY3cXRRRjJSaWNLQ3FESVVJWHl4ZGdFakJPY3M1UQ?oc=5", "source": "이데일리"}
+      ]
+    },
+    {
+      "title": "10·15 부동산대책 1년, 서울 집값 10%↑·거래는 급감",
+      "summary": "작년 발표된 10·15 부동산대책 시행 1년을 맞아 서울 아파트값은 10% 올랐지만 거래량은 오히려 줄어든 것으로 나타났다. 대출 규제와 거래 제한의 영향으로 수도권 매매심리는 두 달 연속 위축됐으며, 강남 등 핵심지 규제가 성북·중랑 등 외곽 저가 지역으로의 매수 쏠림(풍선효과)을 심화시켰다는 분석도 나왔다. 오세훈 서울시장은 국정감사에서 정부의 실거주 의무 등 규제가 오히려 전세난과 집값 상승을 불렀다고 비판했다.",
+      "importance": "중",
+      "articles": [
+        {"title": "[이슈] 10·15 부동산대책 1년…서울집값 10% 오르고 거래는 줄었다", "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBINDlMQVA3MW9CckNPVWVkQnNYQUxXSDQzRmktc1B0T2RiME5MdERtUVdEY2RtN0c2T0JOTVoxVGlicUtyV0JnQk5KRkJIYVNTblRUcHB2OURBbUh4eldlQlBaNUttRzdUNi1kNVNLRQ?oc=5", "source": "시사포커스"},
+        {"title": "\"대출 조이고 거래 묶었지만\"…10·15 대책 1년, 집값 어디로", "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNVzN0MGNJWVJEQnNnTGUtZUFyaXNPbDNqWlBUU1BhMWZsMXJweko0bHlINUJpZ1Y0c3d4R2FQX0FldGNtN0d1c0NKcVo2VWJndnVZdkFkU2g4QmtjbWw2bTlFOVFLMDBLVUZhcFNaR2FxWk8waW90YWJpNDJ4Z2RhenR4VW16UVlyM2xxREZNQ2M0TUJGY0lfcnFobnBiWkFIZFBoa0lGZ0ZSMVJkNndjaTNnSkxwWjdwNXRObGtPaXRjMVhzeHRnLTVuMFJKb204V0t6ZGFoR2dyekFOVTRveUttX0p3eFFTcFBaNERrUGJCTUh0STJN?oc=5", "source": "데일리안"},
+        {"title": "수도권 매매심리 두 달째 하락…전세시장 상승 압력은 여전", "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5YNG10R044b1Jfcjk0c0dGMzNpOVFoN2JRRVA2d3JQUVpPOTgyeWJtLTNqeUVrXzc2VG1Idmw4NXlkbW1YM0xySmdwYmV5Um5hLWI1MWx1SktGZWE3?oc=5", "source": "뉴스핌"},
+        {"title": "[국감 '26] 오세훈, 부동산 정책 직격…\"실거주 규제로 전세난·집값 상승\"", "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBCSmhTRG9GLTcyR00wSHI3bC1jOG5LcHVIN2hKOFFSNFRNN3lmSW1Kd1VqTUZkNjUwdkx0M0NGVlVnSkFSVEdvNUZOdGhvSUFBcy05cE4yMUdCY1pmS3RYWHpLTmd5Nzc2?oc=5", "source": "www.ebn.co.kr"},
+        {"title": "규제의 역설이 만든 '외곽 폭등'…강남 묶자 성북·중랑 15억 이하 쏠림 심화", "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1sZ1RSSHZYMU43eW53LVZnLTB5VDhKTG0zT3l2TlUydEtSLTdYd3Q4UmpmSHVpWHhCeEdETEtadS1kd2xMcElKeElRQVlqV0lrSEw0cGRYd1d2cXhSZHZqM3RSdEJGVGt5R1ZwaDBpeGs?oc=5", "source": "미디어써치"}
+      ]
+    },
+    {
+      "title": "배터리 업계 혼조…공급과잉 우려 속 삼성SDI ESS 확대",
+      "summary": "골드만삭스는 배터리 공급과잉이 장기화할 것으로 전망하며 삼성SDI·LG에너지솔루션 등의 목표주가를 하향 조정했다. 반면 삼성SDI는 미국에 이어 일본에서도 ESS(에너지저장장치) 사업을 확대하고 있으며, 일본의 강화된 사이버보안 인증 요건으로 발이 묶인 중국산 배터리의 빈자리를 공략하는 중이다. 전고체 배터리 관련주는 한농화성이 오르고 대주전자재료·이수스페셜티케미컬은 내리는 등 혼조세를 보였다.",
+      "importance": "중",
+      "articles": [
+        {"title": "골드만삭스 '배터리 과잉 공급 장기화'에 삼성SDI·LG엔솔 등 주가 전망 내려", "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE02ZDUxaUVWYkVNbW9BLWRBUmJqNm03N3d5YlV2UklyLTZmcXZqd0NObEt0ZDc2VUM1QU1UVHM3NFpCRUk0TF9QWTBBVHYyQ3hEZF93RXl5T05xSFkxNFpBYkVlYw?oc=5", "source": "더구루"},
+        {"title": "전고체 배터리 관련주 혼조세… 한농화성 상승, 대주전자재료·이수스페셜티케미컬 하락", "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5aWnF6NlZGanhzb2RmY2lFMkUyUFVyQTdPUkU0cXhjQjJnNTlOVXpiR1BSbVktcVBGcXlQQ2xFZUhkTEFpY0NMOVd2UEppenFtWHJuVVpxSC04SEpQZzVJRm9uX0l0cW9v?oc=5", "source": "CBC뉴스"},
+        {"title": "삼성SDI 미국 이어 일본서도 ESS 확대 노려, 중국산 배터리 보안 미인증 틈 파고든다", "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8zTmVFcm5NVkRacEJJWUVBQ0ZuWjhjN2tzWnN2MnEtdHVNaWZScGdhNmo3b2xXSUNGN1Y2UEg1LXZXSG9NRUdISGgyb2NNYjdYdHl1QlJDejZ5NWFwelFpMTZUVlVtOFgtUFJLNndpT2JscTg?oc=5", "source": "비즈니스포스트"},
+        {"title": "K배터리 3사, 실적 방어전…보상금·ESS가 갈랐다", "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1NWU93Nmd4UEtMZl8wYkltOTh2bFFJMTNJdkVCV2JudEY5UWtOdEJPQVZUMXB4Wi01WmtQUDdUdjYzc2pRN2ZzX2VkZ0lDMk1qb0dYLU1WU1hIZElZTmpxMjV6MjFmY2FvYUFTeQ?oc=5", "source": "비즈워치"}
+      ]
+    },
+    {
+      "title": "李대통령, 국무회의 전면 비공개 전환 요구 일축",
+      "summary": "일부 장관들이 국무회의를 전면 비공개로 전환하자고 건의하자 이재명 대통령은 이를 직접 반박했다. 이 대통령은 \"공개라 말 못한다는 건 핑계\"라며 비공개 전환 요구를 받아들이지 않겠다는 입장을 분명히 했다.",
+      "importance": "중",
+      "articles": [
+        {"title": "李 \"국무회의 전면 비공개 못해\"…장관들 건의에 직접 반박", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9hQV9EQTV6TmxVazM0MWVNbGttUi1VY0xwWkYwWFQ2LXpvSlA0b05sYnN4QjlyNVlkcXVYWXBCTzV0M0Z6blhaVHpPbHRGT2t2NEI1SE5rbGZqQQ?oc=5", "source": "한국경제"},
+        {"title": "\"공개라 말 못한다는 건 핑계\"…李대통령, 국무회의 비공개론 일축", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1GaDhfTldpbWlhVXdrdjdiZExMNG1oaG9XRmpPSUQ1RGFFUXBydC1KZS05a2tKQk5VTHFrczh1dDRELUN6Z05LcjU4dmN0S1JYVnJWRklCbGViZw?oc=5", "source": "한국경제"}
+      ]
+    },
+    {
+      "title": "갤럽 여론조사…오세훈 호감도 1위, 이재명 지지율 반등해도 견제론 47%",
+      "summary": "한국갤럽 여론조사에서 오세훈 서울시장이 정치인 호감도 1위를 기록했고 한동훈·김민석·조국·정청래가 뒤를 이어 접전을 벌였다. 이재명 대통령 지지율은 반등세를 보였지만, 내년 총선과 관련해 '정부 견제론'에 공감한다는 응답이 47%로 나타나 견제 여론이 여전히 만만치 않은 것으로 조사됐다.",
+      "importance": "중",
+      "articles": [
+        {"title": "오세훈 호감도 1위…이어 한동훈·김민석·조국·정청래 '접전' [갤럽]", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8zRnU4WTFPeDA1Z3hKR0VJZjc4MU1RNUg3OXRwRDEwYTEwUVd1UVdqS1VIbV9KTGd6S3RuWlFSajBYSnhzZTA4S1czd3VScjYzN3F2SndOQnhxUQ?oc=5", "source": "한국경제"},
+        {"title": "李 지지율 반등에도…총선 '정부 견제론' 47% [갤럽]", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA1VDdFdlUtZVp0aFJNdkdkaEZmdEJkWXpxZHR0eHVodi1GQkx5MVVHX0VscWdtTkwyMjNDVjVGbzQ2UmlHbl9NdDRBNUVsR2VCN3QtclhaQWk3Zw?oc=5", "source": "한국경제"}
+      ]
+    },
+    {
+      "title": "정치권, 코스피 폭락 책임론 공방·특검법 압박",
+      "summary": "국민의힘 정점식 의원은 전날 코스피 폭락을 두고 \"이재명 정부의 무리한 증시 부양이 부른 비싼 청구서\"라고 비판하며, 국민연금의 주식 리밸런싱 유예를 '억지 부양'으로 규정해 특검까지 거론했다. 국민의힘은 또 증시 관련 국정감사 증인 채택이 민주당에 의해 막혔다고 주장했다. 한편 조국혁신당 조국 대표는 민주당을 향해 \"한동훈 특검법을 처리할 마지막 기회\"라며 압박했다.",
+      "importance": "하",
+      "articles": [
+        {"title": "조국, 민주당에 \"한동훈 특검법 처리할 마지막 기회\"", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1JTjFhOWtsZFJhNzBpdmpXcElxQlBNZXhIcDdUdjhQbDcySEJ0NWIzMklGTS10aXAzdURMUTJ2ekJWd3JodzdrR08tNDRLODZTRTJ3TzFuNDU1dw?oc=5", "source": "한국경제"},
+        {"title": "국민의힘, 코스피 폭락에 민주당 책임론…\"증시 관련 증인 채택 막아\"", "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQV3RHTm01VEw2TzBLeTc3RjZ4eTNaSF9hVXFYektObVZYSTBWTHQ1Y0JZNlAxV05XQ3FGQ08yVkRydjlzYnFqeXJhMDdRcmFIbUlfSW5rY3JoU1FLLWc1MFR4NXB4S0EwY0ZRc3ZRcXcxS3FUdGZMZ2s3VXFOblFJZFd5MklRTmRhWENuQk5aSWgxZGk3SVhoNTJtS19UUnZWV19SUC1IaFFnMVdXSF84QkNEb1ItODZMdWFOdGloaDhfNkMyaGJXVkxUeHN2VmlFTU5fS0c2THBEVVJ2VHdmbllVUTloak9qVDFvQXVOVW9VZGwxa00zQkduN1B5VlBiOGduZHIxUkctdV8tNmdCVVZfMnNmZGRYOWJMcF83VG1WRzA?oc=5", "source": "데일리안"},
+        {"title": "정점식 “코스피 급락, 이재명정부 무리한 증시 부양의 ‘비싼 청구서’”", "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4wRVc2QXBlTExEcnBUc3pEUV9DMFFFbkhLSXA4RExMWEJWOUE0TUpwUTZsTV93RWJRd0RPd3dSX1N6Umg5VUdYXzdfRmRZSzlCXzUtSWwxRVBqMFRhb21iYkhZUXV4TU5jamVV0gFUQVVfeXFMTTVzNWdkdXZMbHZmRjdWZlZ0WXA1QnlhS29fMGljS3cxTXpYa2J6V3RSZTJHV1E0ME1FMHZNdmFQd0RMNFVRTlMtQXc3cTNjUXFucEJi?oc=5", "source": "세계일보"},
+        {"title": "정점식 “국민연금 리밸런싱 유예 ‘억지 부양’에 코스피 폭락...특검해야”", "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMVJpYWtFcFhRamJJZ0NPal9FSzlqa1hpVW5KOXVFXzhMczRZcE5DZ0tzUFZUemVqclRhV2NFczRVc01TU0JzREhBcnduOUVqNGRPVHIzZFo4cVJ2bWVPZFlzNm9WUUZGLUJrUFF4SHNmNXVHZC1GV0ZHWDJ0U1VvUFd0WW1tdw?oc=5", "source": "조선일보"}
+      ]
+    },
+    {
+      "title": "9월 취업자 11만3000명 증가…제조업 2년3개월 만에 반등",
+      "summary": "9월 취업자가 전년 동월 대비 11만3000명 늘었으며, 그동안 부진했던 제조업 고용이 2년 3개월 만에 증가세로 돌아섰다.",
+      "importance": "하",
+      "articles": [
+        {"title": "[속보] 9월 취업자 11만3000명↑…제조업 2년3개월 만에 증가", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9aSFo1Qm9nY2E3X0pCdzZPOVEzcG1UOTlXV2lCTTJWQWxHMFdUaE9yNFVkZ2tvQm9DekZIb0lyLU1uR0JHY1lEZ0J6ZHRaUndkclMyNzFYTmkydw?oc=5", "source": "한국경제"}
+      ]
+    },
+    {
+      "title": "부천 공장 화재로 소방관 3명 부상…1명 심정지",
+      "summary": "부천의 한 공장에서 화재가 발생해 진화 작업 중이던 소방관 3명이 부상을 입었으며, 이 가운데 1명은 심정지 상태로 이송됐다.",
+      "importance": "하",
+      "articles": [
+        {"title": "[속보] 부천 공장 화재로 소방관 3명 부상…1명은 심정지", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5VdzZCZ3lGWXpJZVBVc2JzbFRVbkg4VkxDV0FLZV9CU3pzRDNhaEZabDJpNngyU1FFNGNmY3VkUnBVRzVGUVQybjdtODI1S2RQODI5V2xWNlk1QQ?oc=5", "source": "한국경제"}
+      ]
+    }
+  ]
+}
