@@ -1,0 +1,103 @@
+{
+  "date": "2026-10-30",
+  "topics": [
+    {
+      "title": "美 빅테크 실적쇼크發 코스피 급락…매도 사이드카 발동",
+      "summary": "알파벳(구글)이 실적 발표 후 주가가 12~13% 급락하고 아마존·인텔도 어닝 쇼크를 내면서 29일(현지시간) 뉴욕증시가 흔들렸다. 그 영향으로 30일 코스피는 장중 한때 5%대까지 급락하며 올해 28번째 매도 사이드카가 발동됐고, 전날 넘어섰던 6000선을 하루 만에 내줬다. 삼성전자(-4~6%대), SK하이닉스(-6~8%대) 등 반도체 대형주가 동반 급락했으며 코스피는 결국 1.24% 하락한 채 마감했다.",
+      "importance": "상",
+      "articles": [
+        {"title": "알파벳 13% 추락, 아마존·인텔 '어닝 쇼크'…채권 수요에 금리 급락 [김현석의 월스트리트나우] - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5mYmw5bGExV25USkx4VURnUjJRdUd2NTNVSXU5M2M5MEd0THhHSWcyN1B4UWhtMGlzdkZka1hjNFB3UjgtMjhCXzFFVDNCUWdZOXJjYmdIRzI3QQ?oc=5", "source": "한국경제"},
+        {"title": "코스피 ‘알파벳 쇼크’...삼성전자 6%대↓, SK하이닉스 8%대↓ - 한겨레", "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE11REUyMndMTTI0ZXA4dVlyMjFXZXlxNC1XRWhPR1Q5bWlDd2RlUk9nb2tTWkFJaFdWeDNVYTBwUV9ZSEJZQ0RTZ3NkaU1ncGc3NEw1bXhjMnc1bWRBbzdpQXFmWGlHVTJSMl9CWndpVFR2Zw?oc=5", "source": "한겨레"},
+        {"title": "코스피, 매도 사이드카 발동.. 올해 28번째 - 스마트투데이", "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1udEJ3TXhUeUdrN21TU0VTNHVmS2UzdlctYXNlelF0NmxzMzU1aHN1cGhXbW9Pak1WVllJMlIweGJCTGpXLUE2c2g1dU5hcV9xQTJlMmliUzhGR0FMd1Fr?oc=5", "source": "스마트투데이"},
+        {"title": "[증시 마감] 코스피, 하루 만에 '6천피' 반납…실망 매물 쏟아진 삼성전자 4.1% 급락 - CBC뉴스", "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5pcWVIdnl3SVdRTzRHaTUybFNsWnFSdXNEc2lVcEtXNGRRVmY2TnVvd296QTMxMmhBc3ZiQXMwZGpDdmhnNmRpTlBmRkJtSElqb3dvZWJJUFEzQnNUZkc2SzFxRURualdB?oc=5", "source": "CBC뉴스"},
+        {"title": "코스피, 1.24% 내리며 6,000선 '반납'…원·달러 환율은 소폭 하락 - 청년일보", "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9COXM1WnJsWU56NTRDYi1lT19fSDdoelpsUWVSN1l1am5SMmUtakYxdWxuOWEtdUJ3cm01dHc2SUVtTFBoZFA2c0g5R2dlOXRobml6RDB3UlAwdktSc0NSSDVWbFk2a0U?oc=5", "source": "청년일보"}
+      ]
+    },
+    {
+      "title": "美 연준·일본은행·ECB, 나란히 기준금리 동결",
+      "summary": "미국 연방준비제도(Fed)는 10월 FOMC 회의에서 위원 10대 2로 기준금리를 동결했으며 내부적으로는 인상론도 제기됐다. 같은 날 일본은행은 13년 만에 2% 물가목표에 도달했다는 판단 아래 기준금리를 1.25%로, 유럽중앙은행(ECB)도 인플레이션과 경기둔화 위험을 동시에 우려하며 기준금리를 2.5%로 각각 동결했다. 3대 중앙은행 모두 추가 인상 가능성을 열어둔 '매파적 동결'에 가깝다는 평가가 나온다.",
+      "importance": "중",
+      "articles": [
+        {"title": "BOJ, 기준금리 1.25% 동결...13년 만에 2% 물가목표 도달 판단 - 뉴스핌", "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB6WVViVzNscFlaQ085YW83UzJ5QmJwbFZrcEUwa044bkg4MmtUS2lBMWxhdndLY3p1UG9LUHYtMHNHNXdIX0t1TlFoeUlVX0dXcHpUbEp3UWFMREtx?oc=5", "source": "뉴스핌"},
+        {"title": "유럽중앙은행, 인플레 우려 속 기준금리 2.5% '매파적 동결' - 파이낸셜뉴스", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5JWnpMOWtCcS1QR1ktUEtvQjZSdmRnQk0zT043TURiVm1uWV8tVEtsVDVfLWpqQnJqVUNWZkJhUUo0alN4VTAyV1U0TXpZNHVEaWRLWUZCRHNSQQ?oc=5", "source": "파이낸셜뉴스"},
+        {"title": "[밤 사이 해외뉴스 영상] 10대2로 금리 동결…美 중앙은행 내부서 ‘인상론’ 고개 - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5VNlZ6eVF3NTJoZVVkS3lMSFhGWVBxUDFuczZ1bUVuemREdktZdExXaFNiZjVOTXNjSGVaYWFLS2xwZnlab2JpbW53MzJmR2JsR25xSUdJNzB1QQ?oc=5", "source": "한국경제"},
+        {"title": "\"연준 금리 결정 회의 축소, '선제 침묵' 시대 신호\" - 연합인포맥스", "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9pVEFWd1Frd0xfT0E3OG5jdUZCUTNVaHBCN0lzcTE1V3RpUE5iMFZseGFSRDNZajBVVDJhRTJzUUxTZ2VxWkdmcFREd0hUaGlLbUd5VXhNc1pXakxIcjIwZ2djakJmUDJWazRCMU5XclU?oc=5", "source": "연합인포맥스"}
+      ]
+    },
+    {
+      "title": "한국은행, 11월 기준금리 인상 검토…가계대출 금리는 이미 상승세",
+      "summary": "미국 연준이 기준금리를 동결했지만 한국은행은 대외 리스크가 여전하다며 11월 추가 인상에 무게를 두고 있다. 가계대출 금리는 4.96%까지 올라 5개월 연속 상승세를 보이고 있어, 한은이 실제 인상에 나서면 가계 이자 부담이 더 커질 전망이다.",
+      "importance": "상",
+      "articles": [
+        {"title": "한은, 美 금리 동결에도 \"대외리스크 상존\" - 연합뉴스TV", "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9pSy1CYjFUOG5lV2t6MTdSR1ZqUHdRNWtvRlJZVC13ZU5mcGt1UURlR3JYblVSdHhfVVptQU9kRlVsZlU0VUxTdFpOWXpLd3pyUkpFVk81ckR3Y3RuSmUtZlNRcEtCcjA?oc=5", "source": "연합뉴스TV"},
+        {"title": "한은, 11월 美보다 먼저 '호미' 꺼내들까 - 파이낸셜뉴스", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB4QzVHdTJEVFUxMlJvd0R0YVVBTWJoUnhaTWV0UzdkMkJGX3VqVXIwZjVQTVgyQkI4M0Q4RnRtTDBJRUV0bTJhTTdiQnpXR0ZSelUyUUFlQ1Rhdw?oc=5", "source": "파이낸셜뉴스"},
+        {"title": "美 기준금리 동결했지만… 한은은 11월 추가 인상에 무게 - 한국일보", "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFByWkU1ZmVZMlhsNlpDQzZ4RkxONC1RRmZvN1k1N1gxQ0gydzhXOHpxeUFFcV96cURCWl8xdTBMb0NUaFp2YzhCeF9PSkhsODhaanJOU1dZQ21nTWxsVTNldzFHLWcxNUxrakdZYXV30gFzQVVfeXFMT253ZGQyeTd3dlBOTFl0dzRtTV9NRXI5aXNya2VoTldwcWJTaWRyMHZ1U19OYWdkWXd5aHJnS2M4V0R3dzA4UXRmNFlEdHlpNWxTX1hDSjkwb1lWOENQV283YmJyUmgyUk1VcGZUc2V1dnBXdw?oc=5", "source": "한국일보"},
+        {"title": "가계대출 금리 4.96% ‘쑥’…5개월 연속 ‘오름세’ - 위클리서울", "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9zUG9tVUFyVjFMYVZULVNMLWtyNDFzMWg5aWg2bmE0d2NiamJJY1IxNkMtVENMU2NBOUFuQWVYeXR5NDFFdWNmMk9BbHRzdEpYWjZ6aHhFNU1mdjN5eUlNMHlabmRfdUY5Z0pNZQ?oc=5", "source": "위클리서울"}
+      ]
+    },
+    {
+      "title": "원/달러 환율, 1330원대에서 등락",
+      "summary": "미 연준의 기준금리 동결과 미국 기술주 급락에 따른 달러 약세가 겹치며 원/달러 환율은 1330원대 후반에서 등락했다. 30일 한때 1337.5원까지 오르기도 했지만 전반적으로는 소폭 하락하는 흐름을 보였다.",
+      "importance": "중",
+      "articles": [
+        {"title": "환율, 1330원대 후반서 움직여…美 기술주 하락에 달러 약세 - 뉴스투데이", "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE93REtrVk1rei03U29mcndwNDdidi1jTHVrVmJJWE9RWmVWSk5Za0tQQy0zQlpLekRYTkRKN2lYd1ZMdE9JdzYzc2lfOHE2R2dPb25UUkNxTUtJcEcxRWc?oc=5", "source": "뉴스투데이"},
+        {"title": "원·달러 환율, 0.7원 오른 1337.5원 - Chosunbiz", "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQeDZyOEMxQ1I5N3ZnMEhGV2d0ZjdER3BxRlUyOGxJbS0xX2Fab2ZLQUhUQl9LSUhVVktfVDd2ZS1RY3E4dTgzU0c2NWhMdnBMaENWQUhjZlEwRnFITEh5cnpnb09aR1ZyX1pxNF9ROGJpOHJHdHdQbldsZVM1dVN2ZlRacUtud9IBmgFBVV95cUxQQW1FNGVMYTlfb3cwX2RfSlNpWDhVODc0TnBSejJic1dycUFNSjVhc21aNXdhTUwwODlYUGRIRXhjdjJfT1BrUEpra2xFZ2NTb0FSc015Vzd5R1VseWFxVFE2R18tandvbWZEd2VxY2NyUEgyc1JVTU5wVzdMQ0VhMHhtV184TWdLSnA0amMydEFLUUt2YXh2UnFR?oc=5", "source": "Chosunbiz"},
+        {"title": "원·달러 환율, FOMC 소화하며 하락 전환…1330원대 중반 마감 [김혜란의 FX] - 서울경제", "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9mNDJWc0t5cm1NUTgyeG1DcEwweGV3UThZcWNwRHBFbV9hZmFVT2J2bVo0eUdlTmtPYWVCRDJSSGloQjAyOXBhWlV1SFBtQ0FIOFHSAVNBVV95cUxOZDhXbzdESlpEdTB6eXIzUW9ka3ZJbzB1WEpPYTZWNHJUZUpRY2lXSTZNQndqVDBUbV80SlFZdkxDTk9pTUhEUzZyR1cwSWUzRzVQQQ?oc=5", "source": "서울경제"},
+        {"title": "달러·원 환율, 0.9원 내린 1336.8원 마감…美 PCE 물가 대기(종합) - 뉴스1", "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFByZWtMbUNsYlZGTjRfcXNsb1JyNklFQkt2WG1HVTFKUnNqWmpKWjRDUGQyQ2tvR3RDRHY3TWZtcC1fRWJYMk9zaUpnTzcwSW5sdzZZNy04Q0Z5RVE?oc=5", "source": "뉴스1"}
+      ]
+    },
+    {
+      "title": "삼성SDI, 3분기 깜짝 실적…ESS 호조에 흑자전환",
+      "summary": "삼성SDI는 3분기 영업이익 4078억원을 기록하며 12개 분기 만에 최대 실적으로 흑자전환했다. ESS(에너지저장장치)와 BBU 판매 확대가 실적을 끌어올렸으며, 증권가는 목표가를 80만원 선까지 잇달아 상향했다. 다만 2028년 이후 미국 내 보조금(AMPC) 축소에 대응해야 하는 과제도 남아 있다.",
+      "importance": "중",
+      "articles": [
+        {"title": "“ESS·AI 수요 급증에 어닝 서프라이즈”..삼성SDI, 3분기 영업익 4078억 기록·흑자 전환 - 데일리카", "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9yMEViTExRbnh1UE1WWGQxakh5Q2RQOFJNbzlRdy1iTEVoSV9SRTRaV0luTTZVTXY0WHN6REJDaGgzeGVWVWpUcm9qQ2RRUjh3c0hlS2NSSHNBWTM5SDE2MlVwLW1nQTUxQ1l3NktDbGptUFhsOWc?oc=5", "source": "데일리카"},
+        {"title": "삼성SDI, ESS·BBU 성장 힘입어 영업익 12분기 만에 최대... 4분기 美 전기차 수요 변수 - 시장경제신문", "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBrRjFkVHZGUEt6V2tGSElZVGdObEJid0lYbXI5dGVFajN4YWZUMkJTRWM5bndJX1hqVENzUXRPeFBoNUFDQm9KMldTY0dWZGN5dG0yQ2p3NHI0VWxDYmdqdVRqNXhra3dhRUhkeVJEZ1g?oc=5", "source": "시장경제신문"},
+        {"title": "신한證 \"삼성SDI, ESS 수주 목표 경쟁사 추월…목표가 80만원\" - 뉴스1", "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8yWE5MUGc3WDlCc3h2UHRSdXdZWXByblhOcWstWmdXVS1Bbk9lQ1FPU2V4Zm05WEUtMHdNRU54OEtPekNPdTIxUVJvTllGRHVDTlRVY3IzSksySGJVVEJj?oc=5", "source": "뉴스1"},
+        {"title": "삼성SDI, 美 ESS 2028년까지 풀가동…AMPC 축소 후 수익성 과제 - 딜사이트", "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1wYlFYS1Q5bVJtQWpBU0VuaVFFZHB2TE9lTUp0MUM5NEVjYVQ0c0RoREpsSUFNdmVSRXJoa0ZYWFNIZjQ3Z1M2RUx2SWkyZHM?oc=5", "source": "딜사이트"}
+      ]
+    },
+    {
+      "title": "현대차, 3분기 영업익 선방…환율 효과 논란",
+      "summary": "현대차는 파업과 부품 수급 차질에도 3분기 영업이익이 전년 대비 5.5% 늘었다. 다만 매출은 줄었고, 영업이익 증가 역시 환율 효과에 힘입은 것이어서 이를 제외하면 사실상 '뒷걸음질'이라는 평가가 나온다. 일부 증권사는 목표가를 44만원으로 올렸지만, 경쟁 심화를 이유로 목표가를 낮춘 곳도 있었다.",
+      "importance": "중",
+      "articles": [
+        {"title": "[종합] 파업·부품 차질 딛고…현대차, 환율·하이브리드에 영업익 5.5%↑ - 뉴스핌", "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5IUUNNQWQzV0s2M09rSkh0ckFjcmZsMHl6MkthVWJYTWdHLUROZXgzem9wR1Q0ZVhNODFOOGFnRktETk9tRzNxVklTXzhhVWNMYWtxXzRPYnN4MGp4?oc=5", "source": "뉴스핌"},
+        {"title": "유안타證 “현대차, 어닝 서프라이즈에도 주가 하락은 환율 착시 탓… 목표가 44만원으로↑” - Chosunbiz", "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZWtQSFBxMGZNQXlKa1ZJOE1OMUN5dGt6eFVlVHNtWmtScXhISmtZcUlCYk9rOXN3RE9rNW9QTXlrQnlKVUtBeHZuODZBWHFFR1FFWC1jVmNVbEwxVzFHc3pLdzU3VlhjYTA3RW9UeTFLUzZOMEx0d2lEM2laTUdBaUhRRm5EUmst0gGcAUFVX3lxTFBWelJjRVhDX1l0N0ZZdjl6dFJBZVcwcklxU0FYVHVmV0Y5UWRycDdla2VyWWdJdUIzbVVjV0R3OWJjQ3IzNTNTLUxvNU5OdnVOUk5aSWUxUmo3dng2SWZkS2s1TFVBRHFpcWtGMEJJa1RfOVFJWlhUWDlSZFRCcnIxbV9sY1F0STYtc3NhQnFGRFhtWmtpb1Zsd3JmcQ?oc=5", "source": "Chosunbiz"},
+        {"title": "영업이익 감소 막았지만…현대차, 환율 효과 빼면 '뒷걸음질' - 연합뉴스 한민족센터", "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1SYThlRi1zZzQ5YmxBRmVzNzg0NXQwcHRXdVF3YUJFYVFqOC1PQmN4NWJxZHZUM1lHbHNMUjAxNzI5M3drNDVUa21iN0ZpQUUzZW5RaVVSZ0lEcFg5bW5mNjBrbUFfbzZoNWVWbUxSZkxMdVVx?oc=5", "source": "연합뉴스 한민족센터"},
+        {"title": "\"현대차, 경쟁 심화에 자사주 정책도 재검토…목표가↓\"-하나 - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE50Sm5zYk1zU0VUWkVqaERfdTJKMXI3ZzNGZWJ3a3l2Q3g2YmR6UVB0S1BUYnlUT3R3N1R0SENlSVZTZ3R3eVZBaWRpa3g0ZEFYeG9ET1VhZE1UUQ?oc=5", "source": "한국경제"}
+      ]
+    },
+    {
+      "title": "정부, 수도권 10만호 부동산 공급대책 발표…서울 아파트값은 90주 연속 상승",
+      "summary": "정부와 여당은 수도권에 10만호를 공급하는 대책을 내놓고 도시정비법 등 관련 공급법을 연내 처리하겠다고 밝혔다. 전문가들은 이번 대책이 2030세대의 패닉바잉은 진정시킬 수 있어도 당장의 집값 안정에는 역부족이라고 평가했다. 서울 아파트값은 90주 연속 상승세를 이어가는 와중에, 일각에서는 \"아파트값 붕괴 조짐\"이라는 상반된 경고도 나오고 있다.",
+      "importance": "상",
+      "articles": [
+        {"title": "與, '수도권 10만호' 뒷받침...\"도정법 등 부동산 공급법 연내 처리\" - 조세일보", "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5mWHptalZTOWRBekNZdkd2ejZwYnNJa1UyU254Y2toV3ZDUjFyNW9oRUo4UDBUVkRkcmF2YXBDcy1tTW9IUVhhSm1PMGlCREhHbHR4azhWSkZFdVRsSTN2STgzbFlITWwxV3pVZkpFNA?oc=5", "source": "조세일보"},
+        {"title": "“2030 패닉바잉은 멈추겠지만…” [부동산 10만호 공급] - 헤럴드경제", "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1FOXR1VXVJME5yTmdNT09nSmVDSkUwbzUyb2taZ1NwaUloUmxkUFRNSTVZNDVSV2EwMkZqSFpUcTBMTTJkMEdKLUp0eDVYa2Q0LWRRNHBR?oc=5", "source": "헤럴드경제"},
+        {"title": "서울 아파트값 90주째 최장기 상승, '서울 빠진' 신규택지 발표 효과는? [스타트 경제] - YTN", "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBBc1hHS01TX0ZIaTQtQVMwX09ScHhWQVdvQmVjRGJLRmt6d2cteXpYR3k3SC1hWlhvOGhBSk93YXktSm4wV2dreHNFSUVzaDBlSlhTZkVFMENKMmJnb3c?oc=5", "source": "YTN"},
+        {"title": "[10.28 주택공급대책] “신규 택지 후보지역 환영…“당장 집값 안정엔 역부족” - 대한경제", "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE95bWJsLU1jVXVBRHo2TjRsV25XTWVlVWRYeWsyQ1RwME5SR0NzU2tUN1JQLTZIcTdNRmdDS2VuTXVNak9MazFkVTZrZ3htRUpBa2dyX2NlTU9uNkhtRVFZdkt0bXZfQU52Q1lxWmJYYkswaWc?oc=5", "source": "대한경제"},
+        {"title": "\"아파트값 붕괴의 징후…'한국판 잃어버린 30년' 올수도\" - 뉴시스", "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1jTVpCVGM5TVhpdnY5a1lUOEg5Qk9BV1NMX1VtcVpEazFfTUgzWDV2dmFDdnNtT213WUgtTUx0dU5hd1EydkRDZlJVZXNELWRhWkRfOXVVUmpIMDdyVW1WMtIBeEFVX3lxTE5LUFVLVkVtMlU4ZEhIZ2tteFhiR2UzMGZ4WWx1UUxRc0UtbTNVaUMwWWVhYXoxQUNvcjVvbFA2eF9kOENNUF81STJUbUtUUXlTS0NMV2hfUUpiVnFwUVpPd1JNZmR6SVZTR2ZxbnJ4Z2lCZVEtVmZoYQ?oc=5", "source": "뉴시스"}
+      ]
+    },
+    {
+      "title": "삼성전자, 호실적에도 주가 급락…주주환원 시점 논란",
+      "summary": "삼성전자는 영업이익이 전년 대비 783% 급증하는 '괴물 실적'을 냈지만 정작 주가는 하락했다. 증권가에서는 \"주주환원은 시점의 문제일 뿐 비중 확대 기회\"라는 의견과 \"코스피에 희망이 없다\"는 비관론이 동시에 나오고 있다. 급락장 속에서 초고액자산가들은 삼성전자 보통주를 팔고 우선주를 사들이는 등 자산 재배치에 나섰다.",
+      "importance": "중",
+      "articles": [
+        {"title": "\"삼성전자 더 담아라\" vs \"코스피에 희망 없다\"…엇갈린 전망 [분석+] - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBkUkpvcW5aN2tfX1NSUjZaeGJVbUMteXFkWXZ1MFc0Vm5RaFBVb2staVlwZmU5ak9NS0ZaOVR6Uk5OeVFnaDJoOUoxM2R3dDdOXzV5aGlDNngxdw?oc=5", "source": "한국경제"},
+        {"title": "급락장서 베팅 나선 초고수들…삼성전자 보통주 팔고 우선주 샀다 - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8tRlNKcjRSS192ei12WVFEcEE2RmpiUF9VbDVDVEFTcjkwaWk5Q1Q1eHhCVmlkTVJqRnhpLUhXc2hKS1I3NGEtNGRxWG1lMVJLRTFJc1pETUg0UQ?oc=5", "source": "한국경제"},
+        {"title": "\"삼성전자, 주주환원은 시점 문제…비중확대 기회\"-대신 - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nTF9LTkNJd2RjV3lEY2wxUHBaSjk5VFZtUXVkcnJzeEpzUWJ5ZUlIZFdTUTlYQ0dadzJMaHVUUTJiQ3UyQ2hYMDlMbldleEpOVHYxWUI2eW9UUQ?oc=5", "source": "한국경제"},
+        {"title": "영업익 783% 급증 ‘괴물 실적’에도 주가는 뚝…삼성전자에 무슨 일이 [재테크+] - 서울신문", "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9WQlZmUzhFb3ZOT241WWNVZVVjQUhIdFhiQl93LVFzTEJ3NUlCYi1aLThmOEJBVlpKVWdrYUFGVUNmRVZzNjQ4R0laTmMycmJtb1FKN2JxNDZBaldNV3hjdjNRT2hCam9KbmtaRG1TYw?oc=5", "source": "서울신문"}
+      ]
+    },
+    {
+      "title": "배우 최불암 별세",
+      "summary": "'국민 아버지'로 불린 배우 최불암이 별세했다. 넉넉한 웃음으로 오랫동안 대중의 사랑을 받아온 그의 별세에 애도가 이어지고 있다.",
+      "importance": "하",
+      "articles": [
+        {"title": "'국민 아버지' 최불암 별세…넉넉한 웃음 남기고 떠났다 [부고] - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBJaVFWYjlOSnlCWmZzQTdiYVBxamdVcmxick1haEgtTE00ekxmMGJRMFFPdnppMXkxaGg2c0ttVy1UNk11YzlLQl9XUXhIV3V4MlZCTGtNREhudw?oc=5", "source": "한국경제"}
+      ]
+    }
+  ]
+}
