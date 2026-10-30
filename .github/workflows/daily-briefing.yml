@@ -37,13 +37,39 @@ jobs:
         if: steps.check.outputs.skip != 'true'
         run: python scripts/fetch.py
 
+      # 첫 시도가 실패해도(작업 횟수 초과 등) 아래 재시도 단계로 넘어가도록 continue-on-error 를 켠다
       - name: AI 요약 (Claude)
         if: steps.check.outputs.skip != 'true'
+        continue-on-error: true
         uses: anthropics/claude-code-action@v1
         with:
           claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
           prompt: "scripts/summarize-prompt.md 파일을 읽고 그 지시문을 정확히 따르세요."
-          claude_args: "--model claude-sonnet-5 --max-turns 15 --allowedTools Read,Write,Edit,Glob"
+          claude_args: "--model claude-sonnet-5 --max-turns 25 --allowedTools Read,Write,Edit,Glob"
+
+      # AI가 '성공'으로 끝나도 브리핑 파일을 안 만든 날이 있어(10/30), 파일 존재와 JSON 형식을 직접 확인한다.
+      # 깨진 파일은 지워야 재시도에서 새로 쓸 수 있다.
+      - name: 브리핑 파일 확인
+        id: verify
+        if: steps.check.outputs.skip != 'true'
+        run: |
+          FILE="data/briefings/$(TZ=Asia/Seoul date +%F).json"
+          if [ -f "$FILE" ] && python -c "import json,sys; json.load(open(sys.argv[1], encoding='utf-8'))" "$FILE"; then
+            echo "retry=false" >> "$GITHUB_OUTPUT"
+            echo "브리핑 파일 확인 완료: $FILE"
+          else
+            rm -f "$FILE"
+            echo "retry=true" >> "$GITHUB_OUTPUT"
+            echo "브리핑 파일이 없거나 깨져 있어 AI 요약을 한 번 더 실행합니다."
+          fi
+
+      - name: AI 요약 재시도 (Claude)
+        if: steps.check.outputs.skip != 'true' && steps.verify.outputs.retry == 'true'
+        uses: anthropics/claude-code-action@v1
+        with:
+          claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          prompt: "scripts/summarize-prompt.md 파일을 읽고 그 지시문을 정확히 따르세요."
+          claude_args: "--model claude-sonnet-5 --max-turns 25 --allowedTools Read,Write,Edit,Glob"
 
       - name: 웹페이지 생성
         if: steps.check.outputs.skip != 'true'
