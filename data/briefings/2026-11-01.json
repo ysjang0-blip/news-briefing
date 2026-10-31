@@ -1,0 +1,129 @@
+{
+  "date": "2026-11-01",
+  "topics": [
+    {
+      "title": "AI 거품론발 글로벌 기술주 쇼크·코스피 급락",
+      "summary": "AI 투자 수익성에 대한 회의론과 '알파벳 쇼크'로 미국 기술주(인텔 -28~30%대 급락 등)가 폭락하면서 코스피도 직격탄을 맞아 10월 한 달 -16%로 역대 일곱 번째로 큰 월간 하락을 기록했다. 10월 31일 코스피는 3.48% 급락해 5,730선에 마감했고 삼성전자 6%대, SK하이닉스 8%대 급락과 함께 매도 사이드카가 14거래일간 여섯 번째 발동됐다. 외국인은 매도를 이어간 반면 연기금과 개인 투자자는 매수에 나섰고, 금융감독원은 공매도 거래 집중 점검에 착수했다. 시장은 11월 미국 중간선거와 빅테크 실적 발표를 다음 변수로 주목하고 있다.",
+      "importance": "상",
+      "articles": [
+        {"title": "다시 변동성 커지는 증시…코스피 지난달 -16%, 역대 일곱번째 - 연합뉴스", "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE55TWw4VlFjdl90RXF0a2dBbElCWTh6RVlhd2c2NFdMVXJiSVpveElFX2cxaUtHd3FXTWpBZGt4VEpGeU13TmdQMnYzZXVReEJFbnZtZlZHNktiMkk?oc=5", "source": "연합뉴스"},
+        {"title": "'AI 수익성 회의론', 증시 계속 짓누르나…美중간선거에 촉각 - 연합뉴스", "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5mMUNmcGN2bkVDNm0zeEtodzhDeFNUVzBjODRjWE50ZjZMRVZTSnQ1cDlEcnhqNXpmdlk3cEFjZzRzdGdGdFNQZVdyR1RnMHhjc1hUbGwtUzBCWHPSAWBBVV95cUxQMm9lWGR1ZU40RktpZ1BVeFM5RFdCS255eG1LUXR1WUlra1FVeGNkeVFQbDVXWS01a0FsWEVybnotRjkyaU5HVGNtSWdyeFFNb3ZWY0pXeVZ0V2VzMGdOLWU?oc=5", "source": "연합뉴스"},
+        {"title": "코스피 떠난 외국인 11월엔 돌아올까, 변수는 미국 중간선거와 앤트로픽 상장 - 비즈니스포스트", "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBwYTl4MTdFTDNHNXlUblBKLTdsWW9SclFJT0w0U1puWVMyZnFfZnZxWFozQ0d2NV94RmRNaTMyNjRtT1J0czQyNGJVc0o1bnpEdWc0WExDeVZVZkJyZVFTM1dURWM2Ri1WUnZfTm1Za1pWOGM?oc=5", "source": "비즈니스포스트"},
+        {"title": "美 중간선거 이후 코스피 10% 상승…'블루스윕' 반도체 부담 없을 듯 - 뉴스1", "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1CM2JPNGxvWEVzTUlCQkt3R25sQy1FazN3OUZuTkMtdHBlZmNxTzBJckRQc0RycUY0NVZQcjVueV9VNnRwVGZ3S3hTdzdVTXJEMXpfT3I2TnRzcHhhQWxv?oc=5", "source": "뉴스1"},
+        {"title": "코스피 변동성 커지자 금감원 칼 뺐다…기관 공매도 거래 집중 점검 - 핀포인트뉴스", "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5EYktEck9GcjJyWUNzbWQwSl83ckRPdm1LUkdxeVZ3b3EwaG5sLWVVX19rS0ZLNUdDX0ZxYWFzRFU1LWE3WEEtdzNvd3gtalVoU204T0hoZ0VvMlJKUWgxT05qTmJJc0MtT0NWNDh4OEVoeW_SAXdBVV95cUxOWXN3Q2ozS0pQWnltRmFRa1FfdWtERGRhci1qTk1xcGsyZERLMkZkeDdaOEJ5OWlrNExMd2tBOTBydDFlQm1uT19oaFE4V0ViaW1JOTdQdVNkczlTRzRqMlJqU0dtcVNYVjVEQnVhWjRlV0ZTUEVrRQ?oc=5", "source": "핀포인트뉴스"},
+        {"title": "5700선에서 하락 멈춘 코스피...연기금 매수했지만 외국인은 여전히 '팔자' - 세계일보", "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA0VUNmbHpldWw2SzBvb2N5QTVmdWtIM3lhS05BdUM3R2p0VkFlaHpsSkZZODdQeUtlZFphZ01LT2RqenM0blY0M1c2WFRCZjhNNzNlanROTVdFYVQ2X0l6NXptdDZjMUFWZkNv0gFUQVVfeXFMTVJHcWJPNXNReERKcmRDS0w1NmdnVFFleTFrUkwxZm1VRC0xWXNWWWhBLTZQRllEWmxQc2lCVFRxMGlSRXFpMDk0eUpKV2FpQkZ1R0Nf?oc=5", "source": "세계일보"},
+        {"title": "사이드카 14거래일간 여섯 번…역대급 실적에도 출렁인 코스피 - https://www.seoulilbo.co.kr/", "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE85U2xaMWtzNXRIZzhRRkhkSHNjNWJxNXAyc2t2US1TU3M5OFN2N3ZyU09vX3JCTndtdXNhRWh6cFRXQjlWMDRDQ0szYUtGbmM2MjNpR1RBQWFQM1FrbGlyanFkSXctTXVqSXZIQXRR?oc=5", "source": "https://www.seoulilbo.co.kr/"},
+        {"title": "\"손쓸 새도 없었다\"…하루 만에 25% 폭락한 서학개미 최애 종목 [빈난새의 빈틈없이마켓] - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9qYXkwVmVYWHpFc0hYZ1NDVmZ5SDllcmhQQ2lqeXhrOEtDYUkzYVRYNkxRSVFzR2dsMmoxcjJMQU9YbUZKN2dsU20xOXNkX1V1ZEw5SVl5R2dwUQ?oc=5", "source": "한국경제"},
+        {"title": "코스피 힘 못 쓰는데 2.8조 몰렸다…개미들 꽂힌 '이 상품' [이수의 ETF줌인] - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE56TUFETkRiS2M5UGEtempTQ1B0ZmhqaDNjM0owVS1ycFo2RjRmVjQ3MHJyR2lKUjM5V0RQOWNvM3lPQmFwc1BoTGFOZjZ6SXJVN0l4N2N1NVlWZw?oc=5", "source": "한국경제"},
+        {"title": "'AI 쇼크'에 미국 기술주 폭락…중간선거가 전환점 될까 [다음주 주요 변수 미리보기] - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1OWDYxOE5PaWhwRTFOYzVYSmxLU3k2X3V2NTY5NmdIWlpGR2IyUE04MElfbHBXSjRlRjNyeW9VWG82UHhLTEtFY0FUS3pxMXB2bTEzaF84VUczdw?oc=5", "source": "한국경제"},
+        {"title": "코스피 6000 찍자 레버리지로…서학개미는 '美 기술주' 집중 - www.ebn.co.kr", "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB4d3VTSHVBQ3R5ZkFKMEM5OTdJajYzanhqZzN2VHk2dFZ3dlNQTndyekwwdmtwOEdyZ1J5ZS0zR3VGSkFMVDNOakZ2anN6VHMyTm05bmRXTHowbVc5enFhMGRtRGNZSi1s?oc=5", "source": "www.ebn.co.kr"},
+        {"title": "코스피, AI 투자 회의론에 롤러코스터…내주 美 중간선거·중동리스크 '변수' - 데일리한국", "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE42bU1BQm9oa0hpWF9lazZ5N2s1bU14TTJ2d2prTTAtN0dRSTFsNWxXcGc1OUpoWFdXYWExS3kxdlBXdFdkMU51OGh0VzczQ2ZFODQ0Q0dYRnUxWUVXLXdJazdRTjRCd0cwbEZfZEFlY9IBc0FVX3lxTE0ycV9mRVJHR1VTelhSbEJrejVjNnZwUnJKNUkyajFiY0JKWVJWc2RqYmIyN0V1WWVFTjM2UUh2cG1pV3Z0a2VBTTFRa01EeWZEN2RuTlVRTHRINExYdGVPVk96LURxdV9ZUDBNY2dtVnNJd28?oc=5", "source": "데일리한국"},
+        {"title": "\"9000은커녕 7000선이라도 올까\"…삼성전자 107조 벌어도 못 웃는 코스피 [증시레이더] - 디지털데일리", "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1IUjhPUHFncmVxMFl4S2pXT0d2eWRMWGkxeV9sejJGSXp4T0FxQXpRY3NJZld2Z0JlM1d1d3dSVU5iYkFXakFXSURZN0VjZXFYUnVwS3FiZDZ4MWNFYjBENXRoaDI?oc=5", "source": "디지털데일리"},
+        {"title": "코스피 '알파벳 쇼크'...삼성전자 6%대↓, SK하이닉스 8%대↓ - 한겨레", "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE11REUyMndMTTI0ZXA4dVlyMjFXZXlxNC1XRWhPR1Q5bWlDd2RlUk9nb2tTWkFJaFdWeDNVYTBwUV9ZSEJZQ0RTZ3NkaU1ncGc3NEw1bXhjMnc1bWRBbzdpQXFmWGlHVTJSMl9CWndpVFR2Zw?oc=5", "source": "한겨레"},
+        {"title": "'황야의 7인'이 붕어빵 됐다…똑같은 미래로 질주하는 'M7' [김인엽의 AI프런티어] - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9QMll3bVdVVi1rNjJad09vRGNIdkRub2NtaENpWHRWQkFJWlJXZk5udk04LTU0eHRHNXkzcC1CVlFyQkF2aFBHRHF6TjRhTzNxZTNGTzdVWHk3dw?oc=5", "source": "한국경제"},
+        {"title": "\"후회말고 삼성전자 사라\"…100조 '뉴노멀'에 개미도 들썩 [강경주의 테크X] - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4wVm82ZFlpaUlPQ09xdUlvZThoeEtXSFRvRDZoVkNQQjRySVhiQS1QQWktMUh6OGtxZDlWeE9McG40OWhfWWJNN3BWRkN2YV9PVnRCbjlqN1Nsdw?oc=5", "source": "한국경제"},
+        {"title": "'증시 바닥 찍었네' 기대감 폭발하더니…'3200억' 몰린 곳 - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxSEwzYUtISmFTTkxvbUQ2M2ZNNmNneDlsVkZNU3pBYVdJOUJQcDhqdlZPejhmbG5qMlBGREN5WlF2S0J2SFgtNFRGSzREUDQ4b3hwZHFDdzBiUQ?oc=5", "source": "한국경제"},
+        {"title": "[오늘증시] 코스피 3.48% 급락해 5,730선 마감…외국인 1조6천억 '팔자'에 매도 사이드카까지 - 톱뉴스", "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1BcnhCeWlNOEU1RVZIbzk2X0tTY3FkcUNudTh0NVZhaUZrVmpncTdFTWZ4aHNfVGJXYnVHUHdvRGZsdjUtQlU5clBGVHQxaFh3dUhmcTlCSFdab2JBWGdSU0plUGlNRklDQzJ2V3JmWQ?oc=5", "source": "톱뉴스"},
+        {"title": "인텔 투매, 30% 추락…메모리의 복수, 애플도 쇼크? \"선거 뒤를 기다려라\" [김현석의 월스트리트나우] - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5NeXNPRnZ4VlNmTTRSbF9oNU4xMjhmWWRsaEFSaXk2QlE0LTFIVDZtMzVTWW5nLUUwNEdkWG9UcXFBMU13UlRCN0ZHVWcxSUFkWjZzcndtZzZVQQ?oc=5", "source": "한국경제"},
+        {"title": "인텔 -28%, 급락한 주식 시장 - 네이버 프리미엄콘텐츠", "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVl9hWjhWUFROOU1RV1Axa2pkUXJQOU9ORW1lSG0zVmpHckNhSnV3V1R0NEFkVGtRaHdXWEdmSU4yUzBNb0ZKa2lXNkRfU0F4NXF4LUozN1d5aWl0cDBUZlEwT2xza2ZybFNSYlNiWGg1QnZMb2pLeXZGTTZXcDVQeUUweGlqNjRCSTNZ?oc=5", "source": "네이버 프리미엄콘텐츠"}
+      ]
+    },
+    {
+      "title": "부동산 시장 - '자산시장 정상화' 정책 고수 속 서울 집값 90주 연속 상승",
+      "summary": "이재명 대통령은 \"자산시장 정상화는 인내의 시간을 지나는 중\"이라며 현재 부동산 정책 기조를 바꾸지 않겠다는 입장을 여러 차례 되풀이했고, '집 대신 주식'으로 자산을 분산하라는 메시지로도 해석된다. 그러나 서울 아파트값은 90주 연속 상승했고 서울 아파트 입주 물량은 급감한 반면 매물은 30% 늘어나는 등 시장 신호는 엇갈리고 있다. 전세 부족으로 월세 전환이 가속화되는 '월세 시대'가 본격화되고 있으며, 지방은 침체되는데 정부 대책은 수도권 위주라는 비판도 나온다. 일부 전문가는 집값이 추가로 하락하면 매수 기회가 될 수 있다고 본다.",
+      "importance": "상",
+      "articles": [
+        {"title": "\"서울 부동산 분위기 달라졌다?\" 30% 늘어난 매물…수도권 집값 향방은 - 뉴시스", "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5EaTZkZVB1b1JxSXhyWElQcTNFOURwV2ZoMGdrdnFHZURGeHAzRVJ6MWljVElxOUJaOWt6VU9mOGpJblhYXy1rY2RvakhIYW81MTBYRmVhakFGTzI5SHNXadIBeEFVX3lxTE05V1laTVR1T3QtckZJUEY5Y21CUjNMeTNvd1Q3UzZybEJiLWpnX0hhTmRKenlmZDg2eHRqTDhHZEh6X2dJYzd6Y096VTh2V09PcEpDWkJ5ak8teGt1LTlKNjk0VVdzV25LZzh5X2JkR3NpTS1PanVXSg?oc=5", "source": "뉴시스"},
+        {"title": "[탐사보도 뉴스프리즘] 지금은 '월세 시대'…전세 부족에 부동산 시장 지각변동 - 연합뉴스", "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5aX244LWJkaFpfd00yd24xYUlneG1IV21waXNsWnB4QVZWdkQwaWJLZmNPVGMxbGJfX1draTRtUlZxbkwyZnRxSUNsRHhQZHEwV2pRNlRmN1BqQTRpUnUzN9IBYEFVX3lxTE5aX244LWJkaFpfd00yd24xYUlneG1IV21waXNsWnB4QVZWdkQwaWJLZmNPVGMxbGJfX1draTRtUlZxbkwyZnRxSUNsRHhQZHEwV2pRNlRmN1BqQTRpUnUzNw?oc=5", "source": "연합뉴스"},
+        {"title": "李대통령, \"부동산 정상화, 지금은 견디는 중…국민주권정부는 한다\" - 연합인포맥스", "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1tb2tkcmp1dENZMUtzS0JPWVNPdjQwVDhybzFLWk0xVm13ZGd3MWszMUhtZ2lLbE14dXBWX0lQY0FxQ0wtYzZOR1hPZVktMkJNd2Y4Q3JnSFBRNjBKMlFqUExHVTZLbVIxVXZMUWFDMTk?oc=5", "source": "연합인포맥스"},
+        {"title": "李 대통령 \"자산시장 정상화, 인내의 시간 지나는중\"…부동산 정책 불변 - 디지털데일리", "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1fbkExcGtKamZibG13MUpwdWZSOG9fWlBhVVlCeWcxV2ZiOGVCOWhEUDk4ZTF2a1NBbndtMUROUFlTZ0liT2U3WEp5LTVIdXFWLXNvYUZsYW9BNHNjMlZKUnR0ZlU?oc=5", "source": "디지털데일리"},
+        {"title": "서울 집값 90주 연속 올랐는데... 李 \"자산시장 정상화 향한 힘든 길\" - 조선일보", "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOc1czcDN2dW1CWm0tcnA5VHB5alFuQ19yZkhaQVJuOFFJOGc2SktGWDQ2cjZIVkJWSmV0OUhsX3k4NXhuQ2JxTm90WnNTQS1OVVliSEU0bzZhOHRUaS1EZmI4cWZySmQ4dkNXMW5Ddl9FNzNkQlZoOEVxUmtyRTJ5Q3NhbUZZRTRKU1pndHR4dUM?oc=5", "source": "조선일보"},
+        {"title": "이 대통령 \"자산시장 정상화되는 힘든 길에서 견디는 중\" - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA3d1ZfakdzYzBLLVFJUndBcW4wazVTTC0yWnlOcmpOTlh4aFB1NHlDWFNSbEhYSFpkTTdLU2xfY0FLaE95clNNTnM4ejNCYVIxM3pnSkFSZ0d0QQ?oc=5", "source": "한국경제"},
+        {"title": "李대통령 `자산시장 정상화, 지금은 견디는 중`…`집 대신 주식` 전략 고수? - 매일신문", "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1ZV3lMUkFnVDF6V2lZMEZDWC15VHdkMC1LamhSY1IwYjM2SXRvU0NqeThvVDVXY1p6WVpPX1Fwb05wNV9ydFVWdmpNaTl2ci1TN1NxdW1kVUdIeFNmZGtUNGFB?oc=5", "source": "매일신문"},
+        {"title": "李대통령 \"자산시장 정상화 힘든 길…지금은 견디는 중\" - 이데일리", "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONnVycnpYYVc1bEZqcVRUUlBMTlFQTkJmQkViandUcW5abUdfTDJyOE1kOVNUbEl2eGVGcHlIOTR3X2Y1Slg1blR2Nm0zRmVGal9RbENwd29IdFQ2M2hKVXVicFpJSU8xcnZYb21MTDZzQWJKZno1ejhRMEJHOGZ1Zg?oc=5", "source": "이데일리"},
+        {"title": "[사는 곳이 계급인 나라⑭-지방은 안중에 없는 부동산 정책] '과열-침체' 정반대 시장에도 대책은 수도권용 - 영남일보", "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB4RS1INnZ6NV9udWtxZGgycmZDUmQwTnVWaEJmVWVzY0Vndkt6dy1xNkw0Q1AtUGpzOTZ2eThpLW80c0VQTmtnSmNyYVhtT1pjai1CMVlGeXlmdm5nbXdXTkU0WlpzRzllZ0Vv?oc=5", "source": "영남일보"},
+        {"title": "집값 30% 떨어지면 매수 기회?…전문가가 꼽은 집 살 기회 - 뉴시스", "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9vdjZzVWxtY1FnVU5MQWQ5bDNsdXpqWms0RVJyVF85N1dNX1E3UF9sSm1JOXlTWkgzZlJHMzBaSzdLSWt4R0hVN0NhMzZxUEI5SWZ0V3pEQ0hndF8xdGdSQ9IBeEFVX3lxTE9LbDNocW43MzE5b3hIS0pHN2o4RE5vcFRsQjQ4N2hMRWxOOGNzZjBJNWU1Tlk5RVRpaEozbEUwZ0NiRXRULVczcFhXQ1o3UklrekZXV0E5NnItcGxRUzBQRkVneGp1YWZaMVQxQmNqUFNvQ2FoUGdUbA?oc=5", "source": "뉴시스"},
+        {"title": "[속보] 이 대통령 \"자산시장 정상화 향한 힘든 길 견뎌…인내의 시간 지나면 알게 될 것\" - 부산일보", "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5FaUdyTUwwQUp6eGdaR1gwQ01UWnl6dFV4bUU1NXVKQTNYNExlak1BZ0RCaGFucEFpdVlRREtkU25TeUxBSlF0ak9tOGl5akZJVkVxRU1MOXNOQW1OVUZWeEZXQVJuOVFIbERRY2dLazZSdV9D?oc=5", "source": "부산일보"},
+        {"title": "강남은 진화, 강북은 방화? 집값 90주 상승에 與 '文 트라우마' - 시사저널", "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4yMWpuLXpaX3FNdU1WUWlyZ3FGTTJiMTJTdERJOEd2eVk5S0NPdEpTZWNrMGlZTmtBVVVJZ2F3emRVU09WYVU5QVNDUEJqazZQR0tvN3oyTEdtWDFCUWJVcXEtekhINjA4dFFLTVhTMNIBc0FVX3lxTFAzbjBpYUt1X19XYTlqQ05tbEZIbVVhd0hyVS12TEc5ZmJKZGNoOGlPMkpxY1A3N0NrRGpRdDJ6RlBzN2M3bUMzRmZqNE5QbmJZRGpBT0R4VDM5QUdPVldCMy10clNqYzR1TTM0WXlVSWFLM0E?oc=5", "source": "시사저널"},
+        {"title": "[속보]서울 아파트 입주 물량 '급감' - 한경매거진", "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5palExUlhoRW03aUN4ampjVE5KUjl1eWhkb2tKMEZwNV9NanhzRFpCdWxvc2FnUU44TmNQSHJmRVVRTEZ6REt0NW5KM1NSX1BYZW1ka3ZfSHhaSkpGeEJhZExOMDdQR3QwTkQ2ZQ?oc=5", "source": "한경매거진"},
+        {"title": "[부동산사용설명서] 14억 아파트, 대출은 4억?…한도 기준은 '감정가' - 뉴스1", "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5BRFc4bW5scHEzOEVfazBEaXZraXA2bWlZVnVtTl9IM1VIZEVWc1R6YTY5UDZ4Y1A3M09XdjA4Ty1qVEExQmxhS0pOR0xBQW8xbUJWTmQ4LUNrVE0?oc=5", "source": "뉴스1"}
+      ]
+    },
+    {
+      "title": "금리 상승에 가계대출·대출이자 부담 증가",
+      "summary": "금리가 오르면서 주택담보대출·신용대출이 다시 늘어 10월 가계대출이 2.2조원 증가했다. 시중은행들은 자금 이동(머니무브)에 대응해 상대적으로 금리가 높은 예금을 끌어오면서 마진이 줄어드는 역풍을 맞고 있다. 환율 하락은 해외여행객에게는 호재지만, 대출금리 상승으로 대출을 쓰는 차주들의 이자 부담은 반대로 커지고 있다.",
+      "importance": "상",
+      "articles": [
+        {"title": "금리 치솟는데, 주담대·신용대출 다시 들썩…10월 가계대출 2.2조↑ - 뉴시스", "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE03RHdIUkk4VHhXS1F1aXIxM3BfZ3BYSkxTMDYyNDlLMDFoSzR6S0VlaDF0dW9UZ0ZMUHBiaU1FSmVLRmxBQVJYMUppd0h6d0EwQTNCSVljN3FtRURad2Q0Nw?oc=5", "source": "뉴시스"},
+        {"title": "'머니무브'에 비싼 예금 끌어왔다…4대 은행 마진 '뒷걸음' - 뉴스1", "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1pb2NGTkhzQ0Y4bGNqdUo5Y0hoSHltYmJIZW1JWklCSnRhUDBaR1lSN2c4bUptUHEwdjVJY193WndXNXY2Q3d4M2ctcUVVR0JnWFJrTlhBbjJscW1UZjBaR1Bn?oc=5", "source": "뉴스1"},
+        {"title": "환율 하락에 여행객은 '웃고' 대출금리 상승에 차주는 '울고' - 영남일보", "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBrT0RMZjlrenQxNnJZUF8tQW9reUtpc2FVYUZBUDJOYXI2YVdERWtoWWtjdmMwRGd2LV9ub1dpRmhoYzJhZEIycUZENGlXTjdMSnR0UzZkWXNrQk95WUZiaFRHenpPY204WWI4?oc=5", "source": "영남일보"}
+      ]
+    },
+    {
+      "title": "북한, 바이낸스 60억달러 해킹 배후로 FBI 지목",
+      "summary": "미국 FBI는 가상화폐 거래소 바이낸스에서 60억달러(약 8.4조원) 규모 가상화폐를 탈취한 해킹의 배후로 북한을 지목했다. 해커는 탈취한 자금 중 약 4.3조원을 아직 보유하고 있는 것으로 파악된다. 바이낸스는 피해 금액 전액을 자체 자금으로 보상하겠다고 밝혔다.",
+      "importance": "중",
+      "articles": [
+        {"title": "[속보] 美 FBI \"북한, 바이낸스 60억불 가상화폐 탈취 배후\" - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1rSW16TTRzalhsa1Q2QUx0c3F3LTA5dlBtR0djNjg5LW9fRmd0NjVjWFRoYmVaVmJCVUJnQVI5cGFaSGJ2Vi1nbXRDWGJVbXNVenc5R1hDblJEdw?oc=5", "source": "한국경제"},
+        {"title": "바이낸스서 8.4조 털어간 해커…아직도 4.3조 쥐고 있다 - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBfQlB6WkdVMmVWV3ZPU2Z2eElJYktSbjJWRm9WcVVqcmUyelhlbVZRakk0RTZZaktyazNKQ09EbjBTQlJ3ay02VGwyYzBwRHpXNlpLOFBaZHc3QQ?oc=5", "source": "한국경제"},
+        {"title": "해킹으로 8.4조 털린 바이낸스 \"전액 자체 자금으로 보상\" - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1YRm44T2F6ai1oYk5RbnZQMnJZMUpkZm9vdUlVZWhNTVhvM0pZMllJVlhwSkNIcXFPRTVTZmJJdEJBYzI3QlllejdwYWw2V01fTHFEdkE1by05dw?oc=5", "source": "한국경제"}
+      ]
+    },
+    {
+      "title": "원/달러 환율 4개월 연속 하락",
+      "summary": "원/달러 환율이 4개월 연속 하락하며 수출기업의 달러 매도 등에 힘입어 1,300원대 초중반에서 움직이고 있다. 다음 주 미국 중간선거와 고용지표 발표가 환율의 방향을 가를 변수로 꼽힌다. 환율 하락으로 해외여행·환전 수요가 늘고 있지만, 전문가들은 환전 수수료 등 숨은 비용을 꼼꼼히 따져봐야 한다고 조언한다.",
+      "importance": "중",
+      "articles": [
+        {"title": "4개월 연속 내린 환율…美 선거·고용 앞두고 시험대 - 마켓인", "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5aMGZ4a1RpV01SMUFWN0F3VHU3VDBsLTNfeEtQemczQmtPMkNLMkRaX2VreGxWOFBxLXRiU2x5c0g5VUg3N2N3enZDSUxXaExlaEdaLXZyTTBySFpTVlQ0d1FMc2I4SGpZNTRvT3p0SWppOUk?oc=5", "source": "마켓인"},
+        {"title": "[신문은 선생님] [생활 속 경제] 최근 환율 떨어져 인기 많지만… 수수료 같은 숨어 있는 비용도 잘 살펴야 해요 - 조선일보", "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSVlsbVQwRE8xSlI4bHI3Nm1BM2ZBa19yLTRFMFJobzlxMllaMlhrTHdVYjQyT2xYQ1lOdkVvYmJvS3JRZU5razB0akRDQVEyNE1JbVdLUUdUUnp1ZWxrc2JUZUtzY0RfWnF5OU51RjRWaDBrc1dxeE1LWEZhNTdMZUJ3bDRpejRXSVhTRDZ3?oc=5", "source": "조선일보"}
+      ]
+    },
+    {
+      "title": "美-이란 긴장 고조, 카타르 중재 협상",
+      "summary": "이란 매체는 미국이 호르무즈 해협에서 이란 어선 2척을 공격했다고 주장했으나, 미군 측은 이에 대해 답변하지 않았다. 이란 최고지도자는 미국과 이스라엘에 공격 시 무제한 대응하겠다고 경고하며 긴장을 끌어올렸다. 이런 가운데 미국 중간선거를 앞두고 카타르가 중재한 12시간에 걸친 美-이란 비밀 협상이 진행돼 돌파구 마련 가능성이 주목된다.",
+      "importance": "중",
+      "articles": [
+        {"title": "이란 매체 \"美, 호르무즈서 어선 2척 공격\"…미군은 답변 없어 - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBNZDBFMDh4VDV1M003anNTT2RXclFFSWVBaDdpNExkUTdWZldNbFlIZmg0cUo5a3FHaDlteWcxMjRpZkZmNmcwODAxVzNqZ2JoV2NBN3d3N1ZKZw?oc=5", "source": "한국경제"},
+        {"title": "이란 최고지도자, 美·이스라엘에 경고…\"공격 땐 무제한 대응\" - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8zaVR2YmJna252T2hCM0o5eVZKQy1uRVVKY29SSXFzSVBSMm9DVXA3TFJqbUhqNVhNNDJTVGUwVW53Rkxvcy1TWU4wT2pwMXgwMEJtRVVGWlA4UQ?oc=5", "source": "한국경제"},
+        {"title": "중간선거 앞두고 카타르 중재로 '美-이란 12시간 담판'…돌파구 찾나 - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBiNThWLXhyWC1IOFl6SWZkZjhnTndseXlMbkFfc0tpMzNuUGF2NkJKbVBwVFhPMTlPU1R1ajY1VFlLTEZMWUtPSF9aLWhxU2RSSHAwTTE2Tm1RQQ?oc=5", "source": "한국경제"}
+      ]
+    },
+    {
+      "title": "조희대 대법원장 탄핵 추진 공방",
+      "summary": "여당은 조희대 대법원장에 대한 국정조사 및 탄핵 추진 사유가 충분하다고 주장했지만, 야당은 이를 '광기 어린 죽이기'라고 반발하며 정면충돌했다. 법조계에서는 현재 제시된 사유로는 탄핵이 인용되기 어렵다는 분석이 나온다. 투표지 보전 여부를 둘러싸고도 여야가 각각 '증거 보전'과 '정치생명 연장용'이라며 공방을 벌이고 있다.",
+      "importance": "중",
+      "articles": [
+        {"title": "'조희대 국조' 정면충돌…野 \"광기 어린 죽이기\" vs 與 \"호위무사 자처하냐\" - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB4RS1aSWNsaEFvMmhLZ3dxZS1KUy1OMjVRZHZfMzQ3c0pnOUZqdzFhY2J6RnhHTElrdXJEVkJWSEZ4YjA2OXZUaDRsQUpmTElPeUppSkZWOFBnZw?oc=5", "source": "한국경제"},
+        {"title": "與 \"조희대 탄핵 사유 차고 넘쳐\"…법조계 \"인용 사유 안 돼\" [이정우의 중대사안] - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBHb3MwMnBkWFg5c3JOY2t6YnIzX3AyNVl5dlVKTUtSRGw0YVNYS2xfRUt3c3JwVFVFeWg3LUpOaVJ3aklkVm4zVF9TOTBnWV9NQ0NkdEJaLW9UUQ?oc=5", "source": "한국경제"},
+        {"title": "\"투표지 전부 보전\" vs \"정치생명 연장용\"…여야 정면충돌 - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1kU2hmbkNwb2NrMmxMVnBBZ3Y1bjFXNGpDU2c5blAxTmpXS0prQk9wZFdDUE9mMnJlRFFoWHhIckwxU1BJUW1NTmcyTFJ1ZDg2M29KZmRkdDhkZw?oc=5", "source": "한국경제"}
+      ]
+    },
+    {
+      "title": "샘 올트먼 방한, 국내 대기업 수뇌부와 잇따라 회동",
+      "summary": "오픈AI 샘 올트먼이 방한해 국내 주요 대기업 수뇌부와 잇따라 만났다. 최태원 SK그룹 회장은 SK하이닉스·SK텔레콤 수뇌부와 함께 올트먼과 오찬 회동을 가졌고, 삼성에서도 사장단 50여명이 참석해 AI 미래전략을 논의했다. 삼성은 경영진부터 AI를 직접 활용하자는 방침 아래 관련 실습까지 진행한 것으로 전해졌다.",
+      "importance": "중",
+      "articles": [
+        {"title": "최태원, SK하닉·텔레콤 수뇌부 이끌고 샘 올트먼과 오찬회동 - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1QSEw2NUtFbVNDWlRMYjQ5R0pJbXIxU0RNYjN1Q2hwNHZXNTVHcXBkUmhwcmV5NFNLeVZndE5JbkhrZGdVMTFUcG1VYXhtSVJiTC1rLUpLZllEUQ?oc=5", "source": "한국경제"},
+        {"title": "삼성 사장단 50여명, 샘 올트먼 만났다…AI 미래전략 머리 맞대 - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE42a2ZhdkZBNmJvSTVoTUlxVE0wTjBFMTFWS0huUWIxOFlMbTJNWF9aYUJZbnVUb1hRYjdKdmNVV1ZLVjN5ZVc0UnFKc01vdjllS283a09zVTFNQQ?oc=5", "source": "한국경제"},
+        {"title": "\"경영진부터 AI 쓴다\"…올트먼 만난 삼성 사장단, 지식저장소 실습도 - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE95RjdoS09LZHhtVUNNOHdnRzdhSHJ6cmtrWEdMU3B4bGhudlR6Yl9CcUtaa014bWxJUEJqRlVSVjB6Q2lRVm0zNEVlRXRhQ1BKdV9rUDlPT1J4dw?oc=5", "source": "한국경제"}
+      ]
+    },
+    {
+      "title": "핼러윈 인파 관리",
+      "summary": "핼러윈 인파가 몰리면서 지하철 이태원역이 혼잡을 이유로 무정차 통과했다. 이날 밤 홍대에는 약 12만명, 이태원에는 약 2만명이 모였으며, 이태원 참사가 발생했던 골목에서는 추모의 국화꽃이 놓이기도 했다.",
+      "importance": "중",
+      "articles": [
+        {"title": "[속보] 핼러윈 인파 혼잡으로 지하철 이태원역 무정차 통과 - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE52VWVpaGxDMHV3eENjbFNUeVhvUG5BZ0ktWmd2MkZXakt5c0pSU2J1eVd3bmRCWHd6TnVNMUs5dUpwUi1XM3VoYm1pVVlRUWlKZGE1OHp3RXhpUQ?oc=5", "source": "한국경제"},
+        {"title": "핼러윈 밤 홍대 12만·이태원 2만명…참사 골목에선 국화꽃 추모도 - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBudkZWZFpSNTBFLU9aczhzTVpnSWZzVlVDSFNJYnIxV3A0cnBWUkpRYWs0ZlR1b1JaSllMQTV6N25PemM0MEYwMndOTGJNaXRaVG9iTjdxbGhVUQ?oc=5", "source": "한국경제"}
+      ]
+    },
+    {
+      "title": "'이재용 딥페이크' 영상 투자사기 주의보",
+      "summary": "이재용 삼성전자 회장이 걸그룹 춤을 추는 것처럼 보이는 딥페이크 영상이 수백만 조회수를 기록하며 확산되고 있다. 이런 영상은 유명인을 사칭해 투자 사기 등으로 유인하는 수단으로 악용될 위험이 있어 주의가 필요하다.",
+      "importance": "중",
+      "articles": [
+        {"title": "\"이재용이 걸그룹 춤?\"…수백만 조회수 영상의 '위험한 함정' [영상+] - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE92bXdQdXpFYTJBWkQtT2IydXB4MjhwUFNwVUJWRWd1bU9wTU9rRGg3WVc1WERUVGRuYU43RmZUTTlJUVJ3UTVrUFB2b2IzcDZGZ05Nd0FhNUNIQQ?oc=5", "source": "한국경제"}
+      ]
+    }
+  ]
+}
