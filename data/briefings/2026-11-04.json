@@ -1,0 +1,155 @@
+{
+  "date": "2026-11-04",
+  "topics": [
+    {
+      "title": "코스피, AI 수익성 우려에 3.59% 급락",
+      "summary": "코스피가 미국 AI 투자 수익성에 대한 우려와 반도체주 약세 영향으로 전날보다 3.59% 급락해 5648.79에 마감했다. 외국인이 1조5000억원 규모를 순매도하며 지수를 끌어내렸고, 삼성전자(-4.2%), SK하이닉스(-5%) 등 대형 반도체주가 동반 약세를 보였다. 코스닥도 4%대 하락하며 함께 흔들렸다. 월가에서는 AI 투자 자금 조달에 대한 경계감이 커지며 골드만삭스가 단기 충격에 대비해 현금 비중 확대를 권고하는 등 'AI 거품론'이 다시 부각됐다.",
+      "importance": "상",
+      "articles": [
+        {"title": "실적보다 무서운 AI 투자비 청구서…코스피, 하루 만에 3.59% 급락", "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBscWtnYklkblNTb3M4cTJUTEVLZkQxUWwzNXVaT3N6YlVMR0IzRkpMTmZmcUtsclNTOGtwRU5vdU9sS3MyLV9KekRmUTNNV1dSb2IzQQ?oc=5", "source": "이투데이"},
+        {"title": "AI 투자 불안에 코스피 3.6% 급락…외국인 1.5조 매도", "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1YNk9XZzJFcFdRWktpSWdlQmMwdUJmNW1NZk9XWnlEOUtaaXU0VGNsaWdTd0JnTFhnejFXYnV3dlZfQ0l0WEpJcXNMT1Mxdnp3bVJSc3A4OFRlTFRjaVMxdzhHek5iUTdwVURZVVN5TUk?oc=5", "source": "코리아리포트"},
+        {"title": "코스피, 3.59% 내린 5648.79로 마감… 코스닥도 700선 마감", "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8wdHFTVGtPMEd3c19sR0YtU1NfZlMyTWt0VlcyejBNMG51TWZDZFZNc1JLdDRQNGtmeU1sdTA5RjNXbHhJa29EYXN2M0Vpelc2YTZPaDlEbTdhNkhTWUZTUTEzeWJrSU5Sb1E?oc=5", "source": "천지일보"},
+        {"title": "[마켓뷰] AI 자본 제약 우려에… 코스피 3.6% 급락", "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSWRqSHgwNmgxWHQ0dVIxLURkT2xVZ3ZicUhZTUtrOUYxQzFoRlk5cm1mN2gwXzBIQllHN1daQnY3ZTkxamdJQWFYcENLQ1dWdFFRckVWU05FVGNQemFOR0piQXVWNEdwZzBTN0wwRDA4czRra0hyTnljZm9PakQ5SXRIMDlhZHFP0gGcAUFVX3lxTFBwWHhqUzV2REN5ejg1TXA1QWh6ZVVCa3pZbUw4QktsNlpOa20wamtqSC1XdXg5WWdNNEVCXy1iRWdpQmYtZTdMUUJsUzRnNHBHUXRLREo0UFl5REtFa0FOMUhqbTF6TGpoTDAtQmVTNVJ3N2lqajNWUktKcU5YVnRtVG15XzJfWm0xMWVJTWttWDdVOWhQalh4QWNvYg?oc=5", "source": "Chosunbiz"},
+        {"title": "[증시-마감] 코스피 5,700선 하회…美반도체 약세에 '삼전닉스' 급락", "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1vTTB2Y1c1dkNENWo5UVhoNWFsbzBDT3dIZGtrdi1pbnFqS2dHM01lcnR5cl9kWUlaRkM1OFBiMVJ1d3lHOVNmWF8yZEpuOXdFQVpCZFNZV3c4RDFrVTRBcWNjWUJVVWlsSklYbDhvcVc?oc=5", "source": "연합인포맥스"},
+        {"title": "코스피, 美기술주 하락 영향에 3.6% 급락…코스닥도 4%↓(종합)", "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE85dnQ3eVkwc1Q0d3JWc0tXS3F6NW1ocmZvX0IyWk4wYlVtVUp4VHlKWUluS2RIeWxDY1pLYjh2QUc3TlBwd3RWdWVtNFI4b0R6QlJlcjhtenZOelHSAWBBVV95cUxOYjhnU2loZm9RZ2tDbHdNRktCc1BfSXlRY0M1RGhJekJxNUgtYnYwclpoT2lSdVg2dG9UT1NmU19YOWdXNHJuN0xEcThrU2p1MWVtTHJyeDlITDdmNUlJbmU?oc=5", "source": "연합뉴스"},
+        {"title": "코스피 5648선으로 후퇴…외국인 1.5조 '팔자'[이런국장 저런주식]", "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1BSUROQno0Y1ZZUS02eThpUkY0N0s5STFNQXdXZF95a0JmeTY4WElIc1ItV1A3WjVzYTlJbGQ0aXQ1eUNCSlFNQTdLbjlrN19rM0HSAVNBVV95cUxNUXkyQWxDR09tZGhpWi1JZjJBX3M5X0J2RWZUWERsZXBsMm9VUEZBSm9vak9pUm9UQXVPVmVJN3JiZ3pEeWpVVGtKbk1RX29KTTdCZw?oc=5", "source": "서울경제"},
+        {"title": "[속보] 코스피, 3.59% 급락한 5648.79 마감…코스닥도 4.08%↓", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TM1Z3cW42bmJOYkMyMV9HcDlwa2VZcHU5OUh2MlVIWnBycU9jREFfVXdjNmNMZHN4VFl2dktYaDhCNm9HUGZxMVNRVEZ1TUU3NmxpTTh0NzU0Zw?oc=5", "source": "한국경제"},
+        {"title": "美 AI주 한파에 삼전 4%·닉스 5%대↓…코스피 5700선 위태[이런국장 저런주식]", "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5hajBBcW51WGR2aVlYU1BfTVZWUnpGWW5INk1Ra1hjSmN0MGdfSGV1amZISldEbmtaNlZiNnlqR0VuNGp4WEtfYklaSDVFRDJKWGfSAVNBVV95cUxQTFdrWDB3dzI0ZFRhOGFhbXhKTDktQzMxMTA0MjhrVUJrYlBQRXdZemtYQ2hyRms3eTFIU2VsNFJlMTYxVXQ1OGRpQ1ZzZ3V6blpuRQ?oc=5", "source": "서울경제"},
+        {"title": "코스피, 美기술주 급락에 장 초반 3%대 하락…코스닥도 2%대↓(종합)", "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9RZ2R6U3BYSmlCeWhUQlN4MzhRRXFHVXE0UGp2RWpCcU1YVXluR1Q0LXRsQ2NnMXdsVTl3MzJST3IwWlkwdlp5VTJfdlU1cTRTX0JNVE95TnNrNHfSAWBBVV95cUxPM0E5NUdDTTVvSnhFN2lneDVaVDBxMGlBT1RucTNHclMxd1dVT1k1aUZkZ0NldGRiY0d0SWMtQUFlWml3QzhxRmVFblVGS003bVBHbUFqaTlNeVJ0OWt0Z2s?oc=5", "source": "연합뉴스"},
+        {"title": "[속보]'AI 수익성 우려'에 코스피 3%대 하락…삼전닉스 동반 약세", "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOHpWR2xsOUhSd21hdk15SzNjMXhaODUwT19qMVlKWFdrWWdoY1otV2xvU1ItLUt1X3JqQXpKa3V4U2pSOGhVTlBUaDB1ZnFpTGVaMXdaSFJSREJTTlJDM0tUZVFPaFhWTU9DWmRGY0tXdGxRTE9ycmpwNW4tWVMxZQ?oc=5", "source": "이데일리"},
+        {"title": "월가, AI 투자 자금줄 조인다…빅테크도 조달 압박", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBlRHFER2VfeDBYU0dVXy13WkJzYkxIc1JJYVI2VUdrM2tIR1ZmNmIxdENBU25FTUY4cVZuY0dwdVl1Tld6dENWbFlVaXU4TC16cThGSUFVbWFCUQ?oc=5", "source": "한국경제"},
+        {"title": "골드만삭스 \"단기 충격 대비해 현금 비중 올려야\" [월가 업&다운]", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA2MkxBUktmQVpoNk4wOTBKUzU4cW9Tbk1qWGNxbkRDTVhSMU9UbjVLS3NHX3VHNTBCcTZDcTh5b2EwM3Mtb2JnSVVIUTJnSVBkdlZqbjhyei1tdw?oc=5", "source": "한국경제"},
+        {"title": "코스피 3.59% 내린 5648 마감...삼성전자 4.2%, SK하이닉스 5% 급락", "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNlFUUjRjZkRYaUpuWTlqbW5TdnliNDdsM19NN0FTSGM0U0dmSE5UbnNKWGFQSVhkakc3Sy1JRXRJWEJLS210UFI2X0ZBdXkyV0dlNUZDRVc1TWg1U3B5ZW1FMjJwSmkyQnJhb0szUU1zdUFIa0Z3OVI2NF9pUmZ0dA?oc=5", "source": "조선일보"},
+        {"title": "SOXX -3.7% 급락한 AI 주식들", "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZ0o5TWhpTjVjMWJQb1djOWVWMzZQb1p5Y3RSRHAzcnhTY2FOb3p4TUxfN2xINmRXeXhQSGJKUWNDN3RoMWhBVEc5NUIyYlFNbWkxSlpESTVUVFFNXzdwRDhGTk54ZzR5eHpuSjNGS0Rrd2FlS0xDZlkySzhMbTRwV2F6dWlNR01ScnJF?oc=5", "source": "네이버 프리미엄콘텐츠"}
+      ]
+    },
+    {
+      "title": "한은, 11월 기준금리 인상 가능성 고조",
+      "summary": "10월에도 소비자물가가 2%대 후반을 이어가고 5대 은행 가계대출이 한 달 만에 2.7조원 증가로 전환하면서, 한국은행이 11월 금융통화위원회에서 기준금리 인상에 나설 가능성이 커지고 있다. 한은은 11월에도 물가가 2%대 후반을 유지할 것으로 전망했으며, 물가 안정과 내수 회복 사이에서 고심하고 있다는 분석이 나온다. 블룸버그통신 등 해외 매체도 10월 높은 물가상승률을 근거로 한은의 금리 인상 가능성을 거론했다.",
+      "importance": "상",
+      "articles": [
+        {"title": "'긴축 여지' 열어둔 연준…한은 다시 '호미' 꺼내들까", "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBaS3RkZUwyV3Q5ejNOcmg3dHE5RW9rS2xMV1FGUjNhQjllcjItaDdTamF3aEhJcXduc0xLQk9OY1JxMXdvLWs5NmhQRnI3UjExQml3?oc=5", "source": "데일리안"},
+        {"title": "물가 3% 육박에 깜짝 성장까지…11월 금리 인상 명분 쌓였다", "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE01NG5ncHQ0X1l5dTY0ZkVDMVVBeWdidFlmTlcyeFBVdjFraHlJUGRnam8teGo5a0x4UmdMeGY1UFJxeVVkdVFmc1ctcUFxRXZxUG9sMw?oc=5", "source": "뉴스1"},
+        {"title": "물가 안정이냐, 내수 회복이냐...한은, 이달 금리 인상 '고심'", "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWHRRa3NpYVpGUm9ETTdiZ0Z6QzlSV2lkYlRWVkpkeWpwMEd0cmtzVGxYNllGdWxLLWJKMjYwMDR4TFF2TVlYUmttcVU1WUxhQTAxRldTSmo4QTBvU2tDZ1JzZk9iVlBNdGdrc2U4LU5LTzdYLVdUT1hCX2V4N2lTdg?oc=5", "source": "이데일리"},
+        {"title": "10월에도 2% 후반 고물가…'금리인상'으로 기우는 무게추", "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5uQUcwUEwxaEFhM2ZIOURvWjNZeWJrMXAyRFNSa1hod2JSS2FQRi1KZ0k1NkxjM20yMHU0UERwTDRhdVBIT085NzVSaTBjamlFOGJQU1FIX0pXSWtUa3EweWM0X0I3dzhmSDdyUHZTaFcwZw?oc=5", "source": "한겨레"},
+        {"title": "금리 올려도 안 잡힌다…5대 은행 가계대출 한 달 만에 2.7조 증가 전환", "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1vdjNmcE9SUmlyOEJJU1RFdnQyQ0dVODBNcUhwTWV2WnlIU2NqZWt4NEFEelpUOFp5WGVjcDVpRktJejAtdG1Yajh5SWVwLU9XQ0pLWFFsNHlTb25jSWRBd0dITGwtUTdaNUxDdTN3?oc=5", "source": "이지경제"},
+        {"title": "iM증권, 소비자물가 둔화에도 이달 기준금리 인상 전망⋯ 근원물가 경계", "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1Ha2plcjhpTnpKNzVlcjA1X2xCbWpDN3FkZHRQY29VeXc3M1ZhdG1DN2VGVDZnNlUtT1BkZWtqVlNvTU4yUHRsMEptSGdWZ0VVdTEtcXktU3UyUXU5YXc?oc=5", "source": "아시아타임즈"},
+        {"title": "한은 \"11월 물가 2%대 후반 이어갈 것\"", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE91NDNLUU9JYUhFOF9IRkdxbE90TkRXcHJnRkZpb3RzMGpPaVNKbGxaUll1b2EtUnJFeFZiZXJuNjBYQ0tTbjhtcENIaF9EUjZibWIxUEtxX19aZw?oc=5", "source": "한국경제"},
+        {"title": "美 중간선거•가계대출 변수…한은, 금리 인상 '최종 저울질'", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ITGlnUzRYczRTWkY1eGdNZFdCRTBpZk9uQ0VGajV3TUc0OWdUN21VWENVMkZkTnRmRE1EV0VteU11WTNycE1xX2ZsOGxuSkJxeVFMRTBmMGotZw?oc=5", "source": "브릿지경제"},
+        {"title": "한은 \"11월도 물가 2%대 후반\"… 기준금리 추가 인상 나서나", "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ZOFNYQVpTTFJLWTctamsyTDNuTFRzbC1CVHVxcUdUbVAwS2ZvQWhYWXNxX0NVTk44cnA2b0ZGd2pxOTBMOElISDdRTUNBVVdWcl9NRzZ0ZVNkaDEzcXdyTlp1VmFmdFNtaU5KZDh1ZVnSAXRBVV95cUxPZWlmOVUwMU02NVBHOVJrLUczSldGOGxjQXA2c1M4VVZDZldsaDEyVVl0SkJYQXBKV1JMcnV5QTFENkd5WjhCYjh6VUdvU2J4QXk5bjRERWNDMzdScnF1dTJta1pOcklrUThIN21wdEQxRndiMw?oc=5", "source": "IT조선"},
+        {"title": "[사설] 고금리 장기화에 대비할 때다", "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWktxQktpWlZwWC1wNU51NzJoNjh3cXlQNjQ0ZnVEZlVBX3FJSW9FNU5uelFFS19CZDMyU2N6OU5KTjZOMlZfd3lqNHBaZDNJY3RkNHdiMDNCYV9RLVVza2pFWkVfQnZCa3FsZl9IY0F4ZXdHSmIwQzcxdUJFR3ZId25iMlc?oc=5", "source": "글로벌이코노믹"},
+        {"title": "\"한은 금통위, 11월 기준금리 인상 가능성\"...블룸버그통신, 10월에도 높은 물가상승률 보여", "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBha1A2MEFFS2ZseDRLN3pzMWNjSDA4QWRrYzItcURNc0VXc2hsX3ZhZk9GOUhoQy1qZ3JnUHVmOG9TT0oteDJpY1l4dlFUQzdmRU1mSjBzdGV5VDVRWWgzVGl5U1Z5QWhHdFdQRVZxN3JBODFjQUJCdmxXNUM?oc=5", "source": "비욘드포스트"},
+        {"title": "\"삼겹살 한번 먹기도 무섭다\" 물가 여전히 높아…한은 기준금리 인상으로 더 기운다 [머니뭐니]", "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9KU1k0UHBJWWgtOVJISEJOdUp0YXVJX0ItMXlHYWpVVnVPajBBLVZsVDcybFBmZ1lrQWJsa0ZIMzRKRmxsZ1pwRHVwNzhuRTZ1Vko4MHBB?oc=5", "source": "헤럴드경제"}
+      ]
+    },
+    {
+      "title": "쿠팡, 매출 14조 넘겼지만 3개 분기 연속 적자",
+      "summary": "쿠팡 모회사가 3분기 매출 14조원을 넘겼지만 영업손실 6423억원을 기록하며 3개 분기 연속 적자를 이어갔다. 물류센터 화재로 인한 손실만 3500억원에 달해 이익률 하락에 추가 부담이 됐다.",
+      "importance": "상",
+      "articles": [
+        {"title": "이익률 하락에 물류센터 화재 손실만 3500억…엎친데 덮친 쿠팡", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1KNDBvQWhXbGM1d0NNZTcxcnBkZ3I4U2cxdXBMNFBPelYwbXItaHk4RjFQZ1Nwem80NkU0STlLWWgzTXZfQjJvSzJ5LWs4bmhLSHJpRUNNaDh2dw?oc=5", "source": "한국경제"},
+        {"title": "쿠팡, 매출 14조 넘겼지만 적자…모회사 3분기 영업손실 6423억", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5yczhxRmhvX0Qzc3hhOHQ0TmxJMW1tQWk5cnR0M1VoSllmMWFGRHVYTmFlaDVVR2NXS2ZDR2xUUGZycnB1bEZkR3Jsd3ZvSEZaVFFhQkFDN19tUQ?oc=5", "source": "한국경제"},
+        {"title": "[1보] 쿠팡Inc, 3분기 6423억원 영업손실…3개 분기 연속 적자", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5razZpVHBzREVqUmtfMW1qamlkUDJmQ3BnX1p3ME53cVIzblNwUURCWS1FcVlLbjktdURSQllEaG9KRUJHdVlZSXExUHphTVliRUpqb0lIc2stQQ?oc=5", "source": "한국경제"},
+        {"title": "[속보] 쿠팡, 매출 14조 넘겼지만…모회사 3분기 영업손실 6423억", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBISHVyR1phc3pxLS1VUVpqMkxiWkJ1bzNpTXVHZDRLN1ZBcENGTVJlbGlURnF6VU5pRzlqSGx1VkpTMzRyRUNlVmVrWXZjNUFXbllhQVlzSzRwUQ?oc=5", "source": "한국경제"}
+      ]
+    },
+    {
+      "title": "이재명 대통령 \"집값 놀라울 정도로 하락\" 발언 논란",
+      "summary": "이재명 대통령이 주요 지역 아파트 실거래가가 '놀라울 정도로' 떨어졌다며 집값 폭락 시 정부가 대량 매입에 나서겠다고 밝혀 논란이 일고 있다. 오세훈 서울시장과 국민의힘 장동혁 대표 등은 실제로 떨어진 것은 주가와 지지율이라며 대통령이 통계와 다른 '상상 속 시장'과 싸우고 있다고 반박했다. 반면 서울 아파트값은 90주 연속 상승 중이라는 보도도 나와, 대통령 발언과 시장 통계 사이의 괴리를 지적하는 목소리도 있다.",
+      "importance": "상",
+      "articles": [
+        {"title": "이 대통령 \"주요 집값 하락 놀라울 정도\"…野 \"무슨 통계 보나\"", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1GcGE2UUdpb0lZaDl4NGhZa29ibWgzX0tPQ2huajRUWmtYWVBWajNaNnNZOHhCa1pfTHh1ZERTQndsa1R0N0VUZW1ydzQxLWhMRmpBY2s5T1FfUQ?oc=5", "source": "한국경제"},
+        {"title": "李 \"주요지역 실거래가 놀라울 정도 떨어져\"…'부동산 불패' 경고", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE84RU5HLXVWZWp4TnpOVWZ5ZERtdk41MDRtOE9maTdTWElEM0diT3VuZDVKRVl5eXB2TVdWVHFuTUdFRWlxa0tpNGJabDZGRy1vRzZpYWRnN1hGZw?oc=5", "source": "파이낸셜뉴스"},
+        {"title": "오세훈 \"대통령 혼자 딴 세상…집값 폭락 걱정할 때인가\"", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE40ZTZ4cWdDYkpiQXk4UFBzX0ZVdXl3aXV1d2NCbzFBRThRYTlqY2JENDQ0V0ZqUlhBT2dJaExjSUlaakpTODZwODJtTzlpMTFpd0R1eHZ4TTBiZw?oc=5", "source": "한국경제"},
+        {"title": "장동혁, 李부동산 하락 발언에 \"놀라울 정도로 떨어진 건 주가와 지지율\"", "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5nRTh0QjFtRlJ4b0kwZTJNcXRvS2FKeUg0MWZzQlZMaHZpUm1YRjJTTWVmZklCejA1M0FsSzZPWUZ6dzJxcDlZLVp3dzQ2c3ZpYXRkX0d4WFpBTFE?oc=5", "source": "경기일보"},
+        {"title": "오세훈 \"李대통령, 상상 속 부동산 시장과 싸움…참모 쇄신해야\"", "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1sQVRUSVktLURqNV8yQTlNaUJsM2xOVGVoY29rOTg1YWhQR29sWWxzckZaZmMydHRXYTVoTVJyMWxTX25laEhjSVVvZkJMWEF3WGFxaGR4ZGloS3JQTkdPS0JBQ3Q4enJpakR2X2dzV2t3VFpyYlVXeNIBeEFVX3lxTE1sQVRUSVktLURqNV8yQTlNaUJsM2xOVGVoY29rOTg1YWhQR29sWWxzckZaZmMydHRXYTVoTVJyMWxTX25laEhjSVVvZkJMWEF3WGFxaGR4ZGloS3JQTkdPS0JBQ3Q4enJpakR2X2dzV2t3VFpyYlVXeA?oc=5", "source": "뉴시스"},
+        {"title": "李대통령 \"집값 급락 땐 정부가 대량 매입…부동산 불패신화 깨야\"", "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ZS2hqM1lPenoweEd3RFZERkFKNkFJS1p0OWpwOGE1ZmplUmxzWHBMdERLcTVwb0FaZE9hUG8xemVJcUJkRFQ3NlljUEl2NFk5WGhmU19aZmlVV24yUXRqSmRUME9PbXBaMHd3bUsyeWg?oc=5", "source": "연합인포맥스"},
+        {"title": "부동산 시장 충격, 이재명 대통령의 우려와 아파트 가격 하락의 진실", "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBRX0JXQWhNWXFicXk5aVNxZk82d0xwU1NXWHp4SlIwVlo3QkZOYVMzY3RtRzdHaExkeVRKZnhJTkJyVzVEbmFraXF2S2lyMUJMVXd6RzlObzItV0xxOUdmb0lMSV8zQXVT?oc=5", "source": "공감신문"},
+        {"title": "李대통령 \"집값 놀라울 정도로 하락…폭락 걱정하는 쪽도 생겨\"", "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBsVUc3aHhpX3FWZE90bkZhVDNxY2UtcFQtRVBmVWF2bmxhVXN0eXJZTnlHOUNZbXNkdUJVQ2lxZXFPODJQU0Rweldad0VIdVI5YmVZRVBoeHdrNmJGcFp5TWpCMEdaZ1J3eWfSAW5BVV95cUxNSXUwNldzWVBfS3lVcEVwRjM2emZoU0psa0RiRXJ0ZEpUekw3UEZsNTZyZ3d0Ry1kUEZnd1EweFl1bzNoenh1SXIxMUNQTzNUXzB6MkRQU212OTFCWFBVWG9IX1JvZUpJRHpVcEJidw?oc=5", "source": "주간조선"},
+        {"title": "이 대통령 \"집값 놀라울 정도로 떨어져, 폭락 걱정도\" 서울 아파트값은 90주째 상승", "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFByZS15X0ZiaVBJQzdMZVYwVHVwenhXVWZJanctWTBiT0V6ZXVqeHFhRVpFanhERFR0aFBBMnl5ZWd5MFVjRjFsRm54dmNPc1lnNWpJYmZ3?oc=5", "source": "위키트리"},
+        {"title": "[부동산 프리즘] 집값 하락은 '놀라울 정도'라면서…시장은 왜 못 믿나", "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5OU3pRMzRTY2xRdml6SUtRVElELXZlMnZIYnc4a1pXVWV0eFpuUmdyLUdBajJHRGZGMnZ6OTZvbFhkRFJWbkhSbDlyeDNiN2tMTFJRdXNOTURWRk9XbVhBY1p5cHJVTTR5MFQxTUxoVGVXNHPSAXdBVV95cUxOYnNpa09hTjZyVms3Zk9LUlB5VjFjY3lFcEE2RW05RWIxWDVOSTVxSGdFUEV6WEpkblpTLVIzOENPSm5LcU5RQmdBNkN0ZnZGekFIN3MwdWtrekp2czVvelFNREt2OHZrTXBlRG54OVc2cWRaWFNJdw?oc=5", "source": "핀포인트뉴스"},
+        {"title": "이 대통령 \"부동산 투기 공화국 오명 벗어야\"", "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1vU3ZtTkxhX0ZkdmVaNEF3RHYyWC1HQXcwdlJwa04tR08yY1k2aXc3SGN6NGt1SFhUNlZWbWc0MEhXMWkzR3JLcDEyajhVVFNIdlYzYXF2OHA0YjRrVU9TeXloLUVKSEk?oc=5", "source": "문화저널21"}
+      ]
+    },
+    {
+      "title": "美 중간선거 임박…코스피·환율 영향 주목",
+      "summary": "미국 중간선거 결과 발표를 앞두고 국내 증시와 환율이 관망세를 보이고 있다. 하버드대는 민주당의 하원 승리 확률을 96%, 상원 승리 확률을 78%로 예측했으며, 증권가에서는 선거 이후 코스피가 '선거 랠리'를 재현할지 주목하고 있다. 다만 선거 결과에 따라 AI 규제 강화나 트럼프 행정부의 불복 가능성 등 변수가 많아 단기 변동성이 커질 수 있다는 우려도 나온다. 실제로 선거 전 '불확실성 완화'에 따른 코스피 반등 기대가 나왔지만, 이날 지수는 AI 우려로 오히려 급락해 기대와 다른 양상을 보였다.",
+      "importance": "중",
+      "articles": [
+        {"title": "美 중간선거 불확실성 완화 기대…코스피 반등 탐색", "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE03T2RmMmxZR2wxRnlGRS03NG5uazB0VGxUd01rSk1ZTUNGQzFRdUxIbThkZEtRaERjTDFQckIzMlFiVEk2R3g1VEpDZFp3b21mcEVmelgyTHhSX25hU2tnSWwzWEtmMmxX?oc=5", "source": "www.ebn.co.kr"},
+        {"title": "美중간선거 예측…하버드대 \"민주 하원 승리 확률 96%·상원 78%\"", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0wdHJqRnBRT3BqZ0ZhT1VSanZJWVlwVDFpQWVhdTdDaGt5V1JLcHo4V1F1ZVd2U1BIUU9QZlZ5LVVZU3A3WTljazA5alpfd1J3LWQ5b0c1M2ZfQQ?oc=5", "source": "한국경제"},
+        {"title": "美 중간선거 후 6개월은 버텨라…코스피 '단기 출렁·장기 상승'", "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE44ajdpaFBpSTJGU1ByVENYcEJPWUcyREFCUG5BMy11eWVaQ3U5cUY0QWMyWlg1Q3J0YVlxSlVZS1Q5d29tbHdocTVRRnVZNEMwbTI0RmFZNnJSenZoZWln?oc=5", "source": "뉴스1"},
+        {"title": "AI 관련 투자자들, 美 중간선거 텍사스주 결과에 주목하는 이유", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBEVm5ncURXRmptMHIwZDByemxxTERibG9sRk9vRVFRVy13OWVNSTdyR3dTZjJVRmFpLU9PdXplcUtCZThvOS10Z0RTV2ZCbDRhYlNRcl9QRHU3QQ?oc=5", "source": "한국경제"},
+        {"title": "\"트럼프, 물가 못 잡아\" '블루 쓰나미' 덮치나", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1vbTNGUGpDSlpmV2g5S3BNYXBNcEFwcl82QjZFRFBXTU5jU294SWtaYXh5SjhEby1PSlNIckxnOHlFa0o4MVJpQ0dESG5ZQ0x1b08yM1FaTjAtdw?oc=5", "source": "한국경제"},
+        {"title": "美 중간선거 이후 국채금리·환율 변동성은?", "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9RX0EyWk94clUzY2VpbkpPU3hUTVVicGtFWDM5SnluOFMyc1JHR2tNWFZITktUU0dLOVdDNFh4bHIxNlhPWU5mdlpmLU41b3M0elUw0gFYQVVfeXFMT0xvOVN1dTZHU0FsRS1HWlVXa3VhMjNYZVYwOWI2cUVkZzBjUHJpMVluOVRSRWhxdlZ0Mm9Tak5UdktxMkVMd05Ca2RjeEJ1aWU4eV9nS1Rkbg?oc=5", "source": "SBS Biz"},
+        {"title": "美 중간선거 후폭풍 '촉각'… AI 투자·금리·환율 향방은", "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYjdmQVFxZTFFZVdnSHJVWVhmSjNRNEhOTW92OXctcUttWmJCeUl4OHpqdEJfY3I3U0YwWXFvZGlDQlVxU1BQVVp1d01wT3RGNEQ3VjUzY2ZpTzhWN2l0U1RWM2pqdEtaV0k1N1YzTkpvYi1iVXhZM1ZYSG1vaTNVUHVPVmJzWXhR?oc=5", "source": "글로벌이코노믹"},
+        {"title": "[美 중간선거] 美 재정·글로벌 기술주 불확실성에 원·달러 환율 단기 변동성 커져", "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZmNfN2lKOGZUY3BxMWNCVDhydTZ4d1NYLVF2RXRUTjBINHRWUUZuUWstMjRMUTNDbGNFN1luNTFEdW83NHNoMEY4VWFKR0tLTUFXdGI1MVRkZkZ0NC0xWWVxQmp2azgxS3JNUEduMmI2MzItZVlRdDhjdFdtN0dYREtoSGI?oc=5", "source": "글로벌이코노믹"},
+        {"title": "\"美 중간선거 후 코스피 10% 오를까?\" 트럼프 불복·거부권 변수에 증시 촉각", "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9GVlNRRWpHTnd5MUc4TjJpWFNvb2d0R2wwRXkwTHkwd0FGRkRaWkdPYzF6dlFuR2dJUG1KclhpSUlmZjN6M1BRLXRpakJ2TG5vOXpj0gFYQVVfeXFMTVZoQ2hkMmh2OWoxMk5WT3g2aDVrS2MySHN2TWlSZHRLTnNjQkh5NUVSc1VxZ0pWNTdXZW5HS0hiWUxScXFBUWg2TWwxRmxHZXZ3TXU0MmlNNg?oc=5", "source": "SBS Biz"},
+        {"title": "미국 중간선거 끝나면 오른다?…널뛰는 코스피 촉각", "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE41bEQ3Mm4weXo5SmFUODljU3owMDJhM3JCTm5hMHdkWmdGT2Y4ckdiUjM1aUlxUkZ3SHBJWXhVdllSMDU1OXlCclkyRDBsbXBpRlc5YWowSTliT19ZM1dFU1ZGTHlQakN3NlpF?oc=5", "source": "대한데일리"},
+        {"title": "美 중간선거에 韓증시 영향은…널뛰는 코스피, '선거 랠리' 재현할까", "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB3ZXJ0bWI5SExuRlYzTUwzMXA4NEptUnkzUGpkRWplY1pFZGNrZEtncGF6OXlrTnFvSFpYeG9Xd1hoQmRiWEtxd1g3TGRyelpDSFRJaVhVa1BFMEUyb3gyQdIBeEFVX3lxTE1lcThNWDkxOTJadEZsZHc2SVl2aVkwazBwSVk4UzVvVXp6bFd3d2Q0N0p1M0FkdTNETTA3TmpIQXRMRTJJdHRTdkVneWxPamVtenJoeDNtVTBWaktQaXhCeG1sLW9Vd3hZYVp3bHNVVmlOZ09XNWIyTg?oc=5", "source": "뉴시스"},
+        {"title": "40년간 한 번도 안 떨어졌다…美 중간선거가 코스피 구원할까", "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE42ZjZPNzIwbUlRSjZBTEdUNXZFZzlITWZSamJjaWkzMjBFczROckM0bGVtVEdRQzVYMGJoZFZDdGl4RE16VVdieU03SzBtN3dXbi1hRzlDSElJR0c1aWNMcw?oc=5", "source": "아시아경제"}
+      ]
+    },
+    {
+      "title": "K-배터리 3사 3분기 실적 희비…ESS로 돌파구",
+      "summary": "LG에너지솔루션과 삼성SDI는 ESS(에너지저장장치) 사업 호조에 힘입어 3분기 흑자를 냈지만 SK온은 적자를 벗어나지 못해 배터리 3사의 실적이 엇갈렸다. 다만 흑자 전환에도 삼성SDI 주가는 AI 관련 투자 수익성 우려 등 전반적 증시 약세 속에 9%대 급락했다. 배터리 3사는 전기차 수요 둔화에 대응해 ESS와 전고체 배터리 등으로 사업 포트폴리오를 넓히고 있다.",
+      "importance": "중",
+      "articles": [
+        {"title": "K-배터리, 3분기 실적 '희비'…LG엔솔·삼성SDI 웃고, SK온 울었다", "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1xR0Rib2oydEMtS2xlWXE1Q2lMYWgyb1YwUGdwQ09KNTJVR1k3ZWhsRnNNQ2dGb1NzN0RvVFZFZFBjdTVaWDlTaVpmcTVEUW5PLW9GVVVYYnBURFlndEVieEdRNXNMb0M1bk52aC05a0dCbm9P?oc=5", "source": "대한경제"},
+        {"title": "ESS가 가른 배터리 3사 실적···삼성·LG 수익화, SK온은 수주 단계(종합)", "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9NeDZnVUVfSkN1VXd3YTZnUG81enVTTmNuWFBteUtVazcwXzRtcTJnVi1KUm5MMjByb2FuUkNXQ2pJZ0JmNUxWQm5vUlRabzRMNlY2aDhLbVQxZ0RaYkc0b1hZLTFoUlcyNlE?oc=5", "source": "뉴스웨이"},
+        {"title": "[오늘의 주목주] 삼성SDI 주가 9%대 내려, 코스피 'AI 수익성 우려'에 5640선 하락 마감", "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBrczNYSEN2d0h1VEF4c29WcDkycnpwMlNlQzJwNGhsdVFQeFpranpicDdSOG5kV0dmWEk2M2laVThmNGc1RllvbVkzTXVoMVF0aXJvOWl5SkpZM196MFl2dzhFN0dhaXNUcndDVFhhcjNBS00?oc=5", "source": "비즈니스포스트"},
+        {"title": "LG엔솔 3분기 매출 사상 최대치인데 SK온은 적자 전환…K배터리 희비 교차", "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBYbXQ1YzRsbUVud2pNSlI4YmpWVUdXQTQ1TDhCNks0RWxCNU44ODAwTXFZRU4wbVVjaHZOYU5YNmJIX1FpemszN2FNUUw0NlFFT3h5ZkZHWDQzWWw5bkg0MVFKQVdYVjJ10gFsQVVfeXFMUDFPSG9CNTRwd3ZvbnhpdlBpbXlwV0xVcTZVQVFUUnNsV1ZESGhlcGlBVjAyZjlTa094QmZFRGdUQ0FWeDk2a1ZfU2lVNGh4YTBMYW9EamJ1a1dHVVJLeTR0cFoxVEs3ZUdNd2ZR?oc=5", "source": "필드뉴스"},
+        {"title": "실적 반등 돌파구 찾은 '배터리 3사'..달궈지는 글로벌 ESS 수주전", "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE80bDBhYms4ckhZUTlIWlNUcEI5THgwNXBCSHdNT3BZQTZMY0Q0a0VWN2dvdHk2QXM0VVJCRkNib3VSNVhXRDdmb19VMXhhN3h3Z3VGN3ZqTUczem16QUZTLVVyck03bFc4Nmd0N1VfRDNEdElJMWZMS1930gF_QVVfeXFMTkQ2MVh4QzFWTkZwSk1sUnJWVGYxMkJKcVZjcGZGTUdZcng0R1Q2U080NVRRNEczMEVvZ0llUU9qa21RZldpTkExV1FRcGdCU3d1NEJqWWtNcDNKRGUxTURWcEdvZUJQaDhJdnJwYm5FSF9saWZkMG9adDh6cmVfcw?oc=5", "source": "머니투데이"},
+        {"title": "LG엔솔, 3분기 '깜짝 실적'.. K배터리 3사 ESS 드라이브", "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZU9Ga05oMGp4czBCNjk0c3BmNmpZcW5fa1BtUmlnbTN5NDBQTkxKODlydVQ5cDRLSGRjb3pPSmkyaTNPWl9FV183NnRBa0c4SzRfSDMzTE1yZ3lwaEdURG1CaDZmSjNsZ19yMXgtcFluTkZXejZhUTQwVnRPbHRXQg?oc=5", "source": "이데일리"},
+        {"title": "ESS 훈풍에 LG엔솔·삼성SDI, 보조금 빼도 영업흑자…SK온은 적자 폭 줄여", "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbllVNzVfYjJFSEY4eTdvQ2tRSTBKUkxYNUQyeVFSZWY1WHhuYTdRZFpwMHh4X2MteVFBSkF4bFFOOENqOWtsU1lNamJVNkdjY0xVUlA3a3pCLXd0TUg3NUpmaVhLX3JjUEF0SmNUSFhKdmRETjhXZzVINkpfRnA4WU5haGpkZw?oc=5", "source": "글로벌이코노믹"},
+        {"title": "K배터리, ESS 타고 실적 반등…LG엔솔·삼성SDI 웃고 SK온 적자 축소", "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0wNnZiam1IOW5yQXpibVlBMTlaQm42VENLeEJOWDFWSHR5OERKV2R5ZVItUk0td0ZjQkp6Ti1kTFdoQTlScDEyZDgwbVJuSThYRGxXT19rZ1liREJqd0E?oc=5", "source": "아시아타임즈"},
+        {"title": "韓배터리 3사, ESS로 돌파구 마련…美 시장보호 의존은 숙제", "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE4wa3ZUZ1FGOEpqVXk1X1BabWpiS3NHb3dld2FjQWpNdmtSdjNmRmgxVUlnX1pab2l6ZXBHZ3pBOXJGMzNuSVY4S3dGeXJwZUFGdEFpRnpiS1pmS2k0S0dEaXZWdXZsRmpYTW9DeDVIWDROUQ?oc=5", "source": "KB Think"},
+        {"title": "K-배터리 3사의 생존 전략… '전고체 독주·ESS 대세·라인 전환'", "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBkNUZ2d0QyVnlXYzdmSzNldzlMVzZLN2luMEVUX2Q4eDdibUdkNW51QUFSWklFdGpsa3lJdVZPcnYwRU9VRy1feTFGc1cxQU9BYm9nSWJ4UWtPNF81S3AzZ2VCaw?oc=5", "source": "매일산업뉴스"},
+        {"title": "흑자 전환 삼성SDI 왜 9% 급락했나? 이차전지·정유주 판 외국인 & 연기금이 갈아탄 핵심 수혜주는? (11.03)", "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbkRMek5xc28ya3lfOTBYS3BrLXFCMUpwNkF6WUtaRTk0SE80NzFVR1E2eTc3WlBDa1NKTDFiVDdyWkRsQ20ydE1SSEhfaTVrU0pKOV93TzhYcjZPTzVQY29VakVpLXM5UTh4SFpWclNScmhjNnkxc0VxZFktVVlJMy00dUk0VG5fZUE?oc=5", "source": "네이버 프리미엄콘텐츠"}
+      ]
+    },
+    {
+      "title": "호주 중앙은행, 기준금리 4.85%로 인상…18년 만에 최고",
+      "summary": "호주중앙은행(RBA)이 기준금리를 0.25%포인트 올려 4.85%로 인상했다. 이는 18년 만에 최고 수준으로, 올해 다섯 번째 인상이다. 고유가와 AI 투자 관련 물가 압박이 인상 배경으로 꼽혔으며, 통화정책위원회는 6대3으로 찬반이 갈리는 등 내부 의견이 분열됐다.",
+      "importance": "하",
+      "articles": [
+        {"title": "호주 중앙은행, 기준금리 4.85%로 인상…18년 만에 최고", "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9qSmRFNFlLV1pTUWNxbllrUEE4cS1zYmRfSldPSVBHZWhiU1ZJU1ZMLW8yNW96UngxN0xXU3JOanpoUjViY0dtTlF2WjFGLUxHdlHSAVNBVV95cUxNU1FubW5oeXY4SUx5TjA2YmhOTWJ2Vk9SelgxNFVHbGxpdUVpam9WU3I1OEZPSl8yZEtuWWlHaWJTRnBIZlZ4bTVScFVVNmw5QnNBbw?oc=5", "source": "서울경제"},
+        {"title": "호주중앙은행 기준금리 4.85%…올해 5번째 인상, 6대3 '분열'", "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5SUHVMU2VjVk80ZWU5LUNlbWxPWHppUkVNY0tMTDBqVXFNYS1tZ3FxQnp4c3R6blpkcVlwUXQ0aE5odjBmbWtwNWNTNjZiSF8tWE90Z0NQQkJjQlVQWW1HYmhKajB0N0RBRGswUnR2UU4wdU0?oc=5", "source": "마켓인"},
+        {"title": "호주, 기준금리 4.85%로 0.25%P 인상…18년 만에 최고", "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ET1pLWnRxQUd1ZWFqTks0bnp0b0hmangxbmlGTWc3cWJOcmkyWjZDZHBmdk9Qc0VoTXlCV3BYTkd3M3NPa0NGUzhTOThNZ2wxYzhDUXJtT0JnRlFjaTdBaTNRa0NlQkVMYlhwLTI2VGMxN3B3Z1FTV9IBeEFVX3lxTE9ET1pLWnRxQUd1ZWFqTks0bnp0b0hmangxbmlGTWc3cWJOcmkyWjZDZHBmdk9Qc0VoTXlCV3BYTkd3M3NPa0NGUzhTOThNZ2wxYzhDUXJtT0JnRlFjaTdBaTNRa0NlQkVMYlhwLTI2VGMxN3B3Z1FTVw?oc=5", "source": "뉴시스"},
+        {"title": "RBA, 기준금리 4.85%로 25bp 인상…3명 반대표(상보)", "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE54MV81dUxlLVNVY1JhcWNOakZrdXRYMXh2a2J2UzZsbVJ0MkI1eWNmQndPRndRbHQ2MzhPb0pJNDNEaFZ2a19IUWpCSEZOeXlIQ0xEMlRNRHhVV0VmTVhrSG9wd3ZFSUVIeTdGam9vcC0?oc=5", "source": "연합인포맥스"},
+        {"title": "호주 금리 4.85%로 인상, 18년만에 최고…고유가·AI 투자에 물가 압박", "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1GODhncUF6d3FZeFk1dnF3LS1jNXp2SVdfZ1dVUGNOeWhKYWEtZkZoOUhKTE9FQV96eTdJMTQ5OXVpNTBURGo5Mm9tSVljT3N2UjY0LXJNUjlUQkk3dk1vYkxrTjdnUE0?oc=5", "source": "뉴스1"},
+        {"title": "RBA총재 \"잠시 상황 점검할 때…다음 조치는 몰라\"(상보)", "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5GQmo3Q2lKaTVueF81cXBRcUhHeVNVV0tEVFdGTzIyNVVoYzlOd2c3Q2QxMWFtaUVpSEM4STdxNF9ab2NPRGstNnBZUzdqTk9sSWZ3VFdicUpuWEd5aENwME50ZnlzN1BISmU3QngycmpzQQ?oc=5", "source": "KB Think"}
+      ]
+    },
+    {
+      "title": "제주항공, 3분기 흑자전환…환율 하락·항공기 매각 효과",
+      "summary": "제주항공이 3분기 영업이익 549억원, 순이익 약 2000억원을 기록하며 흑자로 전환했다. 환율 하락과 항공기 매각에 따른 일회성 수익, 탑승객 증가가 실적 개선을 이끌었다.",
+      "importance": "하",
+      "articles": [
+        {"title": "제주항공, 3Q 영업익 549억 '흑자전환'…환율 하락 효과", "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBYcm82QzBEbFZPU1BiTHVTZk5lTE9WMjFFWDVSM1NtdDdNSWtUSHlDdDFldTBmZUw0V0tQelFZdWlWYW9NU0FGRmRpN3NBcFZXNDhrbEFNUFdlNkVka0VkZVg3ZU94RjdrVFp5bWx3?oc=5", "source": "아시아투데이"},
+        {"title": "제주항공, 3분기 순이익 2032억원…환율 하락·항공기 매각 효과(종합)", "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4xTkdxQmFzRVFFX2wxZWg2OWQ3YmlnQVhaY2I4cElrTzF2Y0luODdUM05tUVhaQ2xpX3hJeWpjR0piSFdjVTBDbW5nS19FZ01Gb3ZkZzBub1JmME53OGc?oc=5", "source": "뉴스투데이"},
+        {"title": "제주항공, 3Q 흑자전환·순익 2000억 돌파…\"환율 하락에 항공기 매각 수익까지\"", "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE00YkJudG1SZ3V1Tmt2YXJpZXdPdm9iNC1DZjVOc3ZVaGhFQ3YyTFFoNk4yYVJyekNWN3R3am1neVhKRTh3bUhmdUNaaGxzNW9ZUEZ5VGs3Tnp2U2tUNnI2a9IBeEFVX3lxTE9PVjI1YXgtNlVsTTFBQTQtY2xTRGVBX3B6YjM4MTd1cXJHMDdXYzlDcnZjemRzZjQ4VzNldjJIX20wdzhRaWJKZDFwTFhSdHAtVWExS1BtVzFtODROUTBjWk9HZ0tWSGJuWVlKOHJ4aGZyUUxpS0Y2NA?oc=5", "source": "뉴시스"},
+        {"title": "제주항공, 3Q 흑자전환에 순익 2032억...탑승객 증가·환율 효과", "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4tbkc0c2dCemd3MS1yQVBLYXVfRkMxamRraUR2NERxX3BJelJOQ0pHd0dseGVSTUVRR1V3Ti1xVTU3TEZqWHlrbFppQ05xV0l0ZF9Qdm9kVUR0aXZyUklMbmcyUHlRbDIxU3BZWjd6dw?oc=5", "source": "뉴스톱"}
+      ]
+    },
+    {
+      "title": "AMD, 데이터센터 매출 1년 새 2배 성장",
+      "summary": "AMD의 데이터센터 매출이 1년 전보다 2배로 늘었으며, 4분기에는 66% 성장을 예고했다. AI 반도체 수요 확대가 실적을 뒷받침하고 있는 것으로 풀이된다.",
+      "importance": "하",
+      "articles": [
+        {"title": "AMD, 데이터센터 매출 1년 새 2배…4분기 66% 성장 예고", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9xRy1jYk5zUzQwcEp6cDNlY0tsR2xxeEtHa21SSmZYc1VjSWZsc3BMRlh3ZXFKRlFMNzNVcy1abzBlWTRnWHpORHlYTGFZOV9vbzI3LWFlMy1sUQ?oc=5", "source": "한국경제"}
+      ]
+    },
+    {
+      "title": "엘앤에프, LG에너지솔루션과 1조원대 LFP 양극재 공급계약",
+      "summary": "엘앤에프가 LG에너지솔루션과 1조원대 규모의 LFP(리튬인산철) 양극재 장기 공급계약을 체결했다. 이로써 엘앤에프는 국내 배터리 3사(LG에너지솔루션·삼성SDI·SK온) 모두에 LFP 양극재를 공급하게 됐다.",
+      "importance": "하",
+      "articles": [
+        {"title": "엘앤에프, LG엔솔과 1조 원대 LFP 양극재 공급계약… 배터리 3사 모두 뚫었다", "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA2MlNyVkIzSml3VFVZeG03NkhMSXpZczJ5MDVMa0Q1VXNSaDB1bGpUQVpZTWtZMG9LZXAzdGpnNmliN0g2VzhvMlRnZ3lfdllqV2Q3Mjl5RGk5RWpwZGU4LXZ6eVpvekNBdmt6ZnVR0gFzQVVfeXFMT0xIeEtzMDh4Z2NEc3RMU0RSSmRQR3h5T01QNjAwV3M2cG5JQVRCVE9UdmE1d1VpcVB0bllvOEhpd1NWNGJwYnNaUFBvcUEyY3hsa0UyYU5SNVF2aWN6NW9qSnpwWG9yUktBcVEtUm4walFRZw?oc=5", "source": "한국일보"},
+        {"title": "엘앤에프, LFP 양극재 … LG엔솔에 1조원 공급", "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9saGswREpnWGxNNzZUeVNzLVBaN2lmYzY1UTBocGRuaFZWZG1SWlBQZnFTTzE1WVFJeVBJZHdrUGlkdFZtZjd6OWhBaUdGN000T0cwNG13?oc=5", "source": "매일경제"},
+        {"title": "엘앤에프, LG엔솔에도 '1조' 규모 LFP 양극재 공급", "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1lSUQ1Wk1tX2hmenRqdEF2eDBmX05BRnJCSWJuQzlXUnNDckRPVXh6YVNZSENHa0o2Y3pFRFN0WWliZXB4bFBPNll0VVBWc2loYzhUOFBhRURzLWZSQ25VUDBYOVZkX3JYN2ZodV9LSXRHTFZJ?oc=5", "source": "부산일보"},
+        {"title": "엘앤에프, LG엔솔과 1조원대 LFP 양극재 장기 공급계약…배터리 3사와 협력", "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9rRlM1N1V5cFlFdVVqQVNaUkdnbC1FVGZSNnlSYnpVdlBiOGkxdm5kSi1MdW9HNmpDLWJpUDVCZnFhbkNMdTBPSEg0MDVod3FBZDdNSjJtb2RjOEFJNzc4REFOUnY4Q3ZV?oc=5", "source": "www.ebn.co.kr"}
+      ]
+    }
+  ]
+}
