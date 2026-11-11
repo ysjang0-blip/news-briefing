@@ -1,0 +1,150 @@
+{
+  "date": "2026-11-12",
+  "topics": [
+    {
+      "title": "미 연준 12월 '빅스텝' 가능성 부상, 한은도 긴축 압박",
+      "summary": "미국 11월 소비자물가(CPI)가 예상치를 웃돌면서 연방준비제도(Fed) 내에서 12월 '빅스텝'(0.5%p) 금리 인상 가능성이 부상했다. 월러 이사 등 일부 인사는 50bp 인상을 거론했고 투자은행들도 12월 인상을 확실시하는 분위기지만, UBS와 ING는 빅스텝 가능성은 제한적이며 0.25%p 인상에 그칠 것으로 보는 등 전망이 엇갈린다. 美 국채 2년물 금리는 19개월 만에 최고치로 뛰었고, 한국은행도 압박을 받아 11월 추가 금리 인상 가능성이 커지고 있으며 금통위원 과반이 추가 긴축에 공감하는 것으로 전해졌다.",
+      "importance": "상",
+      "articles": [
+        {"title": "UBS \"연준 12월 빅스텝 가능성 제한적…0.25%p 인상 전망 유지\" - 파이낸셜뉴스", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE91d1F5S0psZGtOLU1GTkVSTkgxdDZQR0g3a0lLcjQzaktMWk5VTVVka2ZlZ05QS2xWeDA0NFNrcmh2X29ZWUFFRjdkUkREQlBaVy1Rd3JxdEdpUQ?oc=5", "source": "파이낸셜뉴스"},
+        {"title": "미 연준, 기준 금리 ‘빅스텝’ 가능성…소비자 물가는 상승 - KBS 뉴스", "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBPcFo0NjFNS2NpRXVQeTVHcEpFSFNTWDJURnRRZzNYbkpUR1dxXzkwWVNta2tMbXJkWkNvdlVEeGhLdENsT0N1R2Y1Z0JPR1oxR1dwc05CMlJKMGM?oc=5", "source": "KBS 뉴스"},
+        {"title": "\"12월 금리 50bp 인상도 고려\"…美연준 인사들 잇단 '빅스텝' 거론 - 머니투데이", "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ScGVGSVdrZE9oYW5ZWm5KaEp0cnBUNmtZTjE5MWZQaGxWOVFnVkdTQkFxYlpvZV9id1VwNUFSNnRQaUZwM3NRNlB0RE5qdldLU3loY0p4YnBZOHhqMjFOaDRpb3h3V1p20gFuQVVfeXFMT0RTV0VVMHVyak0xZk9PaXpRX0h2V1dKU3Z4VEpfS1pndEdlb3dObjBKN2Y3enF1TUhYZmJvZUM4NXNETnpvZ21HTjMxX2RKcEllSVgzaW1PZXQ4OUc2UnFZM0RQMkpQZ2F0c3ZXUXc?oc=5", "source": "머니투데이"},
+        {"title": "한은 뉴욕사무소 \"투자은행들, 美 12월 금리 인상 확실시\" - 뉴시스", "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ZREY5eFZ5NUIzQWN6NTFQUEpneG84VmlLdE9tX1h0Q2ZRWnJGMEo5UjN6YUwyejh2dTZCdk1wN3R1ZWlUdFhmZEdwUVJFRUxWczhnR29TWVVoTkNndnZRV9IBeEFVX3lxTE1fQ3BzN09vd3NkcWV1cVNCblI5VnpiN2hpNDkzb2tnRGpfeHg3eWZRVm1PZkpOWUM2bzFtVTdQRjVUYjhocEp6b01SRUwxa1pkazRhWkR1U016dldhcXQzZVhKV0EyM3dxSDJvMmtxWmtnZ3FkOUQwag?oc=5", "source": "뉴시스"},
+        {"title": "미국 '빅스텝' 우려 속 국고채 금리 급등…3년물 연 3.729%(종합) - 연합뉴스", "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5mZW9tVjBKRk9hZ21raUhNdnBYN1haLUdSUmxtX1ZaVDc1WjNHaFRnRnU2Vk1fLUhmS3BTNEhkdkI5N0ZVU09MbHJFLTJ6TEJHVzlUc2hqWDVqX1E?oc=5", "source": "연합뉴스"},
+        {"title": "美 고물가에 빅스텝 거론…한은, 11월 금리 추가 인상 초읽기 - 뉴스핌", "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5Ld09RWjMxc05VQVRyYzhVSWZPUW1kdkUtcjRDVDZJX0tTQzRWaF9mRjhzRDVxOWRFbm05ZEU3dFJoeklvaTljRXUtVk9iVWZ3QUI2U0JqRHQ3Q1Y3?oc=5", "source": "뉴스핌"},
+        {"title": "'빅스텝 우려' 美국채 2년물 금리 4.73%…19개월 만 최고 - 뉴시스", "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE54bDZNMW55aEpyVUhIbERLallDbXhMTl9RSC1MV2VZa0dONUt6YkJrNzhTb043TFFFa3doQ2ZRTjBhWnR5RU9iMzhEVkNmZUtCcmNaT19Od0E1WjJLbWZ1M9IBeEFVX3lxTE5oNDdIMnlQU3BkV0Foc1J0YVRkQjFaak11bXBvQ1cxbFBNbGw2U0dESUpVaENKMTI4cWZyQUxFcHpic0xlMHZoZTdEaEppSHZsam1MQkdzU0tXOHVaSHJ2cEdWdUpvOUprSE44VXZJcmFhNHdlVmk2bw?oc=5", "source": "뉴시스"},
+        {"title": "ING \"美물가, 예상 웃돌아…연준 12월 25bp 인상·내년 동결 전망\" - 연합인포맥스", "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE10NDNUdk94YlNBb1VUV1VrajU1ZjBlVWMzUGRmZVY4VWtVV3B0ZzdXR1U0N0lDc0F4RkI2NDUwY3BTVXd3SkdBMzRqclFxNU9Iei1fZWRUMkdIamdOT0FYTTVXcjg5T1Q1d1F2b3IweU0?oc=5", "source": "연합인포맥스"},
+        {"title": "美 연준 월러 이사 \"12월 50bp 금리 인상 고려해야\" - 오피니언뉴스", "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1WX1F4WUNnNlpzc1hianVtWXhxcF9CZnV3ZHpCSWF0aENoRXdjRldXYWhic3dDTVNsdlVsXzhrSUltSnJPSzhaQ3hEam1aZHJOMllpU1h2bWZQczlFSUNUVE5XY2hLSWNHTzNDZDNGMUUtZw?oc=5", "source": "오피니언뉴스"},
+        {"title": "금통위원들 \"연속 금리 인상 효과 점검해야\"…과반이 추가 긴축에 공감 - 아시아경제", "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE15VDNITTdBOU9yNWtKQXkxN0huaG5VYkVSbmdNamk4NDh2WXRudFhKc3RvSkZGQlhaamh1akdlRzg2dS1sR25kNmx6TldDOW1UNkdDQkxEME94VUtGcVlvUA?oc=5", "source": "아시아경제"},
+        {"title": "美 연준, 12월 ‘빅스텝’까지?…예상 웃돈 물가에 월러 “0.5%p 인상도 고려” - 조선일보", "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPelVOMEJodkVJZ056MjE5eEdGc2I1RnplTkF0N3ZlTE8yQjR1aUUzR01lN1Boa00taG15YXk2UDRGNlFIaGd0ajJ1UEU4b3k0VFozaF9YdVhHTVJDR2Z3cHBibjhzc2RkS045RTJSRUNkTm5QcFlxZVY0bTVLUGtVN3QwM3l2OHBB?oc=5", "source": "조선일보"}
+      ]
+    },
+    {
+      "title": "국내 부동산 시장, 지역별 양극화 심화",
+      "summary": "서울 아파트값이 100주 연속 상승을 앞둔 가운데 금리 인상·증시 하락이 변곡점이 될지 주목되고, 전세난 심화로 임대거래의 51%가 월세로 전환됐다. 지방은 미분양이 쌓이는 반면 구미 등 첨단산업 투자지역과 1기 신도시 중 분당·산본은 집값이 크게 오르는 등 지역별 양극화가 뚜렷하며, \"강남불패 신화가 깨졌다\"는 분석도 나온다. 여당 내에서는 \"집값보다 전월세가 급하다\"는 실용주의 목소리가 커지는 반면, 최경환 전 부총리는 LTV 40% 규제를 \"말도 안 되는 규제\"라고 비판했고 국민의힘은 당정의 부동산 정책 엇박자가 시장 혼란을 키운다고 지적했다.",
+      "importance": "상",
+      "articles": [
+        {"title": "100주 연속 상승 앞둔 서울 집값…금리 인상·증시 하락에 변곡점 맞나 - 뉴스핌", "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE55eDFKWWRTdzdFNVN0SnZYUHJaRlJJT1VrcUFuRTMwWFhSN2RBb0lNc2VmSkphdDRGMUxSaHNqTUZWOWs1bE0zUDZSOWhfdEc0NlBqbmRwNFp4d2dz?oc=5", "source": "뉴스핌"},
+        {"title": "전세난에 '월세살이'…임대 거래 51%가 월세 - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9KM1RGbFFuVG9sdjBqalEzZnd2S3BxRng5aG5JQkdOdmVmaGdXTzVmTjlkUHlMOUJRYVVBRzUwS3Nlc3hqZjZ3ekNEaFlsc253WnhrM0NFTEVYZw?oc=5", "source": "한국경제"},
+        {"title": "대규모 첨단산업 투자에 날개 단 구미… 주택시장도 상승세 - 영남경제", "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE13aHJtOWlEbG5kVklocVN5Zm10S1FKZk5lRENDaTg0Y0ZsdVpRV1JILTRjaGF1Y0tiRVdoRVRVc3kyYkJVdWs5SmVMM0l6ZGh2VVYxZUFXMlRCUWpCc2hBMzFuUWZDTFE?oc=5", "source": "영남경제"},
+        {"title": "1기 신도시, 산본은 거래 2배·분당은 집값 35% 급등... 엇갈린 부동산 시장 - 엠투데이", "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5peFFzZExQLU42aFpPRFdYOXJNZmh4SDFLcUJlaS04Y0Q4OFBaNzNuVEVoMm9uUlJCaFg3bjBURWNGOWdwSVFVeWdOdFVkRFVsd0w3QkFFenBPTnVSbDhoSTlGTzhnN0hDaHowb3o0Yw?oc=5", "source": "엠투데이"},
+        {"title": "부동산시장 '강남불패' 신화 깨졌다 - 매일일보", "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE96RVJ2NEgzVUZSWEpQbFV0QnFfTkR2MldheVdLTTRwaUk0cmhOQzJnRHFlLWRjSGhvUEdSWm14eHUwdk9PZ2JPVmVoeUowSUJ6cFRhak8yQ0MxZTlDR3ZQMmwybE8?oc=5", "source": "매일일보"},
+        {"title": "“집값보다 전월세 더 급하다”…민주당서 고개 든 ‘부동산 실용주의’ - 매일경제", "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5vYWVERHNzWC1ZWks2MTdFMlcxS195OF96T01TZXdoa2NzS2hRLXhTRjROUjltUGQ3cW9DR3k4N19zVEpBcDB1MmtHTWxsMHdXaHpCTDI3eDU?oc=5", "source": "매일경제"},
+        {"title": "최경환 \"LTV 40%는 말도 안되는 규제\" - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE05eVVKN3o3MU82c1kzVTJYZXE5T05ObGRncTZ1dVE1bWd1MTM3RW5OdHlfVnBZOWJMNlJwZnBmS05qaXJfMFhtZWMxY0dZWS1nSnNILWM1UkdLUQ?oc=5", "source": "한국경제"},
+        {"title": "국민의힘 \"당정 부동산 정책 엇박자에 시장만 혼란…선거용 땜질 처방\" - www.hidomin.com", "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9keWk2dFE4eXdMREdiMU1ZRWRkaUx1bUFuUXNKSnN3b1BnZDVTTlh1d0YxWUhVcXBuVGRNdVpndlBia1BDWjBCWFZHTlUwRkoxMThkVnVBTG1ydWpsMWRkektyYnFhWEJmZUE?oc=5", "source": "www.hidomin.com"},
+        {"title": "9억→12억→그다음은?…민심에 흔들리는 종부세 - 비즈워치", "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBJQTFhYTRkQWo4Z0lnZzN6WFdvVV9RTUp3QlRIdlJudkVNUTUtMHdpVkJfZGdidHN5SXF0MVpHYU42RzNVWEdtT1o5Um55a2Q3dzFNT1lva0hBLUhZWnFQN0ZncFlHMDhxbnVfRFlpN0k?oc=5", "source": "비즈워치"},
+        {"title": "안쓰는 땅 많은데…재건축 학교용지 先확보 논란 - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBIU21zMnJIcmUtUmJOY043LXdiTVZhYlpHOXN6SHRRU0ZpVlNTQ0NJcmtJeWFGVGFtYjJhMXAwWFBPYXJHbUNlVzJEX0NkYXFZdHhTWjl1Vmt6QQ?oc=5", "source": "한국경제"},
+        {"title": "서울 오피스빌딩 거래 24% 줄었는데⋯사무실은 105% 급증 - 포커스온경제", "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5Dd1BLMDRIVzkycFpjTzVENFM1X05TXzU3cl9xMU9zQzFmUjFYTXUzcVQ5em9vN19kQ1RsLVo5by1VNEdvbDExX09SMS1vSW5qWmt3enZUUUR3T1ZFNGc?oc=5", "source": "포커스온경제"},
+        {"title": "\"분양하면 끝? 먹튀 개발 끝낸다\"…준공 후에도 돈버는 시대 온다 - 땅집고", "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9lN3FueTBtYlJTcmQxLU80NEpYOVBIZWhJWGRyZVN2RFE1c2Eya1YxN0x6VkFMNU9PaFM1T3J6bHN4YloyaUhpTGhfaFZDQ05WYnZvZkNtSlB5cGdTSlViZHBTa0EycV9PbHNTSjFnc0JBQnY4RHNRQURiclpUMkXSAXNBVV95cUxQRjJUVUdaSXV3SGlYd01pYzlaQ2pZRDRNLVJ1dEJ1LUp6NmZ2VXB2ZV9NbDI3RnozWlNBRkJJUVFmYWlQRnVkc1hfQWxiS0RuU1ZCakdhOEE3eC1DeC1SVm9DYnFNcS1MOGlJLWpPYkd6blVR?oc=5", "source": "땅집고"}
+      ]
+    },
+    {
+      "title": "코스피·코스닥, 美 긴축 우려 딛고 급등",
+      "summary": "미국의 물가 충격과 연준 긴축(빅스텝) 우려에도 코스피가 2.6% 올라 5375.36으로 마감했고 코스닥은 5.62% 급등해 700선을 회복했다. 외국인이 이틀 연속 순매수에 나서며 삼성전자·SK하이닉스가 동반 강세를 보였고, 네이버는 \"아시아판 코어위브\"로 재평가 기대를 받으며 외국인 순매수 1위에 올랐다. 다만 빅스텝 우려 속 급등장에서 개인투자자는 오히려 주식을 팔았고, 신용융자(빚투)는 코스피가 16% 폭락했던 지난달에도 오히려 늘어 역대 최대치를 기록해 투자 위험이 여전하다는 우려도 제기된다.",
+      "importance": "상",
+      "articles": [
+        {"title": "코스피 2.6% 오른 5375.36 마감...외국인 이틀 연속 순매수 - 조선일보", "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNa3E4bDRoZDM4RHJjRXZ0aUVwbGFxZE5TWlFLNFFOQldKc2hEU2t1OGw0THJKal94NGNYTjRpNkV2UVdqNGhMSThtN1hoVnVFMElXVmZfNDhuc0RJSGU4MWg1UG5CWklDLWU5dmtydnJaNXpyUUQ3a1F5eWtSdTAwVg?oc=5", "source": "조선일보"},
+        {"title": "'빅스텝' 우려에도 코스피·코스닥 급등… 개인은 오히려 팔았다 - 한국일보", "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1INU44REowa0JiMnZ1Y1Bjc3NmeDZyVFpPWXVHNkFZbUJqc010LUZyd3dXWkZEYkkwdy1EZ2R4RlFKTC1BUV9BTVlxd2xZTXo4T0luQ3pWTDhFcE14N1N6LUljNC1JYzVEbWpIdzF30gFzQVVfeXFMTTJabDJKREtJUkxla19OSXpXdnNkWUJ4M2xuOE1ZdlJEUUdmODQycWxXNVF5cmpxR044dlF0Qzk5M2t5MGxfSTNqWlFEdlJDMnJBV0l2ZHF0U05XMHpRTEVhZ2otd3YzUkhESTFIZkwydFhIdw?oc=5", "source": "한국일보"},
+        {"title": "외국인, 국내 증시서 네이버 가장 많이 샀다… \"아시아판 코어위브로 재평가 기대\" - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FZXpaYXhlM2JTV0h6TVd6Q3F3M2VMc0FmRHdXUnpORnAtNjVLVXRqczVTM0YyWTVuUUhVX2pHcFRwNmllSUZwWmtDbHJoVVJRZEdFLWNQSXNmdw?oc=5", "source": "한국경제"},
+        {"title": "[마켓뷰] 코어위브 ‘깜짝 실적’… 코스피, 이틀 연속 급등 - Chosunbiz", "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcjFpNnI1Q0stTkNYMEdUVEg2Q0JtV19tanRHZkJ0OWJucklONVJGNE1vTV9qVE8wLVZXeENtZzR2aXkwRVFDVEVUalR3QmdQeDNUYkVTRWFaelk1UEdNRGJNVXBTd2VTU3BsTXZweTdpODNhMmtGQlkwdnZ6Um50RGJMcktSb1BY0gGcAUFVX3lxTFBsQlhfbkRFV1NCbk95eVJWRDAySUQ3Y0NKMGdUenFfaU5yQzBwQjRWbGthaHdHUkdxMHFHbXRlV2VDTDBrYWNBNnhQV2NtMXNoNUhCZjRsam5iSkFVTm12MFc0SmI5NGtGQURJMmo1VTYxMVp3d2UwbXJGbUFyUEF6QTBEWGZ5Z0g5aWROTjk1Qllyendta3hyXzFBSQ?oc=5", "source": "Chosunbiz"},
+        {"title": "코스피 16% 폭락한 달에 '빚투' 다시 늘어…개미들 어쩌나 - 이데일리", "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOOTh1RWF6UmlFUlpmWGZmUUdmQUhXTjk5S1p5cThOUUs4X25udWxNeGpwSExTYjhDUVNIVXhkU3dKbWxlWVE3VjNrYUR4MHkwWXhramZ3eWItLXJKTlZEU0dMcVhPMFptZGNVb3hHVmZ4dENlNGZkRHBsN3E3Zm1vMw?oc=5", "source": "이데일리"},
+        {"title": "주식 빚투 일평균 58조8335억 원 역대 최대… 코스피 신용융자 급증 - 기독일보", "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBWQ2JUV1NZN3RUU29Ud2V0eHZyZVFBUmlvekFYbXZhbHExSjZpRmNKLWlmM2d5OVhYLVp1QXFyRm9PNnA3eFVaMjZUUTZrNXpYeS1tcUlxNNIBXEFVX3lxTE4tV0dNYmVkRkhFTWFtU3RzNWhHUVNJbklUWTMxNUszZm1zUmMyRXdpUUtMVkRLWFFranlUWk5yRFpPWnZDNFN6VHNtZUpDaFZxcXNCUDhXbWRYLVJx?oc=5", "source": "기독일보"},
+        {"title": "\"코스피 바닥 신호 커졌다\"…하나증권 3개월 분할매수 권고 - 비즈워치", "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBSZVZLUmFIN0YwT25WUk5YZ3paVlFkeWVuOWNEbFZ3Qm5DVmN6RllGdFcxOVVtVDNFbms3bDc5ZFNjSy05d1NuSEY3TldWRERIdktfSVAya2swNUpidXNfaklEcHlfencxRUE?oc=5", "source": "비즈워치"},
+        {"title": "신한투자증권 \"내년 코스피 5000~8000선\"···AI·반도체 주목 - 뉴스웨이", "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAxSWZZLS1ONFNDN1FKWkVVR3dnb0FNVHJoTjctZ3NtSHRhWnVSaFFyTE5zX1ZFbU9iN3RQcmtNMjVfSkpCS0NIX2hZOV9hbGhmODRPU1dLYWcyYVU3SzFCaXV0SXB4QmU5MWc?oc=5", "source": "뉴스웨이"},
+        {"title": "AI주 구원투수로 등장한 코어위브? [박신영의 개장전 요것만] - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBmUXptYlpmX0xrS3BadjdiYnk1VXZTVmxFNDdvQXF1VVEzc1hJcGtRNVdSLTEtdVVMdEhvRlZ6SGZEdGpWR3ZFbTZjX2hkekFSV2Z5TDJFQ3loUQ?oc=5", "source": "한국경제"},
+        {"title": "골드만삭스가 '저가매수' 권고한 AI 기업 [월가 업&다운] - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBCYk1UR09ZU1ZveU1ySGJoUGcxN0duQVRoV1ZEcFlaZnN0NUhvWEZ3eXNoYXRpZmtHRHlOTmNqTTR1OVBTMjFOSjBXMEhmOERCekYzYW1vSmxqQQ?oc=5", "source": "한국경제"}
+      ]
+    },
+    {
+      "title": "10월 가계대출 6.4조 급증, 은행권 대출 1200조 돌파",
+      "summary": "10월 한 달간 가계대출이 6.4조원 급증했고, 은행권 가계대출 총액은 처음으로 1200조원을 넘어섰다. 장기금리 하락 영향으로 신용대출 변동금리가 10개월 만에 고정금리를 다시 앞질렀고, 인터넷은행의 신용대출 금리 경쟁력은 시중은행보다 오히려 떨어진 것으로 나타났다.",
+      "importance": "상",
+      "articles": [
+        {"title": "10월 가계대출 6.4조 급증 - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1LcmlkU21yczZaVVY4b2VaMTBvNVk1cFUxYTRBd0psaUdEMHdSdmZOLTFBNDgxb2NSSlZkVTJfa1ZaNGJvenRqNnBoMmE3MUVXYWV1Vi1VR3lIdw?oc=5", "source": "한국경제"},
+        {"title": "신용대출 변동금리가 고정금리 추월…장기금리 하락에 10개월 만 역전 - 뉴스저널리즘", "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA4UjdnSHU2Z1prNEtoQjBTbm9IbjJLYnVWMC1XMVlJV0o3YWpnRkk4UHRxWUlWY0plbHowLUlYVG5PbzFwTWdaQjAtSmk4M3luMzZCVV9ab3Bmak9Fd2FoSDk2Z1hkX2dzRld3?oc=5", "source": "뉴스저널리즘"},
+        {"title": "시중은행보다 비싸네… 인뱅 신용대출 금리 경쟁력 '뚝뚝' - 파이낸셜뉴스", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5uaEFrcGN2RG9iNVRlQXBZNGF0S1hlOElnWHN0LVRCbTFTOXlKemFTX2ZCN1huWENtTFEtWERsTVFvQlZXTDlXODZqYmpUT205VHdqTnF3eTh4Zw?oc=5", "source": "파이낸셜뉴스"},
+        {"title": "은행 가계대출 1200조 돌파…한달새 증가폭 4.5조 급등 - 뉴스투데이", "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBpU2YzbWxUN2xlU3lhQ2RXUndYWjd1b3VhcGYwc2l3YVZWcW5zOHJabzBMd0x2RU5Xd1o2Tkw5R2F0LWRkRm81b1FLcWF6LWtlNFJmdlJ3MDhOWUNsOVE?oc=5", "source": "뉴스투데이"},
+        {"title": "대출 당장은 고정형이 싸지만… 전문가 “장기적으론 변동형 유리” - 글로벌이코노믹", "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQ1prSnVsS1RFa3R1T1RfbUFqbFU1SFFfVGNUbmV0bXFWQnhzeFB6Q0UtbnBnbjIyZWpvMDMxWk1oUVZJX3BvdnJIYnh2U25sNkU0dkkyaHVhX0JnX1V2Sm5pZGVWS2xyN2V5WUV5amF5VkI0RGk4MFlqRGFoVmZXN2g2b2s?oc=5", "source": "글로벌이코노믹"}
+      ]
+    },
+    {
+      "title": "원·달러 환율, 美 물가 충격에도 수출기업 매도로 하락",
+      "summary": "미국 물가지표가 예상을 웃돌아 연준의 긴축 경계감이 커졌음에도, 원·달러 환율은 수출기업의 달러 매도와 역대급 수출 실적 영향으로 3.9원 내린 1333.6원에 마감했다. 엔화는 미 금리인상론에 159엔대로 밀리며 엔저가 재점화됐다. 내년 환율 전망은 엇갈려 흥국증권은 연말 1300원대까지 점진적 하락을 예상한 반면 하나증권은 내년 2분기부터 반등해 1400원대까지 오를 수 있다고 봤다. 환율 변동은 실리콘투·F&F 등 기업 실적에도 직접 영향을 미치고 있다.",
+      "importance": "중",
+      "articles": [
+        {"title": "원·달러 환율, 3.9원 내린 1333.6원 마감 - 뉴시스", "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5XUDlJSmstQUxuUGNJMXE2cnlqNVdTa2NUeXVEMWZwcERORkhSQW0yeXNSTjRXNFhUUVV3bWVDSXo0VXlnLTltTUE0SkVTUFdsbVhzY0FDUGFVUzUxSmRfaNIBeEFVX3lxTE5hU0h5SGMyOFc4c2x3M3JkMUlWdTJfYWdId0tpUDhvZWZyYVExa1IxT0pfdEVHLVYyR29uZVJ6bTFjOGJ4VlhxTEtWSDlqcmRuMUxQaGFabnpkZVdNYzJJY01pM1dBV0ZfYTF4QkRiSFZmb09rNFpBZg?oc=5", "source": "뉴시스"},
+        {"title": "엔화 가치 159엔대 추락…미 금리인상론에 엔저 재점화 - 글로벌이코노믹", "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZkNpV1BfaVBCT3FyOVN3Q0laakMwQjJ1RzRfN2NtQ1l3UTVZTWs0T0VPU2FVcnNJejhaTjA4dlQya2d6X2tMMDVvYjU0a0dGc3BKeHUxcU9ZMC1DUncwQVRRS21PSmlXQ0JEd3FWWktkZ1VvbnJBSTFIdUY4cEdWdUlVYi1NZVRZ?oc=5", "source": "글로벌이코노믹"},
+        {"title": "흥국證 \"내년 달러-원 평균 1,327원…연말 1,300원까지 점진적 하락\" - KB Think", "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1rcXpVQ1RVaHpMQ1hZemVXNGZ5SFVUbkJNZzdLczVjbkZmUGp3N2Y5d0pyaVRMTWJwRU9uVVRTQnV3VEJWTDVVSXBfWnN5aFVhVGtYb0xkTlV3VXh3ekFhNUZQX0tabGZNTUN4OFVqN19TUQ?oc=5", "source": "KB Think"},
+        {"title": "하나證 \"내년 달러-원 2분기부터 반등…1,400원대서 상단 제한\" - 연합인포맥스", "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBYMXdueWZ1dTBVRXdUR0RQVEdWUlJYV0ZSSzNNTVcxWmstRGM4OVJOejE3eDVPWEE4RDdSTWQ0NWNGY0NXdVQ3MVFPM24xTm5xRnF3eVptODBNZEZiSmJOZjZjVWwtZF8tMGNMZG0zZGs?oc=5", "source": "연합인포맥스"},
+        {"title": "중국 전기차, 이번엔 환율에 발목…가격전쟁 피해 해외로 - 지디넷코리아", "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1PWFAxX2s5dUREeDhCcEhrYjd3Nk1mY2NEdmFvVzVWbTk0UnFSdXQzT1dpTjdyZnBVN2dfWHVjdE1pWldDZWhEZmZHLVg1T1hla2ZWblF3?oc=5", "source": "지디넷코리아"},
+        {"title": "실리콘투 3분기 매출 4244억 '역대 최대'…순이익은 환율에 발목 - 리드경제", "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBYSjJJYVdDVHdvcERnZTJneXBZSEZDRjdzNFhvaGx4eHRUZ2hweEdpZnRNSkV1djVFU3dRMjh4QUdVZDJEaDhLZE5LNXNDOG1uSGtRODFrX3Z3QWMyUGJ1Zm5Nd2prd2lua1dBdEE2RS0?oc=5", "source": "리드경제"},
+        {"title": "국내 판매 27.2%‧해외 8% 급감인데 영업익 5.5% 증가 … 환율 착시에 가려진 '비상벨' - 뉴데일리", "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBoeGFDMjFVUTRtbTlzbDhQSHd2R1NGTW5HRDRWZmxpQ0c2WEc5aXpJS2RzdmhCSmp5VlM1R3poN3JMaURLc0xDeWlZMm1xZVFsOVUxVWZyYl8wV1pnZDg0SWtTa2VkNVEyWUNUWExkVTRoN1hNeXlQYzh4QdIBgAFBVV95cUxPVHJuaG95MjJ6QUdsZzRPTG1wR1RrWVo3dlJEZ2Z5TFZhT29jd3U0YnNYNXRvdVdwMzdFbzFPWHo1eEMtZVV1X09SNGdyMWxWNk5IQXQ1ejlMdEZyQWNXNVpvd1BCaTROVzI0YnhWWEVON0QxTERwVENEYXVXY0stRA?oc=5", "source": "뉴데일리"},
+        {"title": "환율 때문인가 경쟁력인가…中 ‘1조달러’ 무역흑자에 긴장 예고 - 이데일리", "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTkRjQ3lpYXFaakpoc09hX2pONkhmaWRHcGVzV0NiX1c1TmdfWjIxRlNzOHNNNVV6WmV6OEFKZUlhRVRNX21XWHF5ZlgwTlF0NHI3Ri0zaDZJV1NJR1hpQkR1eG5ENE45ZDJnOGpEWnJiUFNFQ0MyVlZzNDBoU2hBLQ?oc=5", "source": "이데일리"},
+        {"title": "내년엔 환율 '1200원대'?…달러 강세에도 원화는 '꿋꿋' - 메트로신문", "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA0QTNBTnRzREdBV1JyRUFIZ0xDT0tncHhKZmFTYUZxOWVqb0tDRXpSeWN5UWl0U3lsVlFLSVZXT0xXQTdnNWd6WnVIbENMUjRJNENYeWZPVktnN0F6a1l4OA?oc=5", "source": "메트로신문"}
+      ]
+    },
+    {
+      "title": "공정위, 국고채 입찰 담합에 1.6조 역대급 과징금",
+      "summary": "공정거래위원회가 국고채 입찰 담합 혐의로 증권사 등에 1조6000억원 규모의 역대급 과징금을 부과했다. 국고채 프라이머리딜러(PD)들은 \"경쟁 입찰을 사실상 무력화하는 조치\"라며 강하게 반발했고, \"피해가 불분명한데 조단위 과징금은 과도하다\"는 비판과 함께 \"입찰 제한 대신 과징금으로 사업 숨통을 틔워줘야 한다\"는 의견도 나왔다.",
+      "importance": "중",
+      "articles": [
+        {"title": "\"국고채 입찰 담합\"…1.6조 '역대급' 과징금 때린 공정위 - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9NckRldHJZS3dKV25RNnloeGF2bUxLQXowaVdlMmVtMnlvYURfb3BnSE5pTlNRZ1FhY1hmVkVpVnl0U3hkM244SVR0RGZUZnB4RXdzVXgzS0VXZw?oc=5", "source": "한국경제"},
+        {"title": "\"이러면 누가 국고채 PD 하나\"…공정위 1.6조 과징금에 '격앙' - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5hTFRTdHRJZXVfaWpKdW9OamtuMHJ3cGhPeXpyaVVmQ1NYOEZwQTBTOFU3UEx3WHlnT19CY2x3b2FST1Q2emtYX3FEaURGMlV6YVZKMjJRdV9zdw?oc=5", "source": "한국경제"},
+        {"title": "\"경쟁 입찰 사실상 무력화\" vs \"피해 불분명한데 조단위 과징금\" - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1LWUZqQmFKOEJ0UGlGbmpKRWh4SV9NNWs5OW9ZcS1WckJPSUZ1TnNqYXk4WVF2dnhVWE9rNVR1ZWpjc0hqcDhCU0ZHQTUzV1g0WHlXVDlGREFUUQ?oc=5", "source": "한국경제"},
+        {"title": "\"입찰 제한 대신 과징금으로 사업 숨통 틔워야\" - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9FSWhSMmpVUWZ4MXNOSjg3TU9lLU9TTzNsbG1TampDMmZHQW9WSWdpcEJJUmllWTFUS2dMeWxaY0ZZeUN4TlFkVmlSdHJTYXh2RTdGWlpNUEVXZw?oc=5", "source": "한국경제"}
+      ]
+    },
+    {
+      "title": "삼성SDI, BMW·현대차와 배터리 협력 확대 및 ESS 수주전",
+      "summary": "BMW그룹이 삼성SDI·LG에너지솔루션과 배터리 셀 공급 계약을 체결해 유럽·미국 현지 공급망을 강화하기로 했다. 삼성SDI는 현대차·기아와도 배터리 공동설계부터 전고체 양산 기술까지 협력을 확대하며 관련 특허를 출원했다. LG에너지솔루션이 빠진 역대 최대 규모의 ESS(에너지저장장치) 중앙계약시장 입찰에서는 삼성SDI와 SK온이 2파전 수주 경쟁을 벌이고 있으며, 삼성SDI는 ESS 사업 호조에 힘입어 적자에서 벗어나 영업이익 4078억원을 기록했다.",
+      "importance": "중",
+      "articles": [
+        {"title": "BMW 그룹, 삼성SDI·LG엔솔과 배터리 셀 공급 계약 체결 - 이뉴스투데이", "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ERU1BOEpPY0hSc1FtNERFQ2RocE1RUVNHdVlqT1ViWnJIOThuZEFsdUN2Z1VBMVVlTEhrcmh4RFI3RGpSVEJjTDBlbkRVYVVILTBySkI5SmJLdXZaOG9RLXV0eGRzSWtqZ2NocjlBbFTSAXRBVV95cUxNUlJEXzhodHl2bDhNaU1JMHpBNmw1U1JjaTJRbEdacUlqRG1TUjd6UmEzaDVjY3poeDV4TTJEdURDcm83SFE1VDg4dC1qbk16dDVmbWVxcFNvZDUzcDdzdk01bGp4bmdRLTVKSG02bFVnbS1saQ?oc=5", "source": "이뉴스투데이"},
+        {"title": "삼성·현대차 '배터리 동맹' 진화…설계부터 전고체 양산 기술까지 - 매일일보", "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBfMzZWNVBMaVR5QzJuQTNXeDZBVGhjWEYxTVYzaURmSEtxSWVLVVVBQm9JQTNtaHpubzU3OTZxZU1nd0ZwTm1yVGltd3VTVHU1SnFmajl4dXYza2w3bkwtc2duMFU?oc=5", "source": "매일일보"},
+        {"title": "판 커진 ESS 수주전… 삼성SDI·SK온 '2파전' 격돌 - 머니투데이", "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE82akdDYXprWjdGRENiMFUzeG5OenZDSmJLZ1h3bGRQZEpOMEowVWo3Y0NEaW5LelFOYmdFTVBzRElKQVBXTUpwM3JUVlZ2eWZOYmJlWThiaGNvWUhpZmIzWDktVEYtclFjRkVGedIBckFVX3lxTE5uRDJlUlN1M2YzVXl1bGVVMU9Gd1pObkcxWDlqWWxUWWtoT3RjV2hZTmRZbWtnTXJ3OHB0ZGlMVE1ySEltRWxSSHJ1eDM3Z0dDemZEc25RWHBDVjFXVXp4X0tQWThHaWhqOEJSS3Itc1dvUQ?oc=5", "source": "머니투데이"},
+        {"title": "LG엔솔 빠진 역대 최대 ESS 입찰…삼성SDI·SK온 수주 경쟁 본격화 - 이투데이", "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE54aWFrdjJQZFFXWEVreEhxVDBxWlF1bU1rMUVlSWR5NWdqT1dkUUFpbWZ1ekN0WXF0Q3dJVFc1VjBLSlpZaHcyN05kV0ZRQWNuSFdtZw?oc=5", "source": "이투데이"},
+        {"title": "LG엔솔 빠진 역대 최대 ESS 수주전…삼성SDI vs SK온, 세 번째 승자는 - 더팩트", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5qdXhVZWgwaktDZW9mRGh6T193SnFEWHdfVWhYY0VIZGx0VUZ4ckh2RVFRZmpnSWQ0bmZzdHBaQ0ZfVS16T2J4bHZJMjNwcmp2dU81b2gzQmhyUdIBVEFVX3lxTE9kNzFpMDgwSV9xa0Z4bjNDVHlHUDRHWld5ZUEydUdiWkJhRmlSbFA4M2IyaUJldXZfRXJIRllPU0lMRXAzNG1sWnZISU84R2gwZ0Utbg?oc=5", "source": "더팩트"},
+        {"title": "“삼성SDI, 지금이 바닥?”⋯증권가가 주목한 반등 기회는 [찐코노미] - 이투데이", "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1OMFd4STJUSEpURV9Qb1R5aUd2clBVSDJNTFhTejhUZHQ5bnB0T0VIVW5UZXUxNzB2OWRsQ3BZYThJUHpOQ2t2WXctMTBjdmFaM280SQ?oc=5", "source": "이투데이"},
+        {"title": "괴드시, 삼성SDI 공장 주변 비상대응계획 초안 공개…주민 의견 수렴 - 글로벌이코노믹", "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZE9NQTgtZUcxcUlLMXp5OEktLUtUTVgwbXBxS1kwb0FRbENMWHZES01qRlZBSWNOMDhkVHlUQ3p2TklXR2hkZTV4dlhpRmhBYzhYNFY0Qkc0cGhiVW9wbTYwMzBJV3NkQUMxaEV1NzV1WjNuM1I0ZEhHMW1odnBXQWhuRUp5T2g0?oc=5", "source": "글로벌이코노믹"},
+        {"title": "[삼성SDI의 전환 ①] 적자 벗어나 영업익 4078억...ESS의 힘 - 뉴스투데이", "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ZTTBkb2RxQk0yNFpldjVxTkU0c29iVllsX2xVM3E0Mi11alpRcVpDSGhORmVvMXJMMWZJdENPbjFnVHBOWDZpWkdGWHVENlRqMFZSY1dGQnp1UlhzaGc?oc=5", "source": "뉴스투데이"},
+        {"title": "삼성SDI-현대차·기아 특허 출원…배터리 공동 설계 - 코리아리포트", "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1FRHVZOXpMOHoxOUFmRHZWckRaMmtsMUliMl85SnVVZlBTZDY4Umx0aTNPUHdKSXJndXRIbjd1VGt4bHduNE5MMTc1OVNPUVdMN3k0UFhTcjAzQnpnenMzZk10RWxLWGlkbUU1NnNBaFY?oc=5", "source": "코리아리포트"}
+      ]
+    },
+    {
+      "title": "앤스로픽 IPO 수요 폭주",
+      "summary": "AI주 투자심리 침체 우려 속에서도 앤스로픽의 기업공개(IPO) 수요가 모집 물량의 수십 배에 달해 공모가를 올릴 가능성이 제기됐다. 일각에서는 이번 수요 규모가 스페이스X의 IPO 수요를 넘어설 수도 있다는 전망도 나온다.",
+      "importance": "중",
+      "articles": [
+        {"title": "\"앤트로픽 공모주 수요, 모집 물량 수배 달해…스페이스X 넘어설 수도\" - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4yVHhQNU9NbjF4WUdrUFZMZUp6UFFhMVBZYUwwSXFnVE82ZjlYSHhBWnpWeGxtRjVOQzBWcWgyYmtnOG5wcnhKU2plbU1DN1h3dmdRdlNWa01fUQ?oc=5", "source": "한국경제"},
+        {"title": "AI주식 침체라더니…앤스로픽 IPO에 주문 폭주, 공모가 올리나? - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9fUDVudDNnY0NacGpaS2dEOHJKd3lKZENWSXVqVDV6TmE5QmJVa3N4UXBVV2tHN0JBemNibUY5dzVtaFVXV0kxdkMxcFdMXzRSQkJyWVNETFE4Zw?oc=5", "source": "한국경제"}
+      ]
+    },
+    {
+      "title": "Hims & Hers, FTC 소송 확대·실적 부진에 주가 급락",
+      "summary": "미국 원격의료 업체 Hims & Hers는 3분기 매출이 전년 대비 49% 늘었지만 구독자 감소와 마진 하락으로 시장 예상치에 못 미치는 실적을 내며 주가가 급락했고, 4분기 가이던스도 부진하게 제시됐다. 이와 별도로 연방거래위원회(FTC)의 개인정보·결제 관행 관련 소송에 추가로 5개 주가 참여해 총 7개 주가 소송을 제기한 상태다. KeyBanc 등 일부 애널리스트는 이번을 \"전환기(Transition Year)\"로 평가하며 등급을 유지했고, 소송 확대 소식에도 주가가 한때 6% 반등하는 등 시장 반응은 엇갈렸다.",
+      "importance": "하",
+      "articles": [
+        {"title": "Hims & Hers faces seven states as five join FTC privacy and billing suit - PPC Land", "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcGduN0w4YTZ4MVlsOTcwUExPQThuNUxnSTlBTFlCNGE5ZXlielVodWxYby1MaXgxRUt4R2lMdXowUFhTWWp2Y2JvWDdBR1NvRC1FZXJETlpHSnN4Z19Fb2c4elJtcE1hbGdnRklLdFdMOWVCUnFxLXRYMzYtd2NiZVVkVVprUGpXdDlhTElOdFBYdw?oc=5", "source": "PPC Land"},
+        {"title": "Hims & Hers Q3 Earnings Miss Estimates, Gross Margin Down - TradingView", "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQV2UwdVowYXhTcHBDZkRkZU5TZkpCVFFpb1R4MHpyU2dxeTM0RWdfdlpVODhHc1Z2TVUzNHp4UGpEQTlXbTZMTXphcWxxSUxGM0JYMnFCOHdKZEY0cjFsY3Q3eHI1a29RYkdIYUs4SUs4QURQQ0pJRFc5a3ZKTHdCLVNYdUVTRXc2R1hFNEN3TC1XajNyNU9Ob1p0M1BUTnhFalZGUUVQZmRiSUtfR1ZR?oc=5", "source": "TradingView"},
+        {"title": "Hims & Hers Climbs 6% Despite Five States Joining FTC Suit; Eli Lilly Dips, Novo Nordisk Holds Steady - Yahoo Finance", "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPaGxnWEI2Q2JMbDlEWHg3MkFzNy14Si1pZFdmeEM0RnNIQkRLVzQxeE5aNXpOZEc3OEljeEZSYUZyRzc2UWFHZEJrelVqLU5FcjI5LXJmRnViMi03S1pnUC1IaERBa3UwaUtvWFJ2cFktc0c1V3J4MkxaLWVaSWkydWpxb21RXzRST0hwdVRSeW1vSGNhWkE?oc=5", "source": "Yahoo Finance"},
+        {"title": "Hims & Hers Week in Review: Q3 Miss, Weak Q4 Outlook, Huberman Joins Board - Benzinga", "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNdjVSaGJwUTR6cThFY3N1elZfUDVxNVFRczdIb1dZMlVoODJKa05HU21fTjZrNFozdGhhajR4TWFReEJHRFRGQXNEVHgxRkpadldpdHpLSjRqZDZHZ2ljNFJvOXB3UmR6UnJ6clFIdWhfTm5UYmdoaVFCTkR5Y1pWaF9adVd1V2xwVENXNWM4SkRUcGdXb1dmTGJuTGpDRUw2WnZSb0xfcUprZEE0SWE1QnEtelFKZG1pNDU0ajR6M0dhVmJpRS1HRVIyeEpMcXc?oc=5", "source": "Benzinga"},
+        {"title": "Hims & Hers Faces A ‘Transition Year’ Amid Increasing AI Investments, Says KeyBanc – Expects Lower Pricing To Weigh On FY2027-2028 Earnings Outlook - Yahoo Finance", "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQ2dBaWJUbDJTZm5WZXpIYzNNYk1fNkE1NGVaalZBdFBDcE1fVFhncENGTGdrYkhiWFNQbkJmeTFaLXExeW9qRjZxb2huc05fd2JxRkZ6UmdmWHJhNnVuRnJKNjVia1JMcVI4OVdldTNzNE5LNXROSlc4VmFVREFLSDhHcml3emVyZXBOcVpiS2RCV2NHeXQw?oc=5", "source": "Yahoo Finance"},
+        {"title": "Five US states join FTC suit against Hims & Hers over privacy practices By Reuters - Investing.com", "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRHFMaHgwUjlRazd1Z1lwbG9mZkxYd1QxMVRjN3ZPcUVTYXRZYlRxQ3dRckV3d3Jwbi1qVHFoTTRBTnBlcldsYnJ6VzFxVV9NNTh3V3h6YU9DMU1PTmtGQlg5WVpzOVlDSmlPMWhTN1VnbkduS2QyY2xLQTg4SWp2MXRjbkxXaC1VenJfVE9walpMTTFBbXg4bm9yRUs3Zmo5RUw2OUhHMEpyVHVpY1AtZzFaQjhmSUF6UEdYWEhQWU5qNUhPZEcw?oc=5", "source": "Investing.com"},
+        {"title": "Hims & Hers Health Inc (HIMS) Shares Fall 16.6% -- What GF Score of 73 Tells Investors - GuruFocus", "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNODVuT0Vpbm1mUm1WUTNyM2VkRVpxSUlHcDFGNGcxYV9zT045UGhhRVNqWG9qLTBtZUFRNHNzUnAzYTN5V1g4NHJwU3RzN2N5cXVUZnpBZDRMZzFGVWxXV0VFV3NwVU0ybmU4UTd1cExERzFqMnhuT0UwbE51UTFWOVByUE9DaERoSnM0MllZOVo3aEZxQjBOMlgyOG0yQ252bS1uZGh0VFU4eWJ5WWdISEQ5QUFRc2M?oc=5", "source": "GuruFocus"},
+        {"title": "Hims & Hers Stock Extends Losses After Earnings Stumble - Barron's", "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBLX2tUZkZ0YTNBbU80WDRCLTBaWXNZRG1QQW9aOGpyT29Rbll5X2FiTGUxalJGdlFMdkxDMHFYdDRNVTFjVWs5djdhZGZIWHN1QTRNOEM3Sy1yZ21maFBUcGpHRDZxYklsQ3kzbUtPYUFIQ3BzMEY1NmFoM3Q?oc=5", "source": "Barron's"},
+        {"title": "Hims & Hers Revenue Just Jumped 49 Percent. It Still Faces a High-Stakes Legal Battle - Inc.com", "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTjZIdGExYnczNHpZZVVPaFh1VDlBekxoY04tLXhvQk94bWtiNHpUY2hjczVSZ3RvVTQ4enZ4aVhRUW9WV2hGLTB5Y2dKOWtTU2lyUGZMTW95WWVRWUNLaGtIMzVqSEVYV1R6Mmc2dURUZzBjT0hwOFFWcXByUFN4eVp3X0prZ3ZtT1MtTkhOWkpxbTktVmRmNWZ4NnFid2JxdVNtRkxTaS1aWDY3R1JTNzhYcWpJaUhQNGNkcUtn?oc=5", "source": "Inc.com"}
+      ]
+    },
+    {
+      "title": "엔비디아 젠슨 황 스캔들, 칩보안법 통과 가능성 커져",
+      "summary": "엔비디아 CEO 젠슨 황의 불륜 인정 소식이 파장을 일으키며 이혼 시 재산 분할 문제까지 관심이 집중되고 있다. 이번 스캔들 여파로 미국 의회의 칩보안법 통과 확률이 80%로 급등했다는 분석이 나왔고, 젠슨 황이 퇴진할 경우 후계자로 AMD의 리사 수 등이 거론되고 있다.",
+      "importance": "하",
+      "articles": [
+        {"title": "젠슨 황 불륜 인정…이혼하면 재산 분할 얼마나 할까? [김상훈의 상속비밀노트] - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBZTXI4SmZhWENvbm9TbVBaVVZOYnRIQ1dna1JzV3dJOW9tNzlTWjRBRkJWT3lLNjhjZnRkX09sTkNJWnNrVTF0bVpBUnlweklkMXVpRGFmbnBIQQ?oc=5", "source": "한국경제"},
+        {"title": "\"불륜으로 끝날 줄 알았는데\"…젠슨 황 스캔들 '일파만파' - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5OT000UTB0bTJ3TnFpLTMyYzV5VldOby1DemxSZHhfYjdUY0c1U2JwNmlweTVNRThyaFljY0M4RktvTXpSa2dRWDhBYTcwaE9Pal9fWDRLUTBtUQ?oc=5", "source": "한국경제"},
+        {"title": "젠슨황 스캔들 후폭풍…칩보안법 통과확률 80%로 급등 - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9kRWxqdUpEZ2FiNWVuYVF2WmZIaEJBaGtHSDVodzlyUHV5dkdLbUlRd21ONGN4OUNUZTFGSURTVTllTi1rOEZ3c2JTQUNKd3YyVTVnRnlxUU9xQQ?oc=5", "source": "한국경제"},
+        {"title": "젠슨황 퇴진하면 엔비디아 누가 이끄나?…AMD 리사수까지 등장 - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE04S2N3T25TSkw1eWd1X2hxZlFjMi1zNnJJaGVnZzNZZVJIOTh5VWpfU25QSHdobFE3dVFHaUpIT080cVhjQ2NrSW1DbkZmNVVuTXdQNm42TXRHUQ?oc=5", "source": "한국경제"}
+      ]
+    }
+  ]
+}
