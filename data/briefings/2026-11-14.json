@@ -1,0 +1,129 @@
+{
+  "date": "2026-11-14",
+  "topics": [
+    {
+      "title": "코스피, 젠슨 황 사임 쇼크에 출렁…장중 5500 터치 후 0.98% 하락 마감",
+      "summary": "엔비디아 창업자 겸 CEO 젠슨 황이 불륜 스캔들로 사임했으며, 상대 여성이 중국 국가안전부 반도체팀 소속 요원이라는 의혹까지 제기됐다. 코스피는 이 소식에도 반도체주 반등에 힘입어 장중 2~3%대 급등하며 5500선을 터치했지만, 오후 들어 외국인이 약 7000억원 순매도로 돌아서며 0.98% 하락한 5290.53에 마감했다. 코스피는 한 달 새 23% 급락해 세계 주요 증시 중 낙폭이 가장 크고 외국인 자금도 9개월 연속 빠져나갔으며, 비트코인도 '젠슨 황 쇼크'로 3개월 만에 1억원대가 무너졌다. 다만 엔비디아는 한국에 약속한 GPU 26만장은 계획대로 공급하기로 했고, 이재명 대통령은 증시 변동성 대응을 위해 증권시장안정펀드 가동 방식을 재검토하라고 지시했다.",
+      "importance": "상",
+      "articles": [
+        {"title": "[증시마감] 코스피, 장중 5,500선 터치 후 하락 반전… 0.98% 내려 5,290선 마감 - CBC뉴스", "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBTR1BPckIwVW5qRWJ4b1FxbkozV0tyVVlWeE4tYlVETkJpcnZNcHB2bTdWcXNPRlJJdVB0Q3dHeTY1NU5uSnFZMkRMb1ZmSWhIMHRaZXNWMHRlZUhPUFdzeWI1dGx3MmNM?oc=5", "source": "CBC뉴스"},
+        {"title": "\"젠슨 황 불륜녀, 中 국가안전부 반도체팀 소속 요원\" - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1BT012N3pMTjM4bEdHNUEwd0VJdnlwOWhrMkFPWHcwOV9GUmdKSThwbXc2ZF85VGJFdTQ0MnZUdTJrS0JhLWpCdVcyTlNYNERacldWUVU1cUg5UQ?oc=5", "source": "한국경제"},
+        {"title": "[마감시황] '젠슨 황 쇼크'·정책 실망감에 코스피 5300선 붕괴 - 한양경제", "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1MNld0NlJ0QnhoeXFwSUtiUkVwRzNCR1B0a2gxRFVyeTJ5YkVZaHBMSHgyUXNSd2gxM3RHY29iUEY1SGtSaXhSYkVVTVJJcGp1d2EyNlFsU0VMelRxUmx5YV9GbThZTXlwN0wwSi1LQmc5UQ?oc=5", "source": "한양경제"},
+        {"title": "비트코인 '젠슨황 쇼크'…3개월 만에 1억원 붕괴 - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ISnR2UVVIWXRyQVNrcldpZ2xsa2RFTWhtZWh6aHFCakhhcThXZFVPWHlmdjMzb0hVbWg1T2padkU1OWUtYUpxOU00cDBaV2Y2Uk1PUjR1N2NjQQ?oc=5", "source": "한국경제"},
+        {"title": "젠슨 황 없는 엔비디아, 韓에 GPU 26만장 약속대로 공급 - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1zTE8xQ0ZOSzBvNjN2dmUzZUtWU2UtemJrb1ZvV1h3TEhva3BDNzMyQ0plVjRxNXQ4eVRHV3FKUUVuMXNsVXpOd0hVZVhsRXZHbVptTmFuakZtdw?oc=5", "source": "한국경제"},
+        {"title": "李대통령 \"증안펀드 적정 가동 방식 재검토해야\" - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5WTmY1OTByOG51TjdacFZTX3BGaXR0eDh4YW1zNldtWU9BNGp6UC1PUlFvdDN5SVFJV2t5aGZtR1ZQV3E4ZHhzS3dvYmY0VG0zM2ljbGI0SnJ6dw?oc=5", "source": "한국경제"},
+        {"title": "\"잘가요 젠슨 황\"…불륜·사퇴 충격에 코스피 5300선 아래로 - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1jb1gxcmdZMVI4SGNkQXVYUmd5ZmRhZEJFZFJHQlJhY0tUTHNUMUZvZ0cyTlFsNGttZTB2N2VBMUtsVWktUFo3TGpNREtRaV82NVdQUGRBWnNSUQ?oc=5", "source": "한국경제"},
+        {"title": "'젠슨 황 퇴임'에도 코스피, 장중 2%대 상승…외국인 '사자' - 연합뉴스", "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAzclgzdkJVZDhqYWpUdGFtdTBxSzNsclRTMEwya0N3VDlQempHR2d6ZGZPN2h0ZGtIOHo1TWRyUkRleTU5MFRWYVl0RUwtdzR2Z2pfR05Yc0NsZ2PSAWBBVV95cUxQN2wwTWhrNmJhMEtGN2ZjYU5mdlJaSjdZb3BiVTZLSnA5X1RFZDhBSk1iYktxS2ZucW5QcHIxUHcyVEw4ck5yQ204WGNHVDBaXzVEYmhrNnppbmRINXNvNUM?oc=5", "source": "연합뉴스"},
+        {"title": "코스피, 한 달 새 23% 급락해 세계 주요 증시 중 낙폭 1위, 외국인 자금도 9개월 연속 유출 📉 - 뉴닉", "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE83RDFIM1ZKZkZRZ1VDUmlUTVREczZ5blpNV1hJaDBIMHU1WlNjdDFIcUlLQVRpUnJkLVlNRkNWQ2w2OG15c1MxbHM5UFY0SzRMLVd3?oc=5", "source": "뉴닉"},
+        {"title": "증권가 '4천피' 경고 나왔다…\"젠슨 황 사임, 반도체 불확실성 커져\" [오늘 나온 보고서] - 매일경제 마켓", "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1aTGdxWEZFWHE5TXgwSjdpOHc1enA5UFJtNWctM2RyNnBLbDJXRVVMVmVkdks0alB5SHAtV1N4SXNFRnpPc0hlYV8xVnJKVzhqR3c?oc=5", "source": "매일경제 마켓"},
+        {"title": "5500선 뚫고도 5290선 추락…코스피, 외국인 매도에 245포인트 출렁 - 지이코노미", "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA3Z2RPLWhBVU9fcXhGVVJiSzgydHc3RHR0SVl3TzZOV0t2cDIzb29feVRYSjFKbEZlc2tpMWVoLVdTMDRrdVRlSW56Z2lwYVRMdHZmYlF6S21tU1VnRU5DSzJzb21kbzg?oc=5", "source": "지이코노미"}
+      ]
+    },
+    {
+      "title": "원/달러 환율, 美 긴축 우려·유가 급등에 5거래일 만에 반등",
+      "summary": "미국의 끈적한 도매물가(PPI) 지표로 인플레이션 우려가 지속되며 달러가 나흘째 강세를 보였고, 연준의 12월 추가 금리 인상 기대가 커지면서 달러 가치는 지난해 5월 이후 최고치를 기록했다. 원/달러 환율은 5거래일 만에 반등해 6.0원 오른 1336.7원에 마감했고, 엔/달러 환율도 160엔에 근접하며 일본 당국이 이틀 연속 구두개입에 나섰다. 다만 한 칼럼은 환율이 오히려 추가 하락할 가능성도 거론해 전망이 엇갈렸고, 젠슨 황 사임 후폭풍으로 환율이 장중 1340원대 재진입을 시도하기도 했다.",
+      "importance": "상",
+      "articles": [
+        {"title": "[뉴욕환시] 달러 나흘째↑…끈적한 美 도매물가에 인플레 우려 지속 - KB Think", "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1XMzJNU3IxNHdfd3BTYTFPRlRYMzJVcTVUYmdWemtycXJvcXpETUZMdEJwamlnQ3dlMUJTZ1N4OHo2NXNCYmtKNmtjYUpIMTZONHhWbVNEeENPSG9penNsQWhrRWFUajlsRTdpM2dfMHFOdw?oc=5", "source": "KB Think"},
+        {"title": "[EBN 칼럼] 달러/원 환율 추가 하락에 대한 고민 - www.ebn.co.kr", "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1xd3pxeEZDVlFIU1RQaE54dm55TEtBUUZTeU45SnBpQXBTejNzR3hZaEtLV0xRckhTZ2ZiSV80M0JtdDduTE9vOFZJYk1BOHBBWDVKbmFDVTBMOHBOdlNuWV9yb3JfWnc1?oc=5", "source": "www.ebn.co.kr"},
+        {"title": "연준 '12월 금리 인상' 베팅에…달러 가치, 지난해 5월 이후 최고｜Global Money Club - 중앙일보", "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1SRjB3NlVrS0d3WklvbU12ZF9xU2RBTWhyR1FjV3ZlUUhOUkk5TVg3ajR1R1B3TWVWc0tmdHQ3c1VPYVNxOTVQSGVneE0zY3Rrb0Z2RGFrNVF5SmM?oc=5", "source": "중앙일보"},
+        {"title": "[환율마감] 원/달러 환율, 5거래일 만에 6.0원 오른 1,336.7원 마감… 달러인덱스 1년 7개월 만에 최고 - CBC뉴스", "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9kVG15Y2R4SnUxTUxGdW5rU0RobDhmcjVjTWpWQVptYTdsSXJRenpTUDhsVkhPZlhQa1IxcGdHNGMwSE9fYldSNElldkJqYWFycElxWHpTM1VXRWpiNTBpX0xScC1VOWhl?oc=5", "source": "CBC뉴스"},
+        {"title": "美 긴축 우려·유가 급등에 강달러 압력…환율 6.0원 오른 1336.7원 마감 - www.ebn.co.kr", "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1TTmV6anF6MTVhSjlzbzU3WFdMaHJFRkZUTC1iMjBxQ2VMMi1LOUVoVUZfdDdOeFFXN1ZYYTZvbkVVeWswT2w4Q21PLWNvS0NiNG83MGpSMzRyLXI3Ql9NSml3VXM5ZlZK?oc=5", "source": "www.ebn.co.kr"},
+        {"title": "엔·달러 환율 2개월여 만에 160엔대 넘기도…日 당국 이틀 연속 견제 - 아주경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBMdlBJd0Y4TXZTQ2NuckhsRVlCZVJ4TTQ0aXFKcGM2U2NMSE5wTkRhMlBwMWlpSXZLOHZmajRvZVV1VVR6QzZmTjV5VVozblA5bWFCT3RWVHpGZ9IBWEFVX3lxTE1pX3ZsX2lwNHkwQTZYY1VDdVNCdENpU2k4WHQxeFpWb0RQeWk1alFzaGsyZ2l0R2xnUGdEbnlLbWRTb01QUk9qRGNCOFFVN2xDcDU0R0I0VjI?oc=5", "source": "아주경제"},
+        {"title": "美 금리·유가 급등에 달러·원 환율 6.0원 올라 1336.7원(종합) - 뉴스1", "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1NRzYwc0c0UnFqelVGUnpOQnBYNkZLckt0WWN1T2JVRy1la0duOGNfUmlsZHB1bXRDOU0weUswc2E4RmswSmtBTTNOejVybG44OHd2djZWYTdxYWc?oc=5", "source": "뉴스1"},
+        {"title": "젠슨 황 사임 후폭풍…환율도 1340원대 재진입 시도 - 마켓인", "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1LUFNhTXc5Z25ZUy11aXh0bmlScHhDUHFzY3BHYWZVeUtacEZtekhmSk5YMnk5YWR3S05US2lJMGo3VlV5aXA1cW5BdW96MklpbnREc0Uzc2J6dFF5WTRsdTdRVFRnN3g3VXZkZ3E1Tk1ldUE?oc=5", "source": "마켓인"}
+      ]
+    },
+    {
+      "title": "美 연준 등 주요국 중앙은행, 추가 금리 인상 행보",
+      "summary": "뉴욕 연은 총재와 분데스방크 총재가 인플레이션 2% 복귀를 위한 추가 금리 인상 필요성을 거듭 강조했고, BofA는 연준이 다음 달부터 3회 연속 금리를 올릴 것이라는 전망을 내놨다. 연준은 2027년 FOMC 통화정책 결정 회의를 기존 8회에서 7회로 축소한다고 발표했다. 신흥국에서는 페루 중앙은행이 4년여 만에 기준금리를 4.5%로 올렸고, 멕시코는 물가가 오르는 상황에서도 금리를 내려 중앙은행 내부에서 충돌이 빚어졌다.",
+      "importance": "상",
+      "articles": [
+        {"title": "분데스방크 총재 \"ECB, 추가 금리인상 필요성 매우 커\" - 연합인포맥스", "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1xYmUyNVk3clI2TXFzMFRFbHFGMFloSDRSU0oxalM4eGZZQ2IyVFpWZnpSUTVlc1VROElhQk1id2s5aDZ0OTJUdnpYNURqNU1mbDdiNmI2eC1CTmFlYldSV1k5MmRDYmwtdHQ1T0hpMUk?oc=5", "source": "연합인포맥스"},
+        {"title": "BofA \"연준, 다음 달부터 3회 연속 금리 인상\"…1월 전망 추가 - 연합인포맥스", "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5wUGQ3T1lmeDBuT3dOUklaQ0hOUEFxS1dTcUpmMXFFci1EX05QNjlIaUgzQ1ZkNFZpNFN6ZlVVU2ZfMzRYRE1yajc3SElEd1FyNE40anQtbE1vek1LMGNGRTZtQ2xzbG11QUxkdUw4dG0?oc=5", "source": "연합인포맥스"},
+        {"title": "뉴욕 연은 총재 \"인플레 2% 복귀 위해 추가 금리인상 필요\" - 뉴스1", "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0wYzI5SkQ4cW5mZEliMlJRZDB6clAyWUFJcDRPOGM2TFpidTk3djUtaXRlSEZ1Q2ZILU4zdlZOOG5IRlo3X3lwTENMZ0h1RGZ2MG1JdVktdS13RUJVR1JDZDZvN09BMmM?oc=5", "source": "뉴스1"},
+        {"title": "'엘니뇨 타격' 페루…중앙은행, 약 4년 만에 금리 인상 - 연합뉴스", "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9PVUJoX2RSYXFhVEpkQWhqVFNWdTdfOEtLZEZmSEMxTmxiNjdLU2NZcGpac2VoSC12eDBrSDc0bHZnVkx6UzF4NmI3OVREdWNWejNsMEdkRkpJWG_SAWBBVV95cUxNRGpTN251VVBRWHpvM29DVEVrU2MyY1U0bHJfQ2l2aXR6SDIxYnNuSnM3LVlrZjhqdk5nM0Q0NlVhMmNxb0JsZHpFZlQ3TkR2S0VGd1FUcGwyN0hIVnY2Wjc?oc=5", "source": "연합뉴스"},
+        {"title": "물가 뛰는데 금리 내린 멕시코 중앙은행, 부총재와 빚어진 정면 충돌 - 글로벌이코노믹", "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1XUDhKYmx0YTllVVZ2djNnSHdFMFQ5S3psSnhCNFZqQmpoam5lZml0RlNkalYwTHozbHdZVjRSZExaQ09ILTMxeUlINk1jQzEyQ0s1TnpScVhZdHpnSjh4a25hVjJCZ3dMYWQ4TWtQaW4?oc=5", "source": "글로벌이코노믹"},
+        {"title": "美연준, 2027년 FOMC 일정 공개…기준금리 결정 8번→7번 - 뉴시스", "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE83TGhZSDQ3UXJZeGlDZkN6UTdxaG1fVlRkemtyMllLSGVRTlR2S2d5MDBjVl9GSEd4c2xMWDk5Q3VyR2pCSWs2NkV6VFN1cXoyanA4aWY2UXRQN1dSM3RBZg?oc=5", "source": "뉴시스"}
+      ]
+    },
+    {
+      "title": "이재명 대통령, 자본시장 개혁 드라이브",
+      "summary": "이재명 대통령은 적대적 인수합병(M&A) 활성화로 비정상적인 주식시장 구조를 깨야 한다고 밝히고, IR(기업설명회)를 하지 않는 상장사는 상장 자격에 의문이 있다고 지적했다. 이에 거래소는 코스닥 상장사의 IR을 연 1회 의무화하는 방안을 추진하기로 했다. 대통령은 또 지난해 증시 대응에 방심했다며 자본시장 개혁 전담기구 설치를 지시했고, 주가조작 혐의가 있는 범LG家 3세에게는 새로운 한국에서는 법을 지켜야 한다고 경고했다.",
+      "importance": "중",
+      "articles": [
+        {"title": "李대통령 \"적대적 M&A 활성화로, 주식시장 비정상 구조 깨야\" - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5XemtjNHVwUW5NQnRNNGxFMHp0NUE0UW1SWDNJcDBzbk9iOGxEeTExekZ3aWc0LVhVV19aNUVxRkt1UVZHQ0tpeHlTYTVCSGY2UXphSFpYUmJTZw?oc=5", "source": "한국경제"},
+        {"title": "李 대통령 \"IR 안하는 상장사, 자격 의문\"…거래소 \"코스닥 연 1회 의무화 추진\" - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBVVnI1aG15T2c3cGNTYVVwSnFCOVk4N0tsNklidjF2Q3RrLUM0NkVSUVRjNzBpVkRxd1JjeHZKOFFIWnRpSVF4ZGtkWlFTTWNTUG42ckJpZ29GUQ?oc=5", "source": "한국경제"},
+        {"title": "李 대통령 \"작년에 방심…자본시장 개혁 전담기구 설치하라\" - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9aVlJHbDBlNTV3d2xTLTR0TFMzSnVnbFdCNXhIZV9xM0ZITmVrcy1BRXNyRm5ld0NFNm1BX1NweGJONXRTSG5iZE1xYzJ3Nl94WmUxd1BqbjJxUQ?oc=5", "source": "한국경제"},
+        {"title": "李대통령, 주가조작 범LG家 3세에 \"새로운 韓에선 법 지켜야\" - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1wcWotbk03M0xhSTdhbG5OVWJTUURTRlVtc3pRcWhZdmNIbUhLdF9oVUwxM2Jsak1oNkg4SlgzdUJNcnlmVDJNUWlwOFhWNnhmbjFKazlTRFI4QQ?oc=5", "source": "한국경제"},
+        {"title": "'코스피 변동' 증안펀드 해법될까?…이 대통령 \"실효적 작동법 검토해야\" - 한겨레", "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA3TFgwa05vVmFueEQ4WC1aaVZLSTV1Nnd0bHJ0X2hwa0JtazlYeEVKRl9Cb0hmVFVOM1BDSk9LaFdSQ2x4ZTk1R3M0bWpkOE5UT2NqNzJoY29tNUpoTWRzQnMyUmNyaWM?oc=5", "source": "한겨레"}
+      ]
+    },
+    {
+      "title": "서울 아파트 시장, 상승세 둔화 신호 확산",
+      "summary": "서울 아파트 시장에서 매물이 쌓이고 거래가 끊기는 등 조정 신호가 확산되고 있다. 서울 아파트 매물은 8만 건을 넘어섰고, 강남 3구는 낙폭을 줄이는 한편 성동·강동구는 32주 만에 내림세로 전환했다. 국토교통부는 서울 주택시장의 가격 상승세가 둔화되고 있다며 공급 대책 추진 현황(인허가 33% 증가, 공급 과제 65건 완료)을 발표했지만, 상승세 둔화의 근거에 의문을 제기하는 시각도 있다.",
+      "importance": "중",
+      "articles": [
+        {"title": "매물 쌓이고 거래 끊기고···서울 아파트 시장 조정 신호 확산 - 서울파이낸스", "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5qT0c3SEdHdTJRQXM4c21EejlmdWZFMWtwSEEyOGI4b1A5bU1MN01YNU80bVhja2FKWUNfWTNsWWtrVFZBa1VJX0JYUTFuSnlIVzBlaVVRek9rd2syY3lEZnJ3MDY4eTZPVnc?oc=5", "source": "서울파이낸스"},
+        {"title": "서울 아파트 매물 8만 건 돌파…거래 급감에 집값 조정 가능성 주목 - 서울뉴스통신", "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1obnlrSWVTZXdYRXVoYWZPLXdxOXY1WE9KdlZkZjlZSHVTeTB1cjQyVC16UzJFYmFGdmJjM29aNEhPY21sTlI2c0NmSFQySDRxVTI0dm5fZGZqa3ZtYko2djJNTTlPOGphV3A0?oc=5", "source": "서울뉴스통신"},
+        {"title": "[부동산시장] \"수요자 관망세 심화\"… 서초·강남 낙폭 축소 속 성동·강동 32주 만에 내림세 - CBC뉴스", "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5HdjI4OEtpNldWZ1ZCc1ducl9wOXdxb282UWlPTm9LenFmM09KZm1QdUZVNVEwcVgyNGhMNHlzeDBjTzNoVmhvT2UtYzhiQjRNdzlFcVFYX2xJYWI0ckVwZVBlcFdhQnl4?oc=5", "source": "CBC뉴스"},
+        {"title": "서울 아파트값 100주 연속 오를까…정부 \"하향 지표 확대\" - 비즈워치", "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4zZnhPVzN0cUtERkJzaTJZZkxXd2Y2VHJDTHZJb0pyZzdWRnp4Q202VEY4aFlhbFN6c1BSYVFhLUNoY0VENE9ZZ0dGS1RIZ3NhS2l6ZGtmZDlORXJPWnZ6SmFyQl90dWMzQWFlTlNwa0s?oc=5", "source": "비즈워치"},
+        {"title": "정부 \"서울 주택시장 가격 상승세 둔화…인허가 33% 증가\" - 뉴스핌", "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5KYkVlUW9KYUdxQWRpTUs1ZDd1YmZPNS1rdFYyYWNwVXNSbmhKSU1Uazc5emhVYXhja042ZVNWWXE0aUFXT1Y3Q0RyYllJa1lKcER4Y0xNV0tIWU4z?oc=5", "source": "뉴스핌"},
+        {"title": "\"내 집 어디에 있나\" 정부, '서울 주택시장 가격 상승세 꺾였다'는데..근거는 [3차 주택공급 정례브리핑] - 파이낸셜뉴스", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBmZkNIc1laSUZVeHh3V1dpUmhFaS1CSmwyd2xPcEVaYVdHaWI4N0lkU2hEWVRELVpieWV3SlVPRFFGbER0Rm1QWDBlaWVVUHZES1czNGcyUEJoUQ?oc=5", "source": "파이낸셜뉴스"},
+        {"title": "국토부 \"시장 안정 지표 확대…주택공급 과제 65건 완료\" - KBS 뉴스", "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBycFZYd1RWQXJ2bU4zZE5oaGV4dFRVWFk4S0JHXy1uSV81VnZNeEkzUXZLQkZMajhZTkpIamlJNGJMakFvbEVQYmpNOF84RTZGM21QcHQ3S0ZBZ2M?oc=5", "source": "KBS 뉴스"}
+      ]
+    },
+    {
+      "title": "美 Hims & Hers, 실적 급락 속 다주(州) 소송 확산",
+      "summary": "미국 원격의료업체 Hims & Hers 주가가 실적 발표 후 17% 폭락했다. 위스콘신, 네브래스카 등 여러 주 정부가 사생활·결제 관행과 관련해 FTC의 연방 소송에 잇따라 합류하며 법적 압박이 커지고 있다. 한편 Hims & Hers는 일라이릴리와 협력해 FDA 승인 비만 치료제를 공급하기로 하는 등 사업 확장도 이어가고 있다.",
+      "importance": "중",
+      "articles": [
+        {"title": "Hims & Hers Stock Just Plummeted 17%. Is the Stock a Buy Ahead of a Peptide Push? - AOL.com", "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1NUTdBSjJVc2ZJRHM1c0U1RFhZaW9BM1E3QnRDUUlwakttREZhWFhDZkVhZXE1eW1oNWlYbF96dVBVZGtIQ21ueDNWNEloX256M1pETG5wZjRDclRHT2RBb3VYdUdqM0R4Q1hwM0VOaXlHa2plS3NZWHh0Q0ZUbFE?oc=5", "source": "AOL.com"},
+        {"title": "AG Hilgers Joins FTC Lawsuit Against Hims and Hers for Deceptive and Unlawful Privacy Practices - Rural Radio Network", "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOcnFVWVJTbWRUcnR2WXZieTRZNzNYNmdoX2hMS1Y0RDQtSzhtbC1iTi1BWk12bUZFX3VOVU1YQ1hDYTQ0UkF4RHhXQXJxWWROSVd3TjdNaFVDY0c0NUFWd0JQOHNlMGN0SmVVYzBPQ2U4RWlCNEdNUnBndTdNQ3V2WnJsQUdrRnFJUHl5N2VKTHY5QWNuWjhlNGd1ZUhvM0YwUDRWYmpISklqdXA4VVJlM0xTYm5TeDlueDVBWl81dXF5UXhSZktmcm5pNzZpZw?oc=5", "source": "Rural Radio Network"},
+        {"title": "Wisconsin joins federal lawsuit against Hims & Hers over alleged privacy violations - WTMJ", "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNS3ZPSDVtUVJWT3REY2llb0pzN0hfaVdLTEk3Y19CU2NobERFSFcyTnZTM2VnaFJGZ0hBNlhER2hmdVRVTDFtUDlEdUttMFhuQjY5UWZOdnMtMUZfXzlGVlRCd0Utamt4RjNmTmZQLUFOZmZmSTlQc0NIazdGTUszd2htQTNLNHQ5SVZPM0YzakFzd1Rjb3hBSGlRdzI3YjVOY2pYREpYVEdodC0xZk80NjhCTnJBUQ?oc=5", "source": "WTMJ"},
+        {"title": "Wisconsin joins federal lawsuit against Hims & Hers telehealth provider - WPR", "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOakRjbTROU0NBVERxOGV2ZjJNTzZiYUJMVkI4ai03RVYxTFhsZUFMbFFxdVJGbFprQ3JseXJYSVZPbzFmdldvTzFrR1F5RU15OTNqeWFkd1B6dHlReXpPMnR1MC1ha280Z0JkT1g0dDRWbEZsM0RZRk5ESlRDYUZGZWRMZG5KYUI0UlpOaGxNWDFXNWpEekFPZGVQSHI?oc=5", "source": "WPR"},
+        {"title": "Wisconsin Attorney General joins suit against telehealth platform Hims & Hers - Channel 3000", "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQWG0welN3MDJOR0FHczdLalREdkcxUDBHT2xsTG5GeS1MYlpOT3lBbE9jNUswdG51YVVHbHh5aWlVdkc1eHVHcnpOcnlyNmtyMHpyelRhYmJhTExxNkdWbGZLYm9iZ2NjVXQwaEpDenFmbTNtdDVoVUxkSHpKS19pWnd2TUYyVW5FYThySEItTTZjNEtNcHdTa29lVmRVTC1TNXBFQVZKNnE0YjJwMHBOWlZYYTBxT3BneEpCdDJIT2owVEU1NDQ0dFlMQnB1bk82MFhBUmF5NWh4aEpTLWphYnpPcW5XUzlWM2xHamFaYw?oc=5", "source": "Channel 3000"},
+        {"title": "HIMS Partners With Lilly to Offer FDA-Approved Weight-Loss Drugs - Yahoo Finance", "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUldBZXVIZXVQQWtJWHd3ZGlqYUFNY3hIV09XanVMa2x5WW9WOHZpenR5eGhEOFFaU2lsQmRueTFGZklWWkdvNEx3TTV4TGs5ZjVVcFB5OVVUdUVwUWRmSEJyR2NIQ1dhYWlrMTI1SzZHMHBiUzFjNG4wNjV1WXZRbjNqU1hIWDFEZ3JVNnNRdVRrTXk0?oc=5", "source": "Yahoo Finance"},
+        {"title": "Hims & Hers Suit Shows Privacy Policies Should Match Promises - Bloomberg Law News", "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQczVETFphbC0zWktCa2E0TDZvU1BsdV93cExPZE95MEx2NFo0VlYxcWMzc215eDdRTzEwYXpUbWY3RzBCNUIwWThySF8xUEhtVE5JZnFYaURlWU9ZS2RFNFg1bzlZZFN2RDVWOHpCVFRNd1JDTTFFUVZrd3prQnZONW9qV0l3cTRXakkxTUpqMk14YkVjTHNLU3dwc3c4WHVQcHZPdjFISGl1OGxWZzJyUUh1T2xrNUlvSEVBZHZaR0dXd3k4VzNj?oc=5", "source": "Bloomberg Law News"}
+      ]
+    },
+    {
+      "title": "삼성, 美 데이터센터·국내 반도체에 대규모 투자",
+      "summary": "삼성이 미국 데이터센터 냉각 업체 인수를 추진하는 것으로 알려졌다. 이재용 삼성전자 회장은 충청권에 144조원을 투입하기로 했으며, 특히 온양캠퍼스를 최첨단 HBM(고대역폭 메모리) 거점으로 키우기 위해 46조원을 투자한다고 밝혔다.",
+      "importance": "중",
+      "articles": [
+        {"title": "삼성, 美 데이터센터 냉각업체 인수 추진 - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0yV0ZVaEZYbm1QLXFOMmlZZlVRN3VFZFFkbHl0ZFhKeEs4OWd3cWpGc05PSnZrcjViVGQ0NnBjdUtzaXFERWxFemtVS2NMaTkwaHFmbkdHRUU2UQ?oc=5", "source": "한국경제"},
+        {"title": "삼성, 충청에 144조 쏟는다…이재용 \"AI 반도체 심장으로\" - 비즈워치", "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9VUWM3VnkydDM4YTRiQk1tWkRnNzNKLTZqYW1XVUF6cW1UbHhkMi1FbHlTbEVyNWtlcU5rOWh0UW1VSmVDNnZLb3ExdlkzbVBEX3lLeTBEd0dUcHhWOGk5dk96bXlHRUtXbHc4dw?oc=5", "source": "비즈워치"},
+        {"title": "이재용 \"최첨단 HBM 거점으로\"…온양캠퍼스에 46조원 투입 - 국제뉴스", "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBTQkpPb0ZnZFlPZU9LdHd2anMwYmlLV3laaXlIYmxmdEFKNnJhd1BNRkFMWUJCXzdRZXBkeFphSnI3M2xPcmJmQXhxZFc5UnpUWnRwV1RhZmg0ejRoLWlmU3R5NWNuNXJuUkdSOGJB?oc=5", "source": "국제뉴스"}
+      ]
+    },
+    {
+      "title": "10월 수입물가, 환율·유가 하락에 한 달 만에 하락 전환",
+      "summary": "10월 수입물가가 환율과 유가 동반 하락 영향으로 전월 대비 1.8% 떨어지며 한 달 만에 하락세로 돌아섰다. 반면 수출물가는 0.7% 올랐고 수출물량은 역대 최대 폭으로 증가한 것으로 나타났다.",
+      "importance": "중",
+      "articles": [
+        {"title": "환율·유가 하락에 10월 수입물가 1.8%↓…수출물가는 0.7%↑ - 동양뉴스", "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAtRnFVN2Iza3J2azhnd1VHd3BYMWp5V2F4Z3JGWm9FWG91RGZ1STcyZ3RiQkl4X1NyVmlQeGRkdnFjR3hnc3Y2eVF4eHFmX2ZwVGUxdTU5Z3Q2dmtOUEp0SGg3ZGNTdDMxWWc?oc=5", "source": "동양뉴스"},
+        {"title": "10월 수입물가, 환율·유가 하락에 1.8%↓…수출물량은 역대 최대 증가 - 이지경제", "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBoZFJRa0tScFZtdFRMU2N5SXlNeDNDcE5wb1dBWmhscjFBN08zNXVIQUN1c2VvaXotbHEycGNpYXJvT3hTSmx6TFV2Q0FnWVo4aEE2VzQ5MlJMbG5UOGlLZ3FPNFFUSWp1Wl9PUEpB?oc=5", "source": "이지경제"},
+        {"title": "환율·유가 떨어지니 10월 수입물가 1.8%↓…한 달 만에 하락 전환 - ER 이코노믹리뷰", "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBoZXVXeG5jRFhaV0I2eDZsdlRTUUpqekNwbUlPdU1yS1NBd3VyM0RudzBkanM0N3AyOTFuMF9SMEVoME9uLVBIUmg0MERRR1JKYy04M3JWeC1DR1FZdmdpTlJ0bi0zeUUyRGRqYg?oc=5", "source": "ER 이코노믹리뷰"},
+        {"title": "환율·유가 하락에 수입물가 1.8%↓…수출물량은 역대 최대폭 증가 - 부산일보", "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBDWHV5VjM2SE5UQXprTlFMTXpjZGFwWHhpY0NWaEZYaXQ4cEpXZ1ZIVm9kNVZaM3Fhb0NXX21NQTMybWRXOW42TUR0dXBUOUdGR05zRmhjQTh5NHB4VGFiRUZLOUMwcXlqV20zeE1ScDE5aTMx?oc=5", "source": "부산일보"}
+      ]
+    },
+    {
+      "title": "중기부 '모두의 창업' 참가기업 개인정보, 5개월 만에 또 유출",
+      "summary": "중소벤처기업부가 운영하는 '모두의 창업' 2차 참가자 지원 기업에서 개인정보가 유출됐다고 밝혔다. 5개월 전 1차 유출 사고에 이어 또다시 발생한 것으로, 중기부 지원사업의 보안 관리에 대한 우려가 커지고 있다.",
+      "importance": "중",
+      "articles": [
+        {"title": "중기부 '모두의 창업' 5개월 만에 또 털렸다 - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0tVF9maGhxdHlEaFZhQjc2aTk3d3lJRUUtZGoxdzBsRzM4OGZfMTNkNzFWbVJpTGIwUG1yMXB1VFhlanFkWFZfaXc4YkhzckxmWTY2OFJaSGdMdw?oc=5", "source": "한국경제"},
+        {"title": "[속보] 중기부 \"2차 '모두의 창업' 참가자 지원 기업서 개인정보 유출\" - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9sczI2Qjk3QWlOLURRS1IyUUt5WVJDYUZyakdSYm5DRUgtYVZCUXlYU2R1QzNoajNVWDFlbVJ6YzM1NkVvMmk3MUpVX1VqOUg3c1lDdUpTeVhzUQ?oc=5", "source": "한국경제"}
+      ]
+    },
+    {
+      "title": "고려아연 신주 발행 소송, 2심서도 최윤범 측 승소",
+      "summary": "고려아연의 신주 발행이 적법하다는 법원의 2심 판결이 나왔다. 이에 따라 경영권 분쟁 중인 최윤범 고려아연 회장 측에 유리한 판단이 유지됐다.",
+      "importance": "하",
+      "articles": [
+        {"title": "\"고려아연, 신주 발행 적법\"…2심은 최윤범 손 들어줬다 - 한국경제", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5fa1kzWVZ5VW1LMm1qTEdxdTd4WTlYSWpwZjZ3RWRiTWFycG5SeVJuTGI1ZUllNWZNeXhBbUpBX1l5QTJlY3NsdWRuaklkYzgwWUFORDBEODN2QQ?oc=5", "source": "한국경제"}
+      ]
+    }
+  ]
+}
