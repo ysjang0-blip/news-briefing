@@ -1,0 +1,105 @@
+{
+  "date": "2026-11-24",
+  "topics": [
+    {
+      "title": "코스피 '검은 월요일' 패닉 급락, 반토막 위기",
+      "summary": "미국 AI 투자 우려발 나스닥 폭락 여파로 23일 코스피가 장중 최대 8%대까지 급락하며 이틀 연속 매도 사이드카가 발동됐다. 장중 4,500~4,600선까지 밀렸다가 기관 매수와 자사주 매입 등에 힘입어 3.31% 하락한 4,708.54로 마감하며 4,700선을 겨우 지켰다. 고점 대비 5개월여 만에 반토막났다는 평가가 나오며, 정부는 10조원 규모 증안펀드 가동을 준비하고 상장사 자사주 일일 매수한도를 3개월간 완화하는 등 증시 방어에 나섰다. 증권가에서는 코스피 저점을 4,200~4,500선으로 보는 전망이 엇갈리게 제기되고 있다.",
+      "importance": "상",
+      "articles": [
+        {"title": "[속보] 코스피 5%대 급락…매도 사이드카 발동", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1qeTY2ODBOamJDZ3NnTF9kckxfeUZtQTJPYUdILWV0ZE5SUW1Xc3BiNmFQMWVGaktnZ3JoQWwtZy02YUx6SmdUenNQR05YcjFvNExoNHd0dlkwQQ?oc=5", "source": "한국경제"},
+        {"title": "코스피, 3.31% 하락한 4,708.54 마감", "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8xRUxnYXY0X3RQd0FibHVFMHN2azRrX2cxZ3I1MGpIbTlfNzFWSlpZS3E3OXBuUDRubTVjbjE0M1czdzNuT0VQb1AxSnExaGlrYWFJQzdkaWFvMUhVRldyQThEU3F3Z0JNcmNOd0xmUG3SAXRBVV95cUxPU3ZLdWpVTHllYWw0Nld1WncyM3FaSHhiaDcxMUx3SnhCTjc4LUVseklIakplOTNuOXZHN2xvRkp5dGZtMWFrM2lYaXVvZk9kMmNwYmgwSDJpREdVY3ozWUxXandyaGNLN1hWNExad25WaHl6NQ?oc=5", "source": "연합인포맥스"},
+        {"title": "코스피 5개월 만에 반토막, 3589조원 증발…4천대 초반까지 가나", "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBqNVkwS24zSWRKQ3VxV29FQXZVYXVBT252VkxBTzB0UDFsUkhDUjl2N0FvVWdfMDR3My1qdUlPakNZX1h3Y2t0VEVOYVFBUHJhM2hKSkY1REJ3Y0lxQ1E0SWtkQTFnNGM?oc=5", "source": "한겨레"},
+        {"title": "증안펀드' 꺼냈지만…코스피 장중 5%대 급락, 이틀째 사이드카", "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1SVVVaNzV1RFBCdkYzWVhYd2twWU1YcnpyZUxERFhaUU1UdGlPVUFtMC03djVCRkJhLU5DalhZN2llVFJydUM0a1BXSjhQbmh6dlVyWVdnZDJGZ3QxczhsN29ZRnRMRWs?oc=5", "source": "자본시장뉴스"},
+        {"title": "[더나은미래 경제브리핑] 코스피 4700선 간신히 지켜, 5개월 만에 ‘반토막’...금융위, 증시 폭락에 상장사 자사주 일일 매수한도 3개월간 완화", "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE84Q2plRTJjNGlKNXlIcDJza0RsQ2tYT1l0VG9BTG9KNjdUbEx1bDdKQmNqSnR6UXJfWFEzWlNwenkwUWpxVjhvb05lNFAtYlZRenc?oc=5", "source": "더나은미래"},
+        {"title": "\"과매도…최악의 경우 코스피 3,000 후반까지\" 리서치센터장 긴급진단(종합)", "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8wTGtuLVlsR1UwY2t5X2RQcGFjUTl4ZXAtdEUxeGZCQ2FaXzJ0Ny1FYmtUakZFRjZzZzhsQkNYUFE5YmxJT1hBNGhyWDNJQ3BQNUkxSEhzQ2NNWlHSAWBBVV95cUxOMmRRZk44N0JFV2Niclkyd0c4b0JGb0lILXA3bWh0MFlveGUxeHo1TU5NM3Y1NldvdEUwNTBWTEJVNWV2dWdjQkViY3pBczdtUERPUnFXTFFHWmFCZ1NhSnQ?oc=5", "source": "연합뉴스"},
+        {"title": "WSJ “韓증시, 전형적 거품의 마지막 단계”…코스피 5% 급락 매도사이드카", "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBSNXN3NmhqMXUyUmJieE1lQTRXM2I2RUdBazRWazkzYVZfRUdfdmVPNjdoQXRSWWlWa1M4ZVVHUFNEU3NiUi1iZ0pVNDk1S0dC?oc=5", "source": "문화일보"},
+        {"title": "경제부총리 \"증안펀드 포함 비상계획 있다…상황 검토해 투입 판단\"", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ZYlp2MVlvUklsOHRUczZnOElHTDNMQVBaSXdtTTJsVkFob3ItSzR0TVEtS3FoR0tkZUlXT0l3VGthbUpTWHdDdzdpcmU0eXRYWjg0emJQZ3E0dw?oc=5", "source": "한국경제"}
+      ]
+    },
+    {
+      "title": "젠슨 황, 엔비디아 CEO 전격 복귀…주가 31% 폭등",
+      "summary": "사임 11일 만에 젠슨 황이 이사회 만장일치 결정으로 엔비디아 CEO에 복귀했다. 소식이 전해지자 엔비디아 주가는 장중 31% 넘게 폭등했고, 나스닥은 6%대 급등 마감하며 전날의 AI 투자 우려 분위기를 단숨에 되돌렸다. 트럼프 대통령도 \"올바르고 적절한 결정\"이라며 환영했고, 월가는 목표가를 최대 270달러까지 올려잡았다. SK하이닉스 등 국내 반도체주도 미국 증시에서 급등하며 국내 증시 반등 기대감을 키웠다.",
+      "importance": "상",
+      "articles": [
+        {"title": "젠슨 황, 엔비디아 CEO 전격 복귀…이사회 만장일치 결정", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5TdFZjR201ZVQ0QTJFQmgwcXhjMGZOV0VIaVlZdV9hdm5UT2F0R20tRmc0M0ZjUmpoU3FHRXZyVFQwOUg5eExzMnpmRGNvYXE2MFRIaTZ6QVl4UQ?oc=5", "source": "한국경제"},
+        {"title": "[속보] 뉴욕증시, 나스닥 6%대 급등 마감…엔비디아 31.5%↑", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE16VHlOMG9KbXJKUEpZY0pOYmpCRElUS2dTUzl4bGZCSGpicDlKN2xRRXI5ZUlHRXNfODRDS1lzZFpMY2tnbE1GM0VpMlFfZ3dUc0pFRkRsQnE0QQ?oc=5", "source": "한국경제"},
+        {"title": "엔비디아 31% 급등에 美증시 환호…다우 1448P 상승 [젠슨 황 CEO 복귀]", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1SeTNpcWxGX1NpcnBNaF9mV2ZQR2xUV3U2QVhoVEhXc2huMExibUQ4WFZKeVhBV1hEY3dfWmh1YjU0RDRXa3EwMm51VktMc015RWg0b0l4THkydw?oc=5", "source": "한국경제"},
+        {"title": "월가, 엔비디아 목표가 최대 270달러…황 복귀 효과 [젠슨 황 CEO 복귀]", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1oMEwwcDFCMWcyLUFQUkllcTN6QXEtUjdzQXhnS2VCMTdlQ2hkYnNCWXRuM2xUc0V3TVVvazItczRzZ0lzM2F0V1FpeHVFQnJMRDV1Sm9FdjA3QQ?oc=5", "source": "한국경제"},
+        {"title": "트럼프, 젠슨황 엔비디아 복귀 \"올바르고 적절…그는 애국자\" [이상은의 워싱턴나우]", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE80X0NfNWNCNVd2OGJpN1FxLUtWeXExM2JjRjFWeXU4MWI0eUkyNFotN1ZteUJsSDFDT3hia1Framg3QXJWUnZpNFNobDhGX0ptTEpwcTRNZ1B6QQ?oc=5", "source": "한국경제"},
+        {"title": "젠슨 황 돌아오자 분위기 달라졌다…SK하닉 美서 20% '반전'", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5tQU5nS1lwbG53bTFXbGplN3lKT3ZPRmc3VVRkajd6amNKUHlITUgweFpMQ3NWVHRIODUzYWVaSkF0TVZNSlg0ZEFSZHBYWC0tYmJmSXJwSUkxQQ?oc=5", "source": "한국경제"},
+        {"title": "코스피 야간선물 7% 점프…美 '젠슨황 복귀랠리' 동반급등 - 머니투데이", "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB4Z2xlbE5KemNFeXd3QmREWVRnY1NodnFubExZeGZPZS1aX2g4eGtDWXhVWkZCRFNVQmptV2lyaGx4V1ppbWg5RXJIc2hsYnROb0J1emc2c1pqTGtaLU55VDZFUHU0bzZTN1dFZGpfSjA4ZUlHMnfSAXtBVV95cUxPXzVOM0FKNkVvY3RuYXNGRUNQdzJDTmxXWVhFSTdycExaalZ5MVBsOEJ1NU1BcnNBY011LTFvVG8yVVk3YjR4ejZpREVoakxJSFpuN1VSQXRXWVRFellEWFZfUDlvWW5aOUdJU21wRmRYODkyaHlmaTUwWk0?oc=5", "source": "머니투데이"}
+      ]
+    },
+    {
+      "title": "한은, 11월 26일 기준금리 인상 유력",
+      "summary": "한국은행이 26일 올해 마지막 금융통화위원회에서 기준금리를 3.00%에서 3.25%로 올릴 것이라는 전망이 우세하다. 조사에 응한 전문가 14명 전원이 인상을 예상했고, S&P는 한은이 내년까지 3.25%를 유지할 것으로 내다봤다. 증시 급락으로 긴축 부담이 커졌다는 지적과 함께, 신규 주택담보대출의 66%가 변동금리인 만큼 추가 인상 시 가계 이자 부담이 커질 것이라는 우려가 나온다.",
+      "importance": "상",
+      "articles": [
+        {"title": "\"이번엔 올린다\"⋯전문가 14인, 11월 기준금리 인상 의견 '한목소리' [금통위폴]", "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE93cC1wcHNyUmpkeDV0WGF1SFdsVDlhbkZUU0phZ2dmcUVQNFplRW1vNDM5RWUxbmxTMXo1VkVLeG1RYnVaeTZGZHFkY3Q0QWl6WlI3cA?oc=5", "source": "이투데이"},
+        {"title": "한은 11월 기준금리 3.25%로 인상 유력…전문가 14명 전원 ‘인상’ 전망", "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1NdFhRanJpYVZueVpONUFvQTk5V0ZSdURCSHUzTjQzelNtWU4xdERldElqVDF5TGtyeHBOOV84RVJCS0FVVGtQLU5ZQ3BVUVdiNDF2bFVwcWU5SWp1N2JleUJ1dTZxTGlZaWpWdllVOXI?oc=5", "source": "thedailyeconomy.kr"},
+        {"title": "S&P, 韓 내년 성장률 3.0%로 상향…\"기준금리 내년까지 3.25% 유지\"", "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE94LUI4UjlFdjRrN0N4ZU91ZEE3R2Z3YU5JQmZSWDVlUEVMMFkyOThXaUVhUXQxQkx0cGxBaFdINWNHbjNOWDgxemF4Rmxfdzdwb0hVQ09IdGxfQ1ZjWHVsYmJtZFY5T192cm82Qjg3Z3fSAXRBVV95cUxNOUFMUlNGQVUyUVljVjNDSUpodGdjU2dmOEZvYkVJNkpZeTVqS1FzamppTFl0WFl4VE9QYTgwR0RPeVUwMUhlcERET2p6RFhpeTh2MWp4Y3dobTBMWGkxZHpPcldtd3k1cDFDY2VwNjduNWJSSA?oc=5", "source": "연합인포맥스"},
+        {"title": "신규 주담대 66% 변동금리…한은 추가 인상땐 '이자공포' 쑥", "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPd3lVR1RaY0dhd0xLMWRXZ1dJZ3RpZk1tcEJZZ0VybV80cDFnaVM5cHkyNU5zVlBJWDE0VUVpSnNGdEQ2MldsWG4tc1ptai1zYXpRY0pVOHVPNXkzLWxoWGNRbVBNMjVTakZIMUUyYUpTMkJodTNzRUh0cnpUZlVhSw?oc=5", "source": "이데일리"},
+        {"title": "증시 폭락, 금리 2~3번 올린 효과…한은 추가 인상에 ‘이중 긴축’ 우려", "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4zZ1Z5YlQyY1pBcTNOVTRDZ3B0eEV0N0NDdGpTbmdmc01TMDE4Sm5WSVc2QmtScGJpbVdPa3lBUVpqbld3c0lOWVdkUUtQMGN5bkhBdWF3?oc=5", "source": "중앙일보"},
+        {"title": "한은, 26일 올해 마지막 금통위…기준금리 0.25%p 인상 전망 우세", "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB1U0JoYWxtd05TNHRMU244aUg0c3JIWG9aeDA5QTRqQnZFSHpNeEZad3hyUEl3eDRpOW1YUE4xYmRqakl5SXJXVzhGSHlxRXRHbHdOOFlxTTVrSU54TzkwSFAyMXEwYjZETXc00gFvQVVfeXFMUEFwOUhJLV9jbFg5aVg1UE9mTFEzcmNXV3N0UmxieWFVRDRMNFZGX0VGZUZQbm5JdjdzenBKVVpta3B0WjdEM3cxSWdhY3Bvc2YyV3BJZ2tnSzBVRnY5enVEb0tyV2JlbVNNR0FUaEE4?oc=5", "source": "더퍼블릭"}
+      ]
+    },
+    {
+      "title": "코스피 급락에 원/달러 환율 2주 만에 1350원대",
+      "summary": "코스피 폭락과 외국인 자금 이탈 등 위험회피 심리가 겹치며 원/달러 환율이 장중 1,350원을 돌파, 2주 만에 최고치를 기록했다. 환율은 전 거래일 대비 9.7원 오른 1,345.9원으로 마감했다. 외국인은 7거래일째 국내 증시에서 순매도를 이어갔으며, 월말 외국인 배당 역송금 수요도 환율 상승 압력으로 지목됐다. 일부 해외 투자은행은 반도체 수출 달러 환전 등을 근거로 중장기 원화 강세 가능성도 제기했다.",
+      "importance": "중",
+      "articles": [
+        {"title": "'검은 월요일' 금융시장 출렁…코스피 4700선 턱걸이, 환율 9.7원 상승(종합)", "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9DNTgtcDgxLU9sSWpldnVQckJZQWhxRE5SeW03TEtlWFU2aDdTUmlyZGpjbFZpbTVLYU4zRzZkODFFNmc1dmJTTFZHZXBRZWlJZVNSRm03d083YTlrdnRySdIBeEFVX3lxTE9GV3pYelozMFZqY3BEZ09sOFJFNTFMVFQ4czNid3Vma1RFTHBqNXpfX3VFMXFHOGRNdnJfclBVR1ZGUUpPbFZzOXdSQnRZeElRdnRTdHFlSER6dXFjSlZIX2FueDFOTTVFUDRNR3FtcDRmZWd4RGMxVg?oc=5", "source": "뉴시스"},
+        {"title": "외인 7거래일째 순매도…달러·원 1345.9원, 장중 1350원 돌파(종합)", "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1oWThZYmN5a0pZNVRnU19yN0RmQ3dEOGZEZGl0Q1NrbFVKZjFlaHp3bFc2OGZCN01yYVAwUUpUNlh0RV9NMEdOb1hMOEt4eUlPOEkyVDVScGloZXM?oc=5", "source": "뉴스1"},
+        {"title": "[환율마감] 증시 폭락·외인 이탈에 원화 약세 직격탄… 원/달러 환율 2주 만에 장중 1,350원대 돌파", "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1kTmdKdnAteWdIRDZZd2ZSREFMUGMzT2RuSzVlQmpHZGxoYy1sNFd2Q01UWUhqMFFfRHNELUlodWtlOTRoNkpiT0pVQ2owTDcwREhVdWtoaHc1X3pMVDFVV2R6akJ3VXhL?oc=5", "source": "CBC뉴스"},
+        {"title": "월말 外人 배당 117억弗…환율 흔들 '빅데이'는 언제", "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBjVVZZZE5XNkQtYWo0bGlfYzlxbUdvdko4QzZ1VFR1R2VpYzRBaFZYNUNQX2ZBRzBNQnpmWlJQOHVNbm5QTFo1dzJkNG5tWG9hUW5OeEcwanNiMU44amF0THgteVZpdzh3cFhXQ0M1RWg?oc=5", "source": "연합인포맥스"},
+        {"title": "해외IB들 \"원화 강세\"…반도체 달러 환전이 환율 향방 갈라", "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPOEtGeWtZZ3hNWEI3Z002NjFaNENmUGkzakhQWTEzOGxhMHFoWmVPd0JqYm8xbEllb2tjNElnd3RJU2ZKR3EyY0JiTHVmdDNUYm5lSDhfWkw5ZDZvM29mSUxTMzYtdjF2UE40eGZ2b0V1bDViU3JmRVJHMGtmSTVyeA?oc=5", "source": "이데일리"}
+      ]
+    },
+    {
+      "title": "카카오, 중복상장 규제 후폭풍으로 1.5조원 국제소송",
+      "summary": "금융당국의 중복상장 규제 강화 여파로 카카오가 1.5조원 규모의 국제소송에 휘말렸다. 이로 인해 카카오AI·카카오X의 분할상장 계획도 불투명해진 상태다.",
+      "importance": "중",
+      "articles": [
+        {"title": "중복상장 규제 후폭풍…1.5조 국제소송 당한 카카오", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE03b2IwZDV5SlRmLVRZMTVTUnA1MHJpY19CemhFVmFvcVFFZUxOYklvbmVRVmhmcnU3ZktVUWJkY0pqYnFEZkc5NFlkNmFlZGRvUXMxVkJtMzE1UQ?oc=5", "source": "한국경제"},
+        {"title": "카카오AI·카카오X 분할상장 계획도 '안갯속'", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1MOURQWEhWSVdzaFFTY294NkdDT2I2V0JPYThpMjgwM0UwelM2YXdjY0UweFpmeTA3Y0tUWTk3VUo1cV9NX2tGSWdhSnQtYVg3dDJsX3RFUWxjZw?oc=5", "source": "한국경제"}
+      ]
+    },
+    {
+      "title": "내년 한국 경제성장률 전망 상향",
+      "summary": "산업연구원은 내년 한국 경제성장률을 3.5%로 전망하면서도 반도체 호조에 가려진 수출 증가율은 둔화할 것으로 내다봤다. 경제부총리 안도걸도 내년 3%대 후반 성장을 자신했다.",
+      "importance": "중",
+      "articles": [
+        {"title": "산업연 \"내년 한국 경제 3.5% 성장…수출 증가율은 둔화\"", "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBDNTR2OWJLOVRrN3k0Uks3ZUJjMkN4OHVONmd1aVZFRjVkTkwyeGg3OFVhSndIZGdPVy05VmJyTVFLWEZfWHR2U25GYmpqekowVW5ZY080SEtvLV9I?oc=5", "source": "MTN 머니투데이방송"},
+        {"title": "안도걸 “한국 경제 3%대 후반 성장 전망”", "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1Xb2Fka21mVzAxVzJXWXlhNXF0UGFIWkRjaHhSYUdyb212MGpieXdDd2hZMVlaZ2x0UnowMTh5SXNNU3FWakJXWHlIbzRQVUU1c3NYdHFOMGFETTBJRUItelFsMUpIS0J0cUxtMGMyQQ?oc=5", "source": "전남일보"},
+        {"title": "[그래픽] 산업연, 내년 한국 경제성장률 3.5% 전망", "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9VSUNxNW8yY0xWX2NONGxLcjIwSDRheThrUFpZSThrNjBoa1luRkswOG5uMi1hMWh1elZFQjA1aFpkWjVRbE1Fb25jUlk3N3F6SWpmenBmTmRuY2FZeEYyZEN3?oc=5", "source": "뉴시스"}
+      ]
+    },
+    {
+      "title": "크라우드스트라이크, 지스케일러 인수…사이버보안 공룡 탄생",
+      "summary": "사이버보안 기업 크라우드스트라이크가 지스케일러를 인수하며 업계 대형 인수합병이 성사됐다.",
+      "importance": "하",
+      "articles": [
+        {"title": "사이버보안 공룡 탄생…크라우드스트라이크, 지스케일러 인수", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1lWkE3enh2eFZDOEprRGpuTFpEZVplQk5oeHR2OVJPVUhrUFMzZHpIdDkzWkhhYXFRVDBCdy1uZ0xaNDB6RUMweFhhNTQ0R1FIeDVNaHJxcTNHZw?oc=5", "source": "한국경제"}
+      ]
+    },
+    {
+      "title": "트럼프, 해외 데이터센터 과세 경고에 건설주 하락",
+      "summary": "트럼프 대통령이 해외 데이터센터에 대한 과세를 경고하면서 국내 건설주가 일제히 약세를 보였다.",
+      "importance": "하",
+      "articles": [
+        {"title": "건설주, 트럼프 '해외 데이터센터 과세' 경고에 '우수수' [종목+]", "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Wc2dudUlwMTA1MmJXTHA2cFNqQ0dZcFoydF9EU0tmZUZOM29jb1ozSjFjUFlIRVdYT0NyRmJhLTFZUmZSZXRYSElNdS03Mk55dG9qSFlUYndTQQ?oc=5", "source": "한국경제"}
+      ]
+    },
+    {
+      "title": "Hims & Hers Health 주가, 한 달 새 38% 급락",
+      "summary": "미국 원격의료 업체 Hims & Hers Health 주가가 규제 우려 등으로 한 달 새 38% 급락했다. 저가 매수에 일시 반등하는 날도 있었지만 전반적인 하락 흐름이 이어지고 있으며, 추가 규제 리스크 우려도 제기되고 있다.",
+      "importance": "하",
+      "articles": [
+        {"title": "Why Hims & Hers Stock Plunged 38% in a Month", "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWnFla19oeTMxM2ZaV0pZZ2lqSl9DN3FxOFVnSGRsQ0NKZTB1QXp2SHNOWEtoMjVVcHRDUUk5Tm10b3BOZUNkajB6dGRzOV9iM1o5RDRFSjF0aHliMnNIWEsyX1hHbjZ3dzk2eTFmV2dBM19sUUJkN0JhdkF3NkcybWZTc21uSjM3SVhxMXNKS3IyUQ?oc=5", "source": "The Motley Fool"},
+        {"title": "Is Hims & Hers Health (NYSE:HIMS) Facing Greater Regulatory Challenges?", "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQnJfek5CUk5ubHR5UHJuOFVUbTBUSFFSNEQzSWQtS2JFU2tvVXBlcm1jcGkwMUswU3BNbnFUQ21ISVdTS3pKajhqYlpUY2U3SjNYbjA4N1V1TTlCTnNZZ1VuTnk5OEpQc2E1WkpsOWc4UmJnM0tvc0hNUzUxN3VJWVhoSzZUYXg4SW1QV0R5TTB4ck8tdVMtRk5waWxKLXJ6TzRXOEhvRFJ1TzkwcnNBeg?oc=5", "source": "Kalkine Media"},
+        {"title": "Hims & Hers Health stock falls as downward price move continues", "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQOEs5MmpsTXZTRG1maVBlXzE3TGhnNzFrRy1neGV4a3Q5c3hPT25BWUQwbndEQXdRTlp4d25ySV9qUzlNQmlNanlfYm9Ca1hrSWpfNks0dVpyVWlKRVlUaEFpckhCejB4NnNvRmRLWE9uNVFNTGI2TGgxVWFOLUZXLXIxVQ?oc=5", "source": "Traders Union"},
+        {"title": "What's behind Hims & Hers Health's latest 5.5% stock surge?", "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNkJfeXIydEhKZXV5SU5qZDdzUHB0akhhTVM2M3RINFEybDlOVG9Kak5iWldUVmlMVk9MQlZLWXBTSEVHZVFKRi1zZmplYlpKYUlFaXBGb2Q0cUhzdUZHNmg2b0plV3VyYk9DdFNwdDlub2pyLUEySDhGRVBfNW1VLWpBTQ?oc=5", "source": "Traders Union"}
+      ]
+    }
+  ]
+}
